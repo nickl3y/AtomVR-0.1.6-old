@@ -1627,3 +1627,235 @@ The following settings have been applied:
 [2023.12.25-23.23.23:319][495]Writing project files... 100%
 [2023.12.25-23.23.23:319][495]
 [2023.12.25-23.23.23:319][495]Generating QueryTargets data for editor...
+[2023.12.25-23.23.46:514][495]LogSlate: Window 'Message' being destroyed
+[2023.12.25-23.23.46:518][495]Message dialog closed, result: Ok, title: Message, text: Project now includes sources, please close the editor and build from your IDE.
+[2023.12.25-23.23.51:457][495]LogSlate: Window 'Message' being destroyed
+[2023.12.25-23.23.51:461][495]Message dialog closed, result: No, title: Message, text: Successfully added class 'MyClass', however you must recompile the 'AtomVR' module before it will appear in the Content Browser.
+
+Would you like to edit the code now?
+[2023.12.25-23.23.51:461][495]LogSlate: Window 'Add C++ Class' being destroyed
+[2023.12.25-23.23.53:015][617]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2023.12.25-23.23.57:727][882]LogSlate: Window 'Add C++ Class' being destroyed
+[2023.12.25-23.24.02:417][324]Running C:/Program Files/Epic Games/UE_5.3/Engine/Build/BatchFiles/Build.bat  -projectfiles -project="C:/Users/nick1/Documents/GitHub/AtomVR/AtomVR/AtomVR.uproject" -game -rocket -progress
+[2023.12.25-23.24.02:519][324]Using bundled DotNet SDK version: 6.0.302
+[2023.12.25-23.24.02:519][324]Running UnrealBuildTool: dotnet "..\..\Engine\Binaries\DotNET\UnrealBuildTool\UnrealBuildTool.dll" -projectfiles -project="C:/Users/nick1/Documents/GitHub/AtomVR/AtomVR/AtomVR.uproject" -game -rocket -progress
+[2023.12.25-23.24.02:822][324]Log file: C:\Users\nick1\AppData\Local\UnrealBuildTool\Log_GPF.txt
+[2023.12.25-23.24.03:023][324]
+[2023.12.25-23.24.03:023][324]Some Platforms were skipped due to invalid SDK setup: IOS, Linux, LinuxArm64.
+[2023.12.25-23.24.03:023][324]See the log file for detailed information
+[2023.12.25-23.24.03:023][324]
+[2023.12.25-23.24.03:023][324]
+[2023.12.25-23.24.03:023][324]Generating VisualStudio project files:
+[2023.12.25-23.24.03:023][324]Discovering modules, targets and source code for project...
+[2023.12.25-23.24.03:928][324]Binding IntelliSense data...
+[2023.12.25-23.24.03:929][324]Exception while generating include data for AtomVREditor: Expecting to find a type to be declared in a module rules named 'VRExpansionPlugin' in UE5Rules, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.  This type must derive from the 'ModuleRules' type defined by Unreal Build Tool.
+[2023.12.25-23.24.04:030][324]Exception while generating include data for UnrealEditor: Expecting to find a type to be declared in a module rules named 'VRExpansionPlugin' in UE5Rules, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.  This type must derive from the 'ModuleRules' type defined by Unreal Build Tool.
+[2023.12.25-23.24.04:030][324]Binding IntelliSense data... 50%
+[2023.12.25-23.24.04:030][324]Creating common properties file...
+[2023.12.25-23.24.04:030][324]Creating common properties file... 0%
+[2023.12.25-23.24.04:030][324]Writing project files...
+[2023.12.25-23.24.04:936][324]Writing project files... 100%
+[2023.12.25-23.24.04:936][324]
+[2023.12.25-23.24.04:936][324]Generating QueryTargets data for editor...
+[2023.12.25-23.24.24:924][424]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2023.12.25-23.24.27:069][549]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2023.12.25-23.24.35:202][359]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2023.12.25-23.24.53:782][109]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2023.12.25-23.24.55:652][208]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2023.12.25-23.25.00:530][418]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2023.12.25-23.25.03:503][720]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2023.12.25-23.25.03:773][747]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2023.12.25-23.25.08:256][ 68]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.12.25-23.25.08:271][ 68]LogContentBrowser: Creating deferred item: NewFolder
+[2023.12.25-23.25.08:286][ 69]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.12.25-23.25.12:209][467]LogContentBrowser: Attempting asset rename: NewFolder -> ServerSystem
+[2023.12.25-23.25.12:210][467]LogContentBrowser: End creating deferred item NewFolder
+[2023.12.25-23.25.13:896][634]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2023.12.25-23.25.17:878][868]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2023.12.25-23.25.26:857][145]LogSlate: External Image Picker: DecompressImage failed
+[2023.12.25-23.25.27:300][158]LogShaderCompilers: Display: ================================================
+[2023.12.25-23.25.27:300][158]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.12.25-23.25.27:300][158]LogShaderCompilers: Display: Total job queries 140, among them cache hits 23 (16.43%)
+[2023.12.25-23.25.27:300][158]LogShaderCompilers: Display: Tracking 117 distinct input hashes that result in 98 distinct outputs (83.76%)
+[2023.12.25-23.25.27:300][158]LogShaderCompilers: Display: RAM used: 4,43 MiB of 716,80 MiB budget. Usage: 0.62%
+[2023.12.25-23.25.27:300][158]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.12.25-23.25.27:300][158]LogShaderCompilers: Display: Shaders Compiled: 85
+[2023.12.25-23.25.27:300][158]LogShaderCompilers: Display: Jobs assigned 85, completed 85 (100%)
+[2023.12.25-23.25.27:300][158]LogShaderCompilers: Display: Average time worker was idle: 109.01 s
+[2023.12.25-23.25.27:300][158]LogShaderCompilers: Display: Time job spent in pending queue: average 1.00 s, longest 10.49 s
+[2023.12.25-23.25.27:300][158]LogShaderCompilers: Display: Job execution time: average 10.17 s, max 15.50 s
+[2023.12.25-23.25.27:300][158]LogShaderCompilers: Display: Job life time (pending + execution): average 11.17 s, max 15.51
+[2023.12.25-23.25.27:300][158]LogShaderCompilers: Display: Shader code size: average 69,979 KiB, min 2,816 KiB, max 96,531 KiB
+[2023.12.25-23.25.27:300][158]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 23.38 s
+[2023.12.25-23.25.27:300][158]LogShaderCompilers: Display: Jobs were issued in 28 batches (only local compilation was used), average 3.04 jobs/batch
+[2023.12.25-23.25.27:300][158]LogShaderCompilers: Display: Average processing rate: 3.63 jobs/sec
+[2023.12.25-23.25.27:300][158]LogShaderCompilers: Display: Total thread time: 109,78 s
+[2023.12.25-23.25.27:300][158]LogShaderCompilers: Display: Total thread preprocess time: 3,999 s
+[2023.12.25-23.25.27:301][158]LogShaderCompilers: Display: Percentage time preprocessing: 3.64%
+[2023.12.25-23.25.27:301][158]LogShaderCompilers: Display: Effective parallelization: 4.69 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.12.25-23.25.27:301][158]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.12.25-23.25.27:301][158]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    4 times, average 3.04 sec, max 5.82 sec, min 1.01 sec)
+[2023.12.25-23.25.27:301][158]LogShaderCompilers: Display:                                        FCloudRenderViewPS011 (compiled    1 times, average 2.49 sec, max 2.49 sec, min 2.49 sec)
+[2023.12.25-23.25.27:301][158]LogShaderCompilers: Display:                                        FCloudRenderViewPS110 (compiled    1 times, average 2.40 sec, max 2.40 sec, min 2.40 sec)
+[2023.12.25-23.25.27:301][158]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    1 times, average 2.29 sec, max 2.29 sec, min 2.29 sec)
+[2023.12.25-23.25.27:301][158]LogShaderCompilers: Display:                                        FCloudRenderViewPS111 (compiled    1 times, average 2.18 sec, max 2.18 sec, min 2.18 sec)
+[2023.12.25-23.25.27:301][158]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.12.25-23.25.27:301][158]LogShaderCompilers: Display:                           FRenderVolumetricCloudRenderViewCS - 46.29% of total time (compiled   34 times, average 1.49 sec, max 2.62 sec, min 0.69 sec)
+[2023.12.25-23.25.27:301][158]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 11.09% of total time (compiled    4 times, average 3.04 sec, max 5.82 sec, min 1.01 sec)
+[2023.12.25-23.25.27:301][158]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 5.98% of total time (compiled    4 times, average 1.64 sec, max 3.66 sec, min 0.40 sec)
+[2023.12.25-23.25.27:301][158]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 3.91% of total time (compiled    6 times, average 0.72 sec, max 1.23 sec, min 0.35 sec)
+[2023.12.25-23.25.27:301][158]LogShaderCompilers: Display:                                        FCloudRenderViewPS011 - 2.27% of total time (compiled    1 times, average 2.49 sec, max 2.49 sec, min 2.49 sec)
+[2023.12.25-23.25.27:301][158]LogShaderCompilers: Display: ================================================
+[2023.12.25-23.25.28:942][283]LogLinker: Warning: Failed to load '/Game/VRTemplate/Blueprints/VRGameMode': Can't find file.
+[2023.12.25-23.25.28:942][283]LogLinker: Warning: Failed to load '/Game/VRTemplate/Blueprints/VRGameMode': Can't find file.
+[2023.12.25-23.25.28:942][283]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/VRTemplate/Blueprints/VRGameMode.VRGameMode_C'
+[2023.12.25-23.25.40:778][ 95]LogSlate: Warning: Unable to rasterize '../../../Engine/Content/Editor/Slate/Starship/AssetIcons/SpecularProfile_64.svg'. File could not be found
+[2023.12.25-23.25.42:222][250]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.12.25-23.25.42:232][250]LogContentBrowser: Creating deferred item: NewFolder
+[2023.12.25-23.25.42:245][251]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.12.25-23.25.44:563][490]LogContentBrowser: Attempting asset rename: NewFolder -> Other
+[2023.12.25-23.25.44:564][490]LogContentBrowser: End creating deferred item NewFolder
+[2023.12.25-23.25.48:646][643]LogSlate: Window 'Pick Parent Class' being destroyed
+[2023.12.25-23.25.48:653][643]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2023.12.25-23.25.48:660][643]LogContentBrowser: Creating deferred item: NewBlueprint
+[2023.12.25-23.25.48:689][645]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2023.12.25-23.26.03:708][249]LogContentBrowser: Attempting asset rename: NewBlueprint -> DefaultGamemode
+[2023.12.25-23.26.03:716][249]LogContentBrowser: End creating deferred item NewBlueprint
+[2023.12.25-23.26.05:026][387]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2023.12.25-23.26.05:653][387]LogSlate: Window 'Save Content' being destroyed
+[2023.12.25-23.26.05:660][387]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.25-23.26.05:746][387]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Code/Other/DefaultGamemode" FILE="../../../../../../Users/nick1/Documents/GitHub/AtomVR/AtomVR/Content/Code/Other/DefaultGamemode.uasset" SILENT=true
+[2023.12.25-23.26.05:749][387]LogSavePackage: Moving output files for package: /Game/Code/Other/DefaultGamemode
+[2023.12.25-23.26.05:750][387]LogSavePackage: Moving '../../../../../../Users/nick1/Documents/GitHub/AtomVR/AtomVR/Saved/DefaultGamemode7D630B2A4CCB25A8BCD25E869DD90FE4.tmp' to '../../../../../../Users/nick1/Documents/GitHub/AtomVR/AtomVR/Content/Code/Other/DefaultGamemode.uasset'
+[2023.12.25-23.26.05:759][387]LogFileHelpers: InternalPromptForCheckoutAndSave took 99 ms (total: 10.0 sec)
+[2023.12.25-23.26.05:760][387]AssetCheck: New page: Asset Save: DefaultGamemode
+[2023.12.25-23.26.05:760][387]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Code/Other/DefaultGamemode.DefaultGamemode
+[2023.12.25-23.26.09:249][467]LogSlate: Window 'Pick Parent Class' being destroyed
+[2023.12.25-23.26.09:262][467]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2023.12.25-23.26.09:270][467]LogContentBrowser: Creating deferred item: NewBlueprint
+[2023.12.25-23.26.09:284][468]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2023.12.25-23.26.13:253][878]LogContentBrowser: Attempting asset rename: NewBlueprint -> LobbyGamemode
+[2023.12.25-23.26.13:259][878]LogContentBrowser: End creating deferred item NewBlueprint
+[2023.12.25-23.26.14:133][969]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2023.12.25-23.26.14:662][969]LogSlate: Window 'Save Content' being destroyed
+[2023.12.25-23.26.14:669][969]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.25-23.26.14:753][969]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Code/Other/LobbyGamemode" FILE="../../../../../../Users/nick1/Documents/GitHub/AtomVR/AtomVR/Content/Code/Other/LobbyGamemode.uasset" SILENT=true
+[2023.12.25-23.26.14:756][969]LogSavePackage: Moving output files for package: /Game/Code/Other/LobbyGamemode
+[2023.12.25-23.26.14:756][969]LogSavePackage: Moving '../../../../../../Users/nick1/Documents/GitHub/AtomVR/AtomVR/Saved/LobbyGamemode69BC84E541D2886942BDA8B8FE7D1C64.tmp' to '../../../../../../Users/nick1/Documents/GitHub/AtomVR/AtomVR/Content/Code/Other/LobbyGamemode.uasset'
+[2023.12.25-23.26.14:765][969]LogFileHelpers: InternalPromptForCheckoutAndSave took 95 ms (total: 10.1 sec)
+[2023.12.25-23.26.14:766][969]AssetCheck: New page: Asset Save: LobbyGamemode
+[2023.12.25-23.26.14:766][969]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Code/Other/LobbyGamemode.LobbyGamemode
+[2023.12.25-23.26.18:653][216]LogSlate: Window 'Project Settings' being destroyed
+[2023.12.25-23.26.18:660][216]LogSlate: Window 'Project Settings' being destroyed
+[2023.12.25-23.26.19:328][277]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2023.12.25-23.26.24:692][810]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.12.25-23.26.24:714][810]LogContentBrowser: Creating deferred item: NewFolder
+[2023.12.25-23.26.24:727][811]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.12.25-23.26.26:998][ 45]LogContentBrowser: Attempting asset rename: NewFolder -> UI
+[2023.12.25-23.26.26:999][ 45]LogContentBrowser: End creating deferred item NewFolder
+[2023.12.25-23.26.27:656][112]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2023.12.25-23.26.33:212][658]LogSlate: Window 'Color Picker' being destroyed
+[2023.12.25-23.26.34:231][761]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2023.12.25-23.26.40:253][126]LogSlate: Window 'Pick Parent Class for New Widget Blueprint' being destroyed
+[2023.12.25-23.26.40:264][126]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2023.12.25-23.26.40:270][126]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2023.12.25-23.26.40:304][128]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2023.12.25-23.26.47:548][878]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> ServerInterface
+[2023.12.25-23.26.47:556][878]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2023.12.25-23.26.48:319][955]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2023.12.25-23.26.49:060][955]LogSlate: Window 'Save Content' being destroyed
+[2023.12.25-23.26.49:069][955]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.25-23.26.49:152][955]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/ServerInterface" FILE="../../../../../../Users/nick1/Documents/GitHub/AtomVR/AtomVR/Content/UI/ServerInterface.uasset" SILENT=true
+[2023.12.25-23.26.49:156][955]LogSavePackage: Moving output files for package: /Game/UI/ServerInterface
+[2023.12.25-23.26.49:156][955]LogSavePackage: Moving '../../../../../../Users/nick1/Documents/GitHub/AtomVR/AtomVR/Saved/ServerInterfaceB5F3EEE343CF0696CAC8A492BF9294EC.tmp' to '../../../../../../Users/nick1/Documents/GitHub/AtomVR/AtomVR/Content/UI/ServerInterface.uasset'
+[2023.12.25-23.26.49:164][955]LogFileHelpers: InternalPromptForCheckoutAndSave took 95 ms (total: 10.2 sec)
+[2023.12.25-23.26.49:165][955]AssetCheck: New page: Asset Save: ServerInterface
+[2023.12.25-23.26.49:165][955]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/ServerInterface.ServerInterface
+[2023.12.25-23.26.52:102][235]LogContentBrowser: Attempting asset rename: ServerInterface -> ServerInterface
+[2023.12.25-23.26.52:907][318]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2023.12.25-23.27.03:057][892]LogSlate: Window 'Pick Parent Class' being destroyed
+[2023.12.25-23.27.03:069][892]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2023.12.25-23.27.03:076][892]LogContentBrowser: Creating deferred item: NewBlueprint
+[2023.12.25-23.27.03:103][894]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2023.12.25-23.27.11:476][782]LogContentBrowser: Attempting asset rename: NewBlueprint -> ServerPawn
+[2023.12.25-23.27.11:483][782]LogContentBrowser: End creating deferred item NewBlueprint
+[2023.12.25-23.27.12:314][868]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2023.12.25-23.27.12:938][868]LogSlate: Window 'Save Content' being destroyed
+[2023.12.25-23.27.12:945][868]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.25-23.27.13:028][868]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Code/ServerSystem/ServerPawn" FILE="../../../../../../Users/nick1/Documents/GitHub/AtomVR/AtomVR/Content/Code/ServerSystem/ServerPawn.uasset" SILENT=true
+[2023.12.25-23.27.13:031][868]LogSavePackage: Moving output files for package: /Game/Code/ServerSystem/ServerPawn
+[2023.12.25-23.27.13:031][868]LogSavePackage: Moving '../../../../../../Users/nick1/Documents/GitHub/AtomVR/AtomVR/Saved/ServerPawn3291FB3640DB9E810B58F8872A3F0D48.tmp' to '../../../../../../Users/nick1/Documents/GitHub/AtomVR/AtomVR/Content/Code/ServerSystem/ServerPawn.uasset'
+[2023.12.25-23.27.13:040][868]LogFileHelpers: InternalPromptForCheckoutAndSave took 95 ms (total: 10.3 sec)
+[2023.12.25-23.27.13:041][868]AssetCheck: New page: Asset Save: ServerPawn
+[2023.12.25-23.27.13:041][868]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Code/ServerSystem/ServerPawn.ServerPawn
+[2023.12.25-23.27.17:219][305]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2023.12.25-23.27.18:656][455]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2023.12.25-23.27.20:600][658]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2023.12.25-23.27.30:749][731]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2023.12.25-23.27.31:714][832]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2023.12.25-23.27.34:020][ 60]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2023.12.25-23.27.35:323][185]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Code/ServerSystem/ServerPawn.ServerPawn
+[2023.12.25-23.27.35:323][185]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.25-23.27.35:323][185]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.25-23.27.35:333][185]LogSlate: Warning: The command 'BlueprintEditorSpawnNodes.AddActorRefAction->CommandInfo' has the same default chord as 'BlueprintEditorSpawnNodes.(Class=/Script/BlueprintGraph.K2Node_Knot Key=R Shift=false Ctrl=false Alt=false)' [R]
+[2023.12.25-23.27.36:862][185]LogViewport: Scene viewport resized to 876x633, mode Windowed.
+[2023.12.25-23.27.40:352][414]LogSlate: Took 0.005012 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2023.12.25-23.27.40:698][422]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.25-23.27.43:303][577]LogViewport: Scene viewport resized to 872x633, mode Windowed.
+[2023.12.25-23.27.43:326][578]LogViewport: Scene viewport resized to 870x633, mode Windowed.
+[2023.12.25-23.27.43:349][579]LogViewport: Scene viewport resized to 864x633, mode Windowed.
+[2023.12.25-23.27.43:372][580]LogViewport: Scene viewport resized to 861x633, mode Windowed.
+[2023.12.25-23.27.45:111][680]BlueprintLog: New page: Compile ServerPawn
+[2023.12.25-23.27.45:137][680]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2023.12.25-23.27.49:381][952]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2023.12.25-23.27.49:952][952]LogSlate: Window 'Save Content' being destroyed
+[2023.12.25-23.27.49:958][952]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.25-23.27.50:040][952]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Code/ServerSystem/ServerPawn" FILE="../../../../../../Users/nick1/Documents/GitHub/AtomVR/AtomVR/Content/Code/ServerSystem/ServerPawn.uasset" SILENT=true
+[2023.12.25-23.27.50:043][952]LogSavePackage: Moving output files for package: /Game/Code/ServerSystem/ServerPawn
+[2023.12.25-23.27.50:044][952]LogSavePackage: Moving '../../../../../../Users/nick1/Documents/GitHub/AtomVR/AtomVR/Saved/ServerPawnF8CD00354F7FC1DA15A8FCBCFDB67DE9.tmp' to '../../../../../../Users/nick1/Documents/GitHub/AtomVR/AtomVR/Content/Code/ServerSystem/ServerPawn.uasset'
+[2023.12.25-23.27.50:050][952]LogFileHelpers: InternalPromptForCheckoutAndSave took 92 ms (total: 10.4 sec)
+[2023.12.25-23.27.50:052][952]AssetCheck: New page: Asset Save: ServerPawn
+[2023.12.25-23.27.50:052][952]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Code/ServerSystem/ServerPawn.ServerPawn
+[2023.12.25-23.27.53:368][280]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2023.12.25-23.27.57:926][742]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2023.12.25-23.28.02:050][166]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2023.12.25-23.28.03:814][342]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2023.12.25-23.28.07:888][755]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2023.12.25-23.28.10:429][ 17]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2023.12.25-23.28.12:951][274]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2023.12.25-23.28.16:459][635]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2023.12.25-23.28.26:491][ 40]LogSlate: Window 'Pick Parent Class' being destroyed
+[2023.12.25-23.28.26:497][ 40]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2023.12.25-23.28.26:503][ 40]LogContentBrowser: Creating deferred item: NewBlueprint
+[2023.12.25-23.28.26:530][ 42]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2023.12.25-23.28.43:148][742]LogContentBrowser: Attempting asset rename: NewBlueprint -> VRCharacterLobby
+[2023.12.25-23.28.43:156][742]LogContentBrowser: End creating deferred item NewBlueprint
+[2023.12.25-23.28.43:909][818]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2023.12.25-23.28.44:705][818]LogSlate: Window 'Save Content' being destroyed
+[2023.12.25-23.28.44:715][818]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.25-23.28.44:799][818]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Code/Char/VRCharacterLobby" FILE="../../../../../../Users/nick1/Documents/GitHub/AtomVR/AtomVR/Content/Code/Char/VRCharacterLobby.uasset" SILENT=true
+[2023.12.25-23.28.44:804][818]LogSavePackage: Moving output files for package: /Game/Code/Char/VRCharacterLobby
+[2023.12.25-23.28.44:804][818]LogSavePackage: Moving '../../../../../../Users/nick1/Documents/GitHub/AtomVR/AtomVR/Saved/VRCharacterLobbyD0F7B67A4683D7F1C194E1864BF8B669.tmp' to '../../../../../../Users/nick1/Documents/GitHub/AtomVR/AtomVR/Content/Code/Char/VRCharacterLobby.uasset'
+[2023.12.25-23.28.44:813][818]LogFileHelpers: InternalPromptForCheckoutAndSave took 97 ms (total: 10.5 sec)
+[2023.12.25-23.28.44:814][818]AssetCheck: New page: Asset Save: VRCharacterLobby
+[2023.12.25-23.28.44:814][818]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Code/Char/VRCharacterLobby.VRCharacterLobby
+[2023.12.25-23.28.45:654][903]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Code/Char/VRCharacterLobby.VRCharacterLobby
+[2023.12.25-23.28.45:654][903]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.25-23.28.45:655][903]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.25-23.28.45:790][903]LogViewport: Scene viewport resized to 861x633, mode Windowed.
+[2023.12.25-23.28.50:893][173]BlueprintLog: New page: Compile VRCharacterLobby
+[2023.12.25-23.28.50:985][173]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2023.12.25-23.28.54:683][380]BlueprintLog: New page: Compile VRCharacterLobby
+[2023.12.25-23.28.54:770][380]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2023.12.25-23.29.00:588][717]BlueprintLog: New page: Compile VRCharacterLobby
+[2023.12.25-23.29.00:677][717]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2023.12.25-23.29.04:493][913]LogViewport: Scene viewport resized to 859x633, mode Windowed.
+[2023.12.25-23.29.04:517][914]LogViewport: Scene viewport resized to 847x633, mode Windowed.
+[2023.12.25-23.29.04:540][915]LogViewport: Scene viewport resized to 817x633, mode Windowed.
+[2023.12.25-23.29.04:562][916]LogViewport: Scene viewport resized to 785x633, mode Windowed.
+[2023.12.25-23.29.04:585][917]LogViewport: Scene viewport resized to 754x633, mode Windowed.
+[2023.12.25-23.29.04:607][918]LogViewport: Scene viewport resized to 737x633, mode Windowed.
+[2023.12.25-23.29.04:629][919]LogViewport: Scene viewport resized to 730x633, mode Windowed.
+[2023.12.25-23.29.33:409][165]LogViewport: Scene viewport resized to 349x244, mode Windowed.
+[2023.12.25-23.29.34:288][213]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2023.12.25-23.29.38:606][511]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms

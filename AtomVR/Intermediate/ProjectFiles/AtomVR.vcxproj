@@ -188,6 +188,7 @@
     <None Include="..\..\AtomVR.uproject"/>
     <None Include="..\..\Source\AtomVR.Target.cs"/>
     <None Include="..\..\Source\AtomVREditor.Target.cs"/>
+    <None Include="..\..\.vsconfig"/>
     <None Include="..\..\Config\DefaultEditor.ini"/>
     <None Include="..\..\Config\DefaultEngine.ini"/>
     <None Include="..\..\Config\DefaultGame.ini"/>
