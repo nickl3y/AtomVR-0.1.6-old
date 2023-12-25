@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "AtomVR",
+			"Path": "..\\Source\\AtomVR.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "AtomVREditor",
+			"Path": "..\\Source\\AtomVREditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

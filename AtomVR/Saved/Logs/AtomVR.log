@@ -1603,3 +1603,27 @@ The following settings have been applied:
 [2023.12.25-23.22.16:967][359]LogFileHelpers: InternalPromptForCheckoutAndSave took 147 ms (total: 9.95 sec)
 [2023.12.25-23.22.16:969][359]AssetCheck: New page: Asset Save: lobby1
 [2023.12.25-23.22.16:969][359]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/Lobby/lobby1.lobby1
+[2023.12.25-23.22.33:678][ 35]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2023.12.25-23.22.40:423][484]LogSlate: Took 0.005596 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2023.12.25-23.22.53:948][830]LogSlate: Window 'Add C++ Class' being destroyed
+[2023.12.25-23.23.18:980][495]Running C:/Program Files/Epic Games/UE_5.3/Engine/Build/BatchFiles/Build.bat  -projectfiles -project="C:/Users/nick1/Documents/GitHub/AtomVR/AtomVR/AtomVR.uproject" -game -rocket -progress
+[2023.12.25-23.23.19:096][495]Using bundled DotNet SDK version: 6.0.302
+[2023.12.25-23.23.19:096][495]Running UnrealBuildTool: dotnet "..\..\Engine\Binaries\DotNET\UnrealBuildTool\UnrealBuildTool.dll" -projectfiles -project="C:/Users/nick1/Documents/GitHub/AtomVR/AtomVR/AtomVR.uproject" -game -rocket -progress
+[2023.12.25-23.23.19:498][495]Log file: C:\Users\nick1\AppData\Local\UnrealBuildTool\Log_GPF.txt
+[2023.12.25-23.23.19:799][495]
+[2023.12.25-23.23.19:799][495]Some Platforms were skipped due to invalid SDK setup: IOS, Linux, LinuxArm64.
+[2023.12.25-23.23.19:799][495]See the log file for detailed information
+[2023.12.25-23.23.19:799][495]
+[2023.12.25-23.23.19:799][495]
+[2023.12.25-23.23.19:799][495]Generating VisualStudio project files:
+[2023.12.25-23.23.19:799][495]Discovering modules, targets and source code for project...
+[2023.12.25-23.23.22:210][495]Binding IntelliSense data...
+[2023.12.25-23.23.22:312][495]Exception while generating include data for AtomVREditor: Expecting to find a type to be declared in a module rules named 'VRExpansionPlugin' in UE5Rules, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.  This type must derive from the 'ModuleRules' type defined by Unreal Build Tool.
+[2023.12.25-23.23.22:312][495]Exception while generating include data for UnrealEditor: Expecting to find a type to be declared in a module rules named 'VRExpansionPlugin' in UE5Rules, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.  This type must derive from the 'ModuleRules' type defined by Unreal Build Tool.
+[2023.12.25-23.23.22:312][495]Binding IntelliSense data... 50%
+[2023.12.25-23.23.22:312][495]Creating common properties file...
+[2023.12.25-23.23.22:312][495]Creating common properties file... 0%
+[2023.12.25-23.23.22:312][495]Writing project files...
+[2023.12.25-23.23.23:319][495]Writing project files... 100%
+[2023.12.25-23.23.23:319][495]
+[2023.12.25-23.23.23:319][495]Generating QueryTargets data for editor...
