@@ -14754,3 +14754,218 @@ The following settings have been applied:
 [2023.12.25-22.57.22:986][274]LogSlate: Window 'Color Picker' being destroyed
 [2023.12.25-22.57.24:043][372]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
 [2023.12.25-22.58.27:343][676]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2023.12.25-22.59.11:279][912]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2023.12.25-22.59.13:339][ 66]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.12.25-22.59.13:360][ 66]LogContentBrowser: Creating deferred item: NewFolder
+[2023.12.25-22.59.13:385][ 68]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.12.25-22.59.20:290][539]LogContentBrowser: Attempting asset rename: NewFolder -> Char
+[2023.12.25-22.59.20:291][539]LogContentBrowser: End creating deferred item NewFolder
+[2023.12.25-22.59.20:848][567]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2023.12.25-22.59.22:228][628]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.12.25-22.59.22:251][628]LogContentBrowser: Creating deferred item: NewFolder
+[2023.12.25-22.59.22:264][629]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.12.25-22.59.33:797][452]LogContentBrowser: Attempting asset rename: NewFolder -> Props
+[2023.12.25-22.59.33:797][452]LogContentBrowser: End creating deferred item NewFolder
+[2023.12.25-22.59.34:616][524]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2023.12.25-22.59.40:048][646]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2023.12.25-22.59.41:802][731]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2023.12.25-22.59.46:369][976]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.12.25-22.59.46:395][976]LogContentBrowser: Creating deferred item: NewFolder
+[2023.12.25-22.59.46:411][977]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.12.25-22.59.49:270][230]LogContentBrowser: Attempting asset rename: NewFolder -> Lobby
+[2023.12.25-22.59.49:271][230]LogContentBrowser: End creating deferred item NewFolder
+[2023.12.25-22.59.49:912][287]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2023.12.25-22.59.51:851][437]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.12.25-22.59.51:874][437]LogContentBrowser: Creating deferred item: NewFolder
+[2023.12.25-22.59.51:889][438]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.12.25-22.59.54:071][630]LogContentBrowser: Attempting asset rename: NewFolder -> Game
+[2023.12.25-22.59.54:072][630]LogContentBrowser: End creating deferred item NewFolder
+[2023.12.25-22.59.55:130][725]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.25-22.59.55:146][725]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.25-22.59.55:152][725]LogLinker: Warning: [AssetLog] C:\Users\nick1\Documents\GitHub\AtomVR\AtomVR\Content\Maps\MainArea.umap: Failed to load '/Game/Code/DefaultGamemode': Can't find file.
+[2023.12.25-22.59.55:153][725]LogLinker: Warning: [AssetLog] C:\Users\nick1\Documents\GitHub\AtomVR\AtomVR\Content\Maps\MainArea.umap: VerifyImport: Failed to load package for import object 'Package /Game/Code/DefaultGamemode'
+[2023.12.25-22.59.55:154][725]LogLinker: Warning: [AssetLog] C:\Users\nick1\Documents\GitHub\AtomVR\AtomVR\Content\Maps\MainArea.umap: Failed to load '/Game/Box_Brush18_StaticMesh': Can't find file.
+[2023.12.25-22.59.55:154][725]LogLinker: Warning: [AssetLog] C:\Users\nick1\Documents\GitHub\AtomVR\AtomVR\Content\Maps\MainArea.umap: VerifyImport: Failed to load package for import object 'Package /Game/Box_Brush18_StaticMesh'
+[2023.12.25-22.59.55:165][725]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.25-22.59.58:051][954]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.12.25-22.59.58:062][954]LogContentBrowser: Creating deferred item: NewFolder
+[2023.12.25-22.59.58:076][955]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.12.25-23.00.00:301][160]LogContentBrowser: Attempting asset rename: NewFolder -> Debug
+[2023.12.25-23.00.00:302][160]LogContentBrowser: End creating deferred item NewFolder
+[2023.12.25-23.00.01:222][244]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2023.12.25-23.00.05:429][419]LogSlate: Window 'Message' being destroyed
+[2023.12.25-23.00.05:440][419]Message dialog closed, result: Ok, title: Message, text: Source code, config INI, and text files may need Find/Replace for:
+
+
+MainArea
+
+Otherwise assets can be missing from cooked builds. Continue with rename?
+[2023.12.25-23.00.05:490][419]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.25-23.00.05:585][419]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.25-23.00.05:587][419]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Debug/MainArea" FILE="../../../../../../Users/nick1/Documents/GitHub/AtomVR/AtomVR/Content/Maps/Debug/MainArea.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.12.25-23.00.05:595][419]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2023.12.25-23.00.05:604][419]LogSavePackage: Moving output files for package: /Game/Maps/Debug/MainArea
+[2023.12.25-23.00.05:604][419]LogSavePackage: Moving '../../../../../../Users/nick1/Documents/GitHub/AtomVR/AtomVR/Saved/MainArea48012BE243BDC0CCF27B458CEEA9C297.tmp' to '../../../../../../Users/nick1/Documents/GitHub/AtomVR/AtomVR/Content/Maps/Debug/MainArea.umap'
+[2023.12.25-23.00.05:612][419]LogFileHelpers: Saving map 'MainArea' took 0.028
+[2023.12.25-23.00.05:613][419]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainArea" FILE="../../../../../../Users/nick1/Documents/GitHub/AtomVR/AtomVR/Content/Maps/MainArea.umap" SILENT=true
+[2023.12.25-23.00.05:614][419]LogSavePackage: Moving output files for package: /Game/Maps/MainArea
+[2023.12.25-23.00.05:614][419]LogSavePackage: Moving '../../../../../../Users/nick1/Documents/GitHub/AtomVR/AtomVR/Saved/MainAreaF5D240D6417AD85CA7436D82A0B88C11.tmp' to '../../../../../../Users/nick1/Documents/GitHub/AtomVR/AtomVR/Content/Maps/MainArea.umap'
+[2023.12.25-23.00.05:624][419]LogFileHelpers: InternalPromptForCheckoutAndSave took 133 ms (total: 59.2 sec)
+[2023.12.25-23.00.05:664][419]AssetCheck: New page: Asset Save: multiple assets
+[2023.12.25-23.00.05:664][419]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/Debug/MainArea.MainArea
+[2023.12.25-23.00.05:664][419]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Maps/MainArea.MainArea
+[2023.12.25-23.00.14:785][968]LogSlate: Window 'Message' being destroyed
+[2023.12.25-23.00.14:792][968]Message dialog closed, result: Ok, title: Message, text: Source code, config INI, and text files may need Find/Replace for:
+
+
+Level2
+Level4
+
+Otherwise assets can be missing from cooked builds. Continue with rename?
+[2023.12.25-23.00.14:874][968]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.25-23.00.14:995][968]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.25-23.00.15:002][968]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Game/Level2" FILE="../../../../../../Users/nick1/Documents/GitHub/AtomVR/AtomVR/Content/Maps/Game/Level2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.12.25-23.00.15:011][968]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2023.12.25-23.00.15:052][968]LogSavePackage: Moving output files for package: /Game/Maps/Game/Level2
+[2023.12.25-23.00.15:052][968]LogSavePackage: Moving '../../../../../../Users/nick1/Documents/GitHub/AtomVR/AtomVR/Saved/Level2E616EEF84CA84A2256167B94CC2BE92B.tmp' to '../../../../../../Users/nick1/Documents/GitHub/AtomVR/AtomVR/Content/Maps/Game/Level2.umap'
+[2023.12.25-23.00.15:067][968]Message dialog closed, result: Ok, title: Unable to Check Out From Revision Control!, text: The following assets could not be successfully checked out from revision control:
+/Game/Maps/Game/Level2_BuiltData
+[2023.12.25-23.00.15:067][968]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.25-23.00.15:067][968]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Game/Level2_BuiltData" FILE="../../../../../../Users/nick1/Documents/GitHub/AtomVR/AtomVR/Content/Maps/Game/Level2_BuiltData.uasset" SILENT=true
+[2023.12.25-23.00.15:115][968]LogSavePackage: Moving output files for package: /Game/Maps/Game/Level2_BuiltData
+[2023.12.25-23.00.15:115][968]LogSavePackage: Moving '../../../../../../Users/nick1/Documents/GitHub/AtomVR/AtomVR/Saved/Level2_BuiltDataECA294A04EF40CBB7E8021A70917E8FB.tmp' to '../../../../../../Users/nick1/Documents/GitHub/AtomVR/AtomVR/Content/Maps/Game/Level2_BuiltData.uasset'
+[2023.12.25-23.00.15:117][968]LogFileHelpers: InternalPromptForCheckoutAndSave took 49 ms (total: 59.3 sec)
+[2023.12.25-23.00.15:117][968]Message dialog closed, result: Ok, title: Unable to Check Out From Revision Control!, text: The following assets could not be successfully checked out from revision control:
+/Game/Maps/Game/Level2_BuiltData
+[2023.12.25-23.00.15:121][968]LogFileHelpers: Saving map 'Level2' took 0.127
+[2023.12.25-23.00.15:122][968]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level2" FILE="../../../../../../Users/nick1/Documents/GitHub/AtomVR/AtomVR/Content/Maps/Level2.umap" SILENT=true
+[2023.12.25-23.00.15:123][968]LogSavePackage: Moving output files for package: /Game/Maps/Level2
+[2023.12.25-23.00.15:124][968]LogSavePackage: Moving '../../../../../../Users/nick1/Documents/GitHub/AtomVR/AtomVR/Saved/Level2908A03AC453969FE668AD3B309353604.tmp' to '../../../../../../Users/nick1/Documents/GitHub/AtomVR/AtomVR/Content/Maps/Level2.umap'
+[2023.12.25-23.00.15:126][968]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.25-23.00.15:131][968]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Game/Level4" FILE="../../../../../../Users/nick1/Documents/GitHub/AtomVR/AtomVR/Content/Maps/Game/Level4.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.12.25-23.00.15:139][968]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2023.12.25-23.00.15:169][968]LogSavePackage: Moving output files for package: /Game/Maps/Game/Level4
+[2023.12.25-23.00.15:169][968]LogSavePackage: Moving '../../../../../../Users/nick1/Documents/GitHub/AtomVR/AtomVR/Saved/Level49F7356A44C4AA0B3AC6676A3250DBC76.tmp' to '../../../../../../Users/nick1/Documents/GitHub/AtomVR/AtomVR/Content/Maps/Game/Level4.umap'
+[2023.12.25-23.00.15:185][968]Message dialog closed, result: Ok, title: Unable to Check Out From Revision Control!, text: The following assets could not be successfully checked out from revision control:
+/Game/Maps/Game/Level4_BuiltData
+[2023.12.25-23.00.15:185][968]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.25-23.00.15:185][968]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Game/Level4_BuiltData" FILE="../../../../../../Users/nick1/Documents/GitHub/AtomVR/AtomVR/Content/Maps/Game/Level4_BuiltData.uasset" SILENT=true
+[2023.12.25-23.00.15:210][968]LogSavePackage: Moving output files for package: /Game/Maps/Game/Level4_BuiltData
+[2023.12.25-23.00.15:210][968]LogSavePackage: Moving '../../../../../../Users/nick1/Documents/GitHub/AtomVR/AtomVR/Saved/Level4_BuiltData555CBE8B49C8F17ED3FE6CAFC8EDA32F.tmp' to '../../../../../../Users/nick1/Documents/GitHub/AtomVR/AtomVR/Content/Maps/Game/Level4_BuiltData.uasset'
+[2023.12.25-23.00.15:211][968]LogFileHelpers: InternalPromptForCheckoutAndSave took 25 ms (total: 59.3 sec)
+[2023.12.25-23.00.15:211][968]Message dialog closed, result: Ok, title: Unable to Check Out From Revision Control!, text: The following assets could not be successfully checked out from revision control:
+/Game/Maps/Game/Level4_BuiltData
+[2023.12.25-23.00.15:213][968]LogFileHelpers: Saving map 'Level4' took 0.087
+[2023.12.25-23.00.15:214][968]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level4" FILE="../../../../../../Users/nick1/Documents/GitHub/AtomVR/AtomVR/Content/Maps/Level4.umap" SILENT=true
+[2023.12.25-23.00.15:214][968]LogSavePackage: Moving output files for package: /Game/Maps/Level4
+[2023.12.25-23.00.15:215][968]LogSavePackage: Moving '../../../../../../Users/nick1/Documents/GitHub/AtomVR/AtomVR/Saved/Level41E58A07D432ABCFE864FE997913A495F.tmp' to '../../../../../../Users/nick1/Documents/GitHub/AtomVR/AtomVR/Content/Maps/Level4.umap'
+[2023.12.25-23.00.15:216][968]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Game/Level4_BuiltData" FILE="../../../../../../Users/nick1/Documents/GitHub/AtomVR/AtomVR/Content/Maps/Game/Level4_BuiltData.uasset" SILENT=true
+[2023.12.25-23.00.15:234][968]LogSavePackage: Moving output files for package: /Game/Maps/Game/Level4_BuiltData
+[2023.12.25-23.00.15:235][968]LogSavePackage: Moving '../../../../../../Users/nick1/Documents/GitHub/AtomVR/AtomVR/Saved/Level4_BuiltData06BDC6B749F8489049A322B8282DF8F7.tmp' to '../../../../../../Users/nick1/Documents/GitHub/AtomVR/AtomVR/Content/Maps/Game/Level4_BuiltData.uasset'
+[2023.12.25-23.00.15:236][968]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Game/Level2_BuiltData" FILE="../../../../../../Users/nick1/Documents/GitHub/AtomVR/AtomVR/Content/Maps/Game/Level2_BuiltData.uasset" SILENT=true
+[2023.12.25-23.00.15:279][968]LogSavePackage: Moving output files for package: /Game/Maps/Game/Level2_BuiltData
+[2023.12.25-23.00.15:280][968]LogSavePackage: Moving '../../../../../../Users/nick1/Documents/GitHub/AtomVR/AtomVR/Saved/Level2_BuiltData559BECF448C2B34CFCC2129879241C8D.tmp' to '../../../../../../Users/nick1/Documents/GitHub/AtomVR/AtomVR/Content/Maps/Game/Level2_BuiltData.uasset'
+[2023.12.25-23.00.15:291][968]LogFileHelpers: InternalPromptForCheckoutAndSave took 416 ms (total: 59.7 sec)
+[2023.12.25-23.00.15:310][968]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2023.12.25-23.00.15:321][968]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2023.12.25-23.00.15:330][968]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2023.12.25-23.00.15:388][968]AssetCheck: New page: Asset Save: multiple assets
+[2023.12.25-23.00.15:388][968]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/Game/Level2.Level2
+[2023.12.25-23.00.15:388][968]LogContentValidation: Display: Validating /Script/Engine.MapBuildDataRegistry /Game/Maps/Game/Level2_BuiltData.Level2_BuiltData
+[2023.12.25-23.00.15:388][968]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Maps/Level2.Level2
+[2023.12.25-23.00.15:388][968]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/Game/Level4.Level4
+[2023.12.25-23.00.15:388][968]LogContentValidation: Display: Validating /Script/Engine.MapBuildDataRegistry /Game/Maps/Game/Level4_BuiltData.Level4_BuiltData
+[2023.12.25-23.00.15:388][968]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Maps/Level4.Level4
+[2023.12.25-23.00.18:018][128]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2023.12.25-23.00.18:023][128]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Game/Level4.Level4
+[2023.12.25-23.00.18:026][128]Cmd: MAP LOAD FILE="../../../../../../Users/nick1/Documents/GitHub/AtomVR/AtomVR/Content/Maps/Game/Level4.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2023.12.25-23.00.18:026][128]LightingResults: New page: Lighting Build
+[2023.12.25-23.00.18:027][128]LoadErrors: New page: Loading map: Level4.umap
+[2023.12.25-23.00.18:125][128]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2023.12.25-23.00.18:132][128]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.25-23.00.18:139][128]MapCheck: New page: Map Check
+[2023.12.25-23.00.18:139][128]LightingResults: New page: Lighting Build
+[2023.12.25-23.00.18:166][128]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.12.25-23.00.18:202][128]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2023.12.25-23.00.18:208][128]LogWorld: UWorld::CleanupWorld for MainArea, bSessionEnded=true, bCleanupResources=true
+[2023.12.25-23.00.18:208][128]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.25-23.00.18:210][128]LogWorld: UWorld::CleanupWorld for Level2, bSessionEnded=true, bCleanupResources=true
+[2023.12.25-23.00.18:210][128]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.25-23.00.18:213][128]LogWorld: UWorld::CleanupWorld for Level4, bSessionEnded=true, bCleanupResources=true
+[2023.12.25-23.00.18:213][128]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.25-23.00.18:230][128]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2023.12.25-23.00.18:256][128]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2023.12.25-23.00.18:270][128]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level4'.
+[2023.12.25-23.00.18:271][128]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.25-23.00.18:272][128]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.25-23.00.18:275][128]LogAIModule: Creating AISystem for world Level4
+[2023.12.25-23.00.18:684][128]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.12.25-23.00.18:712][128]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2023.12.25-23.00.18:717][128]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.12.25-23.00.18:718][128]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,441ms to complete.
+[2023.12.25-23.00.20:038][188]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.25-23.00.20:231][190]LogShaderCompilers: Display: ================================================
+[2023.12.25-23.00.20:231][190]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.12.25-23.00.20:231][190]LogShaderCompilers: Display: Total job queries 256, among them cache hits 93 (36.33%)
+[2023.12.25-23.00.20:231][190]LogShaderCompilers: Display: Tracking 163 distinct input hashes that result in 109 distinct outputs (66.87%)
+[2023.12.25-23.00.20:231][190]LogShaderCompilers: Display: RAM used: 5,93 MiB of 716,80 MiB budget. Usage: 0.83%
+[2023.12.25-23.00.20:231][190]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.12.25-23.00.20:231][190]LogShaderCompilers: Display: Shaders Compiled: 29
+[2023.12.25-23.00.20:231][190]LogShaderCompilers: Display: Jobs assigned 29, completed 29 (100%)
+[2023.12.25-23.00.20:231][190]LogShaderCompilers: Display: Average time worker was idle: 52.76 s
+[2023.12.25-23.00.20:231][190]LogShaderCompilers: Display: Time job spent in pending queue: average 0.08 s, longest 0.88 s
+[2023.12.25-23.00.20:231][190]LogShaderCompilers: Display: Job execution time: average 1.38 s, max 4.26 s
+[2023.12.25-23.00.20:231][190]LogShaderCompilers: Display: Job life time (pending + execution): average 1.46 s, max 4.31
+[2023.12.25-23.00.20:231][190]LogShaderCompilers: Display: Shader code size: average 63,205 KiB, min 20,07 KiB, max 95,57 KiB
+[2023.12.25-23.00.20:231][190]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 16.80 s
+[2023.12.25-23.00.20:231][190]LogShaderCompilers: Display: Jobs were issued in 29 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.12.25-23.00.20:231][190]LogShaderCompilers: Display: Average processing rate: 1.73 jobs/sec
+[2023.12.25-23.00.20:231][190]LogShaderCompilers: Display: Total thread time: 33,078 s
+[2023.12.25-23.00.20:231][190]LogShaderCompilers: Display: Total thread preprocess time: 2,154 s
+[2023.12.25-23.00.20:232][190]LogShaderCompilers: Display: Percentage time preprocessing: 6.51%
+[2023.12.25-23.00.20:232][190]LogShaderCompilers: Display: Effective parallelization: 1.97 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.12.25-23.00.20:232][190]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.12.25-23.00.20:232][190]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy (compiled    1 times, average 2.49 sec, max 2.49 sec, min 2.49 sec)
+[2023.12.25-23.00.20:232][190]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    9 times, average 2.34 sec, max 4.19 sec, min 0.60 sec)
+[2023.12.25-23.00.20:232][190]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    1 times, average 0.82 sec, max 0.82 sec, min 0.82 sec)
+[2023.12.25-23.00.20:232][190]LogShaderCompilers: Display:      TBasePassVSFPrecomputedVolumetricLightmapLightingPolicy (compiled    1 times, average 0.55 sec, max 0.55 sec, min 0.55 sec)
+[2023.12.25-23.00.20:232][190]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    6 times, average 0.49 sec, max 0.79 sec, min 0.34 sec)
+[2023.12.25-23.00.20:232][190]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.12.25-23.00.20:232][190]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 63.61% of total time (compiled    9 times, average 2.34 sec, max 4.19 sec, min 0.60 sec)
+[2023.12.25-23.00.20:232][190]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 8.80% of total time (compiled    6 times, average 0.49 sec, max 0.79 sec, min 0.34 sec)
+[2023.12.25-23.00.20:232][190]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy - 7.53% of total time (compiled    1 times, average 2.49 sec, max 2.49 sec, min 2.49 sec)
+[2023.12.25-23.00.20:232][190]LogShaderCompilers: Display:                                                  FVelocityVS - 7.40% of total time (compiled    6 times, average 0.41 sec, max 0.64 sec, min 0.27 sec)
+[2023.12.25-23.00.20:232][190]LogShaderCompilers: Display:                                                  FVelocityPS - 3.23% of total time (compiled    6 times, average 0.18 sec, max 0.21 sec, min 0.15 sec)
+[2023.12.25-23.00.20:232][190]LogShaderCompilers: Display: ================================================
+[2023.12.25-23.00.22:555][283]LogSlate: Window 'Message' being destroyed
+[2023.12.25-23.00.22:573][283]Message dialog closed, result: Ok, title: Message, text: Source code, config INI, and text files may need Find/Replace for:
+
+
+Level1
+
+Otherwise assets can be missing from cooked builds. Continue with rename?
+[2023.12.25-23.00.22:597][283]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.25-23.00.22:684][283]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.25-23.00.22:702][283]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Game/Level1" FILE="../../../../../../Users/nick1/Documents/GitHub/AtomVR/AtomVR/Content/Maps/Game/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.12.25-23.00.22:708][283]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2023.12.25-23.00.22:743][283]LogSavePackage: Moving output files for package: /Game/Maps/Game/Level1
+[2023.12.25-23.00.22:743][283]LogSavePackage: Moving '../../../../../../Users/nick1/Documents/GitHub/AtomVR/AtomVR/Saved/Level144FCBB4A42678B338C23EF85CFA525B9.tmp' to '../../../../../../Users/nick1/Documents/GitHub/AtomVR/AtomVR/Content/Maps/Game/Level1.umap'
+[2023.12.25-23.00.22:755][283]LogFileHelpers: Saving map 'Level1' took 0.071
+[2023.12.25-23.00.22:755][283]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level1" FILE="../../../../../../Users/nick1/Documents/GitHub/AtomVR/AtomVR/Content/Maps/Level1.umap" SILENT=true
+[2023.12.25-23.00.22:756][283]LogSavePackage: Moving output files for package: /Game/Maps/Level1
+[2023.12.25-23.00.22:757][283]LogSavePackage: Moving '../../../../../../Users/nick1/Documents/GitHub/AtomVR/AtomVR/Saved/Level1686085E24A796EFEE1EFA2B66059F200.tmp' to '../../../../../../Users/nick1/Documents/GitHub/AtomVR/AtomVR/Content/Maps/Level1.umap'
+[2023.12.25-23.00.22:765][283]LogFileHelpers: InternalPromptForCheckoutAndSave took 167 ms (total: 59.9 sec)
+[2023.12.25-23.00.22:803][283]AssetCheck: New page: Asset Save: multiple assets
+[2023.12.25-23.00.22:803][283]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/Game/Level1.Level1
+[2023.12.25-23.00.22:803][283]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Maps/Level1.Level1
+[2023.12.25-23.00.23:685][369]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2023.12.25-23.00.39:855][496]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2023.12.25-23.00.43:083][715]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2023.12.25-23.00.47:468][839]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2023.12.25-23.00.53:753][315]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.12.25-23.00.53:775][315]LogContentBrowser: Creating deferred item: NewFolder
+[2023.12.25-23.00.53:806][316]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.12.25-23.00.56:375][449]LogContentBrowser: Attempting asset rename: NewFolder -> Lobby
+[2023.12.25-23.00.56:376][449]LogContentBrowser: End creating deferred item NewFolder
+[2023.12.25-23.01.18:282][637]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2023.12.25-23.01.21:550][841]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
