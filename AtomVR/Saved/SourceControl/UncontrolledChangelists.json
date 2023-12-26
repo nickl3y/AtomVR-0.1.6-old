@@ -9,7 +9,12 @@
 				"C:/Users/nick1/Documents/GitHub/AtomVR/AtomVR/Content/UI/PlayersWidget.uasset",
 				"C:/Users/nick1/Documents/GitHub/AtomVR/AtomVR/Content/UI/ServerInterface.uasset",
 				"C:/Users/nick1/Documents/GitHub/AtomVR/AtomVR/Content/Code/ServerSystem/PlayerControllerRoleSelectorGame.uasset",
-				"C:/Users/nick1/Documents/GitHub/AtomVR/AtomVR/Content/Code/Other/DefaultGamemode.uasset"
+				"C:/Users/nick1/Documents/GitHub/AtomVR/AtomVR/Content/Code/Other/DefaultGamemode.uasset",
+				"C:/Users/nick1/Documents/GitHub/AtomVR/AtomVR/Content/Code/Char/VRCharacterLobby.uasset",
+				"C:/Users/nick1/Documents/GitHub/AtomVR/AtomVR/Content/Maps/Lobby/ClientSetupMap.umap",
+				"C:/Users/nick1/Documents/GitHub/AtomVR/AtomVR/Content/Maps/SelectServer.umap",
+				"C:/Users/nick1/Documents/GitHub/AtomVR/AtomVR/Content/Code/ClientSetup/SettingsMenu.uasset",
+				"C:/Users/nick1/Documents/GitHub/AtomVR/AtomVR/Content/Code/ClientSetup/SettingsWidgetActor.uasset"
 			]
 		}
 	]

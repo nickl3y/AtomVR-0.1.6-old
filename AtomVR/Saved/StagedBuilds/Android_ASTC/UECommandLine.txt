@@ -1,0 +1,1 @@
+-project="../../../AtomVR/AtomVR.uproject" /Game/Maps/Lobby/lobby1 -Messaging
