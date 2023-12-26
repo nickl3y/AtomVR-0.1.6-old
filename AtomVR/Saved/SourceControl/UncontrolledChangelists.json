@@ -1,0 +1,14 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/nick1/Documents/GitHub/AtomVR/AtomVR/Content/Maps/Lobby/lobby1.umap",
+				"C:/Users/nick1/Documents/GitHub/AtomVR/AtomVR/Content/UI/PlayersWidget.uasset",
+				"C:/Users/nick1/Documents/GitHub/AtomVR/AtomVR/Content/UI/ServerInterface.uasset"
+			]
+		}
+	]
+}
