@@ -32,6 +32,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "C67EE414BA4B1589654A8BB2FFDE02E66FBA0D50",
+			"Assets": [
+				"/BlockoutToolsPlugin/Materials/M_BlockoutTools_Custom"
+			]
+		},
+		{
 			"ShaderMapHash": "BA2A3C17365E4505684ABB014F6E19C542D8DE94",
 			"Assets": [
 				"/OpenXR/Devices/MicrosoftMixedReality/MI_MicrosoftMixedReality",
@@ -39,6 +45,13 @@
 				"/OpenXR/Devices/OculusTouch_v2/MI_OculusTouch_v2",
 				"/OpenXR/Devices/OculusTouch_v3/MI_OculusTouch_v3",
 				"/OpenXR/Devices/ValveIndex/Left/MI_left_ValveIndex"
+			]
+		},
+		{
+			"ShaderMapHash": "198461185FB1BAA623C12C198BE4CBFA6CD58357",
+			"Assets": [
+				"/Engine/EngineMaterials/FlattenMaterial",
+				"/Engine/EngineMaterials/FlattenMaterial_VT"
 			]
 		},
 		{
@@ -78,6 +91,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "08B6B62CFBBCC8953A425A451A3F427E9DC08BD3",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultMaterial"
+			]
+		},
+		{
 			"ShaderMapHash": "8605262FE4BF3E5159BCE7CBFBFE31E8B8200532",
 			"Assets": [
 				"/Engine/EngineSky/M_SimpleSkyDome"
@@ -114,18 +133,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "8F138249E69A802BA0E9C9D4964BF9CD841F173E",
-			"Assets": [
-				"/BlockoutToolsPlugin/Materials/M_BlockoutTools_Grid"
-			]
-		},
-		{
-			"ShaderMapHash": "A813B154255A7EB28EB9575FE0627777A4D4A97F",
-			"Assets": [
-				"/Engine/EngineMaterials/DefaultMaterial"
-			]
-		},
-		{
 			"ShaderMapHash": "41E1A85C1C0BEDFB5D835A8F3BB766874E2260E9",
 			"Assets": [
 				"/Engine/EngineMaterials/Widget3DPassThrough_Masked"
@@ -144,22 +151,21 @@
 			]
 		},
 		{
-			"ShaderMapHash": "4C484678B6E31C7D05E12524F241AA51AB0D442A",
-			"Assets": [
-				"/SpeedTreeImporter/SpeedTree9/SpeedTreeMaster"
-			]
-		},
-		{
 			"ShaderMapHash": "7AB6257A62633871A52F618A10975C185D9BAD10",
 			"Assets": [
 				"/Engine/EngineMaterials/DefaultTextMaterialOpaque"
 			]
 		},
 		{
-			"ShaderMapHash": "91E2D280E23339E9007D9E34DB70AE4B38B337F4",
+			"ShaderMapHash": "8E5AD27B07552570ADACED9C5329C44F34EE0FCF",
 			"Assets": [
-				"/Engine/EngineMaterials/FlattenMaterial",
-				"/Engine/EngineMaterials/FlattenMaterial_VT"
+				"/Engine/EngineMaterials/WorldGridMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "3CCE8380F2EDF6533B0F32E5140AAA1976F03CB9",
+			"Assets": [
+				"/BlockoutToolsPlugin/Materials/M_BlockoutTools_Grid"
 			]
 		},
 		{
@@ -200,6 +206,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "0C810CA1801909F8348ADA84377A7D8B41FECC49",
+			"Assets": [
+				"/Engine/EngineMaterials/FlattenMaterial_WS_Normal_VT"
+			]
+		},
+		{
 			"ShaderMapHash": "987985A1483B0CF5778CDF233C586104DCD378EC",
 			"Assets": [
 				"/Engine/VREditor/SnapGrid/SnapGridMaterial"
@@ -218,12 +230,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "1DF7C6A95429D6555AC038BECA1D175A2EF4BE85",
-			"Assets": [
-				"/Engine/EngineMaterials/WorldGridMaterial"
-			]
-		},
-		{
 			"ShaderMapHash": "A2E288B1ED9075EAD6592CA40944D4D17B13A439",
 			"Assets": [
 				"/Engine/EngineMaterials/EmissiveMeshMaterial"
@@ -236,15 +242,15 @@
 			]
 		},
 		{
-			"ShaderMapHash": "626F13B3B64159CB6EE647D0C24E04F5A44E0239",
-			"Assets": [
-				"/BlockoutToolsPlugin/Materials/M_BlockoutTools_Custom"
-			]
-		},
-		{
 			"ShaderMapHash": "4C1309B593F457967CBD7585735CDF51B7E05B85",
 			"Assets": [
 				"/Engine/EngineMaterials/M_InvalidLightmapSettings"
+			]
+		},
+		{
+			"ShaderMapHash": "278EE1B7DFEA14945C3133F59149FD9D145F0B41",
+			"Assets": [
+				"/SpeedTreeImporter/SpeedTree9/SpeedTreeMaster"
 			]
 		},
 		{
@@ -287,12 +293,6 @@
 			"ShaderMapHash": "6F126EE4A372336F2F7365D8BCB281B284D78D54",
 			"Assets": [
 				"/Engine/EngineMaterials/GizmoMaterial"
-			]
-		},
-		{
-			"ShaderMapHash": "A80027E91099A932FABEB2E0727659077E969EA7",
-			"Assets": [
-				"/Engine/EngineMaterials/FlattenMaterial_WS_Normal_VT"
 			]
 		},
 		{
