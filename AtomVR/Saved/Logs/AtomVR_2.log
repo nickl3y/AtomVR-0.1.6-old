@@ -1550,3 +1550,619 @@ Make sure 'ServerInterface' has been compiled for  Update Players
 [2023.12.26-01.19.45:940][528]AssetCheck: New page: Asset Save: multiple assets
 [2023.12.26-01.19.45:940][528]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/PlayersWidget.PlayersWidget
 [2023.12.26-01.19.45:940][528]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/ServerInterface.ServerInterface
+[2023.12.26-01.20.06:266][789]LogScript: Warning: Accessed None trying to read property State
+	PlayerSlot_C /Engine/Transient.World_3:PlayerSlot_C_4
+	Function /Game/UI/PlayerSlot.PlayerSlot_C:ExecuteUbergraph_PlayerSlot:0031
+[2023.12.26-01.20.08:558][949]LogSlate: Window 'PlayersWidget' being destroyed
+[2023.12.26-01.20.08:562][949]LogSlate: Window 'PlayersWidget' being destroyed
+[2023.12.26-01.20.08:575][949]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2023.12.26-01.20.08:575][949]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.26-01.20.08:583][949]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2023.12.26-01.20.08:583][949]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.26-01.20.08:619][949]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2023.12.26-01.20.08:619][949]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.26-01.20.08:626][949]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2023.12.26-01.20.08:626][949]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.26-01.20.08:653][949]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2023.12.26-01.20.08:653][949]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.26-01.20.08:659][949]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2023.12.26-01.20.08:659][949]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.26-01.20.10:649][ 55]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2023.12.26-01.20.11:661][156]LogDerivedDataCache: C:/Users/nick1/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:02:35.955 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 107378 files in 53745 folders with total size 21853 MiB.
+[2023.12.26-01.20.11:689][160]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.12.26-01.20.11:695][160]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.12.26-01.20.11:695][160]PIE: New page: PIE session: lobby1 (26 дек. 2023 г., 11:20:11)
+[2023.12.26-01.20.11:699][160]LogOnline: OSS: Created online subsystem instance for: NULL
+[2023.12.26-01.20.11:699][160]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for type [NULL]
+[2023.12.26-01.20.11:699][160]LogPlayLevel: Creating play world package: /Game/Maps/Lobby/UEDPIE_0_lobby1
+[2023.12.26-01.20.11:703][160]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003666s)
+[2023.12.26-01.20.11:703][160]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Lobby/lobby1.lobby1 to /Game/Maps/Lobby/UEDPIE_0_lobby1.lobby1 (0.003703s)
+[2023.12.26-01.20.11:718][160]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2023.12.26-01.20.11:719][160]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.26-01.20.11:720][160]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.26-01.20.11:720][160]LogAIModule: Creating AISystem for world lobby1
+[2023.12.26-01.20.11:720][160]LogPlayLevel: PIE: World Init took: (0.000885s)
+[2023.12.26-01.20.11:720][160]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2023.12.26-01.20.11:720][160]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.12.26-01.20.11:720][160]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.12.26-01.20.11:720][160]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.12.26-01.20.11:720][160]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.12.26-01.20.11:720][160]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.12.26-01.20.11:720][160]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.12.26-01.20.11:720][160]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.12.26-01.20.11:720][160]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.12.26-01.20.11:721][160]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.12.26-01.20.11:721][160]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.12.26-01.20.11:721][160]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.12.26-01.20.11:723][160]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.12.26-01.20.11:753][160]LogAudioMixer: Display: Using Audio Hardware Device Наушники (Realtek(R) Audio)
+[2023.12.26-01.20.11:754][160]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.12.26-01.20.11:754][160]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.12.26-01.20.11:754][160]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.12.26-01.20.11:755][160]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2023.12.26-01.20.11:755][160]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2023.12.26-01.20.11:756][160]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2023.12.26-01.20.11:756][160]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2023.12.26-01.20.11:756][160]LogInit: FAudioDevice initialized with ID 2.
+[2023.12.26-01.20.11:756][160]LogAudio: Display: Audio Device (ID: 2) registered with world 'lobby1'.
+[2023.12.26-01.20.11:756][160]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2023.12.26-01.20.11:759][160]LogLoad: Game class is 'LobbyGamemode_C'
+[2023.12.26-01.20.11:760][160]LogWorld: Bringing World /Game/Maps/Lobby/UEDPIE_0_lobby1.lobby1 up for play (max tick rate 0) at 2023.12.26-06.20.11
+[2023.12.26-01.20.11:760][160]LogWorld: Bringing up level for play took: 0.000835
+[2023.12.26-01.20.11:762][160]LogOnline: OSS: Created online subsystem instance for: :Context_7
+[2023.12.26-01.20.11:768][160]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.12.26-01.20.11:768][160]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2023.12.26-01.20.11:769][160]PIE: Server logged in
+[2023.12.26-01.20.11:769][160]PIE: Play in editor total start time 0,075 seconds.
+[2023.12.26-01.20.11:845][163]LogScript: Warning: Accessed None trying to read property State
+	PlayerSlot_C /Game/Maps/Lobby/lobby1.lobby1:PlayerSlot_C_3
+	Function /Game/UI/PlayerSlot.PlayerSlot_C:ExecuteUbergraph_PlayerSlot:0031
+[2023.12.26-01.20.16:126][601]Cmd: servertravel Level2
+[2023.12.26-01.20.16:128][601]LogAssetRegistry: Warning: GetFirstPackageByName('Level2') is returning '/Game/Maps/Game/Level2', but it also found '/Game/Maps/Level2'.
+[2023.12.26-01.20.16:128][601]LogGameMode: ProcessServerTravel: /Game/Maps/Game/Level2
+[2023.12.26-01.20.16:131][601]LogEngine: Server switch level: /Game/Maps/Game/Level2
+[2023.12.26-01.20.16:131][601]LogNet: Browse: /Game/Maps/Game/Level2
+[2023.12.26-01.20.16:131][601]LogLoad: LoadMap: /Game/Maps/Game/Level2
+[2023.12.26-01.20.16:131][601]LogWorld: BeginTearingDown for /Game/Maps/Lobby/UEDPIE_0_lobby1
+[2023.12.26-01.20.16:132][601]LogWorld: UWorld::CleanupWorld for lobby1, bSessionEnded=true, bCleanupResources=true
+[2023.12.26-01.20.16:132][601]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.26-01.20.16:146][601]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.12.26-01.20.16:148][601]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2023.12.26-01.20.16:223][601]LogAudio: Display: Audio Device (ID: 2) registered with world 'Level2'.
+[2023.12.26-01.20.16:223][601]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.26-01.20.16:223][601]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.26-01.20.16:224][601]LogAIModule: Creating AISystem for world Level2
+[2023.12.26-01.20.16:224][601]LogPlayLevel: PIE: World Init took: (0.001027s)
+[2023.12.26-01.20.16:228][601]LogLoad: Game class is 'DefaultGamemode_C'
+[2023.12.26-01.20.16:229][601]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Assets/AssetsvilleTown/Meshes/BuildingTilset/SM_bars_01.SM_bars_01 being ready before playing
+[2023.12.26-01.20.16:229][601]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Assets/AssetsvilleTown/Meshes/BuildingTilset/SM_bars_01_door.SM_bars_01_door being ready before playing
+[2023.12.26-01.20.16:229][601]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Assets/AssetsvilleTown/Meshes/BuildingTilset/SM_carpet_01.SM_carpet_01 being ready before playing
+[2023.12.26-01.20.16:229][601]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Assets/AssetsvilleTown/Meshes/BuildingTilset/SM_depositBoxes.SM_depositBoxes being ready before playing
+[2023.12.26-01.20.16:229][601]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Assets/AssetsvilleTown/Meshes/BuildingTilset/SM_floor_02.SM_floor_02 being ready before playing
+[2023.12.26-01.20.16:229][601]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Assets/AssetsvilleTown/Meshes/BuildingTilset/SM_roof_01.SM_roof_01 being ready before playing
+[2023.12.26-01.20.16:229][601]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Assets/AssetsvilleTown/Meshes/BuildingTilset/SM_wall_01_half.SM_wall_01_half being ready before playing
+[2023.12.26-01.20.16:229][601]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Assets/AssetsvilleTown/Meshes/BuildingTilset/SM_wall_BankSafe.SM_wall_BankSafe being ready before playing
+[2023.12.26-01.20.16:229][601]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Assets/AssetsvilleTown/Meshes/BuildingTilset/SM_wallAttic_01_corner.SM_wallAttic_01_corner being ready before playing
+[2023.12.26-01.20.16:229][601]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Assets/AssetsvilleTown/Meshes/BuildingTilset/SM_window_03_half.SM_window_03_half being ready before playing
+[2023.12.26-01.20.16:229][601]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Assets/AssetsvilleTown/Meshes/BuildingTilset/SM_window_03_offset.SM_window_03_offset being ready before playing
+[2023.12.26-01.20.16:229][601]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Assets/AssetsvilleTown/Meshes/BuildingTilset/SM_window_06_half.SM_window_06_half being ready before playing
+[2023.12.26-01.20.16:229][601]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Assets/AssetsvilleTown/Meshes/StreetProps/SM_billboardLight_01.SM_billboardLight_01 being ready before playing
+[2023.12.26-01.20.16:229][601]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Assets/AssetsvilleTown/Meshes/StreetProps/SM_box.SM_box being ready before playing
+[2023.12.26-01.20.16:229][601]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Assets/AssetsvilleTown/Meshes/StreetProps/SM_carton_box_2.SM_carton_box_2 being ready before playing
+[2023.12.26-01.20.16:229][601]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Assets/AssetsvilleTown/Meshes/StreetProps/SM_carton_box_2_set.SM_carton_box_2_set being ready before playing
+[2023.12.26-01.20.16:229][601]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Assets/AssetsvilleTown/Meshes/StreetProps/SM_carton_flat.SM_carton_flat being ready before playing
+[2023.12.26-01.20.16:229][601]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Assets/AssetsvilleTown/Meshes/StreetProps/SM_carton_flat_set.SM_carton_flat_set being ready before playing
+[2023.12.26-01.20.16:229][601]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Assets/AssetsvilleTown/Meshes/StreetProps/SM_crate_1_set.SM_crate_1_set being ready before playing
+[2023.12.26-01.20.16:229][601]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Assets/AssetsvilleTown/Meshes/StreetProps/SM_Drugs_01.SM_Drugs_01 being ready before playing
+[2023.12.26-01.20.16:229][601]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Assets/AssetsvilleTown/Meshes/StreetProps/SM_hammer.SM_hammer being ready before playing
+[2023.12.26-01.20.16:229][601]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Assets/AssetsvilleTown/Meshes/StreetProps/SM_metal_box_2.SM_metal_box_2 being ready before playing
+[2023.12.26-01.20.16:229][601]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Assets/AssetsvilleTown/Meshes/StreetProps/SM_metal_box_3.SM_metal_box_3 being ready before playing
+[2023.12.26-01.20.16:229][601]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Assets/AssetsvilleTown/Meshes/StreetProps/SM_newspaperSingle.SM_newspaperSingle being ready before playing
+[2023.12.26-01.20.16:229][601]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Assets/AssetsvilleTown/Meshes/StreetProps/SM_newspaperStack.SM_newspaperStack being ready before playing
+[2023.12.26-01.20.16:229][601]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Assets/AssetsvilleTown/Meshes/StreetProps/SM_paint_bucket_1.SM_paint_bucket_1 being ready before playing
+[2023.12.26-01.20.16:229][601]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Assets/AssetsvilleTown/Meshes/StreetProps/SM_paint_bucket_3.SM_paint_bucket_3 being ready before playing
+[2023.12.26-01.20.16:229][601]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Assets/AssetsvilleTown/Meshes/StreetProps/SM_palette_euro.SM_palette_euro being ready before playing
+[2023.12.26-01.20.16:229][601]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Assets/AssetsvilleTown/Meshes/StreetProps/SM_road_cone.SM_road_cone being ready before playing
+[2023.12.26-01.20.16:229][601]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Assets/AssetsvilleTown/Meshes/StreetProps/SM_TireSet_02.SM_TireSet_02 being ready before playing
+[2023.12.26-01.20.16:229][601]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Assets/AssetsvilleTown/Meshes/StreetProps/SM_trash_bag.SM_trash_bag being ready before playing
+[2023.12.26-01.20.16:229][601]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Assets/AssetsvilleTown/Meshes/StreetProps/SM_trash_bin_1.SM_trash_bin_1 being ready before playing
+[2023.12.26-01.20.16:229][601]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Assets/AssetsvilleTown/Meshes/StreetProps/SM_trash_bin_1b.SM_trash_bin_1b being ready before playing
+[2023.12.26-01.20.16:229][601]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Assets/AssetsvilleTown/Meshes/StreetProps/SM_trash_bin_4.SM_trash_bin_4 being ready before playing
+[2023.12.26-01.20.16:229][601]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Assets/AssetsvilleTown/Meshes/StreetProps/SM_trash_bin_bigOpen.SM_trash_bin_bigOpen being ready before playing
+[2023.12.26-01.20.16:229][601]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Assets/AssetsvilleTown/Meshes/StreetProps/SM_vending_machine_1.SM_vending_machine_1 being ready before playing
+[2023.12.26-01.20.16:229][601]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Assets/AssetsvilleTown/Meshes/StreetProps/SM_wooden_blocks.SM_wooden_blocks being ready before playing
+[2023.12.26-01.20.16:235][601]LogWorld: Bringing World /Game/Maps/Game/UEDPIE_0_Level2.Level2 up for play (max tick rate 0) at 2023.12.26-06.20.16
+[2023.12.26-01.20.16:235][601]LogWorld: Bringing up level for play took: 0.004081
+[2023.12.26-01.20.16:235][601]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.12.26-01.20.16:236][601]LogLoad: Took 0.105678 seconds to LoadMap(/Game/Maps/Game/Level2)
+[2023.12.26-01.20.16:269][602]LogShaderCompilers: Display: ================================================
+[2023.12.26-01.20.16:269][602]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.12.26-01.20.16:269][602]LogShaderCompilers: Display: Total job queries 21, among them cache hits 1 (4.76%)
+[2023.12.26-01.20.16:269][602]LogShaderCompilers: Display: Tracking 20 distinct input hashes that result in 16 distinct outputs (80.00%)
+[2023.12.26-01.20.16:269][602]LogShaderCompilers: Display: RAM used: 603,89 KiB of 716,80 MiB budget. Usage: 0.08%
+[2023.12.26-01.20.16:269][602]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.12.26-01.20.16:269][602]LogShaderCompilers: Display: Shaders Compiled: 0
+[2023.12.26-01.20.16:269][602]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0%)
+[2023.12.26-01.20.16:269][602]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2023.12.26-01.20.16:269][602]LogShaderCompilers: Display: ================================================
+[2023.12.26-01.20.16:429][606]LogScript: Warning: Accessed None trying to read property State
+	PlayerSlot_C /Game/Maps/Lobby/lobby1.lobby1:PlayerSlot_C_4
+	Function /Game/UI/PlayerSlot.PlayerSlot_C:ExecuteUbergraph_PlayerSlot:0031
+[2023.12.26-01.20.28:102][851]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.26-01.20.28:102][851]LogWorld: BeginTearingDown for /Game/Maps/Game/UEDPIE_0_Level2
+[2023.12.26-01.20.28:102][851]LogWorld: UWorld::CleanupWorld for Level2, bSessionEnded=true, bCleanupResources=true
+[2023.12.26-01.20.28:102][851]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.26-01.20.28:105][851]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.12.26-01.20.28:109][851]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.26-01.20.28:123][851]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.12.26-01.20.28:123][851]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2023.12.26-01.20.28:123][851]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2023.12.26-01.20.28:125][851]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2023.12.26-01.20.28:132][851]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.26-01.20.28:135][851]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2023.12.26-01.20.28:174][853]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2023.12.26-01.20.28:210][854]LogScript: Warning: Accessed None trying to read property State
+	PlayerSlot_C /Game/Maps/Lobby/lobby1.lobby1:PlayerSlot_C_5
+	Function /Game/UI/PlayerSlot.PlayerSlot_C:ExecuteUbergraph_PlayerSlot:0031
+[2023.12.26-01.20.29:238][955]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/ServerGameInterface.ServerGameInterface
+[2023.12.26-01.20.29:239][955]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.26-01.20.29:239][955]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.26-01.20.29:245][955]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.26-01.20.29:245][955]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.26-01.20.33:798][260]LogSlate: Window 'ServerGameInterface' being destroyed
+[2023.12.26-01.20.33:802][260]LogSlate: Window 'ServerGameInterface' being destroyed
+[2023.12.26-01.20.33:831][260]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2023.12.26-01.20.33:831][260]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.26-01.20.33:838][260]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2023.12.26-01.20.33:838][260]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.26-01.20.34:944][370]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2023.12.26-01.20.39:313][827]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2023.12.26-01.20.39:315][827]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Lobby/lobby1.lobby1
+[2023.12.26-01.20.39:315][827]Cmd: MAP LOAD FILE="../../../../../../Users/nick1/Documents/GitHub/AtomVR/AtomVR/Content/Maps/Lobby/lobby1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2023.12.26-01.20.39:315][827]LightingResults: New page: Lighting Build
+[2023.12.26-01.20.39:315][827]LoadErrors: New page: Loading map: lobby1.umap
+[2023.12.26-01.20.39:382][827]LogWorld: UWorld::CleanupWorld for lobby1, bSessionEnded=true, bCleanupResources=true
+[2023.12.26-01.20.39:382][827]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.26-01.20.39:382][827]MapCheck: New page: Map Check
+[2023.12.26-01.20.39:382][827]LightingResults: New page: Lighting Build
+[2023.12.26-01.20.39:393][827]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.12.26-01.20.39:396][827]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2023.12.26-01.20.39:399][827]LogWorld: UWorld::CleanupWorld for SelectServer, bSessionEnded=true, bCleanupResources=true
+[2023.12.26-01.20.39:399][827]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.26-01.20.39:412][827]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2023.12.26-01.20.39:427][827]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2023.12.26-01.20.39:433][827]LogAudio: Display: Audio Device (ID: 1) registered with world 'lobby1'.
+[2023.12.26-01.20.39:433][827]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.26-01.20.39:433][827]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.26-01.20.39:433][827]LogAIModule: Creating AISystem for world lobby1
+[2023.12.26-01.20.39:529][827]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.12.26-01.20.39:545][827]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2023.12.26-01.20.39:550][827]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.12.26-01.20.39:550][827]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,106ms to complete.
+[2023.12.26-01.20.40:795][943]LogSlate: Took 0.000101 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.12.26-01.20.44:559][325]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2023.12.26-01.20.50:627][948]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Code/ServerSystem/ServerPawn.ServerPawn
+[2023.12.26-01.20.50:627][948]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.26-01.20.50:627][948]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.26-01.21.01:154][546]LogSlate: Window 'ServerPawn' being destroyed
+[2023.12.26-01.21.01:158][546]LogSlate: Window 'ServerPawn' being destroyed
+[2023.12.26-01.21.01:161][546]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2023.12.26-01.21.01:162][546]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.26-01.21.02:198][642]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2023.12.26-01.21.03:434][765]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Code/ServerSystem/PlayerControllerRoleSelector.PlayerControllerRoleSelector
+[2023.12.26-01.21.03:435][765]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.26-01.21.03:435][765]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.26-01.21.08:835][154]LogContentBrowser: Deferred new asset file creation: PlayerControllerRoleSelector1
+[2023.12.26-01.21.08:848][154]LogContentBrowser: Creating deferred item: PlayerControllerRoleSelector1
+[2023.12.26-01.21.08:863][155]LogContentBrowser: Renaming the item being created (Deferred Item: PlayerControllerRoleSelector1).
+[2023.12.26-01.21.17:566][ 61]LogContentBrowser: Attempting asset rename: PlayerControllerRoleSelector1 -> PlayerControllerRoleSelectorGame
+[2023.12.26-01.21.17:584][ 61]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2023.12.26-01.21.17:587][ 61]LogAssetRegistry: Warning: ScanPathsSynchronous: Package /Game/Code/ServerSystem/PlayerControllerRoleSelectorGame does not exist, will not scan.
+[2023.12.26-01.21.17:597][ 61]LogContentBrowser: End creating deferred item PlayerControllerRoleSelector1
+[2023.12.26-01.21.20:514][347]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Code/ServerSystem/PlayerControllerRoleSelectorGame.PlayerControllerRoleSelectorGame
+[2023.12.26-01.21.20:515][347]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.26-01.21.20:515][347]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.26-01.21.28:252][791]BlueprintLog: New page: Compile PlayerControllerRoleSelectorGame
+[2023.12.26-01.21.28:283][791]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2023.12.26-01.21.29:428][854]LogSlate: Window 'PlayerControllerRoleSelectorGame' being destroyed
+[2023.12.26-01.21.29:432][854]LogSlate: Window 'PlayerControllerRoleSelectorGame' being destroyed
+[2023.12.26-01.21.29:436][854]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2023.12.26-01.21.29:436][854]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.26-01.21.29:477][854]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.12.26-01.21.29:477][854]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2023.12.26-01.21.29:477][854]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.26-01.21.30:256][921]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2023.12.26-01.21.30:895][921]LogSlate: Window 'Save Content' being destroyed
+[2023.12.26-01.21.30:904][921]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.26-01.21.30:995][921]LogSavePackage: Moving output files for package: /Game/Code/ServerSystem/PlayerControllerRoleSelectorGame
+[2023.12.26-01.21.30:996][921]LogSavePackage: Moving '../../../../../../Users/nick1/Documents/GitHub/AtomVR/AtomVR/Saved/PlayerControllerRoleSelectorGame7BA6F16B40321D8212C80786C6AF4B8B.tmp' to '../../../../../../Users/nick1/Documents/GitHub/AtomVR/AtomVR/Content/Code/ServerSystem/PlayerControllerRoleSelectorGame.uasset'
+[2023.12.26-01.21.31:005][921]LogFileHelpers: InternalPromptForCheckoutAndSave took 100 ms (total: 455 ms)
+[2023.12.26-01.21.31:006][921]AssetCheck: New page: Asset Save: PlayerControllerRoleSelectorGame
+[2023.12.26-01.21.31:006][921]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Code/ServerSystem/PlayerControllerRoleSelectorGame.PlayerControllerRoleSelectorGame
+[2023.12.26-01.21.31:823][  4]LogScript: Warning: Accessed None trying to read property State
+	PlayerSlot_C /Game/Maps/Lobby/lobby1.lobby1:PlayerSlot_C_1
+	Function /Game/UI/PlayerSlot.PlayerSlot_C:ExecuteUbergraph_PlayerSlot:0031
+[2023.12.26-01.21.31:834][  5]LogScript: Warning: Accessed None trying to read property State
+	PlayerSlot_C /Game/Maps/Lobby/lobby1.lobby1:PlayerSlot_C_1
+	Function /Game/UI/PlayerSlot.PlayerSlot_C:ExecuteUbergraph_PlayerSlot:0031
+[2023.12.26-01.21.31:845][  6]LogScript: Warning: Accessed None trying to read property State
+	PlayerSlot_C /Game/Maps/Lobby/lobby1.lobby1:PlayerSlot_C_1
+	Function /Game/UI/PlayerSlot.PlayerSlot_C:ExecuteUbergraph_PlayerSlot:0031
+[2023.12.26-01.21.32:817][ 99]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2023.12.26-01.21.38:289][661]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Code/Other/DefaultGamemode.DefaultGamemode
+[2023.12.26-01.21.38:289][661]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.26-01.21.38:289][661]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.26-01.21.43:991][  2]LogSlate: Window 'DefaultGamemode' being destroyed
+[2023.12.26-01.21.43:995][  2]LogSlate: Window 'DefaultGamemode' being destroyed
+[2023.12.26-01.21.43:999][  2]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2023.12.26-01.21.43:999][  2]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.26-01.21.45:077][109]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.12.26-01.21.45:084][109]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.12.26-01.21.45:084][109]LogPlayLevel: [PlayLevel] Compiling DefaultGamemode before play...
+[2023.12.26-01.21.45:102][109]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2023.12.26-01.21.45:105][109]LogPlayLevel: PlayLevel: Blueprint regeneration took 21 ms (1 blueprints)
+[2023.12.26-01.21.45:105][109]PIE: New page: PIE session: lobby1 (26 дек. 2023 г., 11:21:45)
+[2023.12.26-01.21.45:106][109]LogPlayLevel: Creating play world package: /Game/Maps/Lobby/UEDPIE_0_lobby1
+[2023.12.26-01.21.45:109][109]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003651s)
+[2023.12.26-01.21.45:109][109]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Lobby/lobby1.lobby1 to /Game/Maps/Lobby/UEDPIE_0_lobby1.lobby1 (0.003679s)
+[2023.12.26-01.21.45:124][109]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2023.12.26-01.21.45:125][109]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.26-01.21.45:125][109]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.26-01.21.45:126][109]LogAIModule: Creating AISystem for world lobby1
+[2023.12.26-01.21.45:126][109]LogPlayLevel: PIE: World Init took: (0.000971s)
+[2023.12.26-01.21.45:126][109]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2023.12.26-01.21.45:126][109]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.12.26-01.21.45:126][109]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.12.26-01.21.45:126][109]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.12.26-01.21.45:126][109]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.12.26-01.21.45:126][109]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.12.26-01.21.45:126][109]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.12.26-01.21.45:126][109]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.12.26-01.21.45:126][109]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.12.26-01.21.45:127][109]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.12.26-01.21.45:127][109]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.12.26-01.21.45:127][109]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.12.26-01.21.45:129][109]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.12.26-01.21.45:158][109]LogAudioMixer: Display: Using Audio Hardware Device Наушники (Realtek(R) Audio)
+[2023.12.26-01.21.45:158][109]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.12.26-01.21.45:158][109]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.12.26-01.21.45:158][109]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.12.26-01.21.45:159][109]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2023.12.26-01.21.45:159][109]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2023.12.26-01.21.45:161][109]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2023.12.26-01.21.45:161][109]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2023.12.26-01.21.45:161][109]LogInit: FAudioDevice initialized with ID 3.
+[2023.12.26-01.21.45:161][109]LogAudio: Display: Audio Device (ID: 3) registered with world 'lobby1'.
+[2023.12.26-01.21.45:161][109]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2023.12.26-01.21.45:164][109]LogLoad: Game class is 'LobbyGamemode_C'
+[2023.12.26-01.21.45:165][109]LogWorld: Bringing World /Game/Maps/Lobby/UEDPIE_0_lobby1.lobby1 up for play (max tick rate 0) at 2023.12.26-06.21.45
+[2023.12.26-01.21.45:165][109]LogWorld: Bringing up level for play took: 0.000815
+[2023.12.26-01.21.45:167][109]LogOnline: OSS: Created online subsystem instance for: :Context_14
+[2023.12.26-01.21.45:170][109]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.12.26-01.21.45:170][109]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2023.12.26-01.21.45:170][109]PIE: Server logged in
+[2023.12.26-01.21.45:171][109]PIE: Play in editor total start time 0,087 seconds.
+[2023.12.26-01.21.47:113][312]Cmd: servertravel Level2
+[2023.12.26-01.21.47:115][312]LogAssetRegistry: Warning: GetFirstPackageByName('Level2') is returning '/Game/Maps/Game/Level2', but it also found '/Game/Maps/Level2'.
+[2023.12.26-01.21.47:115][312]LogGameMode: ProcessServerTravel: /Game/Maps/Game/Level2
+[2023.12.26-01.21.47:117][312]LogEngine: Server switch level: /Game/Maps/Game/Level2
+[2023.12.26-01.21.47:117][312]LogNet: Browse: /Game/Maps/Game/Level2
+[2023.12.26-01.21.47:117][312]LogLoad: LoadMap: /Game/Maps/Game/Level2
+[2023.12.26-01.21.47:117][312]LogWorld: BeginTearingDown for /Game/Maps/Lobby/UEDPIE_0_lobby1
+[2023.12.26-01.21.47:118][312]LogWorld: UWorld::CleanupWorld for lobby1, bSessionEnded=true, bCleanupResources=true
+[2023.12.26-01.21.47:118][312]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.26-01.21.47:165][312]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.12.26-01.21.47:167][312]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2023.12.26-01.21.47:177][312]LogAudio: Display: Audio Device (ID: 3) registered with world 'Level2'.
+[2023.12.26-01.21.47:177][312]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.26-01.21.47:177][312]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.26-01.21.47:178][312]LogAIModule: Creating AISystem for world Level2
+[2023.12.26-01.21.47:178][312]LogPlayLevel: PIE: World Init took: (0.000767s)
+[2023.12.26-01.21.47:178][312]LogLoad: Game class is 'DefaultGamemode_C'
+[2023.12.26-01.21.47:181][312]LogWorld: Bringing World /Game/Maps/Game/UEDPIE_0_Level2.Level2 up for play (max tick rate 0) at 2023.12.26-06.21.47
+[2023.12.26-01.21.47:182][312]LogWorld: Bringing up level for play took: 0.003516
+[2023.12.26-01.21.47:182][312]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.12.26-01.21.47:183][312]LogScript: Warning: Script Msg: Attempted to access random index from empty array!
+[2023.12.26-01.21.47:183][312]LogScript: Warning: Script Msg called by: PlayerControllerRoleSelectorGame_C /Game/Maps/Game/UEDPIE_0_Level2.Level2:PersistentLevel.PlayerControllerRoleSelectorGame_C_0
+[2023.12.26-01.21.47:183][312]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Random_OutItem_1
+	PlayerControllerRoleSelectorGame_C /Game/Maps/Game/UEDPIE_0_Level2.Level2:PersistentLevel.PlayerControllerRoleSelectorGame_C_0
+	Function /Game/Code/ServerSystem/PlayerControllerRoleSelectorGame.PlayerControllerRoleSelectorGame_C:ExecuteUbergraph_PlayerControllerRoleSelectorGame:022D
+[2023.12.26-01.21.47:183][312]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Random_OutItem_1". Node:  SpawnActor Server Pawn Graph:  EventGraph Function:  Execute Ubergraph Player Controller Role Selector Game Blueprint:  PlayerControllerRoleSelectorGame
+[2023.12.26-01.21.47:183][312]LogScript: Warning: Script Msg: Attempted to access random index from empty array!
+[2023.12.26-01.21.47:183][312]LogScript: Warning: Script Msg called by: PlayerControllerRoleSelectorGame_C /Game/Maps/Game/UEDPIE_0_Level2.Level2:PersistentLevel.PlayerControllerRoleSelectorGame_C_0
+[2023.12.26-01.21.47:183][312]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Random_OutItem_1
+	PlayerControllerRoleSelectorGame_C /Game/Maps/Game/UEDPIE_0_Level2.Level2:PersistentLevel.PlayerControllerRoleSelectorGame_C_0
+	Function /Game/Code/ServerSystem/PlayerControllerRoleSelectorGame.PlayerControllerRoleSelectorGame_C:ExecuteUbergraph_PlayerControllerRoleSelectorGame:02C8
+[2023.12.26-01.21.47:183][312]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Random_OutItem_1". Node:  SpawnActor Server Pawn Graph:  EventGraph Function:  Execute Ubergraph Player Controller Role Selector Game Blueprint:  PlayerControllerRoleSelectorGame
+[2023.12.26-01.21.47:184][312]LogLoad: Took 0.066580 seconds to LoadMap(/Game/Maps/Game/Level2)
+[2023.12.26-01.21.49:255][524]Cmd: servertravel lobby1
+[2023.12.26-01.21.49:257][524]LogGameMode: ProcessServerTravel: /Game/Maps/Lobby/lobby1
+[2023.12.26-01.21.49:259][524]LogEngine: Server switch level: /Game/Maps/Lobby/lobby1
+[2023.12.26-01.21.49:259][524]LogNet: Browse: /Game/Maps/Lobby/lobby1
+[2023.12.26-01.21.49:259][524]LogLoad: LoadMap: /Game/Maps/Lobby/lobby1
+[2023.12.26-01.21.49:259][524]LogWorld: BeginTearingDown for /Game/Maps/Game/UEDPIE_0_Level2
+[2023.12.26-01.21.49:260][524]LogWorld: UWorld::CleanupWorld for Level2, bSessionEnded=true, bCleanupResources=true
+[2023.12.26-01.21.49:260][524]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.26-01.21.49:296][524]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.12.26-01.21.49:299][524]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2023.12.26-01.21.49:301][524]LogPlayLevel: Creating play world package: /Game/Maps/Lobby/UEDPIE_0_lobby1
+[2023.12.26-01.21.49:304][524]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003647s)
+[2023.12.26-01.21.49:304][524]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Lobby/lobby1.lobby1 to /Game/Maps/Lobby/UEDPIE_0_lobby1.lobby1 (0.003691s)
+[2023.12.26-01.21.49:305][524]LogAudio: Display: Audio Device (ID: 3) registered with world 'lobby1'.
+[2023.12.26-01.21.49:305][524]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.26-01.21.49:305][524]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.26-01.21.49:305][524]LogAIModule: Creating AISystem for world lobby1
+[2023.12.26-01.21.49:305][524]LogPlayLevel: PIE: World Init took: (0.000773s)
+[2023.12.26-01.21.49:305][524]LogLoad: Game class is 'LobbyGamemode_C'
+[2023.12.26-01.21.49:306][524]LogWorld: Bringing World /Game/Maps/Lobby/UEDPIE_0_lobby1.lobby1 up for play (max tick rate 0) at 2023.12.26-06.21.49
+[2023.12.26-01.21.49:306][524]LogWorld: Bringing up level for play took: 0.000592
+[2023.12.26-01.21.49:309][524]LogLoad: Took 0.049642 seconds to LoadMap(/Game/Maps/Lobby/UEDPIE_0_lobby1)
+[2023.12.26-01.21.51:784][778]Cmd: servertravel Level1
+[2023.12.26-01.21.51:786][778]LogAssetRegistry: Warning: GetFirstPackageByName('Level1') is returning '/Game/Maps/Game/Level1', but it also found '/Game/Maps/Level1'.
+[2023.12.26-01.21.51:786][778]LogGameMode: ProcessServerTravel: /Game/Maps/Game/Level1
+[2023.12.26-01.21.51:788][778]LogEngine: Server switch level: /Game/Maps/Game/Level1
+[2023.12.26-01.21.51:788][778]LogNet: Browse: /Game/Maps/Game/Level1
+[2023.12.26-01.21.51:788][778]LogLoad: LoadMap: /Game/Maps/Game/Level1
+[2023.12.26-01.21.51:788][778]LogWorld: BeginTearingDown for /Game/Maps/Lobby/UEDPIE_0_lobby1
+[2023.12.26-01.21.51:789][778]LogWorld: UWorld::CleanupWorld for lobby1, bSessionEnded=true, bCleanupResources=true
+[2023.12.26-01.21.51:789][778]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.26-01.21.51:832][778]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.12.26-01.21.51:835][778]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2023.12.26-01.21.51:989][778]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2023.12.26-01.21.52:039][778]LogAudio: Display: Audio Device (ID: 3) registered with world 'Level1'.
+[2023.12.26-01.21.52:039][778]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.26-01.21.52:039][778]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.26-01.21.52:039][778]LogAIModule: Creating AISystem for world Level1
+[2023.12.26-01.21.52:040][778]LogPlayLevel: PIE: World Init took: (0.000888s)
+[2023.12.26-01.21.52:040][778]LogLoad: Game class is 'DefaultGamemode_C'
+[2023.12.26-01.21.52:041][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Assets/PolygonMilitary/Meshes/Environment/SM_Env_Rock_05.SM_Env_Rock_05 being ready before playing
+[2023.12.26-01.21.52:041][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Assets/PolygonMilitary/Meshes/Environment/SM_Env_Plant_Tall_02.SM_Env_Plant_Tall_02 being ready before playing
+[2023.12.26-01.21.52:041][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Assets/PolygonMilitary/Meshes/Environment/SM_Env_Plant_Tall_01.SM_Env_Plant_Tall_01 being ready before playing
+[2023.12.26-01.21.52:041][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Assets/PolygonMilitary/Meshes/Environment/SM_Env_Plant_02.SM_Env_Plant_02 being ready before playing
+[2023.12.26-01.21.52:041][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Assets/PolygonMilitary/Meshes/Environment/SM_Env_Plant_01.SM_Env_Plant_01 being ready before playing
+[2023.12.26-01.21.52:041][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Assets/PolygonMilitary/Meshes/Environment/SM_Env_Pebbles_04.SM_Env_Pebbles_04 being ready before playing
+[2023.12.26-01.21.52:041][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Assets/PolygonMilitary/Meshes/Environment/SM_Env_Pebbles_03.SM_Env_Pebbles_03 being ready before playing
+[2023.12.26-01.21.52:041][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Assets/PolygonMilitary/Meshes/Environment/SM_Env_Pebbles_02.SM_Env_Pebbles_02 being ready before playing
+[2023.12.26-01.21.52:041][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Assets/PolygonMilitary/Meshes/Environment/SM_Env_Mountain_07.SM_Env_Mountain_07 being ready before playing
+[2023.12.26-01.21.52:041][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Assets/PolygonMilitary/Meshes/Environment/SM_Env_Mountain_06.SM_Env_Mountain_06 being ready before playing
+[2023.12.26-01.21.52:041][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Assets/PolygonMilitary/Meshes/Environment/SM_Env_Helipad_01.SM_Env_Helipad_01 being ready before playing
+[2023.12.26-01.21.52:041][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Assets/PolygonMilitary/Meshes/Environment/SM_Env_Ground_Square_02.SM_Env_Ground_Square_02 being ready before playing
+[2023.12.26-01.21.52:041][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Assets/PolygonMilitary/Meshes/Environment/SM_Env_Ground_Square_01.SM_Env_Ground_Square_01 being ready before playing
+[2023.12.26-01.21.52:041][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Assets/PolygonMilitary/Meshes/Environment/SM_Env_Ground_Round_01.SM_Env_Ground_Round_01 being ready before playing
+[2023.12.26-01.21.52:041][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Assets/PolygonMilitary/Meshes/Environment/SM_Env_Ground_Hill_Flat_Square_01.SM_Env_Ground_Hill_Flat_Square_01 being ready before playing
+[2023.12.26-01.21.52:041][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Assets/PolygonMilitary/Meshes/Buildings/SM_Bld_WaterTank_01.SM_Bld_WaterTank_01 being ready before playing
+[2023.12.26-01.21.52:041][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Assets/PolygonMilitary/Meshes/Buildings/SM_Bld_Village_Window_Shutter_R_01.SM_Bld_Village_Window_Shutter_R_01 being ready before playing
+[2023.12.26-01.21.52:041][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Assets/PolygonMilitary/Meshes/Buildings/SM_Bld_Village_Window_Shutter_L_01.SM_Bld_Village_Window_Shutter_L_01 being ready before playing
+[2023.12.26-01.21.52:041][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Assets/PolygonMilitary/Meshes/Buildings/SM_Bld_Village_Fence_04.SM_Bld_Village_Fence_04 being ready before playing
+[2023.12.26-01.21.52:041][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Assets/PolygonMilitary/Meshes/Buildings/SM_Bld_Village_Fence_01.SM_Bld_Village_Fence_01 being ready before playing
+[2023.12.26-01.21.52:041][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Assets/PolygonMilitary/Meshes/Buildings/SM_Bld_Village_Cover_01.SM_Bld_Village_Cover_01 being ready before playing
+[2023.12.26-01.21.52:041][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Assets/PolygonMilitary/Meshes/Buildings/SM_Bld_Shop_Door_03_R.SM_Bld_Shop_Door_03_R being ready before playing
+[2023.12.26-01.21.52:041][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Assets/PolygonMilitary/Meshes/Buildings/SM_Bld_Shop_11.SM_Bld_Shop_11 being ready before playing
+[2023.12.26-01.21.52:041][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Assets/PolygonMilitary/Meshes/Buildings/SM_Bld_Shop_06_Destroyed.SM_Bld_Shop_06_Destroyed being ready before playing
+[2023.12.26-01.21.52:041][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Assets/PolygonMilitary/Meshes/Buildings/SM_Bld_Shop_04.SM_Bld_Shop_04 being ready before playing
+[2023.12.26-01.21.52:041][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Assets/PolygonMilitary/Meshes/Buildings/SM_Bld_Shack_02.SM_Bld_Shack_02 being ready before playing
+[2023.12.26-01.21.52:041][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Assets/PolygonMilitary/Meshes/Buildings/SM_Bld_Ruins_03.SM_Bld_Ruins_03 being ready before playing
+[2023.12.26-01.21.52:041][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Assets/PolygonMilitary/Meshes/Buildings/SM_Bld_Plywood_Shed_Small_01.SM_Bld_Plywood_Shed_Small_01 being ready before playing
+[2023.12.26-01.21.52:041][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Assets/PolygonMilitary/Meshes/Buildings/SM_Bld_Plywood_Shed_Destroyed_01.SM_Bld_Plywood_Shed_Destroyed_01 being ready before playing
+[2023.12.26-01.21.52:041][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Assets/PolygonMilitary/Meshes/Buildings/SM_Bld_Plywood_Shed_01.SM_Bld_Plywood_Shed_01 being ready before playing
+[2023.12.26-01.21.52:041][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Assets/PolygonMilitary/Meshes/Buildings/SM_Bld_OilTower_01.SM_Bld_OilTower_01 being ready before playing
+[2023.12.26-01.21.52:041][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Assets/PolygonMilitary/Meshes/Buildings/SM_Bld_GuardTower_Destroyed_01.SM_Bld_GuardTower_Destroyed_01 being ready before playing
+[2023.12.26-01.21.52:041][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Assets/PolygonMilitary/Meshes/Buildings/SM_Bld_Door_Plug_01.SM_Bld_Door_Plug_01 being ready before playing
+[2023.12.26-01.21.52:041][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Assets/PolygonMilitary/Meshes/Buildings/SM_Bld_Door_Garage_02.SM_Bld_Door_Garage_02 being ready before playing
+[2023.12.26-01.21.52:041][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Assets/PolygonMilitary/Meshes/Buildings/SM_Bld_Destroyed_02.SM_Bld_Destroyed_02 being ready before playing
+[2023.12.26-01.21.52:041][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Assets/PolygonMilitary/Meshes/Buildings/SM_Bld_Destroyed_01.SM_Bld_Destroyed_01 being ready before playing
+[2023.12.26-01.21.52:041][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Assets/PolygonMilitary/Meshes/Buildings/SM_Bld_ControlTower_Destroyed_01.SM_Bld_ControlTower_Destroyed_01 being ready before playing
+[2023.12.26-01.21.52:041][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Assets/PolygonMilitary/Meshes/Environment/SM_Env_Rock_Flat_01.SM_Env_Rock_Flat_01 being ready before playing
+[2023.12.26-01.21.52:041][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Assets/PolygonMilitary/Meshes/Environment/SM_Env_Rock_Flat_02.SM_Env_Rock_Flat_02 being ready before playing
+[2023.12.26-01.21.52:041][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Assets/PolygonMilitary/Meshes/Environment/SM_Env_SandDunes_02.SM_Env_SandDunes_02 being ready before playing
+[2023.12.26-01.21.52:041][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Assets/PolygonMilitary/Meshes/Props/Rugs/SM_Prop_Rug_16.SM_Prop_Rug_16 being ready before playing
+[2023.12.26-01.21.52:041][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Assets/PolygonMilitary/Meshes/Props/Signs/SM_Prop_Sign_Poster_03.SM_Prop_Sign_Poster_03 being ready before playing
+[2023.12.26-01.21.52:041][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Assets/PolygonMilitary/Meshes/Props/Signs/SM_Prop_Sign_Safety_05.SM_Prop_Sign_Safety_05 being ready before playing
+[2023.12.26-01.21.52:041][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Assets/PolygonMilitary/Meshes/Props/Signs/SM_Prop_Sign_Safety_06.SM_Prop_Sign_Safety_06 being ready before playing
+[2023.12.26-01.21.52:041][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Assets/PolygonMilitary/Meshes/Props/SM_Prop_BarrelPile_01.SM_Prop_BarrelPile_01 being ready before playing
+[2023.12.26-01.21.52:041][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Assets/PolygonMilitary/Meshes/Props/SM_Prop_BarrelPile_02.SM_Prop_BarrelPile_02 being ready before playing
+[2023.12.26-01.21.52:041][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Assets/PolygonMilitary/Meshes/Props/SM_Prop_Barrier_03.SM_Prop_Barrier_03 being ready before playing
+[2023.12.26-01.21.52:041][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Assets/PolygonMilitary/Meshes/Props/SM_Prop_Barrier_05.SM_Prop_Barrier_05 being ready before playing
+[2023.12.26-01.21.52:041][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Assets/PolygonMilitary/Meshes/Props/SM_Prop_Barrier_Tall_02.SM_Prop_Barrier_Tall_02 being ready before playing
+[2023.12.26-01.21.52:041][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Assets/PolygonMilitary/Meshes/Props/SM_Prop_Barrier_Tall_05.SM_Prop_Barrier_Tall_05 being ready before playing
+[2023.12.26-01.21.52:041][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Assets/PolygonMilitary/Meshes/Props/SM_Prop_Bed_Frame_01.SM_Prop_Bed_Frame_01 being ready before playing
+[2023.12.26-01.21.52:041][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Assets/PolygonMilitary/Meshes/Props/SM_Prop_Crate_Cube_01.SM_Prop_Crate_Cube_01 being ready before playing
+[2023.12.26-01.21.52:041][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Assets/PolygonMilitary/Meshes/Props/SM_Prop_Crate_Cube_02.SM_Prop_Crate_Cube_02 being ready before playing
+[2023.12.26-01.21.52:041][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Assets/PolygonMilitary/Meshes/Props/SM_Prop_Crate_Cube_03.SM_Prop_Crate_Cube_03 being ready before playing
+[2023.12.26-01.21.52:041][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Assets/PolygonMilitary/Meshes/Props/SM_Prop_Crate_Wood_01.SM_Prop_Crate_Wood_01 being ready before playing
+[2023.12.26-01.21.52:041][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Assets/PolygonMilitary/Meshes/Props/SM_Prop_Electronics_Shelf_Preset_01.SM_Prop_Electronics_Shelf_Preset_01 being ready before playing
+[2023.12.26-01.21.52:041][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Assets/PolygonMilitary/Meshes/Props/SM_Prop_Fence_Damaged_01.SM_Prop_Fence_Damaged_01 being ready before playing
+[2023.12.26-01.21.52:041][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Assets/PolygonMilitary/Meshes/Props/SM_Prop_Fence_Damaged_02.SM_Prop_Fence_Damaged_02 being ready before playing
+[2023.12.26-01.21.52:041][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Assets/PolygonMilitary/Meshes/Props/SM_Prop_Fence_Damaged_04.SM_Prop_Fence_Damaged_04 being ready before playing
+[2023.12.26-01.21.52:041][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Assets/PolygonMilitary/Meshes/Props/SM_Prop_Fence_Gate_Open_01.SM_Prop_Fence_Gate_Open_01 being ready before playing
+[2023.12.26-01.21.52:041][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Assets/PolygonMilitary/Meshes/Props/SM_Prop_Generator_Small_01.SM_Prop_Generator_Small_01 being ready before playing
+[2023.12.26-01.21.52:041][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Assets/PolygonMilitary/Meshes/Props/SM_Prop_Laundry_Washer_01.SM_Prop_Laundry_Washer_01 being ready before playing
+[2023.12.26-01.21.52:041][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Assets/PolygonMilitary/Meshes/Props/SM_Prop_Makeshift_Table_01.SM_Prop_Makeshift_Table_01 being ready before playing
+[2023.12.26-01.21.52:041][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Assets/PolygonMilitary/Meshes/Props/SM_Prop_Money_Stack_01.SM_Prop_Money_Stack_01 being ready before playing
+[2023.12.26-01.21.52:041][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Assets/PolygonMilitary/Meshes/Props/SM_Prop_Money_Stack_02.SM_Prop_Money_Stack_02 being ready before playing
+[2023.12.26-01.21.52:041][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Assets/PolygonMilitary/Meshes/Props/SM_Prop_Money_Strapped_02.SM_Prop_Money_Strapped_02 being ready before playing
+[2023.12.26-01.21.52:041][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Assets/PolygonMilitary/Meshes/Props/SM_Prop_Money_Strapped_04.SM_Prop_Money_Strapped_04 being ready before playing
+[2023.12.26-01.21.52:041][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Assets/PolygonMilitary/Meshes/Props/SM_Prop_Rubbish_Bag_02.SM_Prop_Rubbish_Bag_02 being ready before playing
+[2023.12.26-01.21.52:041][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Assets/PolygonMilitary/Meshes/Props/SM_Prop_TV_01.SM_Prop_TV_01 being ready before playing
+[2023.12.26-01.21.52:041][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Assets/PolygonMilitary/Meshes/Vehicles/Destroyed/SM_Veh_Light_Tank_01_Destroyed.SM_Veh_Light_Tank_01_Destroyed being ready before playing
+[2023.12.26-01.21.52:041][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Assets/PolygonMilitary/Meshes/Vehicles/Destroyed/SM_Veh_Van_Destroyed_01.SM_Veh_Van_Destroyed_01 being ready before playing
+[2023.12.26-01.21.52:041][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Assets/PolygonMilitary/Meshes/Vehicles/Destroyed/SM_Veh_Van_Destroyed_02.SM_Veh_Van_Destroyed_02 being ready before playing
+[2023.12.26-01.21.52:050][778]LogWorld: Bringing World /Game/Maps/Game/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2023.12.26-06.21.52
+[2023.12.26-01.21.52:051][778]LogWorld: Bringing up level for play took: 0.006204
+[2023.12.26-01.21.52:053][778]LogLoad: Took 0.264777 seconds to LoadMap(/Game/Maps/Game/Level1)
+[2023.12.26-01.22.01:852][762]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.26-01.22.01:852][762]LogWorld: BeginTearingDown for /Game/Maps/Game/UEDPIE_0_Level1
+[2023.12.26-01.22.01:852][762]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2023.12.26-01.22.01:853][762]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.26-01.22.01:855][762]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.12.26-01.22.01:860][762]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.26-01.22.01:870][762]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.26-01.22.01:870][762]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2023.12.26-01.22.01:871][762]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2023.12.26-01.22.01:872][762]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2023.12.26-01.22.01:891][762]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2023.12.26-01.22.02:012][763]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2023.12.26-01.22.06:105][126]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Code/ServerSystem/PlayerControllerRoleSelectorGame.PlayerControllerRoleSelectorGame
+[2023.12.26-01.22.06:106][126]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.26-01.22.06:106][126]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.26-01.22.42:318][414]LogSlate: Window 'PlayerControllerRoleSelectorGame' being destroyed
+[2023.12.26-01.22.42:322][414]LogSlate: Window 'PlayerControllerRoleSelectorGame' being destroyed
+[2023.12.26-01.22.42:326][414]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2023.12.26-01.22.42:326][414]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.26-01.22.43:233][496]LogSlate: Window 'Message Log' being destroyed
+[2023.12.26-01.22.43:239][496]LogSlate: Window 'Message Log' being destroyed
+[2023.12.26-01.22.44:023][579]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.12.26-01.22.44:029][579]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.12.26-01.22.44:030][579]LogPlayLevel: [PlayLevel] Compiling PlayerControllerRoleSelectorGame before play...
+[2023.12.26-01.22.44:050][579]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2023.12.26-01.22.44:053][579]LogPlayLevel: PlayLevel: Blueprint regeneration took 23 ms (1 blueprints)
+[2023.12.26-01.22.44:053][579]PIE: New page: PIE session: lobby1 (26 дек. 2023 г., 11:22:44)
+[2023.12.26-01.22.44:053][579]LogPlayLevel: Creating play world package: /Game/Maps/Lobby/UEDPIE_0_lobby1
+[2023.12.26-01.22.44:057][579]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003508s)
+[2023.12.26-01.22.44:057][579]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Lobby/lobby1.lobby1 to /Game/Maps/Lobby/UEDPIE_0_lobby1.lobby1 (0.003538s)
+[2023.12.26-01.22.44:069][579]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2023.12.26-01.22.44:070][579]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.26-01.22.44:070][579]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.26-01.22.44:070][579]LogAIModule: Creating AISystem for world lobby1
+[2023.12.26-01.22.44:070][579]LogPlayLevel: PIE: World Init took: (0.000906s)
+[2023.12.26-01.22.44:070][579]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2023.12.26-01.22.44:071][579]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.12.26-01.22.44:071][579]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.12.26-01.22.44:071][579]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.12.26-01.22.44:071][579]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.12.26-01.22.44:071][579]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.12.26-01.22.44:071][579]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.12.26-01.22.44:071][579]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.12.26-01.22.44:071][579]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.12.26-01.22.44:071][579]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.12.26-01.22.44:071][579]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.12.26-01.22.44:071][579]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.12.26-01.22.44:073][579]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.12.26-01.22.44:102][579]LogAudioMixer: Display: Using Audio Hardware Device Наушники (Realtek(R) Audio)
+[2023.12.26-01.22.44:102][579]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.12.26-01.22.44:102][579]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.12.26-01.22.44:102][579]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.12.26-01.22.44:103][579]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2023.12.26-01.22.44:103][579]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2023.12.26-01.22.44:105][579]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2023.12.26-01.22.44:105][579]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2023.12.26-01.22.44:105][579]LogInit: FAudioDevice initialized with ID 4.
+[2023.12.26-01.22.44:105][579]LogAudio: Display: Audio Device (ID: 4) registered with world 'lobby1'.
+[2023.12.26-01.22.44:105][579]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2023.12.26-01.22.44:107][579]LogLoad: Game class is 'LobbyGamemode_C'
+[2023.12.26-01.22.44:108][579]LogWorld: Bringing World /Game/Maps/Lobby/UEDPIE_0_lobby1.lobby1 up for play (max tick rate 0) at 2023.12.26-06.22.44
+[2023.12.26-01.22.44:108][579]LogWorld: Bringing up level for play took: 0.000813
+[2023.12.26-01.22.44:111][579]LogOnline: OSS: Created online subsystem instance for: :Context_16
+[2023.12.26-01.22.44:113][579]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.12.26-01.22.44:113][579]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2023.12.26-01.22.44:114][579]PIE: Server logged in
+[2023.12.26-01.22.44:114][579]PIE: Play in editor total start time 0,085 seconds.
+[2023.12.26-01.22.46:099][792]Cmd: servertravel Level2
+[2023.12.26-01.22.46:101][792]LogAssetRegistry: Warning: GetFirstPackageByName('Level2') is returning '/Game/Maps/Game/Level2', but it also found '/Game/Maps/Level2'.
+[2023.12.26-01.22.46:101][792]LogGameMode: ProcessServerTravel: /Game/Maps/Game/Level2
+[2023.12.26-01.22.46:104][792]LogEngine: Server switch level: /Game/Maps/Game/Level2
+[2023.12.26-01.22.46:104][792]LogNet: Browse: /Game/Maps/Game/Level2
+[2023.12.26-01.22.46:104][792]LogLoad: LoadMap: /Game/Maps/Game/Level2
+[2023.12.26-01.22.46:104][792]LogWorld: BeginTearingDown for /Game/Maps/Lobby/UEDPIE_0_lobby1
+[2023.12.26-01.22.46:105][792]LogWorld: UWorld::CleanupWorld for lobby1, bSessionEnded=true, bCleanupResources=true
+[2023.12.26-01.22.46:105][792]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.26-01.22.46:143][792]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.12.26-01.22.46:145][792]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2023.12.26-01.22.46:155][792]LogAudio: Display: Audio Device (ID: 4) registered with world 'Level2'.
+[2023.12.26-01.22.46:155][792]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.26-01.22.46:155][792]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.26-01.22.46:155][792]LogAIModule: Creating AISystem for world Level2
+[2023.12.26-01.22.46:156][792]LogPlayLevel: PIE: World Init took: (0.000814s)
+[2023.12.26-01.22.46:156][792]LogLoad: Game class is 'DefaultGamemode_C'
+[2023.12.26-01.22.46:159][792]LogWorld: Bringing World /Game/Maps/Game/UEDPIE_0_Level2.Level2 up for play (max tick rate 0) at 2023.12.26-06.22.46
+[2023.12.26-01.22.46:159][792]LogWorld: Bringing up level for play took: 0.003556
+[2023.12.26-01.22.46:160][792]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.12.26-01.22.46:161][792]LogScript: Warning: Script Msg: Attempted to access random index from empty array!
+[2023.12.26-01.22.46:161][792]LogScript: Warning: Script Msg called by: PlayerControllerRoleSelectorGame_C /Game/Maps/Game/UEDPIE_0_Level2.Level2:PersistentLevel.PlayerControllerRoleSelectorGame_C_0
+[2023.12.26-01.22.46:161][792]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Random_OutItem
+	PlayerControllerRoleSelectorGame_C /Game/Maps/Game/UEDPIE_0_Level2.Level2:PersistentLevel.PlayerControllerRoleSelectorGame_C_0
+	Function /Game/Code/ServerSystem/PlayerControllerRoleSelectorGame.PlayerControllerRoleSelectorGame_C:ExecuteUbergraph_PlayerControllerRoleSelectorGame:0266
+[2023.12.26-01.22.46:161][792]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Random_OutItem". Node:  SpawnActor Server Pawn Graph:  EventGraph Function:  Execute Ubergraph Player Controller Role Selector Game Blueprint:  PlayerControllerRoleSelectorGame
+[2023.12.26-01.22.46:161][792]LogScript: Warning: Script Msg: Attempted to access random index from empty array!
+[2023.12.26-01.22.46:161][792]LogScript: Warning: Script Msg called by: PlayerControllerRoleSelectorGame_C /Game/Maps/Game/UEDPIE_0_Level2.Level2:PersistentLevel.PlayerControllerRoleSelectorGame_C_0
+[2023.12.26-01.22.46:161][792]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Random_OutItem
+	PlayerControllerRoleSelectorGame_C /Game/Maps/Game/UEDPIE_0_Level2.Level2:PersistentLevel.PlayerControllerRoleSelectorGame_C_0
+	Function /Game/Code/ServerSystem/PlayerControllerRoleSelectorGame.PlayerControllerRoleSelectorGame_C:ExecuteUbergraph_PlayerControllerRoleSelectorGame:0301
+[2023.12.26-01.22.46:161][792]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Random_OutItem". Node:  SpawnActor Server Pawn Graph:  EventGraph Function:  Execute Ubergraph Player Controller Role Selector Game Blueprint:  PlayerControllerRoleSelectorGame
+[2023.12.26-01.22.46:161][792]LogLoad: Took 0.057459 seconds to LoadMap(/Game/Maps/Game/Level2)
+[2023.12.26-01.22.48:014][985]Cmd: servertravel lobby1
+[2023.12.26-01.22.48:016][985]LogGameMode: ProcessServerTravel: /Game/Maps/Lobby/lobby1
+[2023.12.26-01.22.48:018][985]LogEngine: Server switch level: /Game/Maps/Lobby/lobby1
+[2023.12.26-01.22.48:018][985]LogNet: Browse: /Game/Maps/Lobby/lobby1
+[2023.12.26-01.22.48:018][985]LogLoad: LoadMap: /Game/Maps/Lobby/lobby1
+[2023.12.26-01.22.48:018][985]LogWorld: BeginTearingDown for /Game/Maps/Game/UEDPIE_0_Level2
+[2023.12.26-01.22.48:019][985]LogWorld: UWorld::CleanupWorld for Level2, bSessionEnded=true, bCleanupResources=true
+[2023.12.26-01.22.48:020][985]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.26-01.22.48:063][985]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.12.26-01.22.48:066][985]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2023.12.26-01.22.48:068][985]LogPlayLevel: Creating play world package: /Game/Maps/Lobby/UEDPIE_0_lobby1
+[2023.12.26-01.22.48:072][985]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003717s)
+[2023.12.26-01.22.48:072][985]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Lobby/lobby1.lobby1 to /Game/Maps/Lobby/UEDPIE_0_lobby1.lobby1 (0.003763s)
+[2023.12.26-01.22.48:072][985]LogAudio: Display: Audio Device (ID: 4) registered with world 'lobby1'.
+[2023.12.26-01.22.48:072][985]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.26-01.22.48:072][985]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.26-01.22.48:073][985]LogAIModule: Creating AISystem for world lobby1
+[2023.12.26-01.22.48:073][985]LogPlayLevel: PIE: World Init took: (0.000774s)
+[2023.12.26-01.22.48:073][985]LogLoad: Game class is 'LobbyGamemode_C'
+[2023.12.26-01.22.48:073][985]LogWorld: Bringing World /Game/Maps/Lobby/UEDPIE_0_lobby1.lobby1 up for play (max tick rate 0) at 2023.12.26-06.22.48
+[2023.12.26-01.22.48:074][985]LogWorld: Bringing up level for play took: 0.000624
+[2023.12.26-01.22.48:076][985]LogLoad: Took 0.057842 seconds to LoadMap(/Game/Maps/Lobby/UEDPIE_0_lobby1)
+[2023.12.26-01.22.49:965][184]Cmd: servertravel Level1
+[2023.12.26-01.22.49:967][184]LogAssetRegistry: Warning: GetFirstPackageByName('Level1') is returning '/Game/Maps/Game/Level1', but it also found '/Game/Maps/Level1'.
+[2023.12.26-01.22.49:967][184]LogGameMode: ProcessServerTravel: /Game/Maps/Game/Level1
+[2023.12.26-01.22.49:969][184]LogEngine: Server switch level: /Game/Maps/Game/Level1
+[2023.12.26-01.22.49:969][184]LogNet: Browse: /Game/Maps/Game/Level1
+[2023.12.26-01.22.49:969][184]LogLoad: LoadMap: /Game/Maps/Game/Level1
+[2023.12.26-01.22.49:969][184]LogWorld: BeginTearingDown for /Game/Maps/Lobby/UEDPIE_0_lobby1
+[2023.12.26-01.22.49:970][184]LogWorld: UWorld::CleanupWorld for lobby1, bSessionEnded=true, bCleanupResources=true
+[2023.12.26-01.22.49:970][184]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.26-01.22.50:005][184]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.12.26-01.22.50:008][184]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2023.12.26-01.22.50:019][184]LogAudio: Display: Audio Device (ID: 4) registered with world 'Level1'.
+[2023.12.26-01.22.50:019][184]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.26-01.22.50:019][184]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.26-01.22.50:019][184]LogAIModule: Creating AISystem for world Level1
+[2023.12.26-01.22.50:020][184]LogPlayLevel: PIE: World Init took: (0.000739s)
+[2023.12.26-01.22.50:020][184]LogLoad: Game class is 'DefaultGamemode_C'
+[2023.12.26-01.22.50:025][184]LogWorld: Bringing World /Game/Maps/Game/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2023.12.26-06.22.50
+[2023.12.26-01.22.50:025][184]LogWorld: Bringing up level for play took: 0.005254
+[2023.12.26-01.22.50:027][184]LogLoad: Took 0.057421 seconds to LoadMap(/Game/Maps/Game/Level1)
+[2023.12.26-01.23.18:171][ 88]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2023.12.26-01.23.19:164][ 88]LogSlate: Window 'Save Content' being destroyed
+[2023.12.26-01.23.19:174][ 88]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.26-01.23.19:174][ 88]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Code/Other/DefaultGamemode" FILE="../../../../../../Users/nick1/Documents/GitHub/AtomVR/AtomVR/Content/Code/Other/DefaultGamemode.uasset" SILENT=true
+[2023.12.26-01.23.19:177][ 88]LogSavePackage: Moving output files for package: /Game/Code/Other/DefaultGamemode
+[2023.12.26-01.23.19:177][ 88]LogSavePackage: Moving '../../../../../../Users/nick1/Documents/GitHub/AtomVR/AtomVR/Saved/DefaultGamemode4C2ECC0C467FC7AEA225AE93DDB39796.tmp' to '../../../../../../Users/nick1/Documents/GitHub/AtomVR/AtomVR/Content/Code/Other/DefaultGamemode.uasset'
+[2023.12.26-01.23.19:184][ 88]LogSavePackage: Moving output files for package: /Game/Code/ServerSystem/PlayerControllerRoleSelectorGame
+[2023.12.26-01.23.19:185][ 88]LogSavePackage: Moving '../../../../../../Users/nick1/Documents/GitHub/AtomVR/AtomVR/Saved/PlayerControllerRoleSelectorGameC3CBA199499FC7417167EA95FA2AFDCF.tmp' to '../../../../../../Users/nick1/Documents/GitHub/AtomVR/AtomVR/Content/Code/ServerSystem/PlayerControllerRoleSelectorGame.uasset'
+[2023.12.26-01.23.19:186][ 88]LogFileHelpers: InternalPromptForCheckoutAndSave took 11 ms (total: 467 ms)
+[2023.12.26-01.23.19:191][ 88]AssetCheck: New page: Asset Save: multiple assets
+[2023.12.26-01.23.19:191][ 88]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Code/Other/DefaultGamemode.DefaultGamemode
+[2023.12.26-01.23.19:191][ 88]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Code/ServerSystem/PlayerControllerRoleSelectorGame.PlayerControllerRoleSelectorGame
+[2023.12.26-01.23.19:902][154]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.26-01.23.19:902][154]LogWorld: BeginTearingDown for /Game/Maps/Game/UEDPIE_0_Level1
+[2023.12.26-01.23.19:902][154]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2023.12.26-01.23.19:903][154]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.26-01.23.19:906][154]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.12.26-01.23.19:910][154]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.26-01.23.19:923][154]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.26-01.23.19:924][154]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2023.12.26-01.23.19:924][154]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2023.12.26-01.23.19:926][154]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2023.12.26-01.23.19:940][154]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2023.12.26-01.23.20:048][155]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2023.12.26-01.23.30:595][131]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Code/ServerSystem/PlayerControllerRoleSelectorGame.PlayerControllerRoleSelectorGame
+[2023.12.26-01.23.30:595][131]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.26-01.23.30:595][131]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.26-01.23.38:438][578]LogSlate: Window 'PlayerControllerRoleSelectorGame' being destroyed
+[2023.12.26-01.23.38:442][578]LogSlate: Window 'PlayerControllerRoleSelectorGame' being destroyed
+[2023.12.26-01.23.38:446][578]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2023.12.26-01.23.38:446][578]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.26-01.23.43:032][999]LogSlate: Window 'Message Log' being destroyed
+[2023.12.26-01.23.43:039][999]LogSlate: Window 'Message Log' being destroyed
+[2023.12.26-01.23.43:794][ 74]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
