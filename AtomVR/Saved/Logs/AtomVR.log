@@ -4015,3 +4015,1597 @@ Would you like to edit the code now?
 [2023.12.26-00.29.59:930][862]LogEditorTransaction: Undo Resize Widget
 [2023.12.26-00.30.01:180][903]BlueprintLog: New page: Compile ServerInterface
 [2023.12.26-00.30.01:212][903]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2023.12.26-00.30.25:323][389]LogSlate: Window 'Color Picker' being destroyed
+[2023.12.26-00.30.26:277][430]BlueprintLog: New page: Compile ServerInterface
+[2023.12.26-00.30.26:323][430]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2023.12.26-00.30.27:820][481]BlueprintLog: New page: Compile Button1
+[2023.12.26-00.30.27:931][481]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2023.12.26-00.30.30:752][591]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2023.12.26-00.30.31:722][591]LogSlate: Window 'Save Content' being destroyed
+[2023.12.26-00.30.31:734][591]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.26-00.30.31:822][591]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Button1" FILE="../../../../../../Users/nick1/Documents/GitHub/AtomVR/AtomVR/Content/UI/Button1.uasset" SILENT=true
+[2023.12.26-00.30.31:823][591]LogSavePackage: Moving output files for package: /Game/UI/Button1
+[2023.12.26-00.30.31:824][591]LogSavePackage: Moving '../../../../../../Users/nick1/Documents/GitHub/AtomVR/AtomVR/Saved/Button1153735274F4AF8DCF74B5ABF49F8319F.tmp' to '../../../../../../Users/nick1/Documents/GitHub/AtomVR/AtomVR/Content/UI/Button1.uasset'
+[2023.12.26-00.30.31:829][591]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/MapImages/ScreenShot00000" FILE="../../../../../../Users/nick1/Documents/GitHub/AtomVR/AtomVR/Content/Assets/MapImages/ScreenShot00000.uasset" SILENT=true
+[2023.12.26-00.30.31:871][591]LogSavePackage: Moving output files for package: /Game/Assets/MapImages/ScreenShot00000
+[2023.12.26-00.30.31:871][591]LogSavePackage: Moving '../../../../../../Users/nick1/Documents/GitHub/AtomVR/AtomVR/Saved/ScreenShot0000069ABC639436885C71EA0E08E4F91DA5C.tmp' to '../../../../../../Users/nick1/Documents/GitHub/AtomVR/AtomVR/Content/Assets/MapImages/ScreenShot00000.uasset'
+[2023.12.26-00.30.31:875][591]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/MapImages/ScreenShot00001" FILE="../../../../../../Users/nick1/Documents/GitHub/AtomVR/AtomVR/Content/Assets/MapImages/ScreenShot00001.uasset" SILENT=true
+[2023.12.26-00.30.31:915][591]LogSavePackage: Moving output files for package: /Game/Assets/MapImages/ScreenShot00001
+[2023.12.26-00.30.31:915][591]LogSavePackage: Moving '../../../../../../Users/nick1/Documents/GitHub/AtomVR/AtomVR/Saved/ScreenShot00001E6F20E96486E5BC22BCEB4B95B3DE064.tmp' to '../../../../../../Users/nick1/Documents/GitHub/AtomVR/AtomVR/Content/Assets/MapImages/ScreenShot00001.uasset'
+[2023.12.26-00.30.31:919][591]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/MapImages/ScreenShot00002" FILE="../../../../../../Users/nick1/Documents/GitHub/AtomVR/AtomVR/Content/Assets/MapImages/ScreenShot00002.uasset" SILENT=true
+[2023.12.26-00.30.31:957][591]LogSavePackage: Moving output files for package: /Game/Assets/MapImages/ScreenShot00002
+[2023.12.26-00.30.31:957][591]LogSavePackage: Moving '../../../../../../Users/nick1/Documents/GitHub/AtomVR/AtomVR/Saved/ScreenShot00002D8207E6D46146A3B946B04AE54D2BA98.tmp' to '../../../../../../Users/nick1/Documents/GitHub/AtomVR/AtomVR/Content/Assets/MapImages/ScreenShot00002.uasset'
+[2023.12.26-00.30.31:964][591]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/ServerInterface" FILE="../../../../../../Users/nick1/Documents/GitHub/AtomVR/AtomVR/Content/UI/ServerInterface.uasset" SILENT=true
+[2023.12.26-00.30.31:975][591]LogSavePackage: Moving output files for package: /Game/UI/ServerInterface
+[2023.12.26-00.30.31:975][591]LogSavePackage: Moving '../../../../../../Users/nick1/Documents/GitHub/AtomVR/AtomVR/Saved/ServerInterface4C8A97B64B450ED46C5FD584B30AC5EF.tmp' to '../../../../../../Users/nick1/Documents/GitHub/AtomVR/AtomVR/Content/UI/ServerInterface.uasset'
+[2023.12.26-00.30.31:983][591]LogFileHelpers: InternalPromptForCheckoutAndSave took 248 ms (total: 14.0 sec)
+[2023.12.26-00.30.31:985][591]AssetCheck: New page: Asset Save: multiple assets
+[2023.12.26-00.30.31:985][591]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/UI/Button1.Button1
+[2023.12.26-00.30.31:985][591]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Assets/MapImages/ScreenShot00000.ScreenShot00000
+[2023.12.26-00.30.31:985][591]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Assets/MapImages/ScreenShot00001.ScreenShot00001
+[2023.12.26-00.30.31:985][591]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Assets/MapImages/ScreenShot00002.ScreenShot00002
+[2023.12.26-00.30.31:985][591]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/ServerInterface.ServerInterface
+[2023.12.26-00.30.36:717][967]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2023.12.26-00.30.36:835][967]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.26-00.30.36:841][967]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Lobby/lobby1.lobby1
+[2023.12.26-00.30.36:841][967]Cmd: MAP LOAD FILE="../../../../../../Users/nick1/Documents/GitHub/AtomVR/AtomVR/Content/Maps/Lobby/lobby1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2023.12.26-00.30.36:841][967]LightingResults: New page: Lighting Build
+[2023.12.26-00.30.36:841][967]LoadErrors: New page: Loading map: lobby1.umap
+[2023.12.26-00.30.36:879][967]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2023.12.26-00.30.36:879][967]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.26-00.30.36:880][967]MapCheck: New page: Map Check
+[2023.12.26-00.30.36:880][967]LightingResults: New page: Lighting Build
+[2023.12.26-00.30.36:903][967]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.12.26-00.30.36:912][967]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2023.12.26-00.30.36:919][967]LogWorld: UWorld::CleanupWorld for lobby1, bSessionEnded=true, bCleanupResources=true
+[2023.12.26-00.30.36:919][967]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.26-00.30.36:941][967]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2023.12.26-00.30.36:966][967]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2023.12.26-00.30.36:977][967]LogAudio: Display: Audio Device (ID: 1) registered with world 'lobby1'.
+[2023.12.26-00.30.36:977][967]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.26-00.30.36:977][967]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.26-00.30.36:978][967]LogAIModule: Creating AISystem for world lobby1
+[2023.12.26-00.30.37:110][967]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.12.26-00.30.37:134][967]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2023.12.26-00.30.37:144][967]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.12.26-00.30.37:144][967]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,15ms to complete.
+[2023.12.26-00.30.37:467][978]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2023.12.26-00.30.38:377][ 26]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.12.26-00.30.38:387][ 26]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.12.26-00.30.38:387][ 26]PIE: New page: PIE session: lobby1 (26 дек. 2023 г., 10:30:38)
+[2023.12.26-00.30.38:418][ 26]LogPlayLevel: Creating play world package: /Game/Maps/Lobby/UEDPIE_0_lobby1
+[2023.12.26-00.30.38:423][ 26]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005071s)
+[2023.12.26-00.30.38:423][ 26]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Lobby/lobby1.lobby1 to /Game/Maps/Lobby/UEDPIE_0_lobby1.lobby1 (0.005120s)
+[2023.12.26-00.30.38:446][ 26]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2023.12.26-00.30.38:450][ 26]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.26-00.30.38:450][ 26]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.26-00.30.38:451][ 26]LogAIModule: Creating AISystem for world lobby1
+[2023.12.26-00.30.38:451][ 26]LogPlayLevel: PIE: World Init took: (0.002012s)
+[2023.12.26-00.30.38:452][ 26]LogAudio: Display: Creating Audio Device:                 Id: 22, Scope: Unique, Realtime: True
+[2023.12.26-00.30.38:452][ 26]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.12.26-00.30.38:452][ 26]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.12.26-00.30.38:452][ 26]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.12.26-00.30.38:452][ 26]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.12.26-00.30.38:452][ 26]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.12.26-00.30.38:452][ 26]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.12.26-00.30.38:452][ 26]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.12.26-00.30.38:452][ 26]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.12.26-00.30.38:453][ 26]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.12.26-00.30.38:453][ 26]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.12.26-00.30.38:453][ 26]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.12.26-00.30.38:455][ 26]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.12.26-00.30.38:494][ 26]LogAudioMixer: Display: Using Audio Hardware Device Наушники (Realtek(R) Audio)
+[2023.12.26-00.30.38:494][ 26]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.12.26-00.30.38:494][ 26]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.12.26-00.30.38:494][ 26]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.12.26-00.30.38:495][ 26]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=22
+[2023.12.26-00.30.38:495][ 26]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=22
+[2023.12.26-00.30.38:499][ 26]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=22
+[2023.12.26-00.30.38:499][ 26]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=22
+[2023.12.26-00.30.38:499][ 26]LogInit: FAudioDevice initialized with ID 22.
+[2023.12.26-00.30.38:499][ 26]LogAudio: Display: Audio Device (ID: 22) registered with world 'lobby1'.
+[2023.12.26-00.30.38:499][ 26]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 22
+[2023.12.26-00.30.38:502][ 26]LogLoad: Game class is 'LobbyGamemode_C'
+[2023.12.26-00.30.38:503][ 26]LogWorld: Bringing World /Game/Maps/Lobby/UEDPIE_0_lobby1.lobby1 up for play (max tick rate 0) at 2023.12.26-05.30.38
+[2023.12.26-00.30.38:504][ 26]LogWorld: Bringing up level for play took: 0.001198
+[2023.12.26-00.30.38:508][ 26]LogOnline: OSS: Created online subsystem instance for: :Context_50
+[2023.12.26-00.30.38:511][ 26]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.12.26-00.30.38:512][ 26]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2023.12.26-00.30.38:512][ 26]PIE: Server logged in
+[2023.12.26-00.30.38:513][ 26]PIE: Play in editor total start time 0,126 seconds.
+[2023.12.26-00.30.46:651][648]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.26-00.30.46:651][648]LogWorld: BeginTearingDown for /Game/Maps/Lobby/UEDPIE_0_lobby1
+[2023.12.26-00.30.46:651][648]LogWorld: UWorld::CleanupWorld for lobby1, bSessionEnded=true, bCleanupResources=true
+[2023.12.26-00.30.46:651][648]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.26-00.30.46:655][648]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.12.26-00.30.46:664][648]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.26-00.30.46:683][648]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.26-00.30.46:683][648]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 22
+[2023.12.26-00.30.46:683][648]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2023.12.26-00.30.46:686][648]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2023.12.26-00.30.46:716][648]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2023.12.26-00.30.46:758][649]LogPlayLevel: Display: Destroying online subsystem :Context_50
+[2023.12.26-00.30.50:059][747]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/Checker.Checker
+[2023.12.26-00.30.50:059][747]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.26-00.30.50:059][747]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.26-00.30.50:072][747]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.26-00.30.50:072][747]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.26-00.30.59:891][131]LogSlate: Window 'Color Picker' being destroyed
+[2023.12.26-00.31.07:930][459]LogSlate: Window 'Color Picker' being destroyed
+[2023.12.26-00.31.15:958][782]LogSlate: Window 'Color Picker' being destroyed
+[2023.12.26-00.31.18:060][850]LogSlate: Window 'Color Picker' being destroyed
+[2023.12.26-00.31.18:963][883]LogSlate: Window 'Checker' being destroyed
+[2023.12.26-00.31.18:969][883]LogSlate: Window 'Checker' being destroyed
+[2023.12.26-00.31.19:009][883]LogWorld: UWorld::CleanupWorld for World_38, bSessionEnded=true, bCleanupResources=true
+[2023.12.26-00.31.19:009][883]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.26-00.31.19:020][883]LogWorld: UWorld::CleanupWorld for World_37, bSessionEnded=true, bCleanupResources=true
+[2023.12.26-00.31.19:020][883]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.26-00.31.19:122][883]LogWorld: UWorld::CleanupWorld for World_40, bSessionEnded=true, bCleanupResources=true
+[2023.12.26-00.31.19:123][883]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.26-00.31.19:134][883]LogWorld: UWorld::CleanupWorld for World_39, bSessionEnded=true, bCleanupResources=true
+[2023.12.26-00.31.19:134][883]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.26-00.31.19:207][883]LogWorld: UWorld::CleanupWorld for World_43, bSessionEnded=true, bCleanupResources=true
+[2023.12.26-00.31.19:207][883]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.26-00.31.19:305][883]LogWorld: UWorld::CleanupWorld for World_46, bSessionEnded=true, bCleanupResources=true
+[2023.12.26-00.31.19:305][883]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.26-00.31.19:314][883]LogWorld: UWorld::CleanupWorld for World_45, bSessionEnded=true, bCleanupResources=true
+[2023.12.26-00.31.19:315][883]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.26-00.31.19:736][899]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2023.12.26-00.31.20:285][899]LogSlate: Window 'Save Content' being destroyed
+[2023.12.26-00.31.20:295][899]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.26-00.31.20:414][899]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Checker" FILE="../../../../../../Users/nick1/Documents/GitHub/AtomVR/AtomVR/Content/UI/Checker.uasset" SILENT=true
+[2023.12.26-00.31.20:423][899]LogSavePackage: Moving output files for package: /Game/UI/Checker
+[2023.12.26-00.31.20:424][899]LogSavePackage: Moving '../../../../../../Users/nick1/Documents/GitHub/AtomVR/AtomVR/Saved/CheckerA22E34B54B945824451681896F0DB777.tmp' to '../../../../../../Users/nick1/Documents/GitHub/AtomVR/AtomVR/Content/UI/Checker.uasset'
+[2023.12.26-00.31.20:431][899]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/ComboBoxSelector" FILE="../../../../../../Users/nick1/Documents/GitHub/AtomVR/AtomVR/Content/UI/ComboBoxSelector.uasset" SILENT=true
+[2023.12.26-00.31.20:441][899]LogSavePackage: Moving output files for package: /Game/UI/ComboBoxSelector
+[2023.12.26-00.31.20:442][899]LogSavePackage: Moving '../../../../../../Users/nick1/Documents/GitHub/AtomVR/AtomVR/Saved/ComboBoxSelectorD9FD0B7F41B9687EFA98D299138D8056.tmp' to '../../../../../../Users/nick1/Documents/GitHub/AtomVR/AtomVR/Content/UI/ComboBoxSelector.uasset'
+[2023.12.26-00.31.20:456][899]LogFileHelpers: InternalPromptForCheckoutAndSave took 160 ms (total: 14.2 sec)
+[2023.12.26-00.31.20:459][899]AssetCheck: New page: Asset Save: multiple assets
+[2023.12.26-00.31.20:459][899]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/Checker.Checker
+[2023.12.26-00.31.20:460][899]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/ComboBoxSelector.ComboBoxSelector
+[2023.12.26-00.31.21:149][934]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.12.26-00.31.21:158][934]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.12.26-00.31.21:161][934]LogPlayLevel: [PlayLevel] Compiling ComboBoxSelector before play...
+[2023.12.26-00.31.21:183][934]LogPlayLevel: [PlayLevel] Compiling Checker before play...
+[2023.12.26-00.31.21:223][934]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2023.12.26-00.31.21:228][934]LogPlayLevel: PlayLevel: Blueprint regeneration took 70 ms (2 blueprints)
+[2023.12.26-00.31.21:228][934]PIE: New page: PIE session: lobby1 (26 дек. 2023 г., 10:31:21)
+[2023.12.26-00.31.21:228][934]LogPlayLevel: Creating play world package: /Game/Maps/Lobby/UEDPIE_0_lobby1
+[2023.12.26-00.31.21:235][934]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006952s)
+[2023.12.26-00.31.21:236][934]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Lobby/lobby1.lobby1 to /Game/Maps/Lobby/UEDPIE_0_lobby1.lobby1 (0.007007s)
+[2023.12.26-00.31.21:256][934]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2023.12.26-00.31.21:260][934]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.26-00.31.21:261][934]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.26-00.31.21:262][934]LogAIModule: Creating AISystem for world lobby1
+[2023.12.26-00.31.21:263][934]LogPlayLevel: PIE: World Init took: (0.002360s)
+[2023.12.26-00.31.21:263][934]LogAudio: Display: Creating Audio Device:                 Id: 23, Scope: Unique, Realtime: True
+[2023.12.26-00.31.21:263][934]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.12.26-00.31.21:263][934]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.12.26-00.31.21:263][934]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.12.26-00.31.21:263][934]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.12.26-00.31.21:263][934]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.12.26-00.31.21:263][934]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.12.26-00.31.21:263][934]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.12.26-00.31.21:263][934]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.12.26-00.31.21:264][934]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.12.26-00.31.21:264][934]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.12.26-00.31.21:264][934]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.12.26-00.31.21:267][934]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.12.26-00.31.21:304][934]LogAudioMixer: Display: Using Audio Hardware Device Наушники (Realtek(R) Audio)
+[2023.12.26-00.31.21:305][934]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.12.26-00.31.21:305][934]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.12.26-00.31.21:305][934]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.12.26-00.31.21:306][934]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=23
+[2023.12.26-00.31.21:306][934]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=23
+[2023.12.26-00.31.21:309][934]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=23
+[2023.12.26-00.31.21:309][934]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=23
+[2023.12.26-00.31.21:309][934]LogInit: FAudioDevice initialized with ID 23.
+[2023.12.26-00.31.21:309][934]LogAudio: Display: Audio Device (ID: 23) registered with world 'lobby1'.
+[2023.12.26-00.31.21:309][934]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 23
+[2023.12.26-00.31.21:312][934]LogLoad: Game class is 'LobbyGamemode_C'
+[2023.12.26-00.31.21:313][934]LogWorld: Bringing World /Game/Maps/Lobby/UEDPIE_0_lobby1.lobby1 up for play (max tick rate 0) at 2023.12.26-05.31.21
+[2023.12.26-00.31.21:314][934]LogWorld: Bringing up level for play took: 0.001319
+[2023.12.26-00.31.21:317][934]LogOnline: OSS: Created online subsystem instance for: :Context_53
+[2023.12.26-00.31.21:320][934]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.12.26-00.31.21:320][934]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2023.12.26-00.31.21:321][934]PIE: Server logged in
+[2023.12.26-00.31.21:322][934]PIE: Play in editor total start time 0,165 seconds.
+[2023.12.26-00.32.01:789][966]Cmd: servertravel 
+[2023.12.26-00.32.01:793][966]ERROR: The map '' is either short package name or does not exist.
+[2023.12.26-00.32.01:793][966]Command not recognized: servertravel 
+[2023.12.26-00.32.02:809][ 32]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.26-00.32.02:809][ 32]LogWorld: BeginTearingDown for /Game/Maps/Lobby/UEDPIE_0_lobby1
+[2023.12.26-00.32.02:809][ 32]LogWorld: UWorld::CleanupWorld for lobby1, bSessionEnded=true, bCleanupResources=true
+[2023.12.26-00.32.02:809][ 32]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.26-00.32.02:812][ 32]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.12.26-00.32.02:817][ 32]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.26-00.32.02:831][ 32]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.26-00.32.02:831][ 32]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 23
+[2023.12.26-00.32.02:831][ 32]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
+[2023.12.26-00.32.02:834][ 32]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
+[2023.12.26-00.32.02:845][ 32]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2023.12.26-00.32.02:878][ 33]LogPlayLevel: Display: Destroying online subsystem :Context_53
+[2023.12.26-00.32.07:446][379]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2023.12.26-00.32.11:737][608]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/ServerInterface.ServerInterface
+[2023.12.26-00.32.11:737][608]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.26-00.32.11:737][608]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.26-00.32.11:749][608]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.26-00.32.11:749][608]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.26-00.32.36:461][716]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.12.26-00.32.36:468][716]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.12.26-00.32.36:470][716]LogPlayLevel: [PlayLevel] Compiling ServerInterface before play...
+[2023.12.26-00.32.36:520][716]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2023.12.26-00.32.36:527][716]LogPlayLevel: PlayLevel: Blueprint regeneration took 59 ms (1 blueprints)
+[2023.12.26-00.32.36:527][716]PIE: New page: PIE session: lobby1 (26 дек. 2023 г., 10:32:36)
+[2023.12.26-00.32.36:568][716]LogPlayLevel: Creating play world package: /Game/Maps/Lobby/UEDPIE_0_lobby1
+[2023.12.26-00.32.36:572][716]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003940s)
+[2023.12.26-00.32.36:572][716]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Lobby/lobby1.lobby1 to /Game/Maps/Lobby/UEDPIE_0_lobby1.lobby1 (0.003983s)
+[2023.12.26-00.32.36:588][716]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2023.12.26-00.32.36:590][716]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.26-00.32.36:590][716]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.26-00.32.36:590][716]LogAIModule: Creating AISystem for world lobby1
+[2023.12.26-00.32.36:591][716]LogPlayLevel: PIE: World Init took: (0.000914s)
+[2023.12.26-00.32.36:591][716]LogAudio: Display: Creating Audio Device:                 Id: 24, Scope: Unique, Realtime: True
+[2023.12.26-00.32.36:591][716]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.12.26-00.32.36:591][716]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.12.26-00.32.36:591][716]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.12.26-00.32.36:591][716]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.12.26-00.32.36:591][716]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.12.26-00.32.36:591][716]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.12.26-00.32.36:591][716]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.12.26-00.32.36:591][716]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.12.26-00.32.36:591][716]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.12.26-00.32.36:591][716]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.12.26-00.32.36:591][716]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.12.26-00.32.36:594][716]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.12.26-00.32.36:626][716]LogAudioMixer: Display: Using Audio Hardware Device Наушники (Realtek(R) Audio)
+[2023.12.26-00.32.36:626][716]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.12.26-00.32.36:626][716]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.12.26-00.32.36:626][716]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.12.26-00.32.36:627][716]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=24
+[2023.12.26-00.32.36:627][716]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=24
+[2023.12.26-00.32.36:630][716]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=24
+[2023.12.26-00.32.36:630][716]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=24
+[2023.12.26-00.32.36:630][716]LogInit: FAudioDevice initialized with ID 24.
+[2023.12.26-00.32.36:630][716]LogAudio: Display: Audio Device (ID: 24) registered with world 'lobby1'.
+[2023.12.26-00.32.36:630][716]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 24
+[2023.12.26-00.32.36:633][716]LogLoad: Game class is 'LobbyGamemode_C'
+[2023.12.26-00.32.36:634][716]LogWorld: Bringing World /Game/Maps/Lobby/UEDPIE_0_lobby1.lobby1 up for play (max tick rate 0) at 2023.12.26-05.32.36
+[2023.12.26-00.32.36:634][716]LogWorld: Bringing up level for play took: 0.000910
+[2023.12.26-00.32.36:636][716]LogOnline: OSS: Created online subsystem instance for: :Context_56
+[2023.12.26-00.32.36:638][716]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.12.26-00.32.36:639][716]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2023.12.26-00.32.36:639][716]PIE: Server logged in
+[2023.12.26-00.32.36:639][716]PIE: Play in editor total start time 0,171 seconds.
+[2023.12.26-00.32.40:504][959]Cmd: servertravel Level2
+[2023.12.26-00.32.40:507][959]LogAssetRegistry: Warning: GetFirstPackageByName('Level2') is returning '/Game/Maps/Game/Level2', but it also found '/Game/Maps/Level2'.
+[2023.12.26-00.32.40:507][959]LogGameMode: ProcessServerTravel: /Game/Maps/Game/Level2
+[2023.12.26-00.32.40:512][959]LogEngine: Server switch level: /Game/Maps/Game/Level2
+[2023.12.26-00.32.40:512][959]LogNet: Browse: /Game/Maps/Game/Level2
+[2023.12.26-00.32.40:512][959]LogLoad: LoadMap: /Game/Maps/Game/Level2
+[2023.12.26-00.32.40:512][959]LogWorld: BeginTearingDown for /Game/Maps/Lobby/UEDPIE_0_lobby1
+[2023.12.26-00.32.40:514][959]LogWorld: UWorld::CleanupWorld for lobby1, bSessionEnded=true, bCleanupResources=true
+[2023.12.26-00.32.40:514][959]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.26-00.32.40:559][959]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.12.26-00.32.40:564][959]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2023.12.26-00.32.40:581][959]LogAudio: Display: Audio Device (ID: 24) registered with world 'Level2'.
+[2023.12.26-00.32.40:581][959]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.26-00.32.40:582][959]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.26-00.32.40:582][959]LogAIModule: Creating AISystem for world Level2
+[2023.12.26-00.32.40:583][959]LogPlayLevel: PIE: World Init took: (0.001926s)
+[2023.12.26-00.32.40:583][959]LogLoad: Game class is 'DefaultGamemode_C'
+[2023.12.26-00.32.40:588][959]LogWorld: Bringing World /Game/Maps/Game/UEDPIE_0_Level2.Level2 up for play (max tick rate 0) at 2023.12.26-05.32.40
+[2023.12.26-00.32.40:588][959]LogWorld: Bringing up level for play took: 0.004891
+[2023.12.26-00.32.40:589][959]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.12.26-00.32.40:590][959]LogLoad: Took 0.078137 seconds to LoadMap(/Game/Maps/Game/Level2)
+[2023.12.26-00.32.41:779][ 16]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.26-00.32.41:779][ 16]LogWorld: BeginTearingDown for /Game/Maps/Game/UEDPIE_0_Level2
+[2023.12.26-00.32.41:779][ 16]LogWorld: UWorld::CleanupWorld for Level2, bSessionEnded=true, bCleanupResources=true
+[2023.12.26-00.32.41:780][ 16]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.26-00.32.41:784][ 16]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.12.26-00.32.41:791][ 16]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.26-00.32.41:812][ 16]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.26-00.32.41:812][ 16]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 24
+[2023.12.26-00.32.41:812][ 16]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24
+[2023.12.26-00.32.41:816][ 16]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24
+[2023.12.26-00.32.41:838][ 16]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2023.12.26-00.32.41:889][ 17]LogPlayLevel: Display: Destroying online subsystem :Context_56
+[2023.12.26-00.32.42:825][ 65]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2023.12.26-00.32.43:702][ 65]LogSlate: Window 'Save Content' being destroyed
+[2023.12.26-00.32.43:712][ 65]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.26-00.32.43:815][ 65]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/ServerInterface" FILE="../../../../../../Users/nick1/Documents/GitHub/AtomVR/AtomVR/Content/UI/ServerInterface.uasset" SILENT=true
+[2023.12.26-00.32.43:826][ 65]LogSavePackage: Moving output files for package: /Game/UI/ServerInterface
+[2023.12.26-00.32.43:826][ 65]LogSavePackage: Moving '../../../../../../Users/nick1/Documents/GitHub/AtomVR/AtomVR/Saved/ServerInterface451F3B7B4582F084508A4A81B5E8E504.tmp' to '../../../../../../Users/nick1/Documents/GitHub/AtomVR/AtomVR/Content/UI/ServerInterface.uasset'
+[2023.12.26-00.32.43:837][ 65]LogFileHelpers: InternalPromptForCheckoutAndSave took 125 ms (total: 14.3 sec)
+[2023.12.26-00.32.43:838][ 65]AssetCheck: New page: Asset Save: ServerInterface
+[2023.12.26-00.32.43:838][ 65]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/ServerInterface.ServerInterface
+[2023.12.26-00.32.44:517][120]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.12.26-00.32.44:523][120]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.12.26-00.32.44:523][120]PIE: New page: PIE session: lobby1 (26 дек. 2023 г., 10:32:44)
+[2023.12.26-00.32.44:523][120]LogPlayLevel: Creating play world package: /Game/Maps/Lobby/UEDPIE_0_lobby1
+[2023.12.26-00.32.44:528][120]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004595s)
+[2023.12.26-00.32.44:528][120]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Lobby/lobby1.lobby1 to /Game/Maps/Lobby/UEDPIE_0_lobby1.lobby1 (0.004648s)
+[2023.12.26-00.32.44:547][120]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2023.12.26-00.32.44:550][120]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.26-00.32.44:550][120]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.26-00.32.44:550][120]LogAIModule: Creating AISystem for world lobby1
+[2023.12.26-00.32.44:551][120]LogPlayLevel: PIE: World Init took: (0.000899s)
+[2023.12.26-00.32.44:551][120]LogAudio: Display: Creating Audio Device:                 Id: 25, Scope: Unique, Realtime: True
+[2023.12.26-00.32.44:551][120]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.12.26-00.32.44:551][120]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.12.26-00.32.44:551][120]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.12.26-00.32.44:551][120]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.12.26-00.32.44:551][120]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.12.26-00.32.44:551][120]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.12.26-00.32.44:551][120]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.12.26-00.32.44:551][120]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.12.26-00.32.44:551][120]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.12.26-00.32.44:551][120]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.12.26-00.32.44:551][120]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.12.26-00.32.44:553][120]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.12.26-00.32.44:583][120]LogAudioMixer: Display: Using Audio Hardware Device Наушники (Realtek(R) Audio)
+[2023.12.26-00.32.44:584][120]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.12.26-00.32.44:584][120]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.12.26-00.32.44:584][120]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.12.26-00.32.44:585][120]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=25
+[2023.12.26-00.32.44:585][120]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=25
+[2023.12.26-00.32.44:587][120]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=25
+[2023.12.26-00.32.44:587][120]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=25
+[2023.12.26-00.32.44:587][120]LogInit: FAudioDevice initialized with ID 25.
+[2023.12.26-00.32.44:587][120]LogAudio: Display: Audio Device (ID: 25) registered with world 'lobby1'.
+[2023.12.26-00.32.44:587][120]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 25
+[2023.12.26-00.32.44:589][120]LogLoad: Game class is 'LobbyGamemode_C'
+[2023.12.26-00.32.44:590][120]LogWorld: Bringing World /Game/Maps/Lobby/UEDPIE_0_lobby1.lobby1 up for play (max tick rate 0) at 2023.12.26-05.32.44
+[2023.12.26-00.32.44:590][120]LogWorld: Bringing up level for play took: 0.000871
+[2023.12.26-00.32.44:593][120]LogOnline: OSS: Created online subsystem instance for: :Context_57
+[2023.12.26-00.32.44:595][120]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.12.26-00.32.44:595][120]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2023.12.26-00.32.44:595][120]PIE: Server logged in
+[2023.12.26-00.32.44:596][120]PIE: Play in editor total start time 0,073 seconds.
+[2023.12.26-00.32.46:685][301]Cmd: servertravel Level4
+[2023.12.26-00.32.46:687][301]LogAssetRegistry: Warning: GetFirstPackageByName('Level4') is returning '/Game/Maps/Game/Level4', but it also found '/Game/Maps/Level4'.
+[2023.12.26-00.32.46:687][301]LogGameMode: ProcessServerTravel: /Game/Maps/Game/Level4
+[2023.12.26-00.32.46:690][301]LogEngine: Server switch level: /Game/Maps/Game/Level4
+[2023.12.26-00.32.46:690][301]LogNet: Browse: /Game/Maps/Game/Level4
+[2023.12.26-00.32.46:690][301]LogLoad: LoadMap: /Game/Maps/Game/Level4
+[2023.12.26-00.32.46:690][301]LogWorld: BeginTearingDown for /Game/Maps/Lobby/UEDPIE_0_lobby1
+[2023.12.26-00.32.46:691][301]LogWorld: UWorld::CleanupWorld for lobby1, bSessionEnded=true, bCleanupResources=true
+[2023.12.26-00.32.46:691][301]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.26-00.32.46:733][301]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.12.26-00.32.46:736][301]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2023.12.26-00.32.46:745][301]LogAudio: Display: Audio Device (ID: 25) registered with world 'Level4'.
+[2023.12.26-00.32.46:745][301]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.26-00.32.46:745][301]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.26-00.32.46:745][301]LogAIModule: Creating AISystem for world Level4
+[2023.12.26-00.32.46:746][301]LogPlayLevel: PIE: World Init took: (0.000774s)
+[2023.12.26-00.32.46:746][301]LogLoad: Game class is 'DefaultGamemode_C'
+[2023.12.26-00.32.46:748][301]LogWorld: Bringing World /Game/Maps/Game/UEDPIE_0_Level4.Level4 up for play (max tick rate 0) at 2023.12.26-05.32.46
+[2023.12.26-00.32.46:748][301]LogWorld: Bringing up level for play took: 0.002288
+[2023.12.26-00.32.46:748][301]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.12.26-00.32.46:749][301]LogLoad: Took 0.058973 seconds to LoadMap(/Game/Maps/Game/Level4)
+[2023.12.26-00.32.56:229][968]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.26-00.32.56:229][968]LogWorld: BeginTearingDown for /Game/Maps/Game/UEDPIE_0_Level4
+[2023.12.26-00.32.56:229][968]LogWorld: UWorld::CleanupWorld for Level4, bSessionEnded=true, bCleanupResources=true
+[2023.12.26-00.32.56:230][968]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.26-00.32.56:233][968]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.12.26-00.32.56:237][968]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.26-00.32.56:251][968]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.26-00.32.56:252][968]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 25
+[2023.12.26-00.32.56:252][968]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=25
+[2023.12.26-00.32.56:254][968]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=25
+[2023.12.26-00.32.56:278][968]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2023.12.26-00.32.56:313][969]LogPlayLevel: Display: Destroying online subsystem :Context_57
+[2023.12.26-00.32.56:936][ 20]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2023.12.26-00.33.03:974][280]BlueprintLog: New page: Compile ServerInterface
+[2023.12.26-00.33.04:005][280]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2023.12.26-00.33.06:195][373]BlueprintLog: New page: Compile ServerInterface
+[2023.12.26-00.33.06:226][373]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2023.12.26-00.33.11:836][586]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2023.12.26-00.33.12:867][640]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2023.12.26-00.33.18:152][932]LogSlate: Window 'Pick Parent Class for New Widget Blueprint' being destroyed
+[2023.12.26-00.33.18:165][932]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2023.12.26-00.33.18:172][932]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2023.12.26-00.33.18:186][933]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2023.12.26-00.33.23:696][252]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> ServerGameInterface
+[2023.12.26-00.33.23:704][252]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2023.12.26-00.33.24:762][340]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2023.12.26-00.33.25:337][340]LogSlate: Window 'Save Content' being destroyed
+[2023.12.26-00.33.25:347][340]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.26-00.33.25:439][340]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/ServerGameInterface" FILE="../../../../../../Users/nick1/Documents/GitHub/AtomVR/AtomVR/Content/UI/ServerGameInterface.uasset" SILENT=true
+[2023.12.26-00.33.25:441][340]LogSavePackage: Moving output files for package: /Game/UI/ServerGameInterface
+[2023.12.26-00.33.25:441][340]LogSavePackage: Moving '../../../../../../Users/nick1/Documents/GitHub/AtomVR/AtomVR/Saved/ServerGameInterface5E55CCDF421CA487823AE9920AE1FB88.tmp' to '../../../../../../Users/nick1/Documents/GitHub/AtomVR/AtomVR/Content/UI/ServerGameInterface.uasset'
+[2023.12.26-00.33.25:452][340]LogFileHelpers: InternalPromptForCheckoutAndSave took 105 ms (total: 14.4 sec)
+[2023.12.26-00.33.25:453][340]AssetCheck: New page: Asset Save: ServerGameInterface
+[2023.12.26-00.33.25:453][340]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/ServerGameInterface.ServerGameInterface
+[2023.12.26-00.33.38:501][208]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Code/ServerSystem/ServerPawn.ServerPawn
+[2023.12.26-00.33.38:501][208]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.26-00.33.38:501][208]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.26-00.33.55:134][815]LogSlate: Window 'Change Variable Type' being destroyed
+[2023.12.26-00.33.57:476][914]LogSlate: Window 'Find in Blueprints' being destroyed
+[2023.12.26-00.33.57:484][914]LogSlate: Window 'Find in Blueprints' being destroyed
+[2023.12.26-00.33.58:421][968]BlueprintLog: New page: Compile ServerPawn
+[2023.12.26-00.33.58:455][968]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2023.12.26-00.34.46:258][ 15]LogSlate: Window 'ServerPawn' being destroyed
+[2023.12.26-00.34.46:264][ 15]LogSlate: Window 'ServerPawn' being destroyed
+[2023.12.26-00.34.46:291][ 15]LogWorld: UWorld::CleanupWorld for World_50, bSessionEnded=true, bCleanupResources=true
+[2023.12.26-00.34.46:291][ 15]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.26-00.34.46:300][ 15]LogWorld: UWorld::CleanupWorld for World_49, bSessionEnded=true, bCleanupResources=true
+[2023.12.26-00.34.46:300][ 15]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.26-00.34.46:355][ 15]LogWorld: UWorld::CleanupWorld for World_53, bSessionEnded=true, bCleanupResources=true
+[2023.12.26-00.34.46:356][ 15]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.26-00.34.47:020][ 65]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2023.12.26-00.34.48:115][ 65]LogSlate: Window 'Save Content' being destroyed
+[2023.12.26-00.34.48:125][ 65]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.26-00.34.48:213][ 65]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Code/ServerSystem/ServerPawn" FILE="../../../../../../Users/nick1/Documents/GitHub/AtomVR/AtomVR/Content/Code/ServerSystem/ServerPawn.uasset" SILENT=true
+[2023.12.26-00.34.48:228][ 65]LogSavePackage: Moving output files for package: /Game/Code/ServerSystem/ServerPawn
+[2023.12.26-00.34.48:229][ 65]LogSavePackage: Moving '../../../../../../Users/nick1/Documents/GitHub/AtomVR/AtomVR/Saved/ServerPawnA313B5624CFEA82F4AF1EC91909C1E3C.tmp' to '../../../../../../Users/nick1/Documents/GitHub/AtomVR/AtomVR/Content/Code/ServerSystem/ServerPawn.uasset'
+[2023.12.26-00.34.48:237][ 65]LogFileHelpers: InternalPromptForCheckoutAndSave took 111 ms (total: 14.6 sec)
+[2023.12.26-00.34.48:238][ 65]AssetCheck: New page: Asset Save: ServerPawn
+[2023.12.26-00.34.48:239][ 65]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Code/ServerSystem/ServerPawn.ServerPawn
+[2023.12.26-00.34.55:225][497]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/ServerInterface.ServerInterface
+[2023.12.26-00.34.55:225][497]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.26-00.34.55:225][497]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.26-00.34.55:237][497]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.26-00.34.55:237][497]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.26-00.34.59:044][667]LogSlate: Window 'ServerInterface' being destroyed
+[2023.12.26-00.34.59:048][667]LogSlate: Window 'ServerInterface' being destroyed
+[2023.12.26-00.34.59:076][667]LogWorld: UWorld::CleanupWorld for World_55, bSessionEnded=true, bCleanupResources=true
+[2023.12.26-00.34.59:076][667]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.26-00.34.59:083][667]LogWorld: UWorld::CleanupWorld for World_54, bSessionEnded=true, bCleanupResources=true
+[2023.12.26-00.34.59:083][667]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.26-00.34.59:916][732]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/ServerGameInterface.ServerGameInterface
+[2023.12.26-00.34.59:916][732]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.26-00.34.59:916][732]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.26-00.34.59:925][732]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.26-00.34.59:925][732]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.26-00.35.10:173][122]BlueprintLog: New page: Compile ServerGameInterface
+[2023.12.26-00.35.10:203][122]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2023.12.26-00.35.24:596][608]BlueprintLog: New page: Compile ServerGameInterface
+[2023.12.26-00.35.24:642][608]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2023.12.26-00.35.36:249][ 58]BlueprintLog: New page: Compile ServerGameInterface
+[2023.12.26-00.35.36:278][ 58]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2023.12.26-00.35.44:467][387]BlueprintLog: New page: Compile ServerGameInterface
+[2023.12.26-00.35.44:509][387]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2023.12.26-00.36.06:785][454]BlueprintLog: New page: Compile ServerGameInterface
+[2023.12.26-00.36.06:815][454]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2023.12.26-00.36.07:999][490]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.12.26-00.36.08:571][512]BlueprintLog: New page: Compile ServerGameInterface
+[2023.12.26-00.36.08:597][512]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2023.12.26-00.36.19:151][ 38]LogSlate: Window 'ServerGameInterface' being destroyed
+[2023.12.26-00.36.19:155][ 38]LogSlate: Window 'ServerGameInterface' being destroyed
+[2023.12.26-00.36.19:180][ 38]LogWorld: UWorld::CleanupWorld for World_57, bSessionEnded=true, bCleanupResources=true
+[2023.12.26-00.36.19:181][ 38]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.26-00.36.19:188][ 38]LogWorld: UWorld::CleanupWorld for World_56, bSessionEnded=true, bCleanupResources=true
+[2023.12.26-00.36.19:188][ 38]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.26-00.36.19:987][ 99]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2023.12.26-00.36.20:552][ 99]LogSlate: Window 'Save Content' being destroyed
+[2023.12.26-00.36.20:563][ 99]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.26-00.36.20:656][ 99]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/ServerGameInterface" FILE="../../../../../../Users/nick1/Documents/GitHub/AtomVR/AtomVR/Content/UI/ServerGameInterface.uasset" SILENT=true
+[2023.12.26-00.36.20:662][ 99]LogSavePackage: Moving output files for package: /Game/UI/ServerGameInterface
+[2023.12.26-00.36.20:663][ 99]LogSavePackage: Moving '../../../../../../Users/nick1/Documents/GitHub/AtomVR/AtomVR/Saved/ServerGameInterface1B4FD7994F9479BC159169B5CA4205AE.tmp' to '../../../../../../Users/nick1/Documents/GitHub/AtomVR/AtomVR/Content/UI/ServerGameInterface.uasset'
+[2023.12.26-00.36.20:672][ 99]LogFileHelpers: InternalPromptForCheckoutAndSave took 108 ms (total: 14.7 sec)
+[2023.12.26-00.36.20:673][ 99]AssetCheck: New page: Asset Save: ServerGameInterface
+[2023.12.26-00.36.20:673][ 99]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/ServerGameInterface.ServerGameInterface
+[2023.12.26-00.36.23:060][240]LogUObjectHash: Compacting FUObjectHashTables data took   3.46ms
+[2023.12.26-00.36.26:593][385]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2023.12.26-00.36.28:648][562]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2023.12.26-00.36.36:334][ 59]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2023.12.26-00.36.56:245][548]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2023.12.26-00.37.01:721][812]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2023.12.26-00.37.09:726][357]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2023.12.26-00.37.09:810][357]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.26-00.37.09:810][357]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/SelectServer.SelectServer
+[2023.12.26-00.37.09:810][357]Cmd: MAP LOAD FILE="../../../../../../Users/nick1/Documents/GitHub/AtomVR/AtomVR/Content/Maps/SelectServer.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2023.12.26-00.37.09:810][357]LightingResults: New page: Lighting Build
+[2023.12.26-00.37.09:811][357]LoadErrors: New page: Loading map: SelectServer.umap
+[2023.12.26-00.37.09:838][357]LogWorld: UWorld::CleanupWorld for lobby1, bSessionEnded=true, bCleanupResources=true
+[2023.12.26-00.37.09:839][357]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.26-00.37.09:839][357]MapCheck: New page: Map Check
+[2023.12.26-00.37.09:839][357]LightingResults: New page: Lighting Build
+[2023.12.26-00.37.09:853][357]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.12.26-00.37.09:856][357]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2023.12.26-00.37.09:861][357]LogWorld: UWorld::CleanupWorld for SelectServer, bSessionEnded=true, bCleanupResources=true
+[2023.12.26-00.37.09:861][357]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.26-00.37.09:880][357]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2023.12.26-00.37.09:899][357]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2023.12.26-00.37.09:908][357]LogAudio: Display: Audio Device (ID: 1) registered with world 'SelectServer'.
+[2023.12.26-00.37.09:908][357]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.26-00.37.09:908][357]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.26-00.37.09:908][357]LogAIModule: Creating AISystem for world SelectServer
+[2023.12.26-00.37.09:959][357]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.12.26-00.37.09:978][357]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2023.12.26-00.37.09:984][357]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.12.26-00.37.09:984][357]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,132ms to complete.
+[2023.12.26-00.37.11:296][483]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2023.12.26-00.37.11:376][483]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.26-00.37.11:380][483]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Lobby/lobby1.lobby1
+[2023.12.26-00.37.11:380][483]Cmd: MAP LOAD FILE="../../../../../../Users/nick1/Documents/GitHub/AtomVR/AtomVR/Content/Maps/Lobby/lobby1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2023.12.26-00.37.11:380][483]LightingResults: New page: Lighting Build
+[2023.12.26-00.37.11:380][483]LoadErrors: New page: Loading map: lobby1.umap
+[2023.12.26-00.37.11:450][483]LogWorld: UWorld::CleanupWorld for SelectServer, bSessionEnded=true, bCleanupResources=true
+[2023.12.26-00.37.11:450][483]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.26-00.37.11:450][483]MapCheck: New page: Map Check
+[2023.12.26-00.37.11:450][483]LightingResults: New page: Lighting Build
+[2023.12.26-00.37.11:464][483]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.12.26-00.37.11:466][483]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2023.12.26-00.37.11:470][483]LogWorld: UWorld::CleanupWorld for lobby1, bSessionEnded=true, bCleanupResources=true
+[2023.12.26-00.37.11:470][483]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.26-00.37.11:484][483]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2023.12.26-00.37.11:502][483]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2023.12.26-00.37.11:509][483]LogAudio: Display: Audio Device (ID: 1) registered with world 'lobby1'.
+[2023.12.26-00.37.11:509][483]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.26-00.37.11:509][483]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.26-00.37.11:510][483]LogAIModule: Creating AISystem for world lobby1
+[2023.12.26-00.37.11:609][483]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.12.26-00.37.11:625][483]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2023.12.26-00.37.11:632][483]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.12.26-00.37.11:632][483]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,219ms to complete.
+[2023.12.26-00.37.13:433][578]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2023.12.26-00.37.13:556][578]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.26-00.37.13:563][578]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Game/Level1.Level1
+[2023.12.26-00.37.13:564][578]Cmd: MAP LOAD FILE="../../../../../../Users/nick1/Documents/GitHub/AtomVR/AtomVR/Content/Maps/Game/Level1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2023.12.26-00.37.13:564][578]LightingResults: New page: Lighting Build
+[2023.12.26-00.37.13:564][578]LoadErrors: New page: Loading map: Level1.umap
+[2023.12.26-00.37.13:600][578]LogWorld: UWorld::CleanupWorld for lobby1, bSessionEnded=true, bCleanupResources=true
+[2023.12.26-00.37.13:600][578]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.26-00.37.13:600][578]MapCheck: New page: Map Check
+[2023.12.26-00.37.13:600][578]LightingResults: New page: Lighting Build
+[2023.12.26-00.37.13:621][578]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.12.26-00.37.13:625][578]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2023.12.26-00.37.13:632][578]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2023.12.26-00.37.13:633][578]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.26-00.37.13:658][578]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2023.12.26-00.37.13:685][578]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2023.12.26-00.37.13:701][578]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level1'.
+[2023.12.26-00.37.13:701][578]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.26-00.37.13:702][578]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.26-00.37.13:702][578]LogAIModule: Creating AISystem for world Level1
+[2023.12.26-00.37.13:831][578]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.12.26-00.37.13:863][578]LogUObjectHash: Compacting FUObjectHashTables data took   4.20ms
+[2023.12.26-00.37.13:873][578]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.12.26-00.37.13:873][578]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,165ms to complete.
+[2023.12.26-00.37.16:961][741]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2023.12.26-00.37.17:046][741]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.26-00.37.17:050][741]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Game/Level2.Level2
+[2023.12.26-00.37.17:050][741]Cmd: MAP LOAD FILE="../../../../../../Users/nick1/Documents/GitHub/AtomVR/AtomVR/Content/Maps/Game/Level2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2023.12.26-00.37.17:050][741]LightingResults: New page: Lighting Build
+[2023.12.26-00.37.17:050][741]LoadErrors: New page: Loading map: Level2.umap
+[2023.12.26-00.37.17:077][741]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2023.12.26-00.37.17:077][741]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.26-00.37.17:077][741]MapCheck: New page: Map Check
+[2023.12.26-00.37.17:077][741]LightingResults: New page: Lighting Build
+[2023.12.26-00.37.17:092][741]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.12.26-00.37.17:096][741]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2023.12.26-00.37.17:102][741]LogWorld: UWorld::CleanupWorld for Level2, bSessionEnded=true, bCleanupResources=true
+[2023.12.26-00.37.17:102][741]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.26-00.37.17:120][741]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2023.12.26-00.37.17:139][741]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2023.12.26-00.37.17:151][741]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level2'.
+[2023.12.26-00.37.17:151][741]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.26-00.37.17:151][741]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.26-00.37.17:152][741]LogAIModule: Creating AISystem for world Level2
+[2023.12.26-00.37.17:315][741]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.12.26-00.37.17:334][741]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2023.12.26-00.37.17:340][741]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.12.26-00.37.17:341][741]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,136ms to complete.
+[2023.12.26-00.37.20:561][993]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /BlockoutToolsPlugin/Blueprints/Blockout_Box.Blockout_Box_C
+[2023.12.26-00.37.20:562][993]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /BlockoutToolsPlugin/Blueprints/Blockout_Box.Blockout_Box_C
+[2023.12.26-00.37.20:564][993]LogActorFactory: Actor Factory spawned Blueprint /BlockoutToolsPlugin/Blueprints/Blockout_Box.Blockout_Box as actor: Blockout_Box_C /Game/Maps/Game/Level2.Level2:PersistentLevel.Blockout_Box_C_0
+[2023.12.26-00.37.20:564][993]LogActorFactory: Actor Factory spawned Blueprint /BlockoutToolsPlugin/Blueprints/Blockout_Box.Blockout_Box as actor: Blockout_Box_C /Game/Maps/Game/Level2.Level2:PersistentLevel.Blockout_Box_C_0
+[2023.12.26-00.37.21:405][ 46]LogShaderCompilers: Display: ================================================
+[2023.12.26-00.37.21:405][ 46]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.12.26-00.37.21:405][ 46]LogShaderCompilers: Display: Total job queries 186, among them cache hits 47 (25.27%)
+[2023.12.26-00.37.21:405][ 46]LogShaderCompilers: Display: Tracking 138 distinct input hashes that result in 112 distinct outputs (81.16%)
+[2023.12.26-00.37.21:405][ 46]LogShaderCompilers: Display: RAM used: 5,16 MiB of 716,80 MiB budget. Usage: 0.72%
+[2023.12.26-00.37.21:405][ 46]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.12.26-00.37.21:405][ 46]LogShaderCompilers: Display: Shaders Compiled: 86
+[2023.12.26-00.37.21:406][ 46]LogShaderCompilers: Display: Jobs assigned 87, completed 86 (98.85%)
+[2023.12.26-00.37.21:406][ 46]LogShaderCompilers: Display: Average time worker was idle: 509.39 s
+[2023.12.26-00.37.21:406][ 46]LogShaderCompilers: Display: Time job spent in pending queue: average 0.98 s, longest 10.49 s
+[2023.12.26-00.37.21:406][ 46]LogShaderCompilers: Display: Job execution time: average 10.06 s, max 15.50 s
+[2023.12.26-00.37.21:406][ 46]LogShaderCompilers: Display: Job life time (pending + execution): average 11.05 s, max 15.51
+[2023.12.26-00.37.21:406][ 46]LogShaderCompilers: Display: Shader code size: average 70,051 KiB, min 2,816 KiB, max 96,531 KiB
+[2023.12.26-00.37.21:406][ 46]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 24.21 s
+[2023.12.26-00.37.21:406][ 46]LogShaderCompilers: Display: Jobs were issued in 30 batches (only local compilation was used), average 2.90 jobs/batch
+[2023.12.26-00.37.21:406][ 46]LogShaderCompilers: Display: Average processing rate: 3.55 jobs/sec
+[2023.12.26-00.37.21:406][ 46]LogShaderCompilers: Display: Total thread time: 110,271 s
+[2023.12.26-00.37.21:406][ 46]LogShaderCompilers: Display: Total thread preprocess time: 4,027 s
+[2023.12.26-00.37.21:406][ 46]LogShaderCompilers: Display: Percentage time preprocessing: 3.65%
+[2023.12.26-00.37.21:406][ 46]LogShaderCompilers: Display: Effective parallelization: 4.56 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.12.26-00.37.21:406][ 46]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.12.26-00.37.21:406][ 46]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    4 times, average 3.04 sec, max 5.82 sec, min 1.01 sec)
+[2023.12.26-00.37.21:406][ 46]LogShaderCompilers: Display:                                        FCloudRenderViewPS011 (compiled    1 times, average 2.49 sec, max 2.49 sec, min 2.49 sec)
+[2023.12.26-00.37.21:406][ 46]LogShaderCompilers: Display:                                        FCloudRenderViewPS110 (compiled    1 times, average 2.40 sec, max 2.40 sec, min 2.40 sec)
+[2023.12.26-00.37.21:406][ 46]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    1 times, average 2.29 sec, max 2.29 sec, min 2.29 sec)
+[2023.12.26-00.37.21:406][ 46]LogShaderCompilers: Display:                                        FCloudRenderViewPS111 (compiled    1 times, average 2.18 sec, max 2.18 sec, min 2.18 sec)
+[2023.12.26-00.37.21:406][ 46]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.12.26-00.37.21:406][ 46]LogShaderCompilers: Display:                           FRenderVolumetricCloudRenderViewCS - 46.09% of total time (compiled   34 times, average 1.49 sec, max 2.62 sec, min 0.69 sec)
+[2023.12.26-00.37.21:406][ 46]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 11.05% of total time (compiled    4 times, average 3.04 sec, max 5.82 sec, min 1.01 sec)
+[2023.12.26-00.37.21:406][ 46]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 5.95% of total time (compiled    4 times, average 1.64 sec, max 3.66 sec, min 0.40 sec)
+[2023.12.26-00.37.21:406][ 46]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 3.89% of total time (compiled    6 times, average 0.72 sec, max 1.23 sec, min 0.35 sec)
+[2023.12.26-00.37.21:406][ 46]LogShaderCompilers: Display:                                        FCloudRenderViewPS011 - 2.26% of total time (compiled    1 times, average 2.49 sec, max 2.49 sec, min 2.49 sec)
+[2023.12.26-00.37.21:406][ 46]LogShaderCompilers: Display: ================================================
+[2023.12.26-00.37.24:067][168]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2023.12.26-00.37.34:795][892]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2023.12.26-00.37.36:698][988]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2023.12.26-00.37.54:785][306]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2023.12.26-00.37.57:179][435]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2023.12.26-00.37.58:715][570]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2023.12.26-00.38.02:546][877]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2023.12.26-00.38.02:668][877]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.26-00.38.02:670][877]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Debug/MainArea.MainArea
+[2023.12.26-00.38.02:671][877]Cmd: MAP LOAD FILE="../../../../../../Users/nick1/Documents/GitHub/AtomVR/AtomVR/Content/Maps/Debug/MainArea.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2023.12.26-00.38.02:671][877]LightingResults: New page: Lighting Build
+[2023.12.26-00.38.02:671][877]LoadErrors: New page: Loading map: MainArea.umap
+[2023.12.26-00.38.02:713][877]LogWorld: UWorld::CleanupWorld for Level2, bSessionEnded=true, bCleanupResources=true
+[2023.12.26-00.38.02:713][877]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.26-00.38.02:713][877]MapCheck: New page: Map Check
+[2023.12.26-00.38.02:713][877]LightingResults: New page: Lighting Build
+[2023.12.26-00.38.02:737][877]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.12.26-00.38.02:743][877]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2023.12.26-00.38.02:749][877]LogWorld: UWorld::CleanupWorld for MainArea, bSessionEnded=true, bCleanupResources=true
+[2023.12.26-00.38.02:749][877]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.26-00.38.02:774][877]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2023.12.26-00.38.02:800][877]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2023.12.26-00.38.02:808][877]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainArea'.
+[2023.12.26-00.38.02:808][877]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.26-00.38.02:808][877]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.26-00.38.02:809][877]LogAIModule: Creating AISystem for world MainArea
+[2023.12.26-00.38.02:917][877]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.12.26-00.38.02:943][877]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2023.12.26-00.38.02:952][877]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.12.26-00.38.02:952][877]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,212ms to complete.
+[2023.12.26-00.38.10:168][222]LogSlate: Window 'New Level' being destroyed
+[2023.12.26-00.38.10:176][222]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=4
+[2023.12.26-00.38.10:176][222]LightingResults: New page: Lighting Build
+[2023.12.26-00.38.10:176][222]LoadErrors: New page: Loading map: Template_Default.umap
+[2023.12.26-00.38.10:239][222]LogWorld: UWorld::CleanupWorld for MainArea, bSessionEnded=true, bCleanupResources=true
+[2023.12.26-00.38.10:240][222]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.26-00.38.10:240][222]MapCheck: New page: Map Check
+[2023.12.26-00.38.10:240][222]LightingResults: New page: Lighting Build
+[2023.12.26-00.38.10:253][222]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.12.26-00.38.10:255][222]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2023.12.26-00.38.10:269][222]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled_2'.
+[2023.12.26-00.38.10:269][222]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.26-00.38.10:269][222]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.26-00.38.10:270][222]LogAIModule: Creating AISystem for world Untitled_2
+[2023.12.26-00.38.10:355][222]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.12.26-00.38.10:374][222]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2023.12.26-00.38.10:377][222]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.12.26-00.38.10:377][222]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,201ms to complete.
+[2023.12.26-00.38.14:696][487]LogUObjectHash: Compacting FUObjectHashTables data took   4.08ms
+[2023.12.26-00.38.16:069][550]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /BlockoutToolsPlugin/Blueprints/Blockout_Box.Blockout_Box_C
+[2023.12.26-00.38.16:069][550]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /BlockoutToolsPlugin/Blueprints/Blockout_Box.Blockout_Box_C
+[2023.12.26-00.38.16:071][550]LogActorFactory: Actor Factory spawned Blueprint /BlockoutToolsPlugin/Blueprints/Blockout_Box.Blockout_Box as actor: Blockout_Box_C /Temp/Untitled_2.Untitled_2:PersistentLevel.Blockout_Box_C_0
+[2023.12.26-00.38.16:072][550]LogActorFactory: Actor Factory spawned Blueprint /BlockoutToolsPlugin/Blueprints/Blockout_Box.Blockout_Box as actor: Blockout_Box_C /Temp/Untitled_2.Untitled_2:PersistentLevel.Blockout_Box_C_0
+[2023.12.26-00.38.16:923][589]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /BlockoutToolsPlugin/Blueprints/Blockout_Box.Blockout_Box_C
+[2023.12.26-00.38.16:923][589]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /BlockoutToolsPlugin/Blueprints/Blockout_Box.Blockout_Box_C
+[2023.12.26-00.38.16:929][589]LogActorFactory: Actor Factory spawned Blueprint /BlockoutToolsPlugin/Blueprints/Blockout_Box.Blockout_Box as actor: Blockout_Box_C /Temp/Untitled_2.Untitled_2:PersistentLevel.Blockout_Box_C_1
+[2023.12.26-00.38.16:930][589]LogActorFactory: Actor Factory spawned Blueprint /BlockoutToolsPlugin/Blueprints/Blockout_Box.Blockout_Box as actor: Blockout_Box_C /Temp/Untitled_2.Untitled_2:PersistentLevel.Blockout_Box_C_1
+[2023.12.26-00.38.21:331][946]Cmd: EDIT COPY
+[2023.12.26-00.38.21:671][966]Cmd: EDIT PASTE
+[2023.12.26-00.38.23:367][ 63]Cmd: EDIT COPY
+[2023.12.26-00.38.23:597][ 75]Cmd: EDIT PASTE
+[2023.12.26-00.38.25:280][157]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2023.12.26-00.38.25:848][157]LogSlate: Window 'Save Content' being destroyed
+[2023.12.26-00.38.25:863][157]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.26-00.38.31:438][157]LogSlate: Window 'Save Level As' being destroyed
+[2023.12.26-00.38.31:449][157]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Debug/TestLevel" FILE="../../../../../../Users/nick1/Documents/GitHub/AtomVR/AtomVR/Content/Maps/Debug/TestLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.12.26-00.38.31:494][157]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2023.12.26-00.38.31:507][157]LogSavePackage: Moving output files for package: /Game/Maps/Debug/TestLevel
+[2023.12.26-00.38.31:507][157]LogSavePackage: Moving '../../../../../../Users/nick1/Documents/GitHub/AtomVR/AtomVR/Saved/TestLevelB5106CCD4AA19580674148B7CDC3CB65.tmp' to '../../../../../../Users/nick1/Documents/GitHub/AtomVR/AtomVR/Content/Maps/Debug/TestLevel.umap'
+[2023.12.26-00.38.31:514][157]LogFileHelpers: Saving map 'TestLevel' took 0.067
+[2023.12.26-00.38.31:519][157]LogFileHelpers: InternalPromptForCheckoutAndSave took 5.65 sec (total: 20.3 sec)
+[2023.12.26-00.38.31:520][157]AssetCheck: New page: Asset Save: TestLevel
+[2023.12.26-00.38.31:520][157]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/Debug/TestLevel.TestLevel
+[2023.12.26-00.38.38:078][459]LogSlate: External Image Picker: DecompressImage failed
+[2023.12.26-00.38.43:274][736]LogSlate: Window 'Project Settings' being destroyed
+[2023.12.26-00.38.43:284][736]LogSlate: Window 'Project Settings' being destroyed
+[2023.12.26-00.38.44:040][766]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2023.12.26-00.38.47:055][920]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2023.12.26-00.38.48:481][ 12]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2023.12.26-00.38.50:973][230]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2023.12.26-00.38.56:835][560]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2023.12.26-00.38.56:938][560]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.26-00.38.56:943][560]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Lobby/lobby1.lobby1
+[2023.12.26-00.38.56:943][560]Cmd: MAP LOAD FILE="../../../../../../Users/nick1/Documents/GitHub/AtomVR/AtomVR/Content/Maps/Lobby/lobby1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2023.12.26-00.38.56:943][560]LightingResults: New page: Lighting Build
+[2023.12.26-00.38.56:943][560]LoadErrors: New page: Loading map: lobby1.umap
+[2023.12.26-00.38.56:984][560]LogWorld: UWorld::CleanupWorld for TestLevel, bSessionEnded=true, bCleanupResources=true
+[2023.12.26-00.38.56:984][560]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.26-00.38.56:984][560]MapCheck: New page: Map Check
+[2023.12.26-00.38.56:984][560]LightingResults: New page: Lighting Build
+[2023.12.26-00.38.57:006][560]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.12.26-00.38.57:010][560]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2023.12.26-00.38.57:015][560]LogWorld: UWorld::CleanupWorld for lobby1, bSessionEnded=true, bCleanupResources=true
+[2023.12.26-00.38.57:016][560]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.26-00.38.57:038][560]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2023.12.26-00.38.57:063][560]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2023.12.26-00.38.57:074][560]LogAudio: Display: Audio Device (ID: 1) registered with world 'lobby1'.
+[2023.12.26-00.38.57:074][560]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.26-00.38.57:074][560]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.26-00.38.57:074][560]LogAIModule: Creating AISystem for world lobby1
+[2023.12.26-00.38.57:201][560]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.12.26-00.38.57:226][560]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2023.12.26-00.38.57:237][560]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.12.26-00.38.57:237][560]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,149ms to complete.
+[2023.12.26-00.39.00:674][808]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/ServerGameInterface.ServerGameInterface
+[2023.12.26-00.39.00:674][808]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.26-00.39.00:674][808]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.26-00.39.00:682][808]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.26-00.39.00:682][808]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.26-00.39.02:514][903]LogSlate: Window 'ServerGameInterface' being destroyed
+[2023.12.26-00.39.02:518][903]LogSlate: Window 'ServerGameInterface' being destroyed
+[2023.12.26-00.39.02:568][903]LogWorld: UWorld::CleanupWorld for World_60, bSessionEnded=true, bCleanupResources=true
+[2023.12.26-00.39.02:568][903]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.26-00.39.02:575][903]LogWorld: UWorld::CleanupWorld for World_59, bSessionEnded=true, bCleanupResources=true
+[2023.12.26-00.39.02:575][903]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.26-00.39.04:171][  4]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2023.12.26-00.39.04:671][ 26]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/ServerInterface.ServerInterface
+[2023.12.26-00.39.04:672][ 26]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.26-00.39.04:672][ 26]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.26-00.39.04:683][ 26]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.26-00.39.04:683][ 26]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.26-00.39.08:319][143]BlueprintLog: New page: Compile ServerInterface
+[2023.12.26-00.39.08:370][143]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2023.12.26-00.39.18:053][576]LogContentBrowser: Deferred new asset file creation: ComboBoxSelector1
+[2023.12.26-00.39.18:072][576]LogContentBrowser: Creating deferred item: ComboBoxSelector1
+[2023.12.26-00.39.18:096][577]LogContentBrowser: Renaming the item being created (Deferred Item: ComboBoxSelector1).
+[2023.12.26-00.39.22:781][969]LogContentBrowser: Attempting asset rename: ComboBoxSelector1 -> ComboBoxSelector1
+[2023.12.26-00.39.22:804][969]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2023.12.26-00.39.22:818][969]LogContentBrowser: End creating deferred item ComboBoxSelector1
+[2023.12.26-00.39.23:514][ 19]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/ComboBoxSelector1.ComboBoxSelector1
+[2023.12.26-00.39.23:514][ 19]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.26-00.39.23:514][ 19]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.26-00.39.23:521][ 19]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.26-00.39.23:521][ 19]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.26-00.40.17:520][130]BlueprintLog: New page: Compile ComboBoxSelector1
+[2023.12.26-00.40.17:524][130]LogBlueprint: Warning: [AssetLog] /Game/UI/ComboBoxSelector1.ComboBoxSelector1: [Compiler] On Selection Changed (ComboBoxString_51)  does not have a valid matching component!
+[2023.12.26-00.40.17:525][130]LogBlueprint: Warning: [AssetLog] /Game/UI/ComboBoxSelector1.ComboBoxSelector1: [Compiler] Could not find a variable named "ComboBoxString_51" in 'ComboBoxSelector1_C'.
+Make sure 'ComboBoxSelector1_C' has been compiled for  Get ComboBoxString_51
+[2023.12.26-00.40.17:526][130]LogBlueprint: Error: [AssetLog] /Game/UI/ComboBoxSelector1.ComboBoxSelector1: [Compiler] The property associated with  Combo Box String 51  could not be found in '/Game/UI/ComboBoxSelector1.ComboBoxSelector1_C'
+[2023.12.26-00.40.17:565][130]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2023.12.26-00.40.23:365][432]BlueprintLog: New page: Compile ComboBoxSelector1
+[2023.12.26-00.40.23:368][432]LogBlueprint: Warning: [AssetLog] /Game/UI/ComboBoxSelector1.ComboBoxSelector1: [Compiler] Could not find a variable named "ComboBoxString_51" in 'ComboBoxSelector1_C'.
+Make sure 'ComboBoxSelector1_C' has been compiled for  Get ComboBoxString_51
+[2023.12.26-00.40.23:368][432]LogBlueprint: Error: [AssetLog] /Game/UI/ComboBoxSelector1.ComboBoxSelector1: [Compiler] The property associated with  Combo Box String 51  could not be found in '/Game/UI/ComboBoxSelector1.ComboBoxSelector1_C'
+[2023.12.26-00.40.23:393][432]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2023.12.26-00.40.27:156][595]BlueprintLog: New page: Compile ComboBoxSelector1
+[2023.12.26-00.40.27:199][595]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2023.12.26-00.41.07:448][486]BlueprintLog: New page: Compile ComboBoxSelector1
+[2023.12.26-00.41.07:491][486]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2023.12.26-00.41.22:033][113]BlueprintLog: New page: Compile ComboBoxSelector1
+[2023.12.26-00.41.22:061][113]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2023.12.26-00.41.38:012][696]BlueprintLog: New page: Compile ServerInterface
+[2023.12.26-00.41.38:061][696]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2023.12.26-00.41.42:998][861]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2023.12.26-00.41.43:566][861]LogSlate: Window 'Save Content' being destroyed
+[2023.12.26-00.41.43:573][861]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.26-00.41.43:666][861]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/ComboBoxSelector1" FILE="../../../../../../Users/nick1/Documents/GitHub/AtomVR/AtomVR/Content/UI/ComboBoxSelector1.uasset" SILENT=true
+[2023.12.26-00.41.43:672][861]LogSavePackage: Moving output files for package: /Game/UI/ComboBoxSelector1
+[2023.12.26-00.41.43:672][861]LogSavePackage: Moving '../../../../../../Users/nick1/Documents/GitHub/AtomVR/AtomVR/Saved/ComboBoxSelector125D2586A447E1F5E89D43B9D0D4C38F8.tmp' to '../../../../../../Users/nick1/Documents/GitHub/AtomVR/AtomVR/Content/UI/ComboBoxSelector1.uasset'
+[2023.12.26-00.41.43:682][861]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/ServerInterface" FILE="../../../../../../Users/nick1/Documents/GitHub/AtomVR/AtomVR/Content/UI/ServerInterface.uasset" SILENT=true
+[2023.12.26-00.41.43:692][861]LogSavePackage: Moving output files for package: /Game/UI/ServerInterface
+[2023.12.26-00.41.43:693][861]LogSavePackage: Moving '../../../../../../Users/nick1/Documents/GitHub/AtomVR/AtomVR/Saved/ServerInterface17EC8C08432AD6CE1E1CCDB60E0B1039.tmp' to '../../../../../../Users/nick1/Documents/GitHub/AtomVR/AtomVR/Content/UI/ServerInterface.uasset'
+[2023.12.26-00.41.43:707][861]LogFileHelpers: InternalPromptForCheckoutAndSave took 134 ms (total: 20.5 sec)
+[2023.12.26-00.41.43:709][861]AssetCheck: New page: Asset Save: multiple assets
+[2023.12.26-00.41.43:709][861]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/ComboBoxSelector1.ComboBoxSelector1
+[2023.12.26-00.41.43:710][861]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/ServerInterface.ServerInterface
+[2023.12.26-00.41.45:028][935]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2023.12.26-00.41.48:590][ 69]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2023.12.26-00.41.53:914][331]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Code/ServerSystem/VRGameInstance.VRGameInstance
+[2023.12.26-00.41.53:914][331]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.26-00.41.53:914][331]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.26-00.42.12:294][198]BlueprintLog: New page: Compile VRGameInstance
+[2023.12.26-00.42.12:314][198]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2023.12.26-00.42.14:168][304]BlueprintLog: New page: Compile VRGameInstance
+[2023.12.26-00.42.14:187][304]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2023.12.26-00.42.20:805][579]BlueprintLog: New page: Compile VRGameInstance
+[2023.12.26-00.42.20:824][579]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2023.12.26-00.42.24:352][791]BlueprintLog: New page: Compile VRGameInstance
+[2023.12.26-00.42.24:373][791]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2023.12.26-00.42.35:391][262]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/ComboBoxSelector.ComboBoxSelector
+[2023.12.26-00.42.35:392][262]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.26-00.42.35:392][262]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.26-00.42.35:403][262]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.26-00.42.35:403][262]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.26-00.43.00:277][376]BlueprintLog: New page: Compile ComboBoxSelector
+[2023.12.26-00.43.00:368][376]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2023.12.26-00.43.06:010][680]LogWorld: UWorld::CleanupWorld for World_69, bSessionEnded=true, bCleanupResources=true
+[2023.12.26-00.43.06:010][680]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.26-00.43.06:016][680]LogWorld: UWorld::CleanupWorld for World_68, bSessionEnded=true, bCleanupResources=true
+[2023.12.26-00.43.06:016][680]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.26-00.43.08:925][782]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/Checker.Checker
+[2023.12.26-00.43.08:926][782]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.26-00.43.08:926][782]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.26-00.43.08:940][782]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.26-00.43.08:940][782]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.26-00.44.00:381][203]BlueprintLog: New page: Compile Checker
+[2023.12.26-00.44.00:487][203]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2023.12.26-00.44.00:699][205]BlueprintLog: New page: Compile Checker
+[2023.12.26-00.44.00:752][205]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2023.12.26-00.44.03:836][355]LogWorld: UWorld::CleanupWorld for World_64, bSessionEnded=true, bCleanupResources=true
+[2023.12.26-00.44.03:836][355]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.26-00.44.03:842][355]LogWorld: UWorld::CleanupWorld for World_63, bSessionEnded=true, bCleanupResources=true
+[2023.12.26-00.44.03:843][355]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.26-00.44.04:325][378]LogWorld: UWorld::CleanupWorld for World_67, bSessionEnded=true, bCleanupResources=true
+[2023.12.26-00.44.04:325][378]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.26-00.44.04:874][407]LogWorld: UWorld::CleanupWorld for World_71, bSessionEnded=true, bCleanupResources=true
+[2023.12.26-00.44.04:874][407]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.26-00.44.04:881][407]LogWorld: UWorld::CleanupWorld for World_70, bSessionEnded=true, bCleanupResources=true
+[2023.12.26-00.44.04:881][407]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.26-00.44.05:559][446]BlueprintLog: New page: Compile ServerInterface
+[2023.12.26-00.44.05:595][446]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2023.12.26-00.44.06:571][495]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2023.12.26-00.44.07:185][495]LogSlate: Window 'Save Content' being destroyed
+[2023.12.26-00.44.07:200][495]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.26-00.44.07:312][495]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Checker" FILE="../../../../../../Users/nick1/Documents/GitHub/AtomVR/AtomVR/Content/UI/Checker.uasset" SILENT=true
+[2023.12.26-00.44.07:323][495]LogSavePackage: Moving output files for package: /Game/UI/Checker
+[2023.12.26-00.44.07:323][495]LogSavePackage: Moving '../../../../../../Users/nick1/Documents/GitHub/AtomVR/AtomVR/Saved/CheckerAD379C3F40C5B6C06F2575AA552BD3F1.tmp' to '../../../../../../Users/nick1/Documents/GitHub/AtomVR/AtomVR/Content/UI/Checker.uasset'
+[2023.12.26-00.44.07:330][495]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/ComboBoxSelector" FILE="../../../../../../Users/nick1/Documents/GitHub/AtomVR/AtomVR/Content/UI/ComboBoxSelector.uasset" SILENT=true
+[2023.12.26-00.44.07:341][495]LogSavePackage: Moving output files for package: /Game/UI/ComboBoxSelector
+[2023.12.26-00.44.07:341][495]LogSavePackage: Moving '../../../../../../Users/nick1/Documents/GitHub/AtomVR/AtomVR/Saved/ComboBoxSelector585B658D46EA500BBC7C4A9817656508.tmp' to '../../../../../../Users/nick1/Documents/GitHub/AtomVR/AtomVR/Content/UI/ComboBoxSelector.uasset'
+[2023.12.26-00.44.07:343][495]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/ComboBoxSelector1" FILE="../../../../../../Users/nick1/Documents/GitHub/AtomVR/AtomVR/Content/UI/ComboBoxSelector1.uasset" SILENT=true
+[2023.12.26-00.44.07:352][495]LogSavePackage: Moving output files for package: /Game/UI/ComboBoxSelector1
+[2023.12.26-00.44.07:353][495]LogSavePackage: Moving '../../../../../../Users/nick1/Documents/GitHub/AtomVR/AtomVR/Saved/ComboBoxSelector124437CF744C5AD29A8F0A0A92EF85320.tmp' to '../../../../../../Users/nick1/Documents/GitHub/AtomVR/AtomVR/Content/UI/ComboBoxSelector1.uasset'
+[2023.12.26-00.44.07:365][495]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/ServerInterface" FILE="../../../../../../Users/nick1/Documents/GitHub/AtomVR/AtomVR/Content/UI/ServerInterface.uasset" SILENT=true
+[2023.12.26-00.44.07:379][495]LogSavePackage: Moving output files for package: /Game/UI/ServerInterface
+[2023.12.26-00.44.07:380][495]LogSavePackage: Moving '../../../../../../Users/nick1/Documents/GitHub/AtomVR/AtomVR/Saved/ServerInterfaceD49E38B947993978AF07F3BEC7AAE3F6.tmp' to '../../../../../../Users/nick1/Documents/GitHub/AtomVR/AtomVR/Content/UI/ServerInterface.uasset'
+[2023.12.26-00.44.07:381][495]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Code/ServerSystem/VRGameInstance" FILE="../../../../../../Users/nick1/Documents/GitHub/AtomVR/AtomVR/Content/Code/ServerSystem/VRGameInstance.uasset" SILENT=true
+[2023.12.26-00.44.07:383][495]LogSavePackage: Moving output files for package: /Game/Code/ServerSystem/VRGameInstance
+[2023.12.26-00.44.07:383][495]LogSavePackage: Moving '../../../../../../Users/nick1/Documents/GitHub/AtomVR/AtomVR/Saved/VRGameInstanceA5E873264EC715826D560FBC5DAE0F7F.tmp' to '../../../../../../Users/nick1/Documents/GitHub/AtomVR/AtomVR/Content/Code/ServerSystem/VRGameInstance.uasset'
+[2023.12.26-00.44.07:399][495]LogFileHelpers: InternalPromptForCheckoutAndSave took 199 ms (total: 20.7 sec)
+[2023.12.26-00.44.07:402][495]AssetCheck: New page: Asset Save: multiple assets
+[2023.12.26-00.44.07:402][495]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/Checker.Checker
+[2023.12.26-00.44.07:403][495]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/ComboBoxSelector.ComboBoxSelector
+[2023.12.26-00.44.07:404][495]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/ComboBoxSelector1.ComboBoxSelector1
+[2023.12.26-00.44.07:405][495]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/ServerInterface.ServerInterface
+[2023.12.26-00.44.07:409][495]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Code/ServerSystem/VRGameInstance.VRGameInstance
+[2023.12.26-00.44.11:957][652]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Code/ServerSystem/VRGameInstance.VRGameInstance
+[2023.12.26-00.44.11:958][652]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.26-00.44.11:958][652]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.26-00.44.20:210][103]BlueprintLog: New page: Compile VRGameInstance
+[2023.12.26-00.44.20:243][103]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2023.12.26-00.44.27:272][451]LogEditorTransaction: Undo Delete current selection
+[2023.12.26-00.44.33:592][683]BlueprintLog: New page: Collapse to Function
+[2023.12.26-00.44.40:659][ 47]BlueprintLog: New page: Compile ServerInterface
+[2023.12.26-00.44.40:713][ 47]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2023.12.26-00.44.46:439][320]BlueprintLog: New page: Compile ServerInterface
+[2023.12.26-00.44.46:475][320]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2023.12.26-00.44.53:508][630]BlueprintLog: New page: Compile ServerInterface
+[2023.12.26-00.44.53:541][630]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2023.12.26-00.45.09:587][348]BlueprintLog: New page: Compile ServerInterface
+[2023.12.26-00.45.09:636][348]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2023.12.26-00.46.12:300][927]BlueprintLog: New page: Compile ServerInterface
+[2023.12.26-00.46.12:352][927]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2023.12.26-00.46.14:004][993]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2023.12.26-00.46.14:601][993]LogSlate: Window 'Save Content' being destroyed
+[2023.12.26-00.46.14:611][993]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.26-00.46.14:705][993]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/ServerInterface" FILE="../../../../../../Users/nick1/Documents/GitHub/AtomVR/AtomVR/Content/UI/ServerInterface.uasset" SILENT=true
+[2023.12.26-00.46.14:719][993]LogSavePackage: Moving output files for package: /Game/UI/ServerInterface
+[2023.12.26-00.46.14:720][993]LogSavePackage: Moving '../../../../../../Users/nick1/Documents/GitHub/AtomVR/AtomVR/Saved/ServerInterface871853264DDC68B155E67DB876D29608.tmp' to '../../../../../../Users/nick1/Documents/GitHub/AtomVR/AtomVR/Content/UI/ServerInterface.uasset'
+[2023.12.26-00.46.14:721][993]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Code/ServerSystem/VRGameInstance" FILE="../../../../../../Users/nick1/Documents/GitHub/AtomVR/AtomVR/Content/Code/ServerSystem/VRGameInstance.uasset" SILENT=true
+[2023.12.26-00.46.14:723][993]LogSavePackage: Moving output files for package: /Game/Code/ServerSystem/VRGameInstance
+[2023.12.26-00.46.14:723][993]LogSavePackage: Moving '../../../../../../Users/nick1/Documents/GitHub/AtomVR/AtomVR/Saved/VRGameInstanceDDDF382B43266105610508844F563E64.tmp' to '../../../../../../Users/nick1/Documents/GitHub/AtomVR/AtomVR/Content/Code/ServerSystem/VRGameInstance.uasset'
+[2023.12.26-00.46.14:733][993]LogFileHelpers: InternalPromptForCheckoutAndSave took 121 ms (total: 20.8 sec)
+[2023.12.26-00.46.14:735][993]AssetCheck: New page: Asset Save: multiple assets
+[2023.12.26-00.46.14:735][993]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/ServerInterface.ServerInterface
+[2023.12.26-00.46.14:738][993]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Code/ServerSystem/VRGameInstance.VRGameInstance
+[2023.12.26-00.46.15:351][ 41]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.12.26-00.46.15:357][ 41]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.12.26-00.46.15:359][ 41]LogPlayLevel: [PlayLevel] Compiling ServerPawn before play...
+[2023.12.26-00.46.15:383][ 41]LogPlayLevel: [PlayLevel] Compiling ComboBoxSelector before play...
+[2023.12.26-00.46.15:448][ 41]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2023.12.26-00.46.15:453][ 41]LogPlayLevel: PlayLevel: Blueprint regeneration took 95 ms (2 blueprints)
+[2023.12.26-00.46.15:453][ 41]PIE: New page: PIE session: lobby1 (26 дек. 2023 г., 10:46:15)
+[2023.12.26-00.46.15:453][ 41]LogPlayLevel: Creating play world package: /Game/Maps/Lobby/UEDPIE_0_lobby1
+[2023.12.26-00.46.15:457][ 41]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003912s)
+[2023.12.26-00.46.15:457][ 41]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Lobby/lobby1.lobby1 to /Game/Maps/Lobby/UEDPIE_0_lobby1.lobby1 (0.003945s)
+[2023.12.26-00.46.15:476][ 41]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2023.12.26-00.46.15:478][ 41]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.26-00.46.15:478][ 41]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.26-00.46.15:479][ 41]LogAIModule: Creating AISystem for world lobby1
+[2023.12.26-00.46.15:479][ 41]LogPlayLevel: PIE: World Init took: (0.000880s)
+[2023.12.26-00.46.15:479][ 41]LogAudio: Display: Creating Audio Device:                 Id: 26, Scope: Unique, Realtime: True
+[2023.12.26-00.46.15:479][ 41]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.12.26-00.46.15:479][ 41]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.12.26-00.46.15:479][ 41]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.12.26-00.46.15:479][ 41]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.12.26-00.46.15:479][ 41]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.12.26-00.46.15:479][ 41]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.12.26-00.46.15:479][ 41]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.12.26-00.46.15:479][ 41]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.12.26-00.46.15:479][ 41]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.12.26-00.46.15:479][ 41]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.12.26-00.46.15:480][ 41]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.12.26-00.46.15:482][ 41]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.12.26-00.46.15:516][ 41]LogAudioMixer: Display: Using Audio Hardware Device Наушники (Realtek(R) Audio)
+[2023.12.26-00.46.15:517][ 41]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.12.26-00.46.15:517][ 41]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.12.26-00.46.15:517][ 41]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.12.26-00.46.15:518][ 41]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=26
+[2023.12.26-00.46.15:518][ 41]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=26
+[2023.12.26-00.46.15:520][ 41]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=26
+[2023.12.26-00.46.15:520][ 41]LogInit: FAudioDevice initialized with ID 26.
+[2023.12.26-00.46.15:520][ 41]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=26
+[2023.12.26-00.46.15:520][ 41]LogAudio: Display: Audio Device (ID: 26) registered with world 'lobby1'.
+[2023.12.26-00.46.15:520][ 41]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 26
+[2023.12.26-00.46.15:522][ 41]LogLoad: Game class is 'LobbyGamemode_C'
+[2023.12.26-00.46.15:523][ 41]LogWorld: Bringing World /Game/Maps/Lobby/UEDPIE_0_lobby1.lobby1 up for play (max tick rate 0) at 2023.12.26-05.46.15
+[2023.12.26-00.46.15:523][ 41]LogWorld: Bringing up level for play took: 0.000862
+[2023.12.26-00.46.15:525][ 41]LogOnline: OSS: Created online subsystem instance for: :Context_75
+[2023.12.26-00.46.15:529][ 41]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.12.26-00.46.15:529][ 41]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2023.12.26-00.46.15:529][ 41]PIE: Server logged in
+[2023.12.26-00.46.15:530][ 41]PIE: Play in editor total start time 0,173 seconds.
+[2023.12.26-00.46.20:561][415]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.26-00.46.20:561][415]LogWorld: BeginTearingDown for /Game/Maps/Lobby/UEDPIE_0_lobby1
+[2023.12.26-00.46.20:561][415]LogWorld: UWorld::CleanupWorld for lobby1, bSessionEnded=true, bCleanupResources=true
+[2023.12.26-00.46.20:561][415]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.26-00.46.20:566][415]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.12.26-00.46.20:574][415]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.26-00.46.20:597][415]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.26-00.46.20:598][415]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 26
+[2023.12.26-00.46.20:598][415]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=26
+[2023.12.26-00.46.20:601][415]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=26
+[2023.12.26-00.46.20:623][415]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2023.12.26-00.46.20:672][416]LogPlayLevel: Display: Destroying online subsystem :Context_75
+[2023.12.26-00.46.24:367][514]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/ComboBoxSelector1.ComboBoxSelector1
+[2023.12.26-00.46.24:368][514]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.26-00.46.24:368][514]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.26-00.46.24:380][514]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.26-00.46.24:380][514]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.26-00.46.41:239][205]LogSlate: Window 'Color Picker' being destroyed
+[2023.12.26-00.46.42:398][238]BlueprintLog: New page: Compile ComboBoxSelector1
+[2023.12.26-00.46.42:508][238]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2023.12.26-00.46.46:011][380]BlueprintLog: New page: Compile ServerInterface
+[2023.12.26-00.46.46:045][380]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2023.12.26-00.46.51:089][629]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2023.12.26-00.46.51:676][629]LogSlate: Window 'Save Content' being destroyed
+[2023.12.26-00.46.51:689][629]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.26-00.46.51:806][629]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/ComboBoxSelector1" FILE="../../../../../../Users/nick1/Documents/GitHub/AtomVR/AtomVR/Content/UI/ComboBoxSelector1.uasset" SILENT=true
+[2023.12.26-00.46.51:816][629]LogSavePackage: Moving output files for package: /Game/UI/ComboBoxSelector1
+[2023.12.26-00.46.51:816][629]LogSavePackage: Moving '../../../../../../Users/nick1/Documents/GitHub/AtomVR/AtomVR/Saved/ComboBoxSelector102F9D0A14EDF1626EB404CA8EC0C885C.tmp' to '../../../../../../Users/nick1/Documents/GitHub/AtomVR/AtomVR/Content/UI/ComboBoxSelector1.uasset'
+[2023.12.26-00.46.51:831][629]LogFileHelpers: InternalPromptForCheckoutAndSave took 142 ms (total: 20.9 sec)
+[2023.12.26-00.46.51:833][629]AssetCheck: New page: Asset Save: ComboBoxSelector1
+[2023.12.26-00.46.51:833][629]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/ComboBoxSelector1.ComboBoxSelector1
+[2023.12.26-00.46.53:290][703]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.12.26-00.46.53:301][703]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.12.26-00.46.53:301][703]PIE: New page: PIE session: lobby1 (26 дек. 2023 г., 10:46:53)
+[2023.12.26-00.46.53:301][703]LogPlayLevel: Creating play world package: /Game/Maps/Lobby/UEDPIE_0_lobby1
+[2023.12.26-00.46.53:307][703]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005770s)
+[2023.12.26-00.46.53:307][703]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Lobby/lobby1.lobby1 to /Game/Maps/Lobby/UEDPIE_0_lobby1.lobby1 (0.005848s)
+[2023.12.26-00.46.53:331][703]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2023.12.26-00.46.53:337][703]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.26-00.46.53:338][703]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.26-00.46.53:338][703]LogAIModule: Creating AISystem for world lobby1
+[2023.12.26-00.46.53:338][703]LogPlayLevel: PIE: World Init took: (0.001298s)
+[2023.12.26-00.46.53:339][703]LogAudio: Display: Creating Audio Device:                 Id: 27, Scope: Unique, Realtime: True
+[2023.12.26-00.46.53:339][703]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.12.26-00.46.53:339][703]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.12.26-00.46.53:339][703]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.12.26-00.46.53:339][703]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.12.26-00.46.53:339][703]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.12.26-00.46.53:339][703]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.12.26-00.46.53:339][703]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.12.26-00.46.53:339][703]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.12.26-00.46.53:339][703]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.12.26-00.46.53:340][703]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.12.26-00.46.53:340][703]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.12.26-00.46.53:343][703]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.12.26-00.46.53:382][703]LogAudioMixer: Display: Using Audio Hardware Device Наушники (Realtek(R) Audio)
+[2023.12.26-00.46.53:383][703]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.12.26-00.46.53:383][703]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.12.26-00.46.53:383][703]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.12.26-00.46.53:383][703]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=27
+[2023.12.26-00.46.53:383][703]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=27
+[2023.12.26-00.46.53:386][703]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=27
+[2023.12.26-00.46.53:386][703]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=27
+[2023.12.26-00.46.53:386][703]LogInit: FAudioDevice initialized with ID 27.
+[2023.12.26-00.46.53:386][703]LogAudio: Display: Audio Device (ID: 27) registered with world 'lobby1'.
+[2023.12.26-00.46.53:386][703]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 27
+[2023.12.26-00.46.53:390][703]LogLoad: Game class is 'LobbyGamemode_C'
+[2023.12.26-00.46.53:391][703]LogWorld: Bringing World /Game/Maps/Lobby/UEDPIE_0_lobby1.lobby1 up for play (max tick rate 0) at 2023.12.26-05.46.53
+[2023.12.26-00.46.53:391][703]LogWorld: Bringing up level for play took: 0.000947
+[2023.12.26-00.46.53:395][703]LogOnline: OSS: Created online subsystem instance for: :Context_78
+[2023.12.26-00.46.53:400][703]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.12.26-00.46.53:400][703]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2023.12.26-00.46.53:401][703]PIE: Server logged in
+[2023.12.26-00.46.53:402][703]PIE: Play in editor total start time 0,101 seconds.
+[2023.12.26-00.46.59:741][198]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.26-00.46.59:741][198]LogWorld: BeginTearingDown for /Game/Maps/Lobby/UEDPIE_0_lobby1
+[2023.12.26-00.46.59:741][198]LogWorld: UWorld::CleanupWorld for lobby1, bSessionEnded=true, bCleanupResources=true
+[2023.12.26-00.46.59:741][198]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.26-00.46.59:744][198]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.12.26-00.46.59:749][198]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.26-00.46.59:763][198]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.26-00.46.59:763][198]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 27
+[2023.12.26-00.46.59:763][198]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=27
+[2023.12.26-00.46.59:766][198]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=27
+[2023.12.26-00.46.59:778][198]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2023.12.26-00.46.59:821][199]LogPlayLevel: Display: Destroying online subsystem :Context_78
+[2023.12.26-00.47.06:489][504]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.12.26-00.47.06:497][504]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.12.26-00.47.06:507][504]LogPlayLevel: [PlayLevel] Compiling VRGameInstance before play...
+[2023.12.26-00.47.06:550][504]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2023.12.26-00.47.06:554][504]LogPlayLevel: PlayLevel: Blueprint regeneration took 57 ms (1 blueprints)
+[2023.12.26-00.47.06:554][504]PIE: New page: PIE session: lobby1 (26 дек. 2023 г., 10:47:06)
+[2023.12.26-00.47.06:554][504]LogPlayLevel: Creating play world package: /Game/Maps/Lobby/UEDPIE_0_lobby1
+[2023.12.26-00.47.06:558][504]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003669s)
+[2023.12.26-00.47.06:558][504]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Lobby/lobby1.lobby1 to /Game/Maps/Lobby/UEDPIE_0_lobby1.lobby1 (0.003696s)
+[2023.12.26-00.47.06:575][504]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2023.12.26-00.47.06:578][504]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.26-00.47.06:578][504]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.26-00.47.06:578][504]LogAIModule: Creating AISystem for world lobby1
+[2023.12.26-00.47.06:579][504]LogPlayLevel: PIE: World Init took: (0.000943s)
+[2023.12.26-00.47.06:579][504]LogAudio: Display: Creating Audio Device:                 Id: 28, Scope: Unique, Realtime: True
+[2023.12.26-00.47.06:579][504]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.12.26-00.47.06:579][504]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.12.26-00.47.06:579][504]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.12.26-00.47.06:579][504]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.12.26-00.47.06:579][504]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.12.26-00.47.06:579][504]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.12.26-00.47.06:579][504]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.12.26-00.47.06:579][504]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.12.26-00.47.06:579][504]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.12.26-00.47.06:579][504]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.12.26-00.47.06:579][504]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.12.26-00.47.06:581][504]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.12.26-00.47.06:614][504]LogAudioMixer: Display: Using Audio Hardware Device Наушники (Realtek(R) Audio)
+[2023.12.26-00.47.06:614][504]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.12.26-00.47.06:614][504]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.12.26-00.47.06:614][504]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.12.26-00.47.06:615][504]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=28
+[2023.12.26-00.47.06:615][504]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=28
+[2023.12.26-00.47.06:617][504]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=28
+[2023.12.26-00.47.06:617][504]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=28
+[2023.12.26-00.47.06:617][504]LogInit: FAudioDevice initialized with ID 28.
+[2023.12.26-00.47.06:617][504]LogAudio: Display: Audio Device (ID: 28) registered with world 'lobby1'.
+[2023.12.26-00.47.06:617][504]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 28
+[2023.12.26-00.47.06:619][504]LogLoad: Game class is 'LobbyGamemode_C'
+[2023.12.26-00.47.06:620][504]LogWorld: Bringing World /Game/Maps/Lobby/UEDPIE_0_lobby1.lobby1 up for play (max tick rate 0) at 2023.12.26-05.47.06
+[2023.12.26-00.47.06:620][504]LogWorld: Bringing up level for play took: 0.000898
+[2023.12.26-00.47.06:623][504]LogOnline: OSS: Created online subsystem instance for: :Context_79
+[2023.12.26-00.47.06:626][504]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.12.26-00.47.06:626][504]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2023.12.26-00.47.06:626][504]PIE: Server logged in
+[2023.12.26-00.47.06:626][504]PIE: Play in editor total start time 0,13 seconds.
+[2023.12.26-00.47.14:081][993]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.26-00.47.14:082][993]LogWorld: BeginTearingDown for /Game/Maps/Lobby/UEDPIE_0_lobby1
+[2023.12.26-00.47.14:082][993]LogWorld: UWorld::CleanupWorld for lobby1, bSessionEnded=true, bCleanupResources=true
+[2023.12.26-00.47.14:082][993]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.26-00.47.14:087][993]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.12.26-00.47.14:097][993]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.26-00.47.14:120][993]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.26-00.47.14:120][993]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 28
+[2023.12.26-00.47.14:121][993]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=28
+[2023.12.26-00.47.14:124][993]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=28
+[2023.12.26-00.47.14:141][993]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2023.12.26-00.47.14:192][994]LogPlayLevel: Display: Destroying online subsystem :Context_79
+[2023.12.26-00.47.18:588][316]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/ComboBoxSelector.ComboBoxSelector
+[2023.12.26-00.47.18:588][316]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.26-00.47.18:588][316]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.26-00.47.18:596][316]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.26-00.47.18:596][316]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.26-00.47.30:386][770]LogSlate: Window 'Color Picker' being destroyed
+[2023.12.26-00.47.40:118][140]LogSlate: Window 'Color Picker' being destroyed
+[2023.12.26-00.47.45:576][298]LogSlate: Window 'Color Picker' being destroyed
+[2023.12.26-00.47.47:118][367]LogEditorTransaction: Undo Edit Specified Color
+[2023.12.26-00.47.49:704][441]BlueprintLog: New page: Compile ComboBoxSelector
+[2023.12.26-00.47.49:747][441]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2023.12.26-00.47.59:055][741]LogSlate: Window 'Color Picker' being destroyed
+[2023.12.26-00.48.01:869][849]LogSlate: Window 'ComboBoxSelector' being destroyed
+[2023.12.26-00.48.01:874][849]LogSlate: Window 'ComboBoxSelector' being destroyed
+[2023.12.26-00.48.01:904][849]LogWorld: UWorld::CleanupWorld for World_62, bSessionEnded=true, bCleanupResources=true
+[2023.12.26-00.48.01:904][849]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.26-00.48.01:916][849]LogWorld: UWorld::CleanupWorld for World_61, bSessionEnded=true, bCleanupResources=true
+[2023.12.26-00.48.01:916][849]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.26-00.48.02:010][849]LogWorld: UWorld::CleanupWorld for World_76, bSessionEnded=true, bCleanupResources=true
+[2023.12.26-00.48.02:010][849]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.26-00.48.02:112][849]LogWorld: UWorld::CleanupWorld for World_79, bSessionEnded=true, bCleanupResources=true
+[2023.12.26-00.48.02:112][849]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.26-00.48.02:121][849]LogWorld: UWorld::CleanupWorld for World_78, bSessionEnded=true, bCleanupResources=true
+[2023.12.26-00.48.02:122][849]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.26-00.48.02:251][849]LogWorld: UWorld::CleanupWorld for World_82, bSessionEnded=true, bCleanupResources=true
+[2023.12.26-00.48.02:251][849]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.26-00.48.02:260][849]LogWorld: UWorld::CleanupWorld for World_81, bSessionEnded=true, bCleanupResources=true
+[2023.12.26-00.48.02:260][849]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.26-00.48.02:847][868]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2023.12.26-00.48.03:669][868]LogSlate: Window 'Save Content' being destroyed
+[2023.12.26-00.48.03:683][868]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.26-00.48.03:790][868]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/ComboBoxSelector" FILE="../../../../../../Users/nick1/Documents/GitHub/AtomVR/AtomVR/Content/UI/ComboBoxSelector.uasset" SILENT=true
+[2023.12.26-00.48.03:801][868]LogSavePackage: Moving output files for package: /Game/UI/ComboBoxSelector
+[2023.12.26-00.48.03:802][868]LogSavePackage: Moving '../../../../../../Users/nick1/Documents/GitHub/AtomVR/AtomVR/Saved/ComboBoxSelectorD5F1AEB84826130F72851DA7BFC67D6A.tmp' to '../../../../../../Users/nick1/Documents/GitHub/AtomVR/AtomVR/Content/UI/ComboBoxSelector.uasset'
+[2023.12.26-00.48.03:808][868]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/ComboBoxSelector1" FILE="../../../../../../Users/nick1/Documents/GitHub/AtomVR/AtomVR/Content/UI/ComboBoxSelector1.uasset" SILENT=true
+[2023.12.26-00.48.03:817][868]LogSavePackage: Moving output files for package: /Game/UI/ComboBoxSelector1
+[2023.12.26-00.48.03:818][868]LogSavePackage: Moving '../../../../../../Users/nick1/Documents/GitHub/AtomVR/AtomVR/Saved/ComboBoxSelector11221D57541C976EDA414AF88C6D2C7D5.tmp' to '../../../../../../Users/nick1/Documents/GitHub/AtomVR/AtomVR/Content/UI/ComboBoxSelector1.uasset'
+[2023.12.26-00.48.03:820][868]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Code/ServerSystem/VRGameInstance" FILE="../../../../../../Users/nick1/Documents/GitHub/AtomVR/AtomVR/Content/Code/ServerSystem/VRGameInstance.uasset" SILENT=true
+[2023.12.26-00.48.03:822][868]LogSavePackage: Moving output files for package: /Game/Code/ServerSystem/VRGameInstance
+[2023.12.26-00.48.03:823][868]LogSavePackage: Moving '../../../../../../Users/nick1/Documents/GitHub/AtomVR/AtomVR/Saved/VRGameInstance52C5E8684A2B12CABEBA13A55D5A0D00.tmp' to '../../../../../../Users/nick1/Documents/GitHub/AtomVR/AtomVR/Content/Code/ServerSystem/VRGameInstance.uasset'
+[2023.12.26-00.48.03:839][868]LogFileHelpers: InternalPromptForCheckoutAndSave took 156 ms (total: 21.1 sec)
+[2023.12.26-00.48.03:842][868]AssetCheck: New page: Asset Save: multiple assets
+[2023.12.26-00.48.03:842][868]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/ComboBoxSelector.ComboBoxSelector
+[2023.12.26-00.48.03:843][868]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/ComboBoxSelector1.ComboBoxSelector1
+[2023.12.26-00.48.03:844][868]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Code/ServerSystem/VRGameInstance.VRGameInstance
+[2023.12.26-00.48.04:893][919]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/Checker.Checker
+[2023.12.26-00.48.04:894][919]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.26-00.48.04:894][919]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.26-00.48.04:908][919]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.26-00.48.04:908][919]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.26-00.48.10:872][167]LogSlate: Window 'Color Picker' being destroyed
+[2023.12.26-00.48.12:187][206]LogSlate: Window 'Checker' being destroyed
+[2023.12.26-00.48.12:193][206]LogSlate: Window 'Checker' being destroyed
+[2023.12.26-00.48.12:241][206]LogWorld: UWorld::CleanupWorld for World_86, bSessionEnded=true, bCleanupResources=true
+[2023.12.26-00.48.12:242][206]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.26-00.48.12:253][206]LogWorld: UWorld::CleanupWorld for World_85, bSessionEnded=true, bCleanupResources=true
+[2023.12.26-00.48.12:253][206]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.26-00.48.13:284][248]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/ComboBoxSelector1.ComboBoxSelector1
+[2023.12.26-00.48.13:284][248]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.26-00.48.13:284][248]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.26-00.48.13:297][248]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.26-00.48.13:298][248]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.26-00.48.14:775][296]LogSlate: Window 'ComboBoxSelector1' being destroyed
+[2023.12.26-00.48.14:781][296]LogSlate: Window 'ComboBoxSelector1' being destroyed
+[2023.12.26-00.48.14:812][296]LogWorld: UWorld::CleanupWorld for World_88, bSessionEnded=true, bCleanupResources=true
+[2023.12.26-00.48.14:812][296]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.26-00.48.14:823][296]LogWorld: UWorld::CleanupWorld for World_87, bSessionEnded=true, bCleanupResources=true
+[2023.12.26-00.48.14:823][296]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.26-00.48.15:688][338]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2023.12.26-00.48.16:159][338]LogSlate: Window 'Save Content' being destroyed
+[2023.12.26-00.48.16:171][338]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.26-00.48.16:257][338]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Checker" FILE="../../../../../../Users/nick1/Documents/GitHub/AtomVR/AtomVR/Content/UI/Checker.uasset" SILENT=true
+[2023.12.26-00.48.16:265][338]LogSavePackage: Moving output files for package: /Game/UI/Checker
+[2023.12.26-00.48.16:266][338]LogSavePackage: Moving '../../../../../../Users/nick1/Documents/GitHub/AtomVR/AtomVR/Saved/Checker33C66EB1410B945E722B38AFEC3EF603.tmp' to '../../../../../../Users/nick1/Documents/GitHub/AtomVR/AtomVR/Content/UI/Checker.uasset'
+[2023.12.26-00.48.16:274][338]LogFileHelpers: InternalPromptForCheckoutAndSave took 102 ms (total: 21.2 sec)
+[2023.12.26-00.48.16:275][338]AssetCheck: New page: Asset Save: Checker
+[2023.12.26-00.48.16:275][338]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/Checker.Checker
+[2023.12.26-00.48.16:862][387]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.12.26-00.48.16:869][387]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.12.26-00.48.16:871][387]LogPlayLevel: [PlayLevel] Compiling Checker before play...
+[2023.12.26-00.48.16:893][387]LogPlayLevel: [PlayLevel] Compiling ComboBoxSelector1 before play...
+[2023.12.26-00.48.16:926][387]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2023.12.26-00.48.16:930][387]LogPlayLevel: PlayLevel: Blueprint regeneration took 60 ms (2 blueprints)
+[2023.12.26-00.48.16:930][387]PIE: New page: PIE session: lobby1 (26 дек. 2023 г., 10:48:16)
+[2023.12.26-00.48.16:930][387]LogPlayLevel: Creating play world package: /Game/Maps/Lobby/UEDPIE_0_lobby1
+[2023.12.26-00.48.16:935][387]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004605s)
+[2023.12.26-00.48.16:935][387]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Lobby/lobby1.lobby1 to /Game/Maps/Lobby/UEDPIE_0_lobby1.lobby1 (0.004697s)
+[2023.12.26-00.48.16:948][387]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2023.12.26-00.48.16:951][387]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.26-00.48.16:951][387]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.26-00.48.16:951][387]LogAIModule: Creating AISystem for world lobby1
+[2023.12.26-00.48.16:951][387]LogPlayLevel: PIE: World Init took: (0.000973s)
+[2023.12.26-00.48.16:952][387]LogAudio: Display: Creating Audio Device:                 Id: 29, Scope: Unique, Realtime: True
+[2023.12.26-00.48.16:952][387]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.12.26-00.48.16:952][387]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.12.26-00.48.16:952][387]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.12.26-00.48.16:952][387]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.12.26-00.48.16:952][387]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.12.26-00.48.16:952][387]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.12.26-00.48.16:952][387]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.12.26-00.48.16:952][387]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.12.26-00.48.16:952][387]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.12.26-00.48.16:952][387]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.12.26-00.48.16:952][387]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.12.26-00.48.16:954][387]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.12.26-00.48.16:985][387]LogAudioMixer: Display: Using Audio Hardware Device Наушники (Realtek(R) Audio)
+[2023.12.26-00.48.16:985][387]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.12.26-00.48.16:985][387]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.12.26-00.48.16:985][387]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.12.26-00.48.16:986][387]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=29
+[2023.12.26-00.48.16:986][387]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=29
+[2023.12.26-00.48.16:988][387]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=29
+[2023.12.26-00.48.16:988][387]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=29
+[2023.12.26-00.48.16:988][387]LogInit: FAudioDevice initialized with ID 29.
+[2023.12.26-00.48.16:988][387]LogAudio: Display: Audio Device (ID: 29) registered with world 'lobby1'.
+[2023.12.26-00.48.16:988][387]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 29
+[2023.12.26-00.48.16:990][387]LogLoad: Game class is 'LobbyGamemode_C'
+[2023.12.26-00.48.16:991][387]LogWorld: Bringing World /Game/Maps/Lobby/UEDPIE_0_lobby1.lobby1 up for play (max tick rate 0) at 2023.12.26-05.48.16
+[2023.12.26-00.48.16:991][387]LogWorld: Bringing up level for play took: 0.000829
+[2023.12.26-00.48.16:994][387]LogOnline: OSS: Created online subsystem instance for: :Context_86
+[2023.12.26-00.48.16:997][387]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.12.26-00.48.16:997][387]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2023.12.26-00.48.16:998][387]PIE: Server logged in
+[2023.12.26-00.48.16:998][387]PIE: Play in editor total start time 0,13 seconds.
+[2023.12.26-00.48.26:311][ 31]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.26-00.48.26:311][ 31]LogWorld: BeginTearingDown for /Game/Maps/Lobby/UEDPIE_0_lobby1
+[2023.12.26-00.48.26:311][ 31]LogWorld: UWorld::CleanupWorld for lobby1, bSessionEnded=true, bCleanupResources=true
+[2023.12.26-00.48.26:311][ 31]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.26-00.48.26:314][ 31]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.12.26-00.48.26:319][ 31]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.26-00.48.26:333][ 31]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.26-00.48.26:333][ 31]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 29
+[2023.12.26-00.48.26:333][ 31]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=29
+[2023.12.26-00.48.26:336][ 31]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=29
+[2023.12.26-00.48.26:356][ 31]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2023.12.26-00.48.26:390][ 32]LogPlayLevel: Display: Destroying online subsystem :Context_86
+[2023.12.26-00.48.29:265][190]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/Checker.Checker
+[2023.12.26-00.48.29:265][190]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.26-00.48.29:265][190]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.26-00.48.29:274][190]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.26-00.48.29:274][190]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.26-00.48.34:147][350]LogSlate: Window 'Color Picker' being destroyed
+[2023.12.26-00.48.42:622][683]LogSlate: Window 'Color Picker' being destroyed
+[2023.12.26-00.48.47:804][856]LogSlate: Window 'Color Picker' being destroyed
+[2023.12.26-00.48.50:520][970]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/ComboBoxSelector.ComboBoxSelector
+[2023.12.26-00.48.50:520][970]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.26-00.48.50:520][970]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.26-00.48.50:532][970]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.26-00.48.50:532][970]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.26-00.48.51:135][995]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/ComboBoxSelector1.ComboBoxSelector1
+[2023.12.26-00.48.51:136][995]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.26-00.48.51:136][995]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.26-00.48.51:148][995]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.26-00.48.51:148][995]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.26-00.49.00:364][339]LogSlate: Window 'Color Picker' being destroyed
+[2023.12.26-00.49.07:714][599]LogSlate: Window 'Color Picker' being destroyed
+[2023.12.26-00.49.11:954][786]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2023.12.26-00.49.12:514][786]LogSlate: Window 'Save Content' being destroyed
+[2023.12.26-00.49.12:528][786]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.26-00.49.12:647][786]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Checker" FILE="../../../../../../Users/nick1/Documents/GitHub/AtomVR/AtomVR/Content/UI/Checker.uasset" SILENT=true
+[2023.12.26-00.49.12:658][786]LogSavePackage: Moving output files for package: /Game/UI/Checker
+[2023.12.26-00.49.12:659][786]LogSavePackage: Moving '../../../../../../Users/nick1/Documents/GitHub/AtomVR/AtomVR/Saved/CheckerEFE1E45242D3FC77ADF795A156691485.tmp' to '../../../../../../Users/nick1/Documents/GitHub/AtomVR/AtomVR/Content/UI/Checker.uasset'
+[2023.12.26-00.49.12:672][786]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/ComboBoxSelector" FILE="../../../../../../Users/nick1/Documents/GitHub/AtomVR/AtomVR/Content/UI/ComboBoxSelector.uasset" SILENT=true
+[2023.12.26-00.49.12:684][786]LogSavePackage: Moving output files for package: /Game/UI/ComboBoxSelector
+[2023.12.26-00.49.12:685][786]LogSavePackage: Moving '../../../../../../Users/nick1/Documents/GitHub/AtomVR/AtomVR/Saved/ComboBoxSelector3A57CB994E624419D40B438CB49326CC.tmp' to '../../../../../../Users/nick1/Documents/GitHub/AtomVR/AtomVR/Content/UI/ComboBoxSelector.uasset'
+[2023.12.26-00.49.12:692][786]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/ComboBoxSelector1" FILE="../../../../../../Users/nick1/Documents/GitHub/AtomVR/AtomVR/Content/UI/ComboBoxSelector1.uasset" SILENT=true
+[2023.12.26-00.49.12:702][786]LogSavePackage: Moving output files for package: /Game/UI/ComboBoxSelector1
+[2023.12.26-00.49.12:703][786]LogSavePackage: Moving '../../../../../../Users/nick1/Documents/GitHub/AtomVR/AtomVR/Saved/ComboBoxSelector1F245A61949536E00E68984A4A49E41BA.tmp' to '../../../../../../Users/nick1/Documents/GitHub/AtomVR/AtomVR/Content/UI/ComboBoxSelector1.uasset'
+[2023.12.26-00.49.12:717][786]LogFileHelpers: InternalPromptForCheckoutAndSave took 189 ms (total: 21.4 sec)
+[2023.12.26-00.49.12:720][786]AssetCheck: New page: Asset Save: multiple assets
+[2023.12.26-00.49.12:720][786]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/Checker.Checker
+[2023.12.26-00.49.12:721][786]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/ComboBoxSelector.ComboBoxSelector
+[2023.12.26-00.49.12:722][786]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/ComboBoxSelector1.ComboBoxSelector1
+[2023.12.26-00.49.13:406][820]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.12.26-00.49.13:415][820]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.12.26-00.49.13:418][820]LogPlayLevel: [PlayLevel] Compiling ComboBoxSelector before play...
+[2023.12.26-00.49.14:006][820]LogPlayLevel: [PlayLevel] Compiling Checker before play...
+[2023.12.26-00.49.14:611][820]LogPlayLevel: [PlayLevel] Compiling ComboBoxSelector1 before play...
+[2023.12.26-00.49.14:875][820]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2023.12.26-00.49.14:880][820]LogPlayLevel: PlayLevel: Blueprint regeneration took 1464 ms (3 blueprints)
+[2023.12.26-00.49.14:880][820]PIE: New page: PIE session: lobby1 (26 дек. 2023 г., 10:49:14)
+[2023.12.26-00.49.14:920][820]LogPlayLevel: Creating play world package: /Game/Maps/Lobby/UEDPIE_0_lobby1
+[2023.12.26-00.49.14:925][820]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005082s)
+[2023.12.26-00.49.14:925][820]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Lobby/lobby1.lobby1 to /Game/Maps/Lobby/UEDPIE_0_lobby1.lobby1 (0.005157s)
+[2023.12.26-00.49.14:948][820]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2023.12.26-00.49.14:953][820]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.26-00.49.14:953][820]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.26-00.49.14:954][820]LogAIModule: Creating AISystem for world lobby1
+[2023.12.26-00.49.14:954][820]LogPlayLevel: PIE: World Init took: (0.001467s)
+[2023.12.26-00.49.14:954][820]LogAudio: Display: Creating Audio Device:                 Id: 30, Scope: Unique, Realtime: True
+[2023.12.26-00.49.14:955][820]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.12.26-00.49.14:955][820]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.12.26-00.49.14:955][820]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.12.26-00.49.14:955][820]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.12.26-00.49.14:955][820]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.12.26-00.49.14:955][820]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.12.26-00.49.14:955][820]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.12.26-00.49.14:955][820]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.12.26-00.49.14:956][820]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.12.26-00.49.14:956][820]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.12.26-00.49.14:956][820]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.12.26-00.49.14:959][820]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.12.26-00.49.14:997][820]LogAudioMixer: Display: Using Audio Hardware Device Наушники (Realtek(R) Audio)
+[2023.12.26-00.49.14:998][820]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.12.26-00.49.14:998][820]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.12.26-00.49.14:998][820]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.12.26-00.49.15:000][820]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=30
+[2023.12.26-00.49.15:000][820]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=30
+[2023.12.26-00.49.15:003][820]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=30
+[2023.12.26-00.49.15:003][820]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=30
+[2023.12.26-00.49.15:003][820]LogInit: FAudioDevice initialized with ID 30.
+[2023.12.26-00.49.15:003][820]LogAudio: Display: Audio Device (ID: 30) registered with world 'lobby1'.
+[2023.12.26-00.49.15:003][820]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 30
+[2023.12.26-00.49.15:007][820]LogLoad: Game class is 'LobbyGamemode_C'
+[2023.12.26-00.49.15:008][820]LogWorld: Bringing World /Game/Maps/Lobby/UEDPIE_0_lobby1.lobby1 up for play (max tick rate 0) at 2023.12.26-05.49.15
+[2023.12.26-00.49.15:008][820]LogWorld: Bringing up level for play took: 0.001053
+[2023.12.26-00.49.15:013][820]LogOnline: OSS: Created online subsystem instance for: :Context_93
+[2023.12.26-00.49.15:017][820]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.12.26-00.49.15:017][820]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2023.12.26-00.49.15:017][820]PIE: Server logged in
+[2023.12.26-00.49.15:018][820]PIE: Play in editor total start time 1,603 seconds.
+[2023.12.26-00.49.30:041][830]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.26-00.49.30:041][830]LogWorld: BeginTearingDown for /Game/Maps/Lobby/UEDPIE_0_lobby1
+[2023.12.26-00.49.30:041][830]LogWorld: UWorld::CleanupWorld for lobby1, bSessionEnded=true, bCleanupResources=true
+[2023.12.26-00.49.30:041][830]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.26-00.49.30:044][830]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.12.26-00.49.30:049][830]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.26-00.49.30:066][830]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.26-00.49.30:067][830]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 30
+[2023.12.26-00.49.30:067][830]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=30
+[2023.12.26-00.49.30:069][830]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=30
+[2023.12.26-00.49.30:087][830]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2023.12.26-00.49.30:123][831]LogPlayLevel: Display: Destroying online subsystem :Context_93
+[2023.12.26-00.49.47:960][478]BlueprintLog: New page: Compile ComboBoxSelector1
+[2023.12.26-00.49.47:997][478]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2023.12.26-00.49.51:112][640]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.12.26-00.49.51:119][640]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.12.26-00.49.51:119][640]PIE: New page: PIE session: lobby1 (26 дек. 2023 г., 10:49:51)
+[2023.12.26-00.49.51:149][640]LogPlayLevel: Creating play world package: /Game/Maps/Lobby/UEDPIE_0_lobby1
+[2023.12.26-00.49.51:153][640]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003991s)
+[2023.12.26-00.49.51:153][640]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Lobby/lobby1.lobby1 to /Game/Maps/Lobby/UEDPIE_0_lobby1.lobby1 (0.004037s)
+[2023.12.26-00.49.51:168][640]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2023.12.26-00.49.51:173][640]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.26-00.49.51:173][640]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.26-00.49.51:174][640]LogAIModule: Creating AISystem for world lobby1
+[2023.12.26-00.49.51:174][640]LogPlayLevel: PIE: World Init took: (0.000983s)
+[2023.12.26-00.49.51:174][640]LogAudio: Display: Creating Audio Device:                 Id: 31, Scope: Unique, Realtime: True
+[2023.12.26-00.49.51:174][640]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.12.26-00.49.51:174][640]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.12.26-00.49.51:174][640]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.12.26-00.49.51:174][640]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.12.26-00.49.51:174][640]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.12.26-00.49.51:174][640]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.12.26-00.49.51:174][640]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.12.26-00.49.51:174][640]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.12.26-00.49.51:175][640]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.12.26-00.49.51:175][640]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.12.26-00.49.51:175][640]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.12.26-00.49.51:177][640]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.12.26-00.49.51:207][640]LogAudioMixer: Display: Using Audio Hardware Device Наушники (Realtek(R) Audio)
+[2023.12.26-00.49.51:207][640]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.12.26-00.49.51:207][640]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.12.26-00.49.51:207][640]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.12.26-00.49.51:208][640]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=31
+[2023.12.26-00.49.51:208][640]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=31
+[2023.12.26-00.49.51:211][640]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=31
+[2023.12.26-00.49.51:211][640]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=31
+[2023.12.26-00.49.51:211][640]LogInit: FAudioDevice initialized with ID 31.
+[2023.12.26-00.49.51:211][640]LogAudio: Display: Audio Device (ID: 31) registered with world 'lobby1'.
+[2023.12.26-00.49.51:211][640]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 31
+[2023.12.26-00.49.51:213][640]LogLoad: Game class is 'LobbyGamemode_C'
+[2023.12.26-00.49.51:214][640]LogWorld: Bringing World /Game/Maps/Lobby/UEDPIE_0_lobby1.lobby1 up for play (max tick rate 0) at 2023.12.26-05.49.51
+[2023.12.26-00.49.51:214][640]LogWorld: Bringing up level for play took: 0.000924
+[2023.12.26-00.49.51:216][640]LogOnline: OSS: Created online subsystem instance for: :Context_94
+[2023.12.26-00.49.51:219][640]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.12.26-00.49.51:219][640]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2023.12.26-00.49.51:219][640]PIE: Server logged in
+[2023.12.26-00.49.51:220][640]PIE: Play in editor total start time 0,101 seconds.
+[2023.12.26-00.49.58:130][ 49]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.26-00.49.58:130][ 49]LogWorld: BeginTearingDown for /Game/Maps/Lobby/UEDPIE_0_lobby1
+[2023.12.26-00.49.58:131][ 49]LogWorld: UWorld::CleanupWorld for lobby1, bSessionEnded=true, bCleanupResources=true
+[2023.12.26-00.49.58:131][ 49]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.26-00.49.58:135][ 49]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.12.26-00.49.58:140][ 49]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.26-00.49.58:153][ 49]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.12.26-00.49.58:153][ 49]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 31
+[2023.12.26-00.49.58:153][ 49]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=31
+[2023.12.26-00.49.58:155][ 49]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=31
+[2023.12.26-00.49.58:176][ 49]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.26-00.49.58:179][ 49]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2023.12.26-00.49.58:215][ 50]LogPlayLevel: Display: Destroying online subsystem :Context_94
+[2023.12.26-00.49.59:390][144]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2023.12.26-00.49.59:974][144]LogSlate: Window 'Save Content' being destroyed
+[2023.12.26-00.49.59:983][144]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.26-00.50.00:079][144]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/ComboBoxSelector1" FILE="../../../../../../Users/nick1/Documents/GitHub/AtomVR/AtomVR/Content/UI/ComboBoxSelector1.uasset" SILENT=true
+[2023.12.26-00.50.00:086][144]LogSavePackage: Moving output files for package: /Game/UI/ComboBoxSelector1
+[2023.12.26-00.50.00:086][144]LogSavePackage: Moving '../../../../../../Users/nick1/Documents/GitHub/AtomVR/AtomVR/Saved/ComboBoxSelector13D82AED546C5C0C4F95B0299ADDD4B51.tmp' to '../../../../../../Users/nick1/Documents/GitHub/AtomVR/AtomVR/Content/UI/ComboBoxSelector1.uasset'
+[2023.12.26-00.50.00:095][144]LogFileHelpers: InternalPromptForCheckoutAndSave took 111 ms (total: 21.5 sec)
+[2023.12.26-00.50.00:097][144]AssetCheck: New page: Asset Save: ComboBoxSelector1
+[2023.12.26-00.50.00:097][144]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/ComboBoxSelector1.ComboBoxSelector1
+[2023.12.26-00.50.15:665][709]LogSlate: Window 'Color Picker' being destroyed
+[2023.12.26-00.50.20:913][907]LogSlate: Window 'Color Picker' being destroyed
+[2023.12.26-00.50.35:762][462]LogSlate: Window 'Color Picker' being destroyed
+[2023.12.26-00.50.56:127][271]LogSlate: Window 'Color Picker' being destroyed
+[2023.12.26-00.51.02:317][564]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2023.12.26-00.51.02:866][564]LogSlate: Window 'Save Content' being destroyed
+[2023.12.26-00.51.02:876][564]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.26-00.51.02:973][564]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Checker" FILE="../../../../../../Users/nick1/Documents/GitHub/AtomVR/AtomVR/Content/UI/Checker.uasset" SILENT=true
+[2023.12.26-00.51.02:981][564]LogSavePackage: Moving output files for package: /Game/UI/Checker
+[2023.12.26-00.51.02:982][564]LogSavePackage: Moving '../../../../../../Users/nick1/Documents/GitHub/AtomVR/AtomVR/Saved/CheckerC08CA7B54E5F23CB1C426390E215E41D.tmp' to '../../../../../../Users/nick1/Documents/GitHub/AtomVR/AtomVR/Content/UI/Checker.uasset'
+[2023.12.26-00.51.02:985][564]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/ComboBoxSelector" FILE="../../../../../../Users/nick1/Documents/GitHub/AtomVR/AtomVR/Content/UI/ComboBoxSelector.uasset" SILENT=true
+[2023.12.26-00.51.02:993][564]LogSavePackage: Moving output files for package: /Game/UI/ComboBoxSelector
+[2023.12.26-00.51.02:994][564]LogSavePackage: Moving '../../../../../../Users/nick1/Documents/GitHub/AtomVR/AtomVR/Saved/ComboBoxSelector8A8B47A2442EE73746E46A81215C826C.tmp' to '../../../../../../Users/nick1/Documents/GitHub/AtomVR/AtomVR/Content/UI/ComboBoxSelector.uasset'
+[2023.12.26-00.51.03:002][564]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/ComboBoxSelector1" FILE="../../../../../../Users/nick1/Documents/GitHub/AtomVR/AtomVR/Content/UI/ComboBoxSelector1.uasset" SILENT=true
+[2023.12.26-00.51.03:008][564]LogSavePackage: Moving output files for package: /Game/UI/ComboBoxSelector1
+[2023.12.26-00.51.03:009][564]LogSavePackage: Moving '../../../../../../Users/nick1/Documents/GitHub/AtomVR/AtomVR/Saved/ComboBoxSelector12B049B6E49F7D683BDA2C68452BA6768.tmp' to '../../../../../../Users/nick1/Documents/GitHub/AtomVR/AtomVR/Content/UI/ComboBoxSelector1.uasset'
+[2023.12.26-00.51.03:016][564]LogFileHelpers: InternalPromptForCheckoutAndSave took 139 ms (total: 21.6 sec)
+[2023.12.26-00.51.03:018][564]AssetCheck: New page: Asset Save: multiple assets
+[2023.12.26-00.51.03:018][564]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/Checker.Checker
+[2023.12.26-00.51.03:019][564]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/ComboBoxSelector.ComboBoxSelector
+[2023.12.26-00.51.03:020][564]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/ComboBoxSelector1.ComboBoxSelector1
+[2023.12.26-00.51.03:830][615]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.12.26-00.51.03:839][615]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.12.26-00.51.03:843][615]LogPlayLevel: [PlayLevel] Compiling ComboBoxSelector before play...
+[2023.12.26-00.51.04:414][615]LogPlayLevel: [PlayLevel] Compiling Checker before play...
+[2023.12.26-00.51.04:990][615]LogPlayLevel: [PlayLevel] Compiling ComboBoxSelector1 before play...
+[2023.12.26-00.51.05:226][615]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2023.12.26-00.51.05:232][615]LogPlayLevel: PlayLevel: Blueprint regeneration took 1393 ms (3 blueprints)
+[2023.12.26-00.51.05:232][615]PIE: New page: PIE session: lobby1 (26 дек. 2023 г., 10:51:05)
+[2023.12.26-00.51.05:233][615]LogPlayLevel: Creating play world package: /Game/Maps/Lobby/UEDPIE_0_lobby1
+[2023.12.26-00.51.05:238][615]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005032s)
+[2023.12.26-00.51.05:238][615]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Lobby/lobby1.lobby1 to /Game/Maps/Lobby/UEDPIE_0_lobby1.lobby1 (0.005069s)
+[2023.12.26-00.51.05:261][615]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2023.12.26-00.51.05:267][615]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.26-00.51.05:267][615]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.26-00.51.05:268][615]LogAIModule: Creating AISystem for world lobby1
+[2023.12.26-00.51.05:268][615]LogPlayLevel: PIE: World Init took: (0.001646s)
+[2023.12.26-00.51.05:268][615]LogAudio: Display: Creating Audio Device:                 Id: 32, Scope: Unique, Realtime: True
+[2023.12.26-00.51.05:268][615]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.12.26-00.51.05:268][615]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.12.26-00.51.05:268][615]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.12.26-00.51.05:268][615]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.12.26-00.51.05:269][615]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.12.26-00.51.05:269][615]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.12.26-00.51.05:269][615]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.12.26-00.51.05:269][615]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.12.26-00.51.05:269][615]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.12.26-00.51.05:269][615]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.12.26-00.51.05:269][615]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.12.26-00.51.05:273][615]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.12.26-00.51.05:309][615]LogAudioMixer: Display: Using Audio Hardware Device Наушники (Realtek(R) Audio)
+[2023.12.26-00.51.05:310][615]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.12.26-00.51.05:310][615]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.12.26-00.51.05:310][615]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.12.26-00.51.05:311][615]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=32
+[2023.12.26-00.51.05:311][615]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=32
+[2023.12.26-00.51.05:315][615]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=32
+[2023.12.26-00.51.05:315][615]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=32
+[2023.12.26-00.51.05:315][615]LogInit: FAudioDevice initialized with ID 32.
+[2023.12.26-00.51.05:315][615]LogAudio: Display: Audio Device (ID: 32) registered with world 'lobby1'.
+[2023.12.26-00.51.05:315][615]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 32
+[2023.12.26-00.51.05:317][615]LogLoad: Game class is 'LobbyGamemode_C'
+[2023.12.26-00.51.05:319][615]LogWorld: Bringing World /Game/Maps/Lobby/UEDPIE_0_lobby1.lobby1 up for play (max tick rate 0) at 2023.12.26-05.51.05
+[2023.12.26-00.51.05:319][615]LogWorld: Bringing up level for play took: 0.001646
+[2023.12.26-00.51.05:322][615]LogOnline: OSS: Created online subsystem instance for: :Context_95
+[2023.12.26-00.51.05:327][615]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.12.26-00.51.05:327][615]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2023.12.26-00.51.05:327][615]PIE: Server logged in
+[2023.12.26-00.51.05:328][615]PIE: Play in editor total start time 1,49 seconds.
+[2023.12.26-00.51.18:521][431]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.26-00.51.18:521][431]LogWorld: BeginTearingDown for /Game/Maps/Lobby/UEDPIE_0_lobby1
+[2023.12.26-00.51.18:521][431]LogWorld: UWorld::CleanupWorld for lobby1, bSessionEnded=true, bCleanupResources=true
+[2023.12.26-00.51.18:521][431]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.26-00.51.18:525][431]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.12.26-00.51.18:530][431]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.26-00.51.18:546][431]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.26-00.51.18:546][431]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 32
+[2023.12.26-00.51.18:546][431]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=32
+[2023.12.26-00.51.18:549][431]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=32
+[2023.12.26-00.51.18:576][431]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2023.12.26-00.51.18:614][432]LogPlayLevel: Display: Destroying online subsystem :Context_95
+[2023.12.26-00.51.28:068][752]LogSlate: Window 'Color Picker' being destroyed
+[2023.12.26-00.51.42:587][301]LogSlate: Window 'Color Picker' being destroyed
+[2023.12.26-00.51.49:153][508]LogSlate: Window 'Color Picker' being destroyed
+[2023.12.26-00.51.50:657][603]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2023.12.26-00.51.51:181][603]LogSlate: Window 'Save Content' being destroyed
+[2023.12.26-00.51.51:191][603]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.26-00.51.51:284][603]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Checker" FILE="../../../../../../Users/nick1/Documents/GitHub/AtomVR/AtomVR/Content/UI/Checker.uasset" SILENT=true
+[2023.12.26-00.51.51:293][603]LogSavePackage: Moving output files for package: /Game/UI/Checker
+[2023.12.26-00.51.51:293][603]LogSavePackage: Moving '../../../../../../Users/nick1/Documents/GitHub/AtomVR/AtomVR/Saved/CheckerCDDD5EBA417F22462E8F378D0C9C76EC.tmp' to '../../../../../../Users/nick1/Documents/GitHub/AtomVR/AtomVR/Content/UI/Checker.uasset'
+[2023.12.26-00.51.51:300][603]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/ComboBoxSelector" FILE="../../../../../../Users/nick1/Documents/GitHub/AtomVR/AtomVR/Content/UI/ComboBoxSelector.uasset" SILENT=true
+[2023.12.26-00.51.51:307][603]LogSavePackage: Moving output files for package: /Game/UI/ComboBoxSelector
+[2023.12.26-00.51.51:308][603]LogSavePackage: Moving '../../../../../../Users/nick1/Documents/GitHub/AtomVR/AtomVR/Saved/ComboBoxSelector3AC717D1432384FB032CB1A8C7BF3C6A.tmp' to '../../../../../../Users/nick1/Documents/GitHub/AtomVR/AtomVR/Content/UI/ComboBoxSelector.uasset'
+[2023.12.26-00.51.51:316][603]LogFileHelpers: InternalPromptForCheckoutAndSave took 124 ms (total: 21.7 sec)
+[2023.12.26-00.51.51:316][603]AssetCheck: New page: Asset Save: multiple assets
+[2023.12.26-00.51.51:316][603]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/Checker.Checker
+[2023.12.26-00.51.51:317][603]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/ComboBoxSelector.ComboBoxSelector
+[2023.12.26-00.51.51:990][657]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.12.26-00.51.52:000][657]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.12.26-00.51.52:002][657]LogPlayLevel: [PlayLevel] Compiling ComboBoxSelector before play...
+[2023.12.26-00.51.52:441][657]LogPlayLevel: [PlayLevel] Compiling Checker before play...
+[2023.12.26-00.51.52:903][657]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2023.12.26-00.51.52:907][657]LogPlayLevel: PlayLevel: Blueprint regeneration took 907 ms (2 blueprints)
+[2023.12.26-00.51.52:907][657]PIE: New page: PIE session: lobby1 (26 дек. 2023 г., 10:51:52)
+[2023.12.26-00.51.52:907][657]LogPlayLevel: Creating play world package: /Game/Maps/Lobby/UEDPIE_0_lobby1
+[2023.12.26-00.51.52:911][657]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003993s)
+[2023.12.26-00.51.52:911][657]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Lobby/lobby1.lobby1 to /Game/Maps/Lobby/UEDPIE_0_lobby1.lobby1 (0.004022s)
+[2023.12.26-00.51.52:927][657]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2023.12.26-00.51.52:931][657]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.26-00.51.52:931][657]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.26-00.51.52:931][657]LogAIModule: Creating AISystem for world lobby1
+[2023.12.26-00.51.52:932][657]LogPlayLevel: PIE: World Init took: (0.001487s)
+[2023.12.26-00.51.52:932][657]LogAudio: Display: Creating Audio Device:                 Id: 33, Scope: Unique, Realtime: True
+[2023.12.26-00.51.52:932][657]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.12.26-00.51.52:932][657]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.12.26-00.51.52:932][657]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.12.26-00.51.52:932][657]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.12.26-00.51.52:932][657]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.12.26-00.51.52:932][657]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.12.26-00.51.52:932][657]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.12.26-00.51.52:932][657]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.12.26-00.51.52:933][657]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.12.26-00.51.52:933][657]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.12.26-00.51.52:933][657]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.12.26-00.51.52:936][657]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.12.26-00.51.52:966][657]LogAudioMixer: Display: Using Audio Hardware Device Наушники (Realtek(R) Audio)
+[2023.12.26-00.51.52:966][657]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.12.26-00.51.52:966][657]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.12.26-00.51.52:966][657]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.12.26-00.51.52:967][657]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=33
+[2023.12.26-00.51.52:967][657]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=33
+[2023.12.26-00.51.52:969][657]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=33
+[2023.12.26-00.51.52:969][657]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=33
+[2023.12.26-00.51.52:969][657]LogInit: FAudioDevice initialized with ID 33.
+[2023.12.26-00.51.52:969][657]LogAudio: Display: Audio Device (ID: 33) registered with world 'lobby1'.
+[2023.12.26-00.51.52:969][657]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 33
+[2023.12.26-00.51.52:971][657]LogLoad: Game class is 'LobbyGamemode_C'
+[2023.12.26-00.51.52:972][657]LogWorld: Bringing World /Game/Maps/Lobby/UEDPIE_0_lobby1.lobby1 up for play (max tick rate 0) at 2023.12.26-05.51.52
+[2023.12.26-00.51.52:973][657]LogWorld: Bringing up level for play took: 0.000942
+[2023.12.26-00.51.52:975][657]LogOnline: OSS: Created online subsystem instance for: :Context_96
+[2023.12.26-00.51.52:978][657]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.12.26-00.51.52:978][657]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2023.12.26-00.51.52:978][657]PIE: Server logged in
+[2023.12.26-00.51.52:979][657]PIE: Play in editor total start time 0,98 seconds.
+[2023.12.26-00.52.00:211][ 66]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.26-00.52.00:211][ 66]LogWorld: BeginTearingDown for /Game/Maps/Lobby/UEDPIE_0_lobby1
+[2023.12.26-00.52.00:211][ 66]LogWorld: UWorld::CleanupWorld for lobby1, bSessionEnded=true, bCleanupResources=true
+[2023.12.26-00.52.00:211][ 66]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.26-00.52.00:214][ 66]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.12.26-00.52.00:219][ 66]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.26-00.52.00:235][ 66]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.26-00.52.00:235][ 66]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 33
+[2023.12.26-00.52.00:235][ 66]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=33
+[2023.12.26-00.52.00:237][ 66]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=33
+[2023.12.26-00.52.00:265][ 66]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2023.12.26-00.52.00:306][ 67]LogPlayLevel: Display: Destroying online subsystem :Context_96
+[2023.12.26-00.52.14:644][629]LogSlate: Window 'Color Picker' being destroyed
+[2023.12.26-00.52.23:500][957]LogSlate: Window 'Color Picker' being destroyed
+[2023.12.26-00.52.26:933][ 66]LogSlate: Window 'Color Picker' being destroyed
+[2023.12.26-00.52.27:744][ 89]BlueprintLog: New page: Compile ComboBoxSelector1
+[2023.12.26-00.52.27:798][ 89]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2023.12.26-00.52.29:601][122]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2023.12.26-00.52.30:251][122]LogSlate: Window 'Save Content' being destroyed
+[2023.12.26-00.52.30:258][122]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.26-00.52.30:352][122]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/ComboBoxSelector1" FILE="../../../../../../Users/nick1/Documents/GitHub/AtomVR/AtomVR/Content/UI/ComboBoxSelector1.uasset" SILENT=true
+[2023.12.26-00.52.30:359][122]LogSavePackage: Moving output files for package: /Game/UI/ComboBoxSelector1
+[2023.12.26-00.52.30:360][122]LogSavePackage: Moving '../../../../../../Users/nick1/Documents/GitHub/AtomVR/AtomVR/Saved/ComboBoxSelector12983C3B94425F4D7F120D690A970A0DD.tmp' to '../../../../../../Users/nick1/Documents/GitHub/AtomVR/AtomVR/Content/UI/ComboBoxSelector1.uasset'
+[2023.12.26-00.52.30:372][122]LogFileHelpers: InternalPromptForCheckoutAndSave took 114 ms (total: 21.9 sec)
+[2023.12.26-00.52.30:374][122]AssetCheck: New page: Asset Save: ComboBoxSelector1
+[2023.12.26-00.52.30:374][122]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/ComboBoxSelector1.ComboBoxSelector1
+[2023.12.26-00.52.31:838][229]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.12.26-00.52.31:846][229]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.12.26-00.52.31:846][229]PIE: New page: PIE session: lobby1 (26 дек. 2023 г., 10:52:31)
+[2023.12.26-00.52.31:869][229]LogPlayLevel: Creating play world package: /Game/Maps/Lobby/UEDPIE_0_lobby1
+[2023.12.26-00.52.31:874][229]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004075s)
+[2023.12.26-00.52.31:874][229]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Lobby/lobby1.lobby1 to /Game/Maps/Lobby/UEDPIE_0_lobby1.lobby1 (0.004118s)
+[2023.12.26-00.52.31:887][229]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2023.12.26-00.52.31:890][229]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.26-00.52.31:890][229]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.26-00.52.31:890][229]LogAIModule: Creating AISystem for world lobby1
+[2023.12.26-00.52.31:891][229]LogPlayLevel: PIE: World Init took: (0.000951s)
+[2023.12.26-00.52.31:891][229]LogAudio: Display: Creating Audio Device:                 Id: 34, Scope: Unique, Realtime: True
+[2023.12.26-00.52.31:891][229]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.12.26-00.52.31:891][229]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.12.26-00.52.31:891][229]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.12.26-00.52.31:891][229]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.12.26-00.52.31:891][229]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.12.26-00.52.31:891][229]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.12.26-00.52.31:891][229]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.12.26-00.52.31:891][229]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.12.26-00.52.31:891][229]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.12.26-00.52.31:891][229]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.12.26-00.52.31:891][229]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.12.26-00.52.31:894][229]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.12.26-00.52.31:923][229]LogAudioMixer: Display: Using Audio Hardware Device Наушники (Realtek(R) Audio)
+[2023.12.26-00.52.31:923][229]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.12.26-00.52.31:923][229]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.12.26-00.52.31:923][229]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.12.26-00.52.31:924][229]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=34
+[2023.12.26-00.52.31:924][229]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=34
+[2023.12.26-00.52.31:926][229]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=34
+[2023.12.26-00.52.31:926][229]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=34
+[2023.12.26-00.52.31:926][229]LogInit: FAudioDevice initialized with ID 34.
+[2023.12.26-00.52.31:926][229]LogAudio: Display: Audio Device (ID: 34) registered with world 'lobby1'.
+[2023.12.26-00.52.31:926][229]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 34
+[2023.12.26-00.52.31:931][229]LogLoad: Game class is 'LobbyGamemode_C'
+[2023.12.26-00.52.31:932][229]LogWorld: Bringing World /Game/Maps/Lobby/UEDPIE_0_lobby1.lobby1 up for play (max tick rate 0) at 2023.12.26-05.52.31
+[2023.12.26-00.52.31:933][229]LogWorld: Bringing up level for play took: 0.001469
+[2023.12.26-00.52.31:935][229]LogOnline: OSS: Created online subsystem instance for: :Context_97
+[2023.12.26-00.52.31:938][229]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.12.26-00.52.31:938][229]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2023.12.26-00.52.31:938][229]PIE: Server logged in
+[2023.12.26-00.52.31:939][229]PIE: Play in editor total start time 0,093 seconds.
+[2023.12.26-00.52.49:571][398]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.26-00.52.49:571][398]LogWorld: BeginTearingDown for /Game/Maps/Lobby/UEDPIE_0_lobby1
+[2023.12.26-00.52.49:571][398]LogWorld: UWorld::CleanupWorld for lobby1, bSessionEnded=true, bCleanupResources=true
+[2023.12.26-00.52.49:572][398]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.26-00.52.49:576][398]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.12.26-00.52.49:583][398]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.26-00.52.49:606][398]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.26-00.52.49:606][398]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 34
+[2023.12.26-00.52.49:606][398]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=34
+[2023.12.26-00.52.49:609][398]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=34
+[2023.12.26-00.52.49:623][398]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2023.12.26-00.52.49:679][399]LogPlayLevel: Display: Destroying online subsystem :Context_97
+[2023.12.26-00.52.50:289][440]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2023.12.26-00.52.53:791][652]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
