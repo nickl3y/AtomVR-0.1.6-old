@@ -14,7 +14,10 @@
 				"C:/Users/nick1/Documents/GitHub/AtomVR/AtomVR/Content/Maps/Lobby/ClientSetupMap.umap",
 				"C:/Users/nick1/Documents/GitHub/AtomVR/AtomVR/Content/Maps/SelectServer.umap",
 				"C:/Users/nick1/Documents/GitHub/AtomVR/AtomVR/Content/Code/ClientSetup/SettingsMenu.uasset",
-				"C:/Users/nick1/Documents/GitHub/AtomVR/AtomVR/Content/Code/ClientSetup/SettingsWidgetActor.uasset"
+				"C:/Users/nick1/Documents/GitHub/AtomVR/AtomVR/Content/Code/ClientSetup/SettingsWidgetActor.uasset",
+				"C:/Users/nick1/Documents/GitHub/AtomVR/AtomVR/Content/Code/ClientSetup/ClientSetupGamemode.uasset",
+				"C:/Users/nick1/Documents/GitHub/AtomVR/AtomVR/Content/Code/ClientSetup/ClientSetupChar.uasset",
+				"C:/Users/nick1/Documents/GitHub/AtomVR/AtomVR/Content/Maps/Lobby/ClientSetupMap_BuiltData.uasset"
 			]
 		}
 	]
