@@ -2,6 +2,12 @@
 	"AssetInfoVersion": 2,
 	"ShaderCodeToAssets": [
 		{
+			"ShaderMapHash": "DBC2C102DF26A3AEA47B88580A52CA8C23A864A6",
+			"Assets": [
+				"/Game/Assets/Characters/MannequinsXR/Materials/Instances/Manny/MI_Manny_02"
+			]
+		},
+		{
 			"ShaderMapHash": "AAB5E007305993E43AD817DE9E951AC025D0056C",
 			"Assets": [
 				"/Engine/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial"
@@ -121,12 +127,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "2B437B43A2BFE6B4EDD479ADCE505F28B3813DF0",
-			"Assets": [
-				"/Engine/VREditor/Devices/Generic/GenericHMDMaterial"
-			]
-		},
-		{
 			"ShaderMapHash": "FD748C432B70309F0EA40EC231F262A012E5164D",
 			"Assets": [
 				"/OpenXR/Devices/M_XRController"
@@ -175,6 +175,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "D2D23A93DD56E579055148583D2830DD9D67E532",
+			"Assets": [
+				"/Engine/OpenWorldTemplate/LandscapeMaterial/M_ProcGrid"
+			]
+		},
+		{
 			"ShaderMapHash": "89021694C36D0E1237C01280EAB0B0700211CFEB",
 			"Assets": [
 				"/Engine/EngineMaterials/DefaultDeferredDecalMaterial"
@@ -190,6 +196,12 @@
 			"ShaderMapHash": "9137A2966D7CC98AF1A32A641F5C2C8F5577A509",
 			"Assets": [
 				"/Engine/EngineSky/M_Sky_Panning_Clouds2"
+			]
+		},
+		{
+			"ShaderMapHash": "2F16CE967CFFD095570CE5A94BF6B792A94A28F6",
+			"Assets": [
+				"/Game/Assets/PolygonMilitary/Materials/Mat_PolygonMilitary_01_A"
 			]
 		},
 		{
@@ -272,6 +284,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "698342D2001CD792B02A7F057271B886EC046E54",
+			"Assets": [
+				"/Engine/VREditor/Devices/Vive/M_ViveControllerTrim"
+			]
+		},
+		{
 			"ShaderMapHash": "077E66D239B15C04722AEC979F94D42CBAA30054",
 			"Assets": [
 				"/Engine/EditorMaterials/PhAT_NoCollisionMaterial"
@@ -293,6 +311,19 @@
 			"ShaderMapHash": "6F126EE4A372336F2F7365D8BCB281B284D78D54",
 			"Assets": [
 				"/Engine/EngineMaterials/GizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "5E23E3E869B2268BB49CBB2C39B2E5060C8AC6A6",
+			"Assets": [
+				"/Game/Assets/Characters/MannequinsXR/Materials/Instances/Manny/MI_Manny_01",
+				"/Game/Assets/Characters/MannequinsXR/Materials/M_Mannequin"
+			]
+		},
+		{
+			"ShaderMapHash": "CF56C2F3688738319E84B1A49A1626A0F455E37D",
+			"Assets": [
+				"/Engine/OpenWorldTemplate/LandscapeMaterial/MI_ProcGrid"
 			]
 		},
 		{
