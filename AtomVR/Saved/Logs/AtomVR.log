@@ -3497,3 +3497,281 @@ please set the "Use T0 as ref pose" option or add them to the bind pose and reim
 [2023.12.28-03.51.48:561][452]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Assets/PolygonMilitary/Meshes/Weapons/SK_Wep_Pistol_Metal_01.SK_Wep_Pistol_Metal_01 as actor: SkeletalMeshActor /Game/Maps/Debug/TestLevel.TestLevel:PersistentLevel.SkeletalMeshActor_1
 [2023.12.28-03.51.48:562][452]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Assets/PolygonMilitary/Meshes/Weapons/SK_Wep_Pistol_Metal_01.SK_Wep_Pistol_Metal_01 as actor: SkeletalMeshActor /Game/Maps/Debug/TestLevel.TestLevel:PersistentLevel.SkeletalMeshActor_1
 [2023.12.28-03.51.57:533][914]LogSlate: Window 'Choose New StaticMesh Location' being destroyed
+[2023.12.28-03.52.22:555][490]LogSlate: Window 'Message' being destroyed
+[2023.12.28-03.52.22:571][490]Message dialog closed, result: Yes, title: Message, text: This action can't be undone. Would you like to continue?
+[2023.12.28-03.52.22:575][490]LogSkeletalMesh: Building Skeletal Mesh SK_Wep_Pistol_Metal_01...
+[2023.12.28-03.52.22:578][490]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Assets/PolygonMilitary/Meshes/Weapons/SK_Wep_Pistol_Metal_01.SK_Wep_Pistol_Metal_01
+[2023.12.28-03.53.01:840][485]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.28-03.53.01:935][485]LogSavePackage: Moving output files for package: /Game/Assets/PolygonMilitary/Meshes/Weapons/SK_Wep_Pistol_Metal_01
+[2023.12.28-03.53.01:935][485]LogSavePackage: Moving '../../../../../../Users/nick1/Documents/GitHub/AtomVR/AtomVR/Saved/SK_Wep_Pistol_Metal_01C73CFD82483027AF33B5B5A46B313C1D.tmp' to '../../../../../../Users/nick1/Documents/GitHub/AtomVR/AtomVR/Content/Assets/PolygonMilitary/Meshes/Weapons/SK_Wep_Pistol_Metal_01.uasset'
+[2023.12.28-03.53.01:944][485]LogFileHelpers: InternalPromptForCheckoutAndSave took 104 ms (total: 2.63 sec)
+[2023.12.28-03.53.01:946][485]AssetCheck: New page: Asset Save: SK_Wep_Pistol_Metal_01
+[2023.12.28-03.53.01:946][485]LogContentValidation: Display: Validating /Script/Engine.SkeletalMesh /Game/Assets/PolygonMilitary/Meshes/Weapons/SK_Wep_Pistol_Metal_01.SK_Wep_Pistol_Metal_01
+[2023.12.28-03.53.12:637][644]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2023.12.28-03.53.12:637][644]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.28-03.53.17:904][959]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2023.12.28-03.53.18:514][959]LogSlate: Window 'Save Content' being destroyed
+[2023.12.28-03.53.18:524][959]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.28-03.53.18:617][959]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Debug/TestLevel" FILE="../../../../../../Users/nick1/Documents/GitHub/AtomVR/AtomVR/Content/Maps/Debug/TestLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.12.28-03.53.18:665][959]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2023.12.28-03.53.18:677][959]LogSavePackage: Moving output files for package: /Game/Maps/Debug/TestLevel
+[2023.12.28-03.53.18:678][959]LogSavePackage: Moving '../../../../../../Users/nick1/Documents/GitHub/AtomVR/AtomVR/Saved/TestLevelA359467442AC07A90D558F9B23D234EE.tmp' to '../../../../../../Users/nick1/Documents/GitHub/AtomVR/AtomVR/Content/Maps/Debug/TestLevel.umap'
+[2023.12.28-03.53.18:686][959]LogFileHelpers: Saving map 'TestLevel' took 0.069
+[2023.12.28-03.53.18:694][959]LogFileHelpers: InternalPromptForCheckoutAndSave took 169 ms (total: 2.80 sec)
+[2023.12.28-03.53.18:695][959]AssetCheck: New page: Asset Save: TestLevel
+[2023.12.28-03.53.18:695][959]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/Debug/TestLevel.TestLevel
+[2023.12.28-03.53.20:986][159]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2023.12.28-03.53.25:889][591]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2023.12.28-03.54.37:688][340]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2023.12.28-03.54.38:995][450]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/Assets/PolygonMilitary/Meshes/Weapons/SK_Wep_Pistol_Metal_01.SK_Wep_Pistol_Metal_01
+[2023.12.28-03.54.38:996][450]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.28-03.54.38:996][450]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.28-03.54.39:006][450]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.12.28-03.54.39:254][450]LogToolMenus: Warning: Menu already registered : SkeletalMeshEditor.MeshContextMenu
+[2023.12.28-03.54.39:359][450]LogViewport: Scene viewport resized to 1430x866, mode Windowed.
+[2023.12.28-03.54.51:975][875]LogSlate: Window 'Create a New Animation Asset' being destroyed
+[2023.12.28-03.54.52:007][875]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Assets/SK_Wep_Pistol_Metal_01_Skeleton_Sequence.SK_Wep_Pistol_Metal_01_Skeleton_Sequence
+[2023.12.28-03.54.52:009][875]LogAnimationCompression: Display: Storing compressed animation data for /Game/Assets/SK_Wep_Pistol_Metal_01_Skeleton_Sequence.SK_Wep_Pistol_Metal_01_Skeleton_Sequence, at AnimationSequence/4e7091cd05998566976f3d64d6a98ced0c432f42
+[2023.12.28-03.54.52:012][875]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.28-03.54.52:012][875]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.28-03.54.52:020][875]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_28:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.12.28-03.54.52:310][875]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.28-03.54.52:310][875]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.28-03.54.52:374][875]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_28:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.12.28-03.54.52:505][875]LogUObjectGlobals: Warning: Failed to find object 'Class /Script/ApexDestruction.DestructibleMesh'
+[2023.12.28-03.54.52:513][875]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.28-03.54.52:513][875]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.28-03.54.52:528][875]LogViewport: Scene viewport resized to 1141x538, mode Windowed.
+[2023.12.28-03.54.52:548][875]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2023.12.28-03.54.52:580][876]LogShaderCompilers: Display: ================================================
+[2023.12.28-03.54.52:580][876]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.12.28-03.54.52:580][876]LogShaderCompilers: Display: Total job queries 57, among them cache hits 23 (40.35%)
+[2023.12.28-03.54.52:580][876]LogShaderCompilers: Display: Tracking 34 distinct input hashes that result in 27 distinct outputs (79.41%)
+[2023.12.28-03.54.52:580][876]LogShaderCompilers: Display: RAM used: 1,24 MiB of 716,80 MiB budget. Usage: 0.17%
+[2023.12.28-03.54.52:580][876]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.12.28-03.54.52:580][876]LogShaderCompilers: Display: Shaders Compiled: 0
+[2023.12.28-03.54.52:580][876]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0%)
+[2023.12.28-03.54.52:580][876]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2023.12.28-03.54.52:580][876]LogShaderCompilers: Display: ================================================
+[2023.12.28-03.55.16:656][ 47]LogSlate: Window 'SK_Wep_Pistol_Metal_01_Skeleton_Sequence' being destroyed
+[2023.12.28-03.55.16:662][ 47]LogSlate: Window 'SK_Wep_Pistol_Metal_01_Skeleton_Sequence' being destroyed
+[2023.12.28-03.55.16:669][ 47]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2023.12.28-03.55.16:669][ 47]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.28-03.55.16:734][ 47]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.12.28-03.55.16:734][ 47]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2023.12.28-03.55.16:734][ 47]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.28-03.55.16:807][ 47]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2023.12.28-03.55.16:807][ 47]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.28-03.55.16:905][ 47]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2023.12.28-03.55.16:905][ 47]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.28-03.55.16:920][ 47]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2023.12.28-03.55.16:920][ 47]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.28-03.55.16:980][ 47]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2023.12.28-03.55.16:980][ 47]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.28-03.55.17:317][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2023.12.28-03.55.18:008][ 75]LogSlate: Window 'Save Content' being destroyed
+[2023.12.28-03.55.18:018][ 75]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.28-03.55.18:145][ 75]LogSavePackage: Moving output files for package: /Game/Assets/SK_Wep_Pistol_Metal_01_Skeleton_Sequence
+[2023.12.28-03.55.18:145][ 75]LogSavePackage: Moving '../../../../../../Users/nick1/Documents/GitHub/AtomVR/AtomVR/Saved/SK_Wep_Pistol_Metal_01_Skeleton_DB4FA99F43E91F158211A5A06E02AADD.tmp' to '../../../../../../Users/nick1/Documents/GitHub/AtomVR/AtomVR/Content/Assets/SK_Wep_Pistol_Metal_01_Skeleton_Sequence.uasset'
+[2023.12.28-03.55.18:156][ 75]LogFileHelpers: InternalPromptForCheckoutAndSave took 137 ms (total: 2.94 sec)
+[2023.12.28-03.55.18:158][ 75]AssetCheck: New page: Asset Save: SK_Wep_Pistol_Metal_01_Skeleton_Sequence
+[2023.12.28-03.55.18:158][ 75]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/Assets/SK_Wep_Pistol_Metal_01_Skeleton_Sequence.SK_Wep_Pistol_Metal_01_Skeleton_Sequence
+[2023.12.28-03.55.24:448][587]LogSkeletalMesh: Building Skeletal Mesh SK_Wep_Pistol_01...
+[2023.12.28-03.55.24:449][587]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/Assets/PolygonMilitary/Meshes/Weapons/SK_Wep_Pistol_01.SK_Wep_Pistol_01
+[2023.12.28-03.55.24:451][587]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Assets/PolygonMilitary/Meshes/Weapons/SK_Wep_Pistol_01.SK_Wep_Pistol_01
+[2023.12.28-03.55.24:452][587]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.28-03.55.24:452][587]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.28-03.55.24:459][587]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_31:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.12.28-03.55.24:775][587]LogToolMenus: Warning: Menu already registered : SkeletalMeshEditor.MeshContextMenu
+[2023.12.28-03.55.24:860][587]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.28-03.55.24:879][587]LogViewport: Scene viewport resized to 1430x866, mode Windowed.
+[2023.12.28-03.55.24:933][588]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.28-03.55.34:659][989]LogSlate: Window 'Create a New Animation Asset' being destroyed
+[2023.12.28-03.55.34:672][989]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Assets/SK_Wep_Pistol_01_Skeleton_Sequence.SK_Wep_Pistol_01_Skeleton_Sequence
+[2023.12.28-03.55.34:672][989]LogAnimationCompression: Display: Storing compressed animation data for /Game/Assets/SK_Wep_Pistol_01_Skeleton_Sequence.SK_Wep_Pistol_01_Skeleton_Sequence, at AnimationSequence/12589e8dda2eb01c862ff71c6e0206102dd94bc4
+[2023.12.28-03.55.34:673][989]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.28-03.55.34:673][989]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.28-03.55.34:680][989]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_34:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.12.28-03.55.34:969][989]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.28-03.55.34:969][989]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.28-03.55.35:025][989]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_34:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.12.28-03.55.35:148][989]LogViewport: Scene viewport resized to 1141x538, mode Windowed.
+[2023.12.28-03.55.35:163][989]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2023.12.28-03.55.37:083][111]LogViewport: Scene viewport resized to 1141x537, mode Windowed.
+[2023.12.28-03.55.37:102][112]LogViewport: Scene viewport resized to 1141x538, mode Windowed.
+[2023.12.28-03.55.37:136][114]LogViewport: Scene viewport resized to 1141x537, mode Windowed.
+[2023.12.28-03.55.37:171][116]LogViewport: Scene viewport resized to 1141x538, mode Windowed.
+[2023.12.28-03.55.37:190][117]LogViewport: Scene viewport resized to 1141x537, mode Windowed.
+[2023.12.28-03.56.19:529][595]LogSlate: Window 'Choose New StaticMesh Location' being destroyed
+[2023.12.28-03.56.19:551][595]LogStaticMesh: Display: Building static mesh StaticMesh...
+[2023.12.28-03.56.19:563][595]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/Glock17/StaticMesh.StaticMesh
+[2023.12.28-03.56.50:026][702]LogSlate: Window 'Choose New StaticMesh Location' being destroyed
+[2023.12.28-03.56.50:041][702]LogStaticMesh: Display: Building static mesh Glock17Slider...
+[2023.12.28-03.56.50:055][702]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/Glock17/Glock17Slider.Glock17Slider
+[2023.12.28-03.56.50:058][702]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Assets/Glock17/Glock17Slider) ...
+[2023.12.28-03.56.51:665][771]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.28-03.56.51:754][771]LogSavePackage: Moving output files for package: /Game/Assets/SK_Wep_Pistol_01_Skeleton_Sequence
+[2023.12.28-03.56.51:754][771]LogSavePackage: Moving '../../../../../../Users/nick1/Documents/GitHub/AtomVR/AtomVR/Saved/SK_Wep_Pistol_01_Skeleton_Sequen15E27E434E4AC0BAE64B60BB65B8963F.tmp' to '../../../../../../Users/nick1/Documents/GitHub/AtomVR/AtomVR/Content/Assets/SK_Wep_Pistol_01_Skeleton_Sequence.uasset'
+[2023.12.28-03.56.51:765][771]LogFileHelpers: InternalPromptForCheckoutAndSave took 100 ms (total: 3.04 sec)
+[2023.12.28-03.56.51:766][771]AssetCheck: New page: Asset Save: SK_Wep_Pistol_01_Skeleton_Sequence
+[2023.12.28-03.56.51:766][771]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/Assets/SK_Wep_Pistol_01_Skeleton_Sequence.SK_Wep_Pistol_01_Skeleton_Sequence
+[2023.12.28-03.56.53:521][873]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2023.12.28-03.56.53:521][873]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.28-03.56.54:414][920]LogSlate: Window 'SK_Wep_Pistol_01_Skeleton_Sequence' being destroyed
+[2023.12.28-03.56.54:448][920]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
+[2023.12.28-03.56.54:448][920]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.28-03.56.54:528][920]LogWorld: UWorld::CleanupWorld for World_35, bSessionEnded=true, bCleanupResources=true
+[2023.12.28-03.56.54:529][920]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.28-03.56.55:395][994]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2023.12.28-03.56.56:159][994]LogSlate: Window 'Save Content' being destroyed
+[2023.12.28-03.56.56:170][994]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.28-03.56.56:292][994]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Glock17/Glock17Slider" FILE="../../../../../../Users/nick1/Documents/GitHub/AtomVR/AtomVR/Content/Assets/Glock17/Glock17Slider.uasset" SILENT=true
+[2023.12.28-03.56.56:298][994]LogSavePackage: Moving output files for package: /Game/Assets/Glock17/Glock17Slider
+[2023.12.28-03.56.56:298][994]LogSavePackage: Moving '../../../../../../Users/nick1/Documents/GitHub/AtomVR/AtomVR/Saved/Glock17SliderF7A2FE2B44DEDA49EEF778BAFD31EDA5.tmp' to '../../../../../../Users/nick1/Documents/GitHub/AtomVR/AtomVR/Content/Assets/Glock17/Glock17Slider.uasset'
+[2023.12.28-03.56.56:305][994]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Glock17/StaticMesh" FILE="../../../../../../Users/nick1/Documents/GitHub/AtomVR/AtomVR/Content/Assets/Glock17/StaticMesh.uasset" SILENT=true
+[2023.12.28-03.56.56:308][994]LogSavePackage: Moving output files for package: /Game/Assets/Glock17/StaticMesh
+[2023.12.28-03.56.56:308][994]LogSavePackage: Moving '../../../../../../Users/nick1/Documents/GitHub/AtomVR/AtomVR/Saved/StaticMesh5733B3C64B54E9C41DD893B81752A868.tmp' to '../../../../../../Users/nick1/Documents/GitHub/AtomVR/AtomVR/Content/Assets/Glock17/StaticMesh.uasset'
+[2023.12.28-03.56.56:319][994]LogFileHelpers: InternalPromptForCheckoutAndSave took 149 ms (total: 3.19 sec)
+[2023.12.28-03.56.56:320][994]AssetCheck: New page: Asset Save: multiple assets
+[2023.12.28-03.56.56:320][994]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Assets/Glock17/Glock17Slider.Glock17Slider
+[2023.12.28-03.56.56:320][994]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Assets/Glock17/StaticMesh.StaticMesh
+[2023.12.28-03.56.57:801][122]Cmd: DELETE
+[2023.12.28-03.56.57:801][122]Cmd: ACTOR DELETE
+[2023.12.28-03.56.57:828][122]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2023.12.28-03.56.57:844][122]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2023.12.28-03.56.57:847][122]LogEditorActor: Deleted 1 Actors (0.041 secs)
+[2023.12.28-03.57.00:151][363]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Code/Guns/GunBase.GunBase
+[2023.12.28-03.57.00:151][363]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.28-03.57.00:151][363]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.28-03.57.11:152][980]LogViewport: Scene viewport resized to 716x633, mode Windowed.
+[2023.12.28-03.57.23:301][711]Cmd: MODE GRID=0
+[2023.12.28-03.57.24:313][772]Cmd: MODE GRID=1
+[2023.12.28-03.57.34:739][406]LogEditorTransaction: Undo Modify Component Location
+[2023.12.28-03.57.42:574][854]BlueprintLog: New page: Compile GunBase
+[2023.12.28-03.57.42:605][854]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2023.12.28-03.57.46:528][ 88]BlueprintLog: New page: Compile GunBase
+[2023.12.28-03.57.46:558][ 88]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2023.12.28-03.57.53:448][488]LogViewport: Scene viewport resized to 356x293, mode Windowed.
+[2023.12.28-03.57.54:265][520]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Assets/Glock17/StaticMesh.StaticMesh
+[2023.12.28-03.57.54:283][520]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.28-03.57.54:283][520]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.28-03.57.54:848][520]LogViewport: Scene viewport resized to 701x440, mode Windowed.
+[2023.12.28-03.57.55:319][563]LogViewport: Scene viewport resized to 1405x902, mode Windowed.
+[2023.12.28-03.58.01:373][ 26]LogViewport: Scene viewport resized to 716x633, mode Windowed.
+[2023.12.28-03.58.05:067][239]LogViewport: Scene viewport resized to 356x293, mode Windowed.
+[2023.12.28-03.58.05:868][276]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Assets/Glock17/Glock17Slider.Glock17Slider
+[2023.12.28-03.58.05:877][276]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.28-03.58.05:877][276]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.28-03.58.06:434][276]LogViewport: Scene viewport resized to 701x440, mode Windowed.
+[2023.12.28-03.58.06:827][312]LogViewport: Scene viewport resized to 1405x902, mode Windowed.
+[2023.12.28-03.58.16:344][ 16]Cmd: MODE SCALEGRID=0
+[2023.12.28-03.58.20:709][343]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.28-03.58.20:784][343]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Glock17/Glock17Slider" FILE="../../../../../../Users/nick1/Documents/GitHub/AtomVR/AtomVR/Content/Assets/Glock17/Glock17Slider.uasset" SILENT=true
+[2023.12.28-03.58.20:788][343]LogSavePackage: Moving output files for package: /Game/Assets/Glock17/Glock17Slider
+[2023.12.28-03.58.20:789][343]LogSavePackage: Moving '../../../../../../Users/nick1/Documents/GitHub/AtomVR/AtomVR/Saved/Glock17Slider1B69216540890E536379FD8B9B648FE3.tmp' to '../../../../../../Users/nick1/Documents/GitHub/AtomVR/AtomVR/Content/Assets/Glock17/Glock17Slider.uasset'
+[2023.12.28-03.58.20:797][343]LogFileHelpers: InternalPromptForCheckoutAndSave took 88 ms (total: 3.28 sec)
+[2023.12.28-03.58.20:799][343]AssetCheck: New page: Asset Save: Glock17Slider
+[2023.12.28-03.58.20:799][343]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Assets/Glock17/Glock17Slider.Glock17Slider
+[2023.12.28-03.58.21:110][349]LogViewport: Scene viewport resized to 716x633, mode Windowed.
+[2023.12.28-03.58.23:521][507]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.28-03.58.23:605][507]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Code/Guns/GunBase" FILE="../../../../../../Users/nick1/Documents/GitHub/AtomVR/AtomVR/Content/Code/Guns/GunBase.uasset" SILENT=true
+[2023.12.28-03.58.23:609][507]LogSavePackage: Moving output files for package: /Game/Code/Guns/GunBase
+[2023.12.28-03.58.23:610][507]LogSavePackage: Moving '../../../../../../Users/nick1/Documents/GitHub/AtomVR/AtomVR/Saved/GunBase38FE64E54E932ED0AB731D9A06C9D5CF.tmp' to '../../../../../../Users/nick1/Documents/GitHub/AtomVR/AtomVR/Content/Code/Guns/GunBase.uasset'
+[2023.12.28-03.58.23:618][507]LogFileHelpers: InternalPromptForCheckoutAndSave took 97 ms (total: 3.37 sec)
+[2023.12.28-03.58.23:620][507]AssetCheck: New page: Asset Save: GunBase
+[2023.12.28-03.58.23:620][507]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Code/Guns/GunBase.GunBase
+[2023.12.28-03.58.25:324][647]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2023.12.28-03.58.25:877][647]LogSlate: Window 'Save Content' being destroyed
+[2023.12.28-03.58.25:886][647]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.28-03.58.25:975][647]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Debug/TestLevel" FILE="../../../../../../Users/nick1/Documents/GitHub/AtomVR/AtomVR/Content/Maps/Debug/TestLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.12.28-03.58.26:026][647]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2023.12.28-03.58.26:038][647]LogSavePackage: Moving output files for package: /Game/Maps/Debug/TestLevel
+[2023.12.28-03.58.26:039][647]LogSavePackage: Moving '../../../../../../Users/nick1/Documents/GitHub/AtomVR/AtomVR/Saved/TestLevel9E72C810493E97638A53ACA5F90E9767.tmp' to '../../../../../../Users/nick1/Documents/GitHub/AtomVR/AtomVR/Content/Maps/Debug/TestLevel.umap'
+[2023.12.28-03.58.26:047][647]LogFileHelpers: Saving map 'TestLevel' took 0.072
+[2023.12.28-03.58.26:047][647]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Glock17/StaticMesh" FILE="../../../../../../Users/nick1/Documents/GitHub/AtomVR/AtomVR/Content/Assets/Glock17/StaticMesh.uasset" SILENT=true
+[2023.12.28-03.58.26:050][647]LogSavePackage: Moving output files for package: /Game/Assets/Glock17/StaticMesh
+[2023.12.28-03.58.26:050][647]LogSavePackage: Moving '../../../../../../Users/nick1/Documents/GitHub/AtomVR/AtomVR/Saved/StaticMesh651E9B3347F2C7FA5FA349B3A9DA956E.tmp' to '../../../../../../Users/nick1/Documents/GitHub/AtomVR/AtomVR/Content/Assets/Glock17/StaticMesh.uasset'
+[2023.12.28-03.58.26:059][647]LogFileHelpers: InternalPromptForCheckoutAndSave took 173 ms (total: 3.55 sec)
+[2023.12.28-03.58.26:061][647]AssetCheck: New page: Asset Save: multiple assets
+[2023.12.28-03.58.26:061][647]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/Debug/TestLevel.TestLevel
+[2023.12.28-03.58.26:061][647]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Assets/Glock17/StaticMesh.StaticMesh
+[2023.12.28-03.58.27:273][768]LogDebuggerCommands: Repeating last play command: VR Preview
+[2023.12.28-03.58.27:285][768]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.12.28-03.58.27:285][768]PIE: New page: PIE session: TestLevel (28 дек. 2023 г., 13:58:27)
+[2023.12.28-03.58.27:285][768]LogPlayLevel: Creating play world package: /Game/Maps/Debug/UEDPIE_0_TestLevel
+[2023.12.28-03.58.27:287][768]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002706s)
+[2023.12.28-03.58.27:287][768]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Debug/TestLevel.TestLevel to /Game/Maps/Debug/UEDPIE_0_TestLevel.TestLevel (0.002732s)
+[2023.12.28-03.58.27:304][768]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2023.12.28-03.58.27:306][768]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.28-03.58.27:306][768]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.28-03.58.27:306][768]LogAIModule: Creating AISystem for world TestLevel
+[2023.12.28-03.58.27:307][768]LogPlayLevel: PIE: World Init took: (0.000955s)
+[2023.12.28-03.58.27:307][768]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2023.12.28-03.58.27:307][768]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.12.28-03.58.27:307][768]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.12.28-03.58.27:307][768]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.12.28-03.58.27:307][768]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.12.28-03.58.27:307][768]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.12.28-03.58.27:307][768]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.12.28-03.58.27:307][768]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.12.28-03.58.27:307][768]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.12.28-03.58.27:307][768]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.12.28-03.58.27:307][768]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.12.28-03.58.27:307][768]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.12.28-03.58.27:309][768]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.12.28-03.58.27:341][768]LogAudioMixer: Display: Using Audio Hardware Device Наушники (Realtek(R) Audio)
+[2023.12.28-03.58.27:341][768]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.12.28-03.58.27:341][768]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.12.28-03.58.27:341][768]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.12.28-03.58.27:342][768]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=20
+[2023.12.28-03.58.27:342][768]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=20
+[2023.12.28-03.58.27:344][768]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=20
+[2023.12.28-03.58.27:344][768]LogInit: FAudioDevice initialized with ID 20.
+[2023.12.28-03.58.27:344][768]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=20
+[2023.12.28-03.58.27:344][768]LogAudio: Display: Audio Device (ID: 20) registered with world 'TestLevel'.
+[2023.12.28-03.58.27:344][768]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 20
+[2023.12.28-03.58.27:378][768]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.28-03.58.27:588][768]LogLoad: Game class is 'BaseVRGameGamemode_Game_C'
+[2023.12.28-03.58.27:589][768]LogWorld: Bringing World /Game/Maps/Debug/UEDPIE_0_TestLevel.TestLevel up for play (max tick rate 0) at 2023.12.28-08.58.27
+[2023.12.28-03.58.27:589][768]LogWorld: Bringing up level for play took: 0.001554
+[2023.12.28-03.58.27:592][768]LogOnline: OSS: Created online subsystem instance for: :Context_58
+[2023.12.28-03.58.27:593][768]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2023.12.28-03.58.27:604][768]PIE: Server logged in
+[2023.12.28-03.58.27:608][768]PIE: Play in editor total start time 0,325 seconds.
+[2023.12.28-03.58.27:615][768]LogViewport: Scene viewport resized to 3648x1840, mode Windowed.
+[2023.12.28-03.58.27:636][768]LogHMD: Warning: Requesting 10 bit swapchain, but not supported: fall back to 8bpc
+[2023.12.28-03.58.28:301][837]LogBlueprintUserMessages: [BasePlayerState_C_0] BasePlayerState = LocallyStarted
+[2023.12.28-03.58.28:316][839]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2023.12.28-03.58.42:732][578]LogHMD: Warning: No UPlayerMappableInputConfig provided in the OpenXR Input project settings, action bindings will not be visible to the OpenXR runtime. Action/Axis mappings from the Input configuration are deprecated for XR in favor of Enhanced Input.
+[2023.12.28-03.59.04:246][121]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.28-03.59.04:246][121]LogWorld: BeginTearingDown for /Game/Maps/Debug/UEDPIE_0_TestLevel
+[2023.12.28-03.59.04:297][121]LogSlate: Window 'AtomVR Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6) OpenXR Oculus (1.92.0)' being destroyed
+[2023.12.28-03.59.04:301][121]LogWorld: UWorld::CleanupWorld for TestLevel, bSessionEnded=true, bCleanupResources=true
+[2023.12.28-03.59.04:301][121]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.28-03.59.04:308][121]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.12.28-03.59.04:317][121]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.28-03.59.04:335][121]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 20
+[2023.12.28-03.59.04:335][121]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2023.12.28-03.59.04:337][121]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2023.12.28-03.59.04:365][121]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2023.12.28-03.59.04:401][122]LogPlayLevel: Display: Destroying online subsystem :Context_58
+[2023.12.28-03.59.12:136][560]BlueprintLog: New page: Compile GunBase
+[2023.12.28-03.59.12:167][560]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2023.12.28-03.59.13:572][631]LogSlate: Window 'Glock17Slider' being destroyed
+[2023.12.28-03.59.13:576][631]LogSlate: Window 'Glock17Slider' being destroyed
+[2023.12.28-03.59.13:584][631]LogWorld: UWorld::CleanupWorld for World_36, bSessionEnded=true, bCleanupResources=true
+[2023.12.28-03.59.13:584][631]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.28-03.59.13:707][631]LogWorld: UWorld::CleanupWorld for World_37, bSessionEnded=true, bCleanupResources=true
+[2023.12.28-03.59.13:708][631]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.28-03.59.13:788][631]LogWorld: UWorld::CleanupWorld for World_38, bSessionEnded=true, bCleanupResources=true
+[2023.12.28-03.59.13:788][631]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.28-03.59.14:203][670]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2023.12.28-03.59.14:763][670]LogSlate: Window 'Save Content' being destroyed
+[2023.12.28-03.59.14:772][670]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.28-03.59.14:902][670]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Code/Guns/GunBase" FILE="../../../../../../Users/nick1/Documents/GitHub/AtomVR/AtomVR/Content/Code/Guns/GunBase.uasset" SILENT=true
+[2023.12.28-03.59.14:906][670]LogSavePackage: Moving output files for package: /Game/Code/Guns/GunBase
+[2023.12.28-03.59.14:907][670]LogSavePackage: Moving '../../../../../../Users/nick1/Documents/GitHub/AtomVR/AtomVR/Saved/GunBase81A14602453EA809A8924AA36990B2E2.tmp' to '../../../../../../Users/nick1/Documents/GitHub/AtomVR/AtomVR/Content/Code/Guns/GunBase.uasset'
+[2023.12.28-03.59.14:915][670]LogFileHelpers: InternalPromptForCheckoutAndSave took 142 ms (total: 3.69 sec)
+[2023.12.28-03.59.14:916][670]AssetCheck: New page: Asset Save: GunBase
+[2023.12.28-03.59.14:916][670]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Code/Guns/GunBase.GunBase
+[2023.12.28-03.59.17:844][753]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
