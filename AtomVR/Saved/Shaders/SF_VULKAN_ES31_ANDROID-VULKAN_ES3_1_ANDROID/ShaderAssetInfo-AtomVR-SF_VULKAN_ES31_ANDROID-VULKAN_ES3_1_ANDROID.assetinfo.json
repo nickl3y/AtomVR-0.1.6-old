@@ -85,6 +85,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "BE5151238B56334561A0A16F67F4A51C113D23DC",
+			"Assets": [
+				"/Game/Assets/PolygonMilitary/Materials/Weapons/Mat_PolygonMilitary_Weapons_01"
+			]
+		},
+		{
 			"ShaderMapHash": "7AA344240DE49A89C3664A2A7578B2CB9D430EBE",
 			"Assets": [
 				"/Game/Assets/PolygonMilitary/Materials/Misc/Mat_PolygonMilitary_Veh_TankTracks_01",
