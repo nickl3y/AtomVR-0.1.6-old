@@ -183,6 +183,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "92749C7FFBD8EE6351FAAB6B14D26573C998217D",
+			"Assets": [
+				"/Game/Assets/Mirror"
+			]
+		},
+		{
 			"ShaderMapHash": "2510098094B79F15B6CC4FA3165ABB460AFFD9C8",
 			"Assets": [
 				"/Game/Assets/PolygonMilitary/Materials/Misc/Mat_PolygonMilitary_Fence_01"

@@ -1,1 +1,3 @@
 AtomVR/Saved/Logs/AtomVR.log
+AtomVR/Saved/Logs/AtomVR-backup-2023.12.28-00.49.04.log
+AtomVR/Saved/Logs/AtomVR-backup-2023.12.28-00.53.39.log
