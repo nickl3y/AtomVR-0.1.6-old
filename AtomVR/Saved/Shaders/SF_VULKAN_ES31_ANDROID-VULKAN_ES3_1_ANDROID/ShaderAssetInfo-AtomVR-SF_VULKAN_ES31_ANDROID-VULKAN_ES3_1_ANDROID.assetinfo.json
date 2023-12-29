@@ -134,6 +134,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "947B7E28B5AE939207431BE50FEE3E733932C165",
+			"Assets": [
+				"/Game/Assets/DeadMaterial"
+			]
+		},
+		{
 			"ShaderMapHash": "48EF442AEE257528C9A33D34A4BD4EAE325CE110",
 			"Assets": [
 				"/OpenXR/Devices/ValveIndex/Right/MI_right_ValveIndex"
