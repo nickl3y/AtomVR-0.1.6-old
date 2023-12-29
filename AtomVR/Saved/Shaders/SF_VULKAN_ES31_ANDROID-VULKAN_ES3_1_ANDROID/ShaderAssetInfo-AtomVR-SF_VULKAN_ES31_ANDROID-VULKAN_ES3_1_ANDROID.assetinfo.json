@@ -44,6 +44,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "C2DEF2160C525021468A89C135C2B4A5EDCD2B62",
+			"Assets": [
+				"/Game/Assets/AssetsvilleTown/Materials/MasterMaterials/M_BaseColor"
+			]
+		},
+		{
 			"ShaderMapHash": "BA2A3C17365E4505684ABB014F6E19C542D8DE94",
 			"Assets": [
 				"/OpenXR/Devices/MicrosoftMixedReality/MI_MicrosoftMixedReality",
@@ -51,6 +57,18 @@
 				"/OpenXR/Devices/OculusTouch_v2/MI_OculusTouch_v2",
 				"/OpenXR/Devices/OculusTouch_v3/MI_OculusTouch_v3",
 				"/OpenXR/Devices/ValveIndex/Left/MI_left_ValveIndex"
+			]
+		},
+		{
+			"ShaderMapHash": "B01D6C17E7719AAAECD35C405274C2B0EC14A8EA",
+			"Assets": [
+				"/Game/Assets/PolygonMilitary/Materials/Weapons/Mat_PolygonMilitary_Weapons_Emissive_01"
+			]
+		},
+		{
+			"ShaderMapHash": "BB86F517D08864B495029E2F61B23013BF838CA5",
+			"Assets": [
+				"/Game/Assets/PolygonMilitary/FX/Misc/Mat_FX_4"
 			]
 		},
 		{
@@ -94,7 +112,25 @@
 			"ShaderMapHash": "7AA344240DE49A89C3664A2A7578B2CB9D430EBE",
 			"Assets": [
 				"/Game/Assets/PolygonMilitary/Materials/Misc/Mat_PolygonMilitary_Veh_TankTracks_01",
-				"/Game/Assets/PolygonMilitary/Materials/Vehicles/Mat_PolygonMilitary_Helicopters_01"
+				"/Game/Assets/PolygonMilitary/Materials/Vehicles/Mat_PolygonMilitary_Aircraft_01",
+				"/Game/Assets/PolygonMilitary/Materials/Vehicles/Mat_PolygonMilitary_Aircraft_02",
+				"/Game/Assets/PolygonMilitary/Materials/Vehicles/Mat_PolygonMilitary_Aircraft_Drone_03",
+				"/Game/Assets/PolygonMilitary/Materials/Vehicles/Mat_PolygonMilitary_Helicopters_01",
+				"/Game/Assets/PolygonMilitary/Materials/Vehicles/Mat_PolygonMilitary_Helicopters_02",
+				"/Game/Assets/PolygonMilitary/Materials/Vehicles/Mat_PolygonMilitary_Vehicles_02",
+				"/Game/Assets/PolygonMilitary/Materials/Vehicles/Mat_PolygonMilitary_Vehicles_03",
+				"/Game/Assets/PolygonMilitary/Materials/Vehicles/Mat_PolygonMilitary_Vehicles_04",
+				"/Game/Assets/PolygonMilitary/Materials/Vehicles/Mat_PolygonMilitary_Vehicles_05",
+				"/Game/Assets/PolygonMilitary/Materials/Vehicles/Mat_PolygonMilitary_Vehicles_06",
+				"/Game/Assets/PolygonMilitary/Materials/Vehicles/Mat_PolygonMilitary_Vehicles_07",
+				"/Game/Assets/PolygonMilitary/Materials/Vehicles/Mat_PolygonMilitary_Vehicles_08",
+				"/Game/Assets/PolygonMilitary/Materials/Vehicles/Mat_PolygonMilitary_Vehicles_09"
+			]
+		},
+		{
+			"ShaderMapHash": "35CDC625CD6A094591BF6A0154121640A697D17D",
+			"Assets": [
+				"/Game/Assets/PolygonMilitary/Materials/Misc/Mat_PolygonMilitary_PostersGold_01_A"
 			]
 		},
 		{
@@ -119,6 +155,18 @@
 			"ShaderMapHash": "8605262FE4BF3E5159BCE7CBFBFE31E8B8200532",
 			"Assets": [
 				"/Engine/EngineSky/M_SimpleSkyDome"
+			]
+		},
+		{
+			"ShaderMapHash": "2A9A0333AC81F71082A08E6E654478690698C9F7",
+			"Assets": [
+				"/Game/Assets/AssetsvilleTown/Materials/MasterMaterials/M_SubSurface"
+			]
+		},
+		{
+			"ShaderMapHash": "5E33CF33480D2CD3EBC4A9C3BE73DB9873A3A5F3",
+			"Assets": [
+				"/Game/Assets/PolygonMilitary/Materials/Misc/Mat_PolygonMilitary_Netting_01"
 			]
 		},
 		{
@@ -152,16 +200,51 @@
 			]
 		},
 		{
+			"ShaderMapHash": "43E7F95F702BE5D2B64995D02690B05ABD617860",
+			"Assets": [
+				"/Game/Assets/PolygonMilitary/Materials/Vehicles/Mat_PolygonMilitary_AircraftLarge_02",
+				"/Game/Assets/PolygonMilitary/Materials/Vehicles/Mat_PolygonMilitary_Helicopters_03",
+				"/Game/Assets/PolygonMilitary/Materials/Vehicles/Mat_PolygonMilitary_Vehicles_10"
+			]
+		},
+		{
+			"ShaderMapHash": "89AD666050F7D9EF8E3713EF3475530083855E65",
+			"Assets": [
+				"/Game/Assets/AssetsvilleTown/Materials/MasterMaterials/M_AlphaTest"
+			]
+		},
+		{
+			"ShaderMapHash": "DF135F61EEA524B2B5B3F09E2CBECCD8D3B71D76",
+			"Assets": [
+				"/Game/Assets/AssetsvilleTown/Materials/MasterMaterials/M_Plants"
+			]
+		},
+		{
 			"ShaderMapHash": "E5043E648C8426992D547D5F74BDA7B1217C2376",
 			"Assets": [
 				"/Engine/VREditor/Devices/Oculus/OculusControllerMaterial"
 			]
 		},
 		{
+			"ShaderMapHash": "27601167424138FFD873B73D6BC9A98BD86C16F9",
+			"Assets": [
+				"/Engine/BasicShapes/BasicShapeMaterial"
+			]
+		},
+		{
 			"ShaderMapHash": "0BE75A690F36A2BF3D8F5FBE3781CA48D62EBC26",
 			"Assets": [
+				"/Game/Assets/PolygonMilitary/Materials/Mat_PolygonMilitary_01_B",
 				"/Game/Assets/PolygonMilitary/Materials/Mat_PolygonMilitary_01_C",
+				"/Game/Assets/PolygonMilitary/Materials/Mat_PolygonMilitary_02_A",
+				"/Game/Assets/PolygonMilitary/Materials/Vehicles/Mat_PolygonMilitary_AircraftLarge_01",
 				"/Game/Assets/PolygonMilitary/Materials/Vehicles/Mat_PolygonMilitary_Vehicles_01"
+			]
+		},
+		{
+			"ShaderMapHash": "09C999698509CDC18239D278926ADA7CB217E203",
+			"Assets": [
+				"/Game/Assets/AssetsvilleTown/Materials/MasterMaterials/M_BaseColorPalette"
 			]
 		},
 		{
@@ -213,9 +296,29 @@
 			]
 		},
 		{
+			"ShaderMapHash": "C55EAE857177A410665D6D5EB83CA6474B1D1B55",
+			"Assets": [
+				"/Game/Assets/PolygonMilitary/Materials/Misc/Mat_PolygonMilitary_Vazado_01_A",
+				"/Game/Assets/PolygonMilitary/Materials/Misc/Mat_PolygonMilitary_WireMesh_01",
+				"/Game/Assets/PolygonMilitary/Materials/Misc/Mat_PolygonMilitary_WireMesh_02"
+			]
+		},
+		{
+			"ShaderMapHash": "0F0FF7859289D2BEA442BE2A0C0A26F58B164115",
+			"Assets": [
+				"/Game/Assets/PolygonMilitary/Materials/Misc/Mat_Decal_FX_01"
+			]
+		},
+		{
 			"ShaderMapHash": "B8B14887EF9F39182161F9E40FD2FD0FA687187F",
 			"Assets": [
 				"/Game/Assets/PolygonMilitary/FX/Misc/Mat_FX_Default"
+			]
+		},
+		{
+			"ShaderMapHash": "47F4CD92E7D2C8189CC1761B3AD586E33C84FE51",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultParticle"
 			]
 		},
 		{
@@ -228,6 +331,12 @@
 			"ShaderMapHash": "89021694C36D0E1237C01280EAB0B0700211CFEB",
 			"Assets": [
 				"/Engine/EngineMaterials/DefaultDeferredDecalMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "B13E539493F362535359BC8A7826A90B0D98284E",
+			"Assets": [
+				"/Game/Assets/AssetsvilleTown/Materials/MasterMaterials/M_Metal"
 			]
 		},
 		{
@@ -262,9 +371,21 @@
 			]
 		},
 		{
+			"ShaderMapHash": "845697991A9D49525E9099B855A8E7559847489D",
+			"Assets": [
+				"/Game/Assets/AssetsvilleTown/Materials/MasterMaterials/M_BaseColorPalette_EMS"
+			]
+		},
+		{
 			"ShaderMapHash": "AA26CF9A5108A561469CFE883801B9043B34603A",
 			"Assets": [
 				"/Game/Assets/PolygonMilitary/FX/Misc/Mat_FX_Dark"
+			]
+		},
+		{
+			"ShaderMapHash": "577BF49F3ACA87AFFBA5C83A65AF9F6AF932E5F2",
+			"Assets": [
+				"/Game/Assets/PolygonMilitary/Materials/Misc/Mat_PolygonMilitary_Clouds_01"
 			]
 		},
 		{
@@ -292,6 +413,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "06AEB4AAEBB8D95BCD212711F7A9921CA12BDB11",
+			"Assets": [
+				"/Game/Assets/AssetsvilleTown/Materials/MasterMaterials/M_Glass"
+			]
+		},
+		{
 			"ShaderMapHash": "A2E288B1ED9075EAD6592CA40944D4D17B13A439",
 			"Assets": [
 				"/Engine/EngineMaterials/EmissiveMeshMaterial"
@@ -310,6 +437,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "63FA2FB6F85854F222BC95642609EE2492B4818C",
+			"Assets": [
+				"/Game/Assets/PolygonMilitary/FX/Misc/Mat_FX_Base_01"
+			]
+		},
+		{
 			"ShaderMapHash": "278EE1B7DFEA14945C3133F59149FD9D145F0B41",
 			"Assets": [
 				"/SpeedTreeImporter/SpeedTree9/SpeedTreeMaster"
@@ -322,6 +455,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "818BB5BC1F275B59AD83852B6CB07BFB810B99EF",
+			"Assets": [
+				"/Game/Assets/AssetsvilleTown/Materials/MasterMaterials/M_BaseTexture"
+			]
+		},
+		{
 			"ShaderMapHash": "9ADD31BF2FEAE730BE54459D79FB5D43200173C2",
 			"Assets": [
 				"/Game/Assets/PolygonMilitary/Materials/Misc/Mat_PolygonMilitary_Posters_01_A"
@@ -330,7 +469,18 @@
 		{
 			"ShaderMapHash": "CBDC59BF92A88BB148EA847EFA67B33696FC1C9D",
 			"Assets": [
+				"/Game/Assets/PolygonMilitary/Materials/Mat_PolygonMilitary_02_B",
+				"/Game/Assets/PolygonMilitary/Materials/Mat_PolygonMilitary_02_C",
+				"/Game/Assets/PolygonMilitary/Materials/Mat_PolygonMilitary_03_A",
+				"/Game/Assets/PolygonMilitary/Materials/Mat_PolygonMilitary_03_B",
+				"/Game/Assets/PolygonMilitary/Materials/Mat_PolygonMilitary_03_C",
+				"/Game/Assets/PolygonMilitary/Materials/Mat_PolygonMilitary_04_A",
+				"/Game/Assets/PolygonMilitary/Materials/Mat_PolygonMilitary_04_B",
+				"/Game/Assets/PolygonMilitary/Materials/Mat_PolygonMilitary_04_C",
+				"/Game/Assets/PolygonMilitary/Materials/Misc/Mat_PolygonMilitary_Road_01",
+				"/Game/Assets/PolygonMilitary/Materials/Misc/Mat_PolygonMilitary_Rubble_01",
 				"/Game/Assets/PolygonMilitary/Materials/Misc/Mat_PolygonMilitary_Veh_TankTracks_Burnt_01",
+				"/Game/Assets/PolygonMilitary/Materials/Vehicles/Mat_PolygonMilitary_AircraftBurnt_01",
 				"/Game/Assets/PolygonMilitary/Materials/Vehicles/Mat_PolygonMilitary_VehBurnt_01"
 			]
 		},
@@ -359,6 +509,26 @@
 			]
 		},
 		{
+			"ShaderMapHash": "EF059DD323CC9E855531C79656DC76746D52DCBA",
+			"Assets": [
+				"/Game/Assets/PolygonMilitary/FX/Misc/Mat_FX_3"
+			]
+		},
+		{
+			"ShaderMapHash": "953252D43C92D9EFB42546E9F2E16B84D25D8025",
+			"Assets": [
+				"/Game/Assets/PolygonMilitary/Materials/Weapons/Mat_PolygonMilitary_Weapons_10",
+				"/Game/Assets/PolygonMilitary/Materials/Weapons/Mat_PolygonMilitary_Weapons_02",
+				"/Game/Assets/PolygonMilitary/Materials/Weapons/Mat_PolygonMilitary_Weapons_03",
+				"/Game/Assets/PolygonMilitary/Materials/Weapons/Mat_PolygonMilitary_Weapons_04",
+				"/Game/Assets/PolygonMilitary/Materials/Weapons/Mat_PolygonMilitary_Weapons_05",
+				"/Game/Assets/PolygonMilitary/Materials/Weapons/Mat_PolygonMilitary_Weapons_06",
+				"/Game/Assets/PolygonMilitary/Materials/Weapons/Mat_PolygonMilitary_Weapons_07",
+				"/Game/Assets/PolygonMilitary/Materials/Weapons/Mat_PolygonMilitary_Weapons_08",
+				"/Game/Assets/PolygonMilitary/Materials/Weapons/Mat_PolygonMilitary_Weapons_09"
+			]
+		},
+		{
 			"ShaderMapHash": "36CB04D94AB860C5B7738C2C7ECF4C41B9DC5B29",
 			"Assets": [
 				"/Engine/VREditor/TransformGizmo/Main"
@@ -381,6 +551,12 @@
 			"Assets": [
 				"/Game/Assets/Characters/MannequinsXR/Materials/Instances/Manny/MI_Manny_01",
 				"/Game/Assets/Characters/MannequinsXR/Materials/M_Mannequin"
+			]
+		},
+		{
+			"ShaderMapHash": "D2C818EF2D3FD29F3BB7E205C5142788AC19CF1A",
+			"Assets": [
+				"/Game/Assets/PolygonMilitary/FX/Misc/Mat_FX_Additive"
 			]
 		},
 		{
