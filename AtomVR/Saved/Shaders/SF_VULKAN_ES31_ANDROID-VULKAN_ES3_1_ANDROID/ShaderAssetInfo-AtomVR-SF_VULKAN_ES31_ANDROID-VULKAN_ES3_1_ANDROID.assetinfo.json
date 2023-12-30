@@ -694,6 +694,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "0684FCDF35ED375E6A4343B9C1D9D2886AF49244",
+			"Assets": [
+				"/Game/Assets/HandSocketMat"
+			]
+		},
+		{
 			"ShaderMapHash": "0DD347E18A00CF2CE2DC3D502386734E7DD6D78E",
 			"Assets": [
 				"/Paper2D/DefaultSpriteMaterial"
