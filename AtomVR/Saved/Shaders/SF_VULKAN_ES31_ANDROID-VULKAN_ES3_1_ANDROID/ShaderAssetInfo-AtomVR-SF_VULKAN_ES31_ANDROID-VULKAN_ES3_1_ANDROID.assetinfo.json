@@ -97,13 +97,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "7AA344240DE49A89C3664A2A7578B2CB9D430EBE",
-			"Assets": [
-				"/Game/Assets/PolygonMilitary/Materials/Misc/Mat_PolygonMilitary_Veh_TankTracks_01",
-				"/Game/Assets/PolygonMilitary/Materials/Vehicles/Mat_PolygonMilitary_Helicopters_01"
-			]
-		},
-		{
 			"ShaderMapHash": "0B57882501D6959D84AB1A9009502D782335C81E",
 			"Assets": [
 				"/Game/Assets/InfimaGames/LowPolyShooterPack/Materials/M_Character"
@@ -183,13 +176,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "0BE75A690F36A2BF3D8F5FBE3781CA48D62EBC26",
-			"Assets": [
-				"/Game/Assets/PolygonMilitary/Materials/Mat_PolygonMilitary_01_C",
-				"/Game/Assets/PolygonMilitary/Materials/Vehicles/Mat_PolygonMilitary_Vehicles_01"
-			]
-		},
-		{
 			"ShaderMapHash": "F40DF56E7EF70C7ED1E3EAA7D9CD7D97BCD0A707",
 			"Assets": [
 				"/Engine/EngineMaterials/Widget3DPassThrough_Masked_OneSided"
@@ -220,12 +206,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "2510098094B79F15B6CC4FA3165ABB460AFFD9C8",
-			"Assets": [
-				"/Game/Assets/PolygonMilitary/Materials/Misc/Mat_PolygonMilitary_Fence_01"
-			]
-		},
-		{
 			"ShaderMapHash": "3CCE8380F2EDF6533B0F32E5140AAA1976F03CB9",
 			"Assets": [
 				"/BlockoutToolsPlugin/Materials/M_BlockoutTools_Grid"
@@ -235,12 +215,6 @@
 			"ShaderMapHash": "565A5D84D00F63508DDFDFC3B3E2FD25EBFBEB0C",
 			"Assets": [
 				"/Engine/VREditor/TransformGizmo/TransformGizmoMaterial"
-			]
-		},
-		{
-			"ShaderMapHash": "B8B14887EF9F39182161F9E40FD2FD0FA687187F",
-			"Assets": [
-				"/Game/Assets/PolygonMilitary/FX/Misc/Mat_FX_Default"
 			]
 		},
 		{
@@ -290,12 +264,6 @@
 			"Assets": [
 				"/Engine/EngineMaterials/Widget3DPassThrough",
 				"/Engine/EngineMaterials/Widget3DPassThrough_Translucent_OneSided"
-			]
-		},
-		{
-			"ShaderMapHash": "AA26CF9A5108A561469CFE883801B9043B34603A",
-			"Assets": [
-				"/Game/Assets/PolygonMilitary/FX/Misc/Mat_FX_Dark"
 			]
 		},
 		{
@@ -350,19 +318,6 @@
 			"ShaderMapHash": "169349B9BDD6EF526782EF7B7B7DC2233436F00E",
 			"Assets": [
 				"/Paper2D/OpaqueUnlitSpriteMaterial"
-			]
-		},
-		{
-			"ShaderMapHash": "9ADD31BF2FEAE730BE54459D79FB5D43200173C2",
-			"Assets": [
-				"/Game/Assets/PolygonMilitary/Materials/Misc/Mat_PolygonMilitary_Posters_01_A"
-			]
-		},
-		{
-			"ShaderMapHash": "CBDC59BF92A88BB148EA847EFA67B33696FC1C9D",
-			"Assets": [
-				"/Game/Assets/PolygonMilitary/Materials/Misc/Mat_PolygonMilitary_Veh_TankTracks_Burnt_01",
-				"/Game/Assets/PolygonMilitary/Materials/Vehicles/Mat_PolygonMilitary_VehBurnt_01"
 			]
 		},
 		{
