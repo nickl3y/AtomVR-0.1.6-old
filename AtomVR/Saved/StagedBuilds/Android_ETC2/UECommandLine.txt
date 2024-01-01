@@ -1,1 +1,0 @@
--project="../../../AtomVR/AtomVR.uproject" /Game/Maps/SelectServer -Messaging
