@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-BlockoutToolsPlugin.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\nikit\OneDrive\Documents\AtomVR\AtomVR\Intermediate\Build\Win64\x64\UnrealEditor\Development\Engine\SharedPCH.Engine.Cpp20.h.obj"
+"C:\Users\nikit\OneDrive\Documents\AtomVR\AtomVR\Plugins\BlockoutToolsPlugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\BlockoutToolsPlugin\Module.BlockoutToolsPlugin.cpp.obj"
+"C:\Users\nikit\OneDrive\Documents\AtomVR\AtomVR\Plugins\BlockoutToolsPlugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\BlockoutToolsPlugin\Default.rc2.res"
+/OUT:"C:\Users\nikit\OneDrive\Documents\AtomVR\AtomVR\Plugins\BlockoutToolsPlugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\BlockoutToolsPlugin\UnrealEditor-BlockoutToolsPlugin.lib"
