@@ -98,6 +98,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "3492252F679325628DC368D4017C6717225026E2",
+			"Assets": [
+				"/Engine/OpenWorldTemplate/LandscapeMaterial/M_ProcGrid"
+			]
+		},
+		{
 			"ShaderMapHash": "01F2903986493BDBA5F9E0F8790752F6F831C83E",
 			"Assets": [
 				"/Engine/EditorMaterials/PreviewShadowIndicatorMaterial"
@@ -259,6 +265,12 @@
 			"ShaderMapHash": "FB087C7BF2C5514E02123C0C74BFD20094C5E094",
 			"Assets": [
 				"/SpeedTreeImporter/SpeedTree9/SpeedTreeMaster"
+			]
+		},
+		{
+			"ShaderMapHash": "061D997BDC0FE55395F2FDF9D3A5B66CD5F6F4A2",
+			"Assets": [
+				"/Engine/OpenWorldTemplate/LandscapeMaterial/MI_ProcGrid"
 			]
 		},
 		{
