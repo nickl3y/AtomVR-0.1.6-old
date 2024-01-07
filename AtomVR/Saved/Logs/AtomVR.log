@@ -1132,3 +1132,1193 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.01.07-18.20.03:943][  0]LogFileCache: Scanning file cache for directory 'C:/Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Content/Collections/' took 0.00s
 [2024.01.07-18.20.04:590][  0]LogEngine: Initializing Engine...
 [2024.01.07-18.20.04:625][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.001 s
+[2024.01.07-18.20.04:855][  0]LogInit: Initializing FReadOnlyCVARCache
+[2024.01.07-18.20.04:883][  0]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.07-18.20.04:889][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.07-18.20.04:925][  0]LogAIModule: Creating AISystem for world Untitled
+[2024.01.07-18.20.04:941][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2024.01.07-18.20.04:942][  0]LogInit: Texture streaming: Enabled
+[2024.01.07-18.20.04:972][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.3.2-29314046+++UE5+Release-5.3
+[2024.01.07-18.20.04:987][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2024.01.07-18.20.05:009][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2024.01.07-18.20.05:011][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2024.01.07-18.20.05:011][  0]LogAudio: Display: AudioInfo: 'BINKA' Registered
+[2024.01.07-18.20.05:013][  0]LogAudio: Display: AudioInfo: 'PCM' Registered
+[2024.01.07-18.20.05:013][  0]LogAudio: Display: AudioInfo: 'ADPCM' Registered
+[2024.01.07-18.20.05:013][  0]LogAudio: Display: AudioInfo: 'OGG' Registered
+[2024.01.07-18.20.05:013][  0]LogAudio: Display: AudioInfo: 'OPUS' Registered
+[2024.01.07-18.20.05:014][  0]LogAudio: Display: Audio Device Manager Initialized
+[2024.01.07-18.20.05:014][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2024.01.07-18.20.05:015][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.07-18.20.05:015][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.07-18.20.05:015][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.07-18.20.05:015][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.07-18.20.05:015][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.01.07-18.20.05:015][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.01.07-18.20.05:015][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.01.07-18.20.05:015][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.07-18.20.05:016][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.07-18.20.05:016][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.07-18.20.05:016][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.07-18.20.05:029][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.01.07-18.20.05:094][  0]LogAudioMixer: Display: Using Audio Hardware Device Наушники (Realtek(R) Audio)
+[2024.01.07-18.20.05:097][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.07-18.20.05:102][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.07-18.20.05:102][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.07-18.20.05:107][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2024.01.07-18.20.05:107][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2024.01.07-18.20.05:108][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2024.01.07-18.20.05:108][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2024.01.07-18.20.05:108][  0]LogInit: FAudioDevice initialized with ID 1.
+[2024.01.07-18.20.05:109][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2024.01.07-18.20.05:109][  0]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 1
+[2024.01.07-18.20.05:155][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2024.01.07-18.20.05:162][  0]LogInit: Undo buffer set to 32 MB
+[2024.01.07-18.20.05:163][  0]LogInit: Transaction tracking system initialized
+[2024.01.07-18.20.05:351][  0]LogSourceControl: Display: Uncontrolled Changelist persistency file loaded ../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Saved/SourceControl/UncontrolledChangelists.json
+[2024.01.07-18.20.05:351][  0]LogSourceControl: Uncontrolled asset enumeration started...
+[2024.01.07-18.20.05:361][  0]LogSourceControl: Uncontrolled asset enumeration finished in 0.010351 seconds (Found 167 uncontrolled assets)
+[2024.01.07-18.20.05:383][  0]BlueprintLog: New page: Editor Load
+[2024.01.07-18.20.05:639][  0]LocalizationService: Localization service is disabled
+[2024.01.07-18.20.05:686][  0]TimingProfiler: Initialize
+[2024.01.07-18.20.05:689][  0]TimingProfiler: OnSessionChanged
+[2024.01.07-18.20.05:689][  0]LoadingProfiler: Initialize
+[2024.01.07-18.20.05:689][  0]LoadingProfiler: OnSessionChanged
+[2024.01.07-18.20.05:690][  0]NetworkingProfiler: Initialize
+[2024.01.07-18.20.05:691][  0]NetworkingProfiler: OnSessionChanged
+[2024.01.07-18.20.05:691][  0]MemoryProfiler: Initialize
+[2024.01.07-18.20.05:691][  0]MemoryProfiler: OnSessionChanged
+[2024.01.07-18.20.05:763][  0]LogAndroidRuntimeSettings: Display: Enabled Package for Meta Quest devices.
+The following settings have been applied:
+
+[2024.01.07-18.20.05:763][  0]LogAndroidRuntimeSettings: Display: Support arm64: 1.
+
+[2024.01.07-18.20.05:763][  0]LogAndroidRuntimeSettings: Display: Support Vulkan: 1.
+
+[2024.01.07-18.20.05:763][  0]LogAndroidRuntimeSettings: Display: Support x86_64: 0.
+
+[2024.01.07-18.20.05:763][  0]LogAndroidRuntimeSettings: Display: Support Vulkan Desktop: 0.
+
+[2024.01.07-18.20.05:763][  0]LogAndroidRuntimeSettings: Display: Support OpenGL ES3.2: 0.
+[2024.01.07-18.20.06:140][  0]LogFileCache: Scanning file cache for directory 'C:/Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Content/' took 0.09s
+[2024.01.07-18.20.06:377][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2024.01.07-18.20.07:123][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2024.01.07-18.20.07:133][  0]SourceControl: Revision control is disabled
+[2024.01.07-18.20.07:133][  0]LogUnrealEdMisc: Loading editor; pre map load, took 15.680
+[2024.01.07-18.20.07:136][  0]Cmd: MAP LOAD FILE="../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Content/Maps/Debug/TestLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.01.07-18.20.07:139][  0]LightingResults: New page: Lighting Build
+[2024.01.07-18.20.07:151][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2024.01.07-18.20.07:155][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.07-18.20.07:161][  0]LogAssetRegistry: Display: Triggering cache save on discovery complete
+[2024.01.07-18.20.07:161][  0]MapCheck: New page: Map Check
+[2024.01.07-18.20.07:161][  0]LightingResults: New page: Lighting Build
+[2024.01.07-18.20.07:179][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.07-18.20.07:208][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2024.01.07-18.20.07:962][  0]LogAssetRegistry: Display: Asset registry cache written as 30.8 MiB to ../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Intermediate/CachedAssetRegistry_*.bin
+[2024.01.07-18.20.08:916][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2024.01.07-18.20.09:193][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'TestLevel'.
+[2024.01.07-18.20.09:193][  0]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.07-18.20.09:193][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.07-18.20.09:194][  0]LogAIModule: Creating AISystem for world TestLevel
+[2024.01.07-18.20.09:314][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.01.07-18.20.09:358][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2024.01.07-18.20.09:361][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.01.07-18.20.09:362][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,557ms to complete.
+[2024.01.07-18.20.09:408][  0]LogUnrealEdMisc: Total Editor Startup Time, took 17.954
+[2024.01.07-18.20.09:408][  0]LogShaderCompilers: Display: ================================================
+[2024.01.07-18.20.09:408][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.01.07-18.20.09:408][  0]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2024.01.07-18.20.09:408][  0]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2024.01.07-18.20.09:408][  0]LogShaderCompilers: Display: RAM used: 240,00 B of 716,80 MiB budget. Usage: 0.00%
+[2024.01.07-18.20.09:408][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.01.07-18.20.09:408][  0]LogShaderCompilers: Display: Shaders Compiled: 0
+[2024.01.07-18.20.09:408][  0]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0%)
+[2024.01.07-18.20.09:408][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2024.01.07-18.20.09:408][  0]LogShaderCompilers: Display: ================================================
+[2024.01.07-18.20.09:613][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.07-18.20.09:634][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.07-18.20.09:646][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.07-18.20.09:656][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.07-18.20.09:726][  0]LogPakFile: Initializing PakPlatformFile
+[2024.01.07-18.20.09:730][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.3/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2024.01.07-18.20.09:732][  0]LogPakFile: Initializing PakPlatformFile
+[2024.01.07-18.20.09:733][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.3/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2024.01.07-18.20.09:733][  0]LogPakFile: Initializing PakPlatformFile
+[2024.01.07-18.20.09:734][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.3/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2024.01.07-18.20.09:735][  0]LogPakFile: Initializing PakPlatformFile
+[2024.01.07-18.20.09:735][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.3/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2024.01.07-18.20.09:736][  0]LogPakFile: Initializing PakPlatformFile
+[2024.01.07-18.20.09:736][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.3/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2024.01.07-18.20.09:738][  0]LogPakFile: Initializing PakPlatformFile
+[2024.01.07-18.20.09:738][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.3/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2024.01.07-18.20.09:739][  0]LogPakFile: Initializing PakPlatformFile
+[2024.01.07-18.20.09:740][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.3/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2024.01.07-18.20.09:740][  0]LogPakFile: Initializing PakPlatformFile
+[2024.01.07-18.20.09:742][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.3/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2024.01.07-18.20.09:742][  0]LogPakFile: Initializing PakPlatformFile
+[2024.01.07-18.20.09:743][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.3/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2024.01.07-18.20.09:743][  0]LogPakFile: Initializing PakPlatformFile
+[2024.01.07-18.20.09:744][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.3/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2024.01.07-18.20.10:402][  0]LogSlate: Took 0.000682 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2024.01.07-18.20.10:407][  0]LogSlate: Took 0.000690 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2024.01.07-18.20.10:417][  0]LogSlate: Took 0.000528 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2024.01.07-18.20.10:479][  0]LogViewport: Scene viewport resized to 1224x534, mode Windowed.
+[2024.01.07-18.20.10:536][  0]LogSlate: Took 0.000667 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.01.07-18.20.10:802][  0]LogStall: Startup...
+[2024.01.07-18.20.10:805][  0]LogStall: Startup complete.
+[2024.01.07-18.20.10:817][  0]LogLoad: (Engine Initialization) Total time: 19.36 seconds
+[2024.01.07-18.20.10:817][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2024.01.07-18.20.11:041][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2024.01.07-18.20.11:171][  1]LogPython: registering <class 'ControlRigWorkflows.workflow_deformation_rig_preset.provider'>
+
+[2024.01.07-18.20.11:180][  1]Running Python start-up script 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Animation/ControlRig/Content/Python/init_unreal.py': 0.065651 secs
+[2024.01.07-18.20.11:337][  1]LogD3D12RHI: Cannot end block when stack is empty
+[2024.01.07-18.20.11:450][  2]LogSlate: Took 0.000234 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2024.01.07-18.20.11:618][  3]LogAssetRegistry: AssetRegistryGather time 0.5393s: AssetDataDiscovery 0.1976s, AssetDataGather 0.2001s, StoreResults 0.1416s.
+[2024.01.07-18.20.11:679][  3]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000136 seconds (updated 0 objects)
+[2024.01.07-18.20.17:453][ 21]LogTcpMessaging: Started Connection to '127.0.0.1:6666'
+[2024.01.07-18.20.30:912][ 62]LogWindowsTextInputMethodSystem: Activated input method: Английский (США) - (Keyboard).
+[2024.01.07-18.20.30:912][ 62]LogWindowsTextInputMethodSystem: Activated input method: Английский (США) - (Keyboard).
+[2024.01.07-18.20.31:868][ 85]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2024.01.07-18.20.36:400][349]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2024.01.07-18.20.36:753][349]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.07-18.20.36:794][349]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Game/Level1.Level1
+[2024.01.07-18.20.36:794][349]Cmd: MAP LOAD FILE="../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Content/Maps/Game/Level1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.01.07-18.20.36:794][349]LightingResults: New page: Lighting Build
+[2024.01.07-18.20.36:794][349]LoadErrors: New page: Loading map: Level1.umap
+[2024.01.07-18.20.36:824][349]LogWorld: UWorld::CleanupWorld for TestLevel, bSessionEnded=true, bCleanupResources=true
+[2024.01.07-18.20.36:824][349]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.07-18.20.36:825][349]MapCheck: New page: Map Check
+[2024.01.07-18.20.36:825][349]LightingResults: New page: Lighting Build
+[2024.01.07-18.20.36:830][349]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.07-18.20.36:839][349]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2024.01.07-18.20.36:852][349]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2024.01.07-18.20.36:852][349]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.07-18.20.36:861][349]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2024.01.07-18.20.36:865][349]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2024.01.07-18.20.36:881][349]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level1'.
+[2024.01.07-18.20.36:881][349]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.07-18.20.36:882][349]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.07-18.20.36:882][349]LogAIModule: Creating AISystem for world Level1
+[2024.01.07-18.20.37:125][349]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.01.07-18.20.37:125][349]LogNavigation: Warning: Recreating dtNavMesh instance RecastNavMesh-Default due to saved navmesh origin (X=135.000 Y=0.000 Z=0.000, usually the RecastNavMesh location) not being aligned with tile size (988 uu) 
+[2024.01.07-18.20.37:137][349]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2024.01.07-18.20.37:144][349]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.01.07-18.20.37:144][349]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,112ms to complete.
+[2024.01.07-18.20.37:434][352]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2024.01.07-18.20.38:728][419]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2024.01.07-18.20.38:889][419]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.07-18.20.38:911][419]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Game/Level4.Level4
+[2024.01.07-18.20.38:911][419]Cmd: MAP LOAD FILE="../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Content/Maps/Game/Level4.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.01.07-18.20.38:911][419]LightingResults: New page: Lighting Build
+[2024.01.07-18.20.38:911][419]LoadErrors: New page: Loading map: Level4.umap
+[2024.01.07-18.20.38:938][419]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2024.01.07-18.20.38:938][419]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.07-18.20.38:939][419]MapCheck: New page: Map Check
+[2024.01.07-18.20.38:939][419]LightingResults: New page: Lighting Build
+[2024.01.07-18.20.38:944][419]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.07-18.20.38:949][419]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2024.01.07-18.20.38:955][419]LogWorld: UWorld::CleanupWorld for Level4, bSessionEnded=true, bCleanupResources=true
+[2024.01.07-18.20.38:955][419]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.07-18.20.38:962][419]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2024.01.07-18.20.38:967][419]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2024.01.07-18.20.38:980][419]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level4'.
+[2024.01.07-18.20.38:980][419]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.07-18.20.38:980][419]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.07-18.20.38:980][419]LogAIModule: Creating AISystem for world Level4
+[2024.01.07-18.20.39:186][419]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.01.07-18.20.39:197][419]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2024.01.07-18.20.39:204][419]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.01.07-18.20.39:204][419]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,108ms to complete.
+[2024.01.07-18.20.40:380][480]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2024.01.07-18.20.40:548][480]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.07-18.20.40:581][480]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Game/Level3.Level3
+[2024.01.07-18.20.40:581][480]Cmd: MAP LOAD FILE="../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Content/Maps/Game/Level3.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.01.07-18.20.40:581][480]LightingResults: New page: Lighting Build
+[2024.01.07-18.20.40:581][480]LoadErrors: New page: Loading map: Level3.umap
+[2024.01.07-18.20.40:603][480]LogWorld: UWorld::CleanupWorld for Level4, bSessionEnded=true, bCleanupResources=true
+[2024.01.07-18.20.40:603][480]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.07-18.20.40:603][480]MapCheck: New page: Map Check
+[2024.01.07-18.20.40:603][480]LightingResults: New page: Lighting Build
+[2024.01.07-18.20.40:609][480]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.07-18.20.40:612][480]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2024.01.07-18.20.40:619][480]LogWorld: UWorld::CleanupWorld for Level3, bSessionEnded=true, bCleanupResources=true
+[2024.01.07-18.20.40:620][480]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.07-18.20.40:629][480]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2024.01.07-18.20.40:634][480]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2024.01.07-18.20.40:651][480]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level3'.
+[2024.01.07-18.20.40:651][480]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.07-18.20.40:651][480]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.07-18.20.40:651][480]LogAIModule: Creating AISystem for world Level3
+[2024.01.07-18.20.40:720][480]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.01.07-18.20.40:732][480]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2024.01.07-18.20.40:739][480]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.01.07-18.20.40:739][480]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,113ms to complete.
+[2024.01.07-18.20.41:288][509]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2024.01.07-18.20.41:455][509]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.07-18.20.41:477][509]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Game/Level2.Level2
+[2024.01.07-18.20.41:477][509]Cmd: MAP LOAD FILE="../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Content/Maps/Game/Level2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.01.07-18.20.41:477][509]LightingResults: New page: Lighting Build
+[2024.01.07-18.20.41:477][509]LoadErrors: New page: Loading map: Level2.umap
+[2024.01.07-18.20.41:527][509]LogWorld: UWorld::CleanupWorld for Level3, bSessionEnded=true, bCleanupResources=true
+[2024.01.07-18.20.41:528][509]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.07-18.20.41:528][509]MapCheck: New page: Map Check
+[2024.01.07-18.20.41:528][509]LightingResults: New page: Lighting Build
+[2024.01.07-18.20.41:531][509]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.07-18.20.41:537][509]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.01.07-18.20.41:547][509]LogWorld: UWorld::CleanupWorld for Level2, bSessionEnded=true, bCleanupResources=true
+[2024.01.07-18.20.41:548][509]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.07-18.20.41:557][509]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2024.01.07-18.20.41:563][509]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2024.01.07-18.20.41:585][509]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level2'.
+[2024.01.07-18.20.41:586][509]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.07-18.20.41:586][509]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.07-18.20.41:586][509]LogAIModule: Creating AISystem for world Level2
+[2024.01.07-18.20.41:847][509]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.01.07-18.20.41:848][509]LogNavigation: Warning: Recreating dtNavMesh instance RecastNavMesh-Default due to saved navmesh origin (X=150.000 Y=0.000 Z=0.000, usually the RecastNavMesh location) not being aligned with tile size (988 uu) 
+[2024.01.07-18.20.41:858][509]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2024.01.07-18.20.41:863][509]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.01.07-18.20.41:863][509]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,104ms to complete.
+[2024.01.07-18.20.42:308][516]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2024.01.07-18.20.42:409][516]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.07-18.20.42:425][516]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Game/Level1.Level1
+[2024.01.07-18.20.42:425][516]Cmd: MAP LOAD FILE="../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Content/Maps/Game/Level1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.01.07-18.20.42:425][516]LightingResults: New page: Lighting Build
+[2024.01.07-18.20.42:425][516]LoadErrors: New page: Loading map: Level1.umap
+[2024.01.07-18.20.42:449][516]LogWorld: UWorld::CleanupWorld for Level2, bSessionEnded=true, bCleanupResources=true
+[2024.01.07-18.20.42:449][516]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.07-18.20.42:450][516]MapCheck: New page: Map Check
+[2024.01.07-18.20.42:450][516]LightingResults: New page: Lighting Build
+[2024.01.07-18.20.42:455][516]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.07-18.20.42:460][516]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2024.01.07-18.20.42:469][516]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2024.01.07-18.20.42:470][516]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.07-18.20.42:476][516]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2024.01.07-18.20.42:480][516]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2024.01.07-18.20.42:500][516]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level1'.
+[2024.01.07-18.20.42:500][516]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.07-18.20.42:500][516]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.07-18.20.42:501][516]LogAIModule: Creating AISystem for world Level1
+[2024.01.07-18.20.42:742][516]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.01.07-18.20.42:742][516]LogNavigation: Warning: Recreating dtNavMesh instance RecastNavMesh-Default due to saved navmesh origin (X=135.000 Y=0.000 Z=0.000, usually the RecastNavMesh location) not being aligned with tile size (988 uu) 
+[2024.01.07-18.20.42:754][516]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2024.01.07-18.20.42:761][516]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.01.07-18.20.42:761][516]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,124ms to complete.
+[2024.01.07-18.23.10:486][988]LogDerivedDataCache: C:/Users/nikit/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:01:15.367 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 39255 files in 41029 folders with total size 1045 MiB.
+[2024.01.07-18.25.33:324][467]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2024.01.07-18.25.36:531][658]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2024.01.07-18.25.36:616][658]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.07-18.25.36:652][658]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Debug/TestLevel.TestLevel
+[2024.01.07-18.25.36:652][658]Cmd: MAP LOAD FILE="../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Content/Maps/Debug/TestLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.01.07-18.25.36:652][658]LightingResults: New page: Lighting Build
+[2024.01.07-18.25.36:652][658]LoadErrors: New page: Loading map: TestLevel.umap
+[2024.01.07-18.25.36:674][658]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2024.01.07-18.25.36:674][658]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.07-18.25.36:674][658]MapCheck: New page: Map Check
+[2024.01.07-18.25.36:674][658]LightingResults: New page: Lighting Build
+[2024.01.07-18.25.36:680][658]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.07-18.25.36:683][658]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2024.01.07-18.25.36:687][658]LogWorld: UWorld::CleanupWorld for TestLevel, bSessionEnded=true, bCleanupResources=true
+[2024.01.07-18.25.36:688][658]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.07-18.25.36:696][658]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.01.07-18.25.36:701][658]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2024.01.07-18.25.36:716][658]LogAudio: Display: Audio Device (ID: 1) registered with world 'TestLevel'.
+[2024.01.07-18.25.36:716][658]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.07-18.25.36:716][658]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.07-18.25.36:716][658]LogAIModule: Creating AISystem for world TestLevel
+[2024.01.07-18.25.36:816][658]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.01.07-18.25.36:827][658]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2024.01.07-18.25.36:833][658]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.01.07-18.25.36:833][658]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,095ms to complete.
+[2024.01.07-18.25.39:416][809]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2024.01.07-18.25.39:508][809]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.07-18.25.39:512][809]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Lobby/lobby1.lobby1
+[2024.01.07-18.25.39:513][809]Cmd: MAP LOAD FILE="../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Content/Maps/Lobby/lobby1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.01.07-18.25.39:513][809]LightingResults: New page: Lighting Build
+[2024.01.07-18.25.39:513][809]LoadErrors: New page: Loading map: lobby1.umap
+[2024.01.07-18.25.39:535][809]LogWorld: UWorld::CleanupWorld for TestLevel, bSessionEnded=true, bCleanupResources=true
+[2024.01.07-18.25.39:535][809]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.07-18.25.39:535][809]MapCheck: New page: Map Check
+[2024.01.07-18.25.39:535][809]LightingResults: New page: Lighting Build
+[2024.01.07-18.25.39:540][809]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.07-18.25.39:545][809]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2024.01.07-18.25.39:548][809]LogWorld: UWorld::CleanupWorld for lobby1, bSessionEnded=true, bCleanupResources=true
+[2024.01.07-18.25.39:548][809]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.07-18.25.39:555][809]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2024.01.07-18.25.39:559][809]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2024.01.07-18.25.39:569][809]LogAudio: Display: Audio Device (ID: 1) registered with world 'lobby1'.
+[2024.01.07-18.25.39:569][809]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.07-18.25.39:569][809]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.07-18.25.39:570][809]LogAIModule: Creating AISystem for world lobby1
+[2024.01.07-18.25.39:715][809]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.01.07-18.25.39:720][809]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2024.01.07-18.25.39:725][809]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.01.07-18.25.39:725][809]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,102ms to complete.
+[2024.01.07-18.25.39:792][810]LogShaderCompilers: Display: ================================================
+[2024.01.07-18.25.39:792][810]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.01.07-18.25.39:792][810]LogShaderCompilers: Display: Total job queries 173, among them cache hits 56 (32.37%)
+[2024.01.07-18.25.39:792][810]LogShaderCompilers: Display: Tracking 117 distinct input hashes that result in 86 distinct outputs (73.50%)
+[2024.01.07-18.25.39:792][810]LogShaderCompilers: Display: RAM used: 4,52 MiB of 716,80 MiB budget. Usage: 0.63%
+[2024.01.07-18.25.39:792][810]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.01.07-18.25.39:792][810]LogShaderCompilers: Display: Shaders Compiled: 0
+[2024.01.07-18.25.39:792][810]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0%)
+[2024.01.07-18.25.39:792][810]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2024.01.07-18.25.39:792][810]LogShaderCompilers: Display: ================================================
+[2024.01.07-18.25.41:908][937]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2024.01.07-18.25.42:002][937]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.07-18.25.42:030][937]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Lobby/Test1.Test1
+[2024.01.07-18.25.42:030][937]Cmd: MAP LOAD FILE="../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Content/Maps/Lobby/Test1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.01.07-18.25.42:030][937]LightingResults: New page: Lighting Build
+[2024.01.07-18.25.42:030][937]LoadErrors: New page: Loading map: Test1.umap
+[2024.01.07-18.25.42:051][937]LogWorld: UWorld::CleanupWorld for lobby1, bSessionEnded=true, bCleanupResources=true
+[2024.01.07-18.25.42:051][937]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.07-18.25.42:051][937]MapCheck: New page: Map Check
+[2024.01.07-18.25.42:051][937]LightingResults: New page: Lighting Build
+[2024.01.07-18.25.42:056][937]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.07-18.25.42:061][937]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2024.01.07-18.25.42:065][937]LogWorld: UWorld::CleanupWorld for Test1, bSessionEnded=true, bCleanupResources=true
+[2024.01.07-18.25.42:066][937]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.07-18.25.42:211][937]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2024.01.07-18.25.42:218][937]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2024.01.07-18.25.42:229][937]LogAudio: Display: Audio Device (ID: 1) registered with world 'Test1'.
+[2024.01.07-18.25.42:229][937]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.07-18.25.42:230][937]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.07-18.25.42:230][937]LogAIModule: Creating AISystem for world Test1
+[2024.01.07-18.25.42:397][937]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.01.07-18.25.42:406][937]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2024.01.07-18.25.42:411][937]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.01.07-18.25.42:411][937]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,096ms to complete.
+[2024.01.07-18.25.45:568][123]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2024.01.07-18.25.45:651][123]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.07-18.25.45:653][123]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Lobby/lobby1.lobby1
+[2024.01.07-18.25.45:653][123]Cmd: MAP LOAD FILE="../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Content/Maps/Lobby/lobby1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.01.07-18.25.45:653][123]LightingResults: New page: Lighting Build
+[2024.01.07-18.25.45:653][123]LoadErrors: New page: Loading map: lobby1.umap
+[2024.01.07-18.25.45:675][123]LogWorld: UWorld::CleanupWorld for Test1, bSessionEnded=true, bCleanupResources=true
+[2024.01.07-18.25.45:676][123]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.07-18.25.45:676][123]MapCheck: New page: Map Check
+[2024.01.07-18.25.45:676][123]LightingResults: New page: Lighting Build
+[2024.01.07-18.25.45:681][123]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.07-18.25.45:685][123]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2024.01.07-18.25.45:687][123]LogWorld: UWorld::CleanupWorld for lobby1, bSessionEnded=true, bCleanupResources=true
+[2024.01.07-18.25.45:687][123]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.07-18.25.45:693][123]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2024.01.07-18.25.45:697][123]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2024.01.07-18.25.45:707][123]LogAudio: Display: Audio Device (ID: 1) registered with world 'lobby1'.
+[2024.01.07-18.25.45:707][123]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.07-18.25.45:707][123]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.07-18.25.45:707][123]LogAIModule: Creating AISystem for world lobby1
+[2024.01.07-18.25.45:851][123]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.01.07-18.25.45:857][123]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2024.01.07-18.25.45:862][123]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.01.07-18.25.45:862][123]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,098ms to complete.
+[2024.01.07-18.25.50:232][382]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.07-18.25.52:884][441]LogSlate: Window 'Message' being destroyed
+[2024.01.07-18.25.52:906][441]Message dialog closed, result: Ok, title: Message, text: Source code, config INI, and text files may need Find/Replace for:
+
+
+Test1
+
+Otherwise assets can be missing from cooked builds. Continue with rename?
+[2024.01.07-18.25.52:946][441]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.07-18.25.53:024][441]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.07-18.25.53:033][441]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Debug/Test1" FILE="../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Content/Maps/Debug/Test1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.01.07-18.25.53:040][441]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.01.07-18.25.53:051][441]LogPackageLocalizationCache: Processed 44 localized package path(s) for 1 prioritized culture(s) in 0.007371 seconds
+[2024.01.07-18.25.53:094][441]LogSavePackage: Moving output files for package: /Game/Maps/Debug/Test1
+[2024.01.07-18.25.53:094][441]LogSavePackage: Moving '../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Saved/Test1E5B8AEE042E1366689FB50986109B2DD.tmp' to '../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Content/Maps/Debug/Test1.umap'
+[2024.01.07-18.25.53:098][441]Message dialog closed, result: Ok, title: Unable to Check Out From Revision Control!, text: The following assets could not be successfully checked out from revision control:
+/Game/Maps/Debug/Test1_BuiltData
+[2024.01.07-18.25.53:098][441]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.07-18.25.53:100][441]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Debug/Test1_BuiltData" FILE="../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Content/Maps/Debug/Test1_BuiltData.uasset" SILENT=true
+[2024.01.07-18.25.53:131][441]LogSavePackage: Moving output files for package: /Game/Maps/Debug/Test1_BuiltData
+[2024.01.07-18.25.53:131][441]LogSavePackage: Moving '../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Saved/Test1_BuiltData1C012D61485DA33508E4259321A41F4B.tmp' to '../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Content/Maps/Debug/Test1_BuiltData.uasset'
+[2024.01.07-18.25.53:131][441]LogFileHelpers: InternalPromptForCheckoutAndSave took 31 ms
+[2024.01.07-18.25.53:131][441]Message dialog closed, result: Ok, title: Unable to Check Out From Revision Control!, text: The following assets could not be successfully checked out from revision control:
+/Game/Maps/Debug/Test1_BuiltData
+[2024.01.07-18.25.53:139][441]LogFileHelpers: Saving map 'Test1' took 0.116
+[2024.01.07-18.25.53:140][441]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Lobby/Test1" FILE="../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Content/Maps/Lobby/Test1.umap" SILENT=true
+[2024.01.07-18.25.53:140][441]LogSavePackage: Moving output files for package: /Game/Maps/Lobby/Test1
+[2024.01.07-18.25.53:141][441]LogSavePackage: Moving '../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Saved/Test1CE07BCF44659E87CFB404292E505FBA5.tmp' to '../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Content/Maps/Lobby/Test1.umap'
+[2024.01.07-18.25.53:142][441]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Debug/Test1_BuiltData" FILE="../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Content/Maps/Debug/Test1_BuiltData.uasset" SILENT=true
+[2024.01.07-18.25.53:173][441]LogSavePackage: Moving output files for package: /Game/Maps/Debug/Test1_BuiltData
+[2024.01.07-18.25.53:173][441]LogSavePackage: Moving '../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Saved/Test1_BuiltDataF59557464B355893B448DD99DB0B00A0.tmp' to '../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Content/Maps/Debug/Test1_BuiltData.uasset'
+[2024.01.07-18.25.53:184][441]LogFileHelpers: InternalPromptForCheckoutAndSave took 237 ms (total: 269 ms)
+[2024.01.07-18.25.53:195][441]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2024.01.07-18.25.53:200][441]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2024.01.07-18.25.53:205][441]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2024.01.07-18.25.53:256][441]AssetCheck: New page: Asset Save: multiple assets
+[2024.01.07-18.25.53:256][441]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/Debug/Test1.Test1
+[2024.01.07-18.25.53:257][441]LogContentValidation: Display: Validating /Script/Engine.MapBuildDataRegistry /Game/Maps/Debug/Test1_BuiltData.Test1_BuiltData
+[2024.01.07-18.25.53:257][441]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Maps/Lobby/Test1.Test1
+[2024.01.07-18.25.55:275][561]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.01.07-18.25.55:277][561]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Debug/Test1.Test1
+[2024.01.07-18.25.55:277][561]Cmd: MAP LOAD FILE="../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Content/Maps/Debug/Test1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.01.07-18.25.55:277][561]LightingResults: New page: Lighting Build
+[2024.01.07-18.25.55:277][561]LoadErrors: New page: Loading map: Test1.umap
+[2024.01.07-18.25.55:338][561]LogWorld: UWorld::CleanupWorld for lobby1, bSessionEnded=true, bCleanupResources=true
+[2024.01.07-18.25.55:338][561]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.07-18.25.55:338][561]MapCheck: New page: Map Check
+[2024.01.07-18.25.55:338][561]LightingResults: New page: Lighting Build
+[2024.01.07-18.25.55:342][561]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.07-18.25.55:346][561]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2024.01.07-18.25.55:348][561]LogWorld: UWorld::CleanupWorld for Test1, bSessionEnded=true, bCleanupResources=true
+[2024.01.07-18.25.55:348][561]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.07-18.25.55:353][561]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2024.01.07-18.25.55:359][561]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2024.01.07-18.25.55:370][561]LogAudio: Display: Audio Device (ID: 1) registered with world 'Test1'.
+[2024.01.07-18.25.55:370][561]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.07-18.25.55:370][561]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.07-18.25.55:371][561]LogAIModule: Creating AISystem for world Test1
+[2024.01.07-18.25.55:549][561]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.01.07-18.25.55:558][561]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2024.01.07-18.25.55:563][561]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.01.07-18.25.55:563][561]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,102ms to complete.
+[2024.01.07-18.25.56:062][589]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2024.01.07-18.27.19:815][898]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2024.01.07-18.27.33:692][718]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2024.01.07-18.27.34:269][718]LogSlate: Window 'Save Content' being destroyed
+[2024.01.07-18.27.34:281][718]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.07-18.27.34:365][718]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Debug/Test1" FILE="../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Content/Maps/Debug/Test1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.01.07-18.27.34:390][718]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2024.01.07-18.27.34:429][718]LogSavePackage: Moving output files for package: /Game/Maps/Debug/Test1
+[2024.01.07-18.27.34:429][718]LogSavePackage: Moving '../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Saved/Test13A7834ED4D3A17410EF6A7B81A61CEAC.tmp' to '../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Content/Maps/Debug/Test1.umap'
+[2024.01.07-18.27.34:435][718]LogFileHelpers: All files are already saved.
+[2024.01.07-18.27.34:435][718]LogFileHelpers: Saving map 'Test1' took 0.071
+[2024.01.07-18.27.34:449][718]LogFileHelpers: InternalPromptForCheckoutAndSave took 168 ms (total: 437 ms)
+[2024.01.07-18.27.34:450][718]AssetCheck: New page: Asset Save: Test1
+[2024.01.07-18.27.34:450][718]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/Debug/Test1.Test1
+[2024.01.07-18.27.48:335][540]Cmd: EDIT COPY
+[2024.01.07-18.27.48:806][568]Cmd: EDIT PASTE
+[2024.01.07-18.28.05:720][572]Cmd: EDIT COPY
+[2024.01.07-18.28.06:170][599]Cmd: EDIT PASTE
+[2024.01.07-18.28.15:041][129]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2024.01.07-18.28.15:632][129]LogSlate: Window 'Save Content' being destroyed
+[2024.01.07-18.28.15:644][129]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.07-18.28.15:726][129]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Debug/Test1" FILE="../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Content/Maps/Debug/Test1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.01.07-18.28.15:749][129]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2024.01.07-18.28.15:797][129]LogSavePackage: Moving output files for package: /Game/Maps/Debug/Test1
+[2024.01.07-18.28.15:797][129]LogSavePackage: Moving '../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Saved/Test1A33F9A8C4AF377EB15DB93BCB79E5B6A.tmp' to '../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Content/Maps/Debug/Test1.umap'
+[2024.01.07-18.28.15:803][129]LogFileHelpers: All files are already saved.
+[2024.01.07-18.28.15:804][129]LogFileHelpers: Saving map 'Test1' took 0.078
+[2024.01.07-18.28.15:811][129]LogFileHelpers: InternalPromptForCheckoutAndSave took 166 ms (total: 604 ms)
+[2024.01.07-18.28.15:812][129]AssetCheck: New page: Asset Save: Test1
+[2024.01.07-18.28.15:812][129]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/Debug/Test1.Test1
+[2024.01.07-18.28.24:636][652]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.07-18.28.27:382][807]LogSlate: Window 'Color Picker' being destroyed
+[2024.01.07-18.28.32:417][100]LogSlate: Window 'Color Picker' being destroyed
+[2024.01.07-18.28.36:501][338]LogSlate: Window 'Color Picker' being destroyed
+[2024.01.07-18.28.52:685][296]LogSlate: Window 'Color Picker' being destroyed
+[2024.01.07-18.28.57:049][551]LogSlate: Window 'Color Picker' being destroyed
+[2024.01.07-18.29.05:005][ 15]LogSlate: Window 'Color Picker' being destroyed
+[2024.01.07-18.29.08:639][230]LogShaderCompilers: Display: ================================================
+[2024.01.07-18.29.08:639][230]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.01.07-18.29.08:639][230]LogShaderCompilers: Display: Total job queries 197, among them cache hits 66 (33.50%)
+[2024.01.07-18.29.08:639][230]LogShaderCompilers: Display: Tracking 131 distinct input hashes that result in 96 distinct outputs (73.28%)
+[2024.01.07-18.29.08:639][230]LogShaderCompilers: Display: RAM used: 5,01 MiB of 716,80 MiB budget. Usage: 0.70%
+[2024.01.07-18.29.08:639][230]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.01.07-18.29.08:639][230]LogShaderCompilers: Display: Shaders Compiled: 3
+[2024.01.07-18.29.08:639][230]LogShaderCompilers: Display: Jobs assigned 3, completed 3 (100%)
+[2024.01.07-18.29.08:639][230]LogShaderCompilers: Display: Average time worker was idle: 33.65 s
+[2024.01.07-18.29.08:639][230]LogShaderCompilers: Display: Time job spent in pending queue: average 0.08 s, longest 0.10 s
+[2024.01.07-18.29.08:639][230]LogShaderCompilers: Display: Job execution time: average 1.57 s, max 2.14 s
+[2024.01.07-18.29.08:639][230]LogShaderCompilers: Display: Job life time (pending + execution): average 1.65 s, max 2.22
+[2024.01.07-18.29.08:639][230]LogShaderCompilers: Display: Shader code size: average 83,341 KiB, min 76,969 KiB, max 87,242 KiB
+[2024.01.07-18.29.08:639][230]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 4.24 s
+[2024.01.07-18.29.08:639][230]LogShaderCompilers: Display: Jobs were issued in 3 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.01.07-18.29.08:639][230]LogShaderCompilers: Display: Average processing rate: 0.71 jobs/sec
+[2024.01.07-18.29.08:639][230]LogShaderCompilers: Display: Total thread time: 3,927 s
+[2024.01.07-18.29.08:639][230]LogShaderCompilers: Display: Total thread preprocess time: 0,105 s
+[2024.01.07-18.29.08:639][230]LogShaderCompilers: Display: Percentage time preprocessing: 2.68%
+[2024.01.07-18.29.08:639][230]LogShaderCompilers: Display: Effective parallelization: 0.93 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.01.07-18.29.08:639][230]LogShaderCompilers: Display: Top 3 most expensive shader types by average time:
+[2024.01.07-18.29.08:639][230]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy (compiled    1 times, average 1.82 sec, max 1.82 sec, min 1.82 sec)
+[2024.01.07-18.29.08:639][230]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    1 times, average 1.70 sec, max 1.70 sec, min 1.70 sec)
+[2024.01.07-18.29.08:639][230]LogShaderCompilers: Display:      TBasePassVSFPrecomputedVolumetricLightmapLightingPolicy (compiled    1 times, average 0.41 sec, max 0.41 sec, min 0.41 sec)
+[2024.01.07-18.29.08:639][230]LogShaderCompilers: Display: Top 3 shader types by total compile time:
+[2024.01.07-18.29.08:639][230]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy - 46.34% of total time (compiled    1 times, average 1.82 sec, max 1.82 sec, min 1.82 sec)
+[2024.01.07-18.29.08:639][230]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 43.28% of total time (compiled    1 times, average 1.70 sec, max 1.70 sec, min 1.70 sec)
+[2024.01.07-18.29.08:639][230]LogShaderCompilers: Display:      TBasePassVSFPrecomputedVolumetricLightmapLightingPolicy - 10.38% of total time (compiled    1 times, average 0.41 sec, max 0.41 sec, min 0.41 sec)
+[2024.01.07-18.29.08:639][230]LogShaderCompilers: Display: ================================================
+[2024.01.07-18.29.13:931][544]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2024.01.07-18.29.14:561][544]LogSlate: Window 'Save Content' being destroyed
+[2024.01.07-18.29.14:578][544]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.07-18.29.14:662][544]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Debug/Test1" FILE="../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Content/Maps/Debug/Test1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.01.07-18.29.14:687][544]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2024.01.07-18.29.14:736][544]LogSavePackage: Moving output files for package: /Game/Maps/Debug/Test1
+[2024.01.07-18.29.14:736][544]LogSavePackage: Moving '../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Saved/Test13815BF20459DE6BC3C5CDE86D632B12F.tmp' to '../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Content/Maps/Debug/Test1.umap'
+[2024.01.07-18.29.14:742][544]LogFileHelpers: All files are already saved.
+[2024.01.07-18.29.14:742][544]LogFileHelpers: Saving map 'Test1' took 0.080
+[2024.01.07-18.29.14:749][544]LogFileHelpers: InternalPromptForCheckoutAndSave took 170 ms (total: 775 ms)
+[2024.01.07-18.29.14:751][544]AssetCheck: New page: Asset Save: Test1
+[2024.01.07-18.29.14:751][544]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/Debug/Test1.Test1
+[2024.01.07-18.29.20:261][873]Cmd: EDIT COPY
+[2024.01.07-18.29.21:110][924]Cmd: EDIT PASTE
+[2024.01.07-18.29.29:992][448]LogSlate: Window 'Color Picker' being destroyed
+[2024.01.07-18.29.33:049][625]LogSlate: Window 'Color Picker' being destroyed
+[2024.01.07-18.29.33:686][663]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2024.01.07-18.29.34:230][663]LogSlate: Window 'Save Content' being destroyed
+[2024.01.07-18.29.34:242][663]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.07-18.29.34:329][663]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Debug/Test1" FILE="../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Content/Maps/Debug/Test1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.01.07-18.29.34:353][663]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2024.01.07-18.29.34:403][663]LogSavePackage: Moving output files for package: /Game/Maps/Debug/Test1
+[2024.01.07-18.29.34:404][663]LogSavePackage: Moving '../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Saved/Test1C724554B4559E0D9C73D928878779792.tmp' to '../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Content/Maps/Debug/Test1.umap'
+[2024.01.07-18.29.34:410][663]LogFileHelpers: All files are already saved.
+[2024.01.07-18.29.34:410][663]LogFileHelpers: Saving map 'Test1' took 0.082
+[2024.01.07-18.29.34:418][663]LogFileHelpers: InternalPromptForCheckoutAndSave took 175 ms (total: 951 ms)
+[2024.01.07-18.29.34:419][663]AssetCheck: New page: Asset Save: Test1
+[2024.01.07-18.29.34:420][663]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/Debug/Test1.Test1
+[2024.01.07-18.29.42:600][150]Cmd: DELETE
+[2024.01.07-18.29.42:600][150]Cmd: ACTOR DELETE
+[2024.01.07-18.29.42:608][150]LogEditorActor: Deleted Actor: DirectionalLight
+[2024.01.07-18.29.42:613][150]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2024.01.07-18.29.42:616][150]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2024.01.07-18.29.42:623][150]LogSlate: Took 0.000661 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2024.01.07-18.29.51:868][705]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2024.01.07-18.29.53:381][792]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SkyLight
+[2024.01.07-18.29.53:381][792]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SkyLight
+[2024.01.07-18.29.53:382][792]LogActorFactory: Actor Factory spawned Class /Script/Engine.SkyLight as actor: SkyLight /Game/Maps/Debug/Test1.Test1:PersistentLevel.SkyLight_0
+[2024.01.07-18.29.53:382][792]LogActorFactory: Actor Factory spawned Class /Script/Engine.SkyLight as actor: SkyLight /Game/Maps/Debug/Test1.Test1:PersistentLevel.SkyLight_0
+[2024.01.07-18.29.54:859][876]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SkyLight
+[2024.01.07-18.29.54:859][876]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SkyLight
+[2024.01.07-18.29.54:859][876]LogActorFactory: Actor Factory spawned Class /Script/Engine.SkyLight as actor: SkyLight /Game/Maps/Debug/Test1.Test1:PersistentLevel.SkyLight_1
+[2024.01.07-18.29.54:859][876]LogActorFactory: Actor Factory spawned Class /Script/Engine.SkyLight as actor: SkyLight /Game/Maps/Debug/Test1.Test1:PersistentLevel.SkyLight_1
+[2024.01.07-18.29.55:267][900]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SkyLight
+[2024.01.07-18.29.55:267][900]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SkyLight
+[2024.01.07-18.29.55:268][900]LogActorFactory: Actor Factory spawned Class /Script/Engine.SkyLight as actor: SkyLight /Game/Maps/Debug/Test1.Test1:PersistentLevel.SkyLight_2
+[2024.01.07-18.29.55:268][900]LogActorFactory: Actor Factory spawned Class /Script/Engine.SkyLight as actor: SkyLight /Game/Maps/Debug/Test1.Test1:PersistentLevel.SkyLight_2
+[2024.01.07-18.30.02:709][322]LogSlate: Took 0.000151 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.01.07-18.30.06:230][526]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2024.01.07-18.30.06:722][526]LogSlate: Window 'Save Content' being destroyed
+[2024.01.07-18.30.06:734][526]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.07-18.30.06:811][526]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Debug/Test1" FILE="../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Content/Maps/Debug/Test1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.01.07-18.30.06:835][526]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2024.01.07-18.30.06:885][526]LogSavePackage: Moving output files for package: /Game/Maps/Debug/Test1
+[2024.01.07-18.30.06:886][526]LogSavePackage: Moving '../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Saved/Test188CA10954A440FF43857C791084E568D.tmp' to '../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Content/Maps/Debug/Test1.umap'
+[2024.01.07-18.30.06:892][526]LogFileHelpers: All files are already saved.
+[2024.01.07-18.30.06:892][526]LogFileHelpers: Saving map 'Test1' took 0.081
+[2024.01.07-18.30.06:898][526]LogFileHelpers: InternalPromptForCheckoutAndSave took 165 ms (total: 1.11 sec)
+[2024.01.07-18.30.06:899][526]AssetCheck: New page: Asset Save: Test1
+[2024.01.07-18.30.06:899][526]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/Debug/Test1.Test1
+[2024.01.07-18.30.12:457][856]LogStaticMesh: Warning: [AssetLog] C:\Users\nikit\OneDrive\Documents\AtomVR\AtomVR\Content\Maps\Debug\Test1.umap: Cached component instance data transform did not match!  Discarding cached lighting data which will cause lighting to be unbuilt.
+/Game/Maps/Debug/Test1.Test1:PersistentLevel.Blockout_Box_C_4.NODE_AddStaticMeshComponent-0
+Current: -647.000000,676.000000,-100.000000|-0.000000,-89.999999,0.000000|1.000000,14.450000,3.550000 Cached: -647.000000,676.000000,-100.000000|-0.000000,-89.999999,0.000000|1.000000,14.450000,3.500000
+[2024.01.07-18.30.19:412][269]LogStaticMesh: Warning: [AssetLog] C:\Users\nikit\OneDrive\Documents\AtomVR\AtomVR\Content\Maps\Debug\Test1.umap: Cached component instance data transform did not match!  Discarding cached lighting data which will cause lighting to be unbuilt.
+/Game/Maps/Debug/Test1.Test1:PersistentLevel.Blockout_Box_C_2.NODE_AddStaticMeshComponent-0
+Current: -647.000000,-579.000000,-100.000000|-0.000000,-89.999999,0.000000|1.000000,12.500000,3.600000 Cached: -647.000000,-579.000000,-100.000000|-0.000000,-89.999999,0.000000|1.000000,12.500000,3.500000
+[2024.01.07-18.30.24:331][562]LogStaticMesh: Warning: [AssetLog] C:\Users\nikit\OneDrive\Documents\AtomVR\AtomVR\Content\Maps\Debug\Test1.umap: Cached component instance data transform did not match!  Discarding cached lighting data which will cause lighting to be unbuilt.
+/Game/Maps/Debug/Test1.Test1:PersistentLevel.Blockout_Box_C_3.NODE_AddStaticMeshComponent-0
+Current: 548.000000,-1224.000000,-100.000000|0.000000,0.000000,-0.000000|3.500000,12.500000,3.550000 Cached: 548.000000,-1224.000000,-100.000000|0.000000,0.000000,-0.000000|3.500000,12.500000,3.500000
+[2024.01.07-18.30.27:762][765]LogStaticMesh: Warning: [AssetLog] C:\Users\nikit\OneDrive\Documents\AtomVR\AtomVR\Content\Maps\Debug\Test1.umap: Cached component instance data transform did not match!  Discarding cached lighting data which will cause lighting to be unbuilt.
+/Game/Maps/Debug/Test1.Test1:PersistentLevel.Blockout_Box_C_5.NODE_AddStaticMeshComponent-0
+Current: 733.000000,-589.000000,-100.000000|0.000000,0.000000,-0.000000|1.000000,12.000000,3.550000 Cached: 733.000000,-589.000000,-100.000000|0.000000,0.000000,-0.000000|1.000000,12.000000,3.500000
+[2024.01.07-18.30.29:340][859]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2024.01.07-18.30.29:857][859]LogSlate: Window 'Save Content' being destroyed
+[2024.01.07-18.30.29:868][859]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.07-18.30.29:950][859]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Debug/Test1" FILE="../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Content/Maps/Debug/Test1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.01.07-18.30.29:976][859]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2024.01.07-18.30.30:026][859]LogSavePackage: Moving output files for package: /Game/Maps/Debug/Test1
+[2024.01.07-18.30.30:026][859]LogSavePackage: Moving '../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Saved/Test1FCB0CFAE4AD8319291882AB7230BED24.tmp' to '../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Content/Maps/Debug/Test1.umap'
+[2024.01.07-18.30.30:033][859]LogFileHelpers: All files are already saved.
+[2024.01.07-18.30.30:033][859]LogFileHelpers: Saving map 'Test1' took 0.083
+[2024.01.07-18.30.30:040][859]LogFileHelpers: InternalPromptForCheckoutAndSave took 172 ms (total: 1.28 sec)
+[2024.01.07-18.30.30:042][859]AssetCheck: New page: Asset Save: Test1
+[2024.01.07-18.30.30:042][859]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/Debug/Test1.Test1
+[2024.01.07-18.30.37:672][317]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2024.01.07-18.30.38:743][377]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.07-18.30.53:051][139]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/AssetsvilleTown/Meshes/InteriorProps/Office/SM_basicTable_01.SM_basicTable_01
+[2024.01.07-18.30.53:051][139]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/AssetsvilleTown/Meshes/InteriorProps/Office/SM_basicTable_01.SM_basicTable_01
+[2024.01.07-18.30.53:051][139]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/AssetsvilleTown/Meshes/InteriorProps/Office/SM_basicTable_01.SM_basicTable_01 as actor: StaticMeshActor /Game/Maps/Debug/Test1.Test1:PersistentLevel.StaticMeshActor_0
+[2024.01.07-18.30.54:045][196]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/AssetsvilleTown/Meshes/InteriorProps/Office/SM_basicTable_01.SM_basicTable_01
+[2024.01.07-18.30.54:045][196]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/AssetsvilleTown/Meshes/InteriorProps/Office/SM_basicTable_01.SM_basicTable_01
+[2024.01.07-18.30.54:048][196]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/AssetsvilleTown/Meshes/InteriorProps/Office/SM_basicTable_01.SM_basicTable_01 as actor: StaticMeshActor /Game/Maps/Debug/Test1.Test1:PersistentLevel.StaticMeshActor_3
+[2024.01.07-18.30.55:468][273]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2024.01.07-18.30.55:995][273]LogSlate: Window 'Save Content' being destroyed
+[2024.01.07-18.30.56:021][273]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.07-18.30.56:099][273]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Debug/Test1" FILE="../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Content/Maps/Debug/Test1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.01.07-18.30.56:122][273]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2024.01.07-18.30.56:172][273]LogSavePackage: Moving output files for package: /Game/Maps/Debug/Test1
+[2024.01.07-18.30.56:172][273]LogSavePackage: Moving '../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Saved/Test195DEA9F4428981114BF196B6D24D77C0.tmp' to '../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Content/Maps/Debug/Test1.umap'
+[2024.01.07-18.30.56:178][273]LogFileHelpers: All files are already saved.
+[2024.01.07-18.30.56:178][273]LogFileHelpers: Saving map 'Test1' took 0.080
+[2024.01.07-18.30.56:185][273]LogFileHelpers: InternalPromptForCheckoutAndSave took 163 ms (total: 1.45 sec)
+[2024.01.07-18.30.56:186][273]AssetCheck: New page: Asset Save: Test1
+[2024.01.07-18.30.56:186][273]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/Debug/Test1.Test1
+[2024.01.07-18.30.58:199][393]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.07-18.30.58:317][399]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.07-18.31.02:893][673]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.07-18.31.02:970][676]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.07-18.31.03:031][679]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.07-18.31.03:055][680]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.07-18.31.03:096][682]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.07-18.31.03:119][683]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.07-18.31.03:144][684]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.07-18.31.06:193][862]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Code/Guns/M4.M4_C
+[2024.01.07-18.31.06:193][862]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Code/Guns/M4.M4_C
+[2024.01.07-18.31.06:201][862]LogActorFactory: Actor Factory spawned Blueprint /Game/Code/Guns/M4.M4 as actor: M4_C /Game/Maps/Debug/Test1.Test1:PersistentLevel.M4_C_0
+[2024.01.07-18.31.06:206][862]LogActorFactory: Actor Factory spawned Blueprint /Game/Code/Guns/M4.M4 as actor: M4_C /Game/Maps/Debug/Test1.Test1:PersistentLevel.M4_C_0
+[2024.01.07-18.31.07:116][910]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Code/Guns/M4.M4_C
+[2024.01.07-18.31.07:116][910]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Code/Guns/M4.M4_C
+[2024.01.07-18.31.07:123][910]LogActorFactory: Actor Factory spawned Blueprint /Game/Code/Guns/M4.M4 as actor: M4_C /Game/Maps/Debug/Test1.Test1:PersistentLevel.M4_C_1
+[2024.01.07-18.31.07:127][910]LogActorFactory: Actor Factory spawned Blueprint /Game/Code/Guns/M4.M4 as actor: M4_C /Game/Maps/Debug/Test1.Test1:PersistentLevel.M4_C_1
+[2024.01.07-18.31.08:785][  3]Cmd: DELETE
+[2024.01.07-18.31.08:785][  3]Cmd: ACTOR DELETE
+[2024.01.07-18.31.08:788][  3]LogEditorActor: Deleted Actor: M4_C
+[2024.01.07-18.31.08:797][  3]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2024.01.07-18.31.08:798][  3]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2024.01.07-18.31.18:354][570]Cmd: MODE GRID=0
+[2024.01.07-18.31.21:849][779]Cmd: MODE GRID=1
+[2024.01.07-18.31.24:807][951]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Code/Guns/M1.M1_C
+[2024.01.07-18.31.24:807][951]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Code/Guns/M1.M1_C
+[2024.01.07-18.31.24:812][951]LogActorFactory: Actor Factory spawned Blueprint /Game/Code/Guns/M1.M1 as actor: M1_C /Game/Maps/Debug/Test1.Test1:PersistentLevel.M1_C_0
+[2024.01.07-18.31.24:816][951]LogActorFactory: Actor Factory spawned Blueprint /Game/Code/Guns/M1.M1 as actor: M1_C /Game/Maps/Debug/Test1.Test1:PersistentLevel.M1_C_0
+[2024.01.07-18.31.25:524][978]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Code/Guns/M1.M1_C
+[2024.01.07-18.31.25:524][978]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Code/Guns/M1.M1_C
+[2024.01.07-18.31.25:531][978]LogActorFactory: Actor Factory spawned Blueprint /Game/Code/Guns/M1.M1 as actor: M1_C /Game/Maps/Debug/Test1.Test1:PersistentLevel.M1_C_1
+[2024.01.07-18.31.25:536][978]LogActorFactory: Actor Factory spawned Blueprint /Game/Code/Guns/M1.M1 as actor: M1_C /Game/Maps/Debug/Test1.Test1:PersistentLevel.M1_C_1
+[2024.01.07-18.31.32:605][382]Cmd: DELETE
+[2024.01.07-18.31.32:605][382]Cmd: ACTOR DELETE
+[2024.01.07-18.31.32:609][382]LogEditorActor: Deleted Actor: M4_C
+[2024.01.07-18.31.32:619][382]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2024.01.07-18.31.32:621][382]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2024.01.07-18.31.33:337][421]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Code/Guns/M1.M1_C
+[2024.01.07-18.31.33:337][421]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Code/Guns/M1.M1_C
+[2024.01.07-18.31.33:342][421]LogActorFactory: Actor Factory spawned Blueprint /Game/Code/Guns/M1.M1 as actor: M1_C /Game/Maps/Debug/Test1.Test1:PersistentLevel.M1_C_2
+[2024.01.07-18.31.33:347][421]LogActorFactory: Actor Factory spawned Blueprint /Game/Code/Guns/M1.M1 as actor: M1_C /Game/Maps/Debug/Test1.Test1:PersistentLevel.M1_C_2
+[2024.01.07-18.31.34:645][484]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Code/Guns/M4.M4_C
+[2024.01.07-18.31.34:645][484]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Code/Guns/M4.M4_C
+[2024.01.07-18.31.34:650][484]LogActorFactory: Actor Factory spawned Blueprint /Game/Code/Guns/M4.M4 as actor: M4_C /Game/Maps/Debug/Test1.Test1:PersistentLevel.M4_C_2
+[2024.01.07-18.31.34:654][484]LogActorFactory: Actor Factory spawned Blueprint /Game/Code/Guns/M4.M4 as actor: M4_C /Game/Maps/Debug/Test1.Test1:PersistentLevel.M4_C_2
+[2024.01.07-18.31.35:154][510]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Code/Guns/M4.M4_C
+[2024.01.07-18.31.35:154][510]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Code/Guns/M4.M4_C
+[2024.01.07-18.31.35:161][510]LogActorFactory: Actor Factory spawned Blueprint /Game/Code/Guns/M4.M4 as actor: M4_C /Game/Maps/Debug/Test1.Test1:PersistentLevel.M4_C_3
+[2024.01.07-18.31.35:166][510]LogActorFactory: Actor Factory spawned Blueprint /Game/Code/Guns/M4.M4 as actor: M4_C /Game/Maps/Debug/Test1.Test1:PersistentLevel.M4_C_3
+[2024.01.07-18.31.40:208][803]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Code/Guns/Scar.Scar_C
+[2024.01.07-18.31.40:208][803]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Code/Guns/Scar.Scar_C
+[2024.01.07-18.31.40:214][803]LogActorFactory: Actor Factory spawned Blueprint /Game/Code/Guns/Scar.Scar as actor: Scar_C /Game/Maps/Debug/Test1.Test1:PersistentLevel.Scar_C_0
+[2024.01.07-18.31.40:219][803]LogActorFactory: Actor Factory spawned Blueprint /Game/Code/Guns/Scar.Scar as actor: Scar_C /Game/Maps/Debug/Test1.Test1:PersistentLevel.Scar_C_0
+[2024.01.07-18.31.41:523][856]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Code/Guns/Scar.Scar_C
+[2024.01.07-18.31.41:523][856]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Code/Guns/Scar.Scar_C
+[2024.01.07-18.31.41:531][856]LogActorFactory: Actor Factory spawned Blueprint /Game/Code/Guns/Scar.Scar as actor: Scar_C /Game/Maps/Debug/Test1.Test1:PersistentLevel.Scar_C_1
+[2024.01.07-18.31.41:537][856]LogActorFactory: Actor Factory spawned Blueprint /Game/Code/Guns/Scar.Scar as actor: Scar_C /Game/Maps/Debug/Test1.Test1:PersistentLevel.Scar_C_1
+[2024.01.07-18.31.54:089][596]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Code/Guns/m249.m249_C
+[2024.01.07-18.31.54:090][596]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Code/Guns/m249.m249_C
+[2024.01.07-18.31.54:096][596]LogActorFactory: Actor Factory spawned Blueprint /Game/Code/Guns/m249.m249 as actor: m249_C /Game/Maps/Debug/Test1.Test1:PersistentLevel.m249_C_0
+[2024.01.07-18.31.54:100][596]LogActorFactory: Actor Factory spawned Blueprint /Game/Code/Guns/m249.m249 as actor: m249_C /Game/Maps/Debug/Test1.Test1:PersistentLevel.m249_C_0
+[2024.01.07-18.32.03:087][119]Cmd: DELETE
+[2024.01.07-18.32.03:087][119]Cmd: ACTOR DELETE
+[2024.01.07-18.32.03:092][119]LogEditorActor: Deleted Actor: GunBase_C
+[2024.01.07-18.32.03:094][119]LogEditorActor: Deleted Actor: GunBase_C
+[2024.01.07-18.32.03:095][119]LogEditorActor: Deleted Actor: GunBase_C
+[2024.01.07-18.32.03:096][119]LogEditorActor: Deleted Actor: GunBase_C
+[2024.01.07-18.32.03:098][119]LogEditorActor: Deleted Actor: GunBase_C
+[2024.01.07-18.32.03:099][119]LogEditorActor: Deleted Actor: GunBase_C
+[2024.01.07-18.32.03:101][119]LogEditorActor: Deleted Actor: GunBase_C
+[2024.01.07-18.32.03:102][119]LogEditorActor: Deleted Actor: GunBase_C
+[2024.01.07-18.32.03:103][119]LogEditorActor: Deleted Actor: GunBase_C
+[2024.01.07-18.32.03:106][119]LogEditorActor: Deleted Actor: GunBase_C
+[2024.01.07-18.32.03:130][119]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2024.01.07-18.32.03:133][119]LogEditorActor: Deleted 10 Actors (0.046 secs)
+[2024.01.07-18.32.03:637][148]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2024.01.07-18.32.04:338][148]LogSlate: Window 'Save Content' being destroyed
+[2024.01.07-18.32.04:347][148]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.07-18.32.04:427][148]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Debug/Test1" FILE="../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Content/Maps/Debug/Test1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.01.07-18.32.04:452][148]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2024.01.07-18.32.04:489][148]LogSavePackage: Moving output files for package: /Game/Maps/Debug/Test1
+[2024.01.07-18.32.04:490][148]LogSavePackage: Moving '../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Saved/Test1B00EA01D45BF56E4638BE48EDCC601BD.tmp' to '../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Content/Maps/Debug/Test1.umap'
+[2024.01.07-18.32.04:496][148]LogFileHelpers: All files are already saved.
+[2024.01.07-18.32.04:496][148]LogFileHelpers: Saving map 'Test1' took 0.070
+[2024.01.07-18.32.04:502][148]LogFileHelpers: InternalPromptForCheckoutAndSave took 155 ms (total: 1.60 sec)
+[2024.01.07-18.32.04:503][148]AssetCheck: New page: Asset Save: Test1
+[2024.01.07-18.32.04:503][148]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/Debug/Test1.Test1
+[2024.01.07-18.32.05:280][191]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Code/Guns/m249.m249_C
+[2024.01.07-18.32.05:280][191]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Code/Guns/m249.m249_C
+[2024.01.07-18.32.05:285][191]LogActorFactory: Actor Factory spawned Blueprint /Game/Code/Guns/m249.m249 as actor: m249_C /Game/Maps/Debug/Test1.Test1:PersistentLevel.m249_C_1
+[2024.01.07-18.32.05:290][191]LogActorFactory: Actor Factory spawned Blueprint /Game/Code/Guns/m249.m249 as actor: m249_C /Game/Maps/Debug/Test1.Test1:PersistentLevel.m249_C_1
+[2024.01.07-18.32.06:458][255]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Code/Guns/m249.m249_C
+[2024.01.07-18.32.06:459][255]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Code/Guns/m249.m249_C
+[2024.01.07-18.32.06:466][255]LogActorFactory: Actor Factory spawned Blueprint /Game/Code/Guns/m249.m249 as actor: m249_C /Game/Maps/Debug/Test1.Test1:PersistentLevel.m249_C_2
+[2024.01.07-18.32.06:472][255]LogActorFactory: Actor Factory spawned Blueprint /Game/Code/Guns/m249.m249 as actor: m249_C /Game/Maps/Debug/Test1.Test1:PersistentLevel.m249_C_2
+[2024.01.07-18.32.10:558][495]Cmd: EDIT COPY
+[2024.01.07-18.32.10:858][513]Cmd: EDIT PASTE
+[2024.01.07-18.32.10:890][513]LogClass: Warning: Short type name "m249_C_2" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2024.01.07-18.32.10:898][513]LogClass: Warning: Short type name "m249_C_2" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2024.01.07-18.32.15:395][772]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Code/Guns/Glock17.Glock17_C
+[2024.01.07-18.32.15:395][772]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Code/Guns/Glock17.Glock17_C
+[2024.01.07-18.32.15:402][772]LogActorFactory: Actor Factory spawned Blueprint /Game/Code/Guns/Glock17.Glock17 as actor: Glock17_C /Game/Maps/Debug/Test1.Test1:PersistentLevel.Glock17_C_0
+[2024.01.07-18.32.15:406][772]LogActorFactory: Actor Factory spawned Blueprint /Game/Code/Guns/Glock17.Glock17 as actor: Glock17_C /Game/Maps/Debug/Test1.Test1:PersistentLevel.Glock17_C_0
+[2024.01.07-18.32.16:127][808]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Code/Guns/Glock17.Glock17_C
+[2024.01.07-18.32.16:127][808]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Code/Guns/Glock17.Glock17_C
+[2024.01.07-18.32.16:135][808]LogActorFactory: Actor Factory spawned Blueprint /Game/Code/Guns/Glock17.Glock17 as actor: Glock17_C /Game/Maps/Debug/Test1.Test1:PersistentLevel.Glock17_C_1
+[2024.01.07-18.32.16:140][808]LogActorFactory: Actor Factory spawned Blueprint /Game/Code/Guns/Glock17.Glock17 as actor: Glock17_C /Game/Maps/Debug/Test1.Test1:PersistentLevel.Glock17_C_1
+[2024.01.07-18.32.21:436][121]Cmd: EDIT COPY
+[2024.01.07-18.32.21:719][138]Cmd: EDIT PASTE
+[2024.01.07-18.32.21:735][138]LogClass: Warning: Short type name "Glock17_C_1" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2024.01.07-18.32.21:743][138]LogClass: Warning: Short type name "Glock17_C_1" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2024.01.07-18.32.25:960][387]Cmd: EDIT COPY
+[2024.01.07-18.32.26:226][403]Cmd: EDIT PASTE
+[2024.01.07-18.32.26:236][403]LogUObjectGlobals: Warning: StaticFindFirstObject: Ambiguous object name /Script/Engine.PoseableMeshComponent'PoseableMeshComponent_60' while FindImportedObject, will return /Game/Maps/Debug/Test1.Test1:PersistentLevel.m249_C_2.PoseableMeshComponent_60 but could also be: /Game/Maps/Debug/Test1.Test1:PersistentLevel.Glock17_C_2.PoseableMeshComponent_60
+[2024.01.07-18.32.26:236][403]LogUObjectGlobals: Warning: StaticFindFirstObject: Ambiguous object name /Script/Engine.PoseableMeshComponent'PoseableMeshComponent_61' while FindImportedObject, will return /Game/Maps/Debug/Test1.Test1:PersistentLevel.m249_C_2.PoseableMeshComponent_61 but could also be: /Game/Maps/Debug/Test1.Test1:PersistentLevel.Glock17_C_2.PoseableMeshComponent_61
+[2024.01.07-18.32.26:236][403]LogUObjectGlobals: Warning: StaticFindFirstObject: Ambiguous object name /Script/Engine.PoseableMeshComponent'PoseableMeshComponent_62' while FindImportedObject, will return /Game/Maps/Debug/Test1.Test1:PersistentLevel.m249_C_2.PoseableMeshComponent_62 but could also be: /Game/Maps/Debug/Test1.Test1:PersistentLevel.Glock17_C_2.PoseableMeshComponent_62
+[2024.01.07-18.32.26:236][403]LogUObjectGlobals: Warning: StaticFindFirstObject: Ambiguous object name /Script/Engine.PoseableMeshComponent'PoseableMeshComponent_63' while FindImportedObject, will return /Game/Maps/Debug/Test1.Test1:PersistentLevel.m249_C_2.PoseableMeshComponent_63 but could also be: /Game/Maps/Debug/Test1.Test1:PersistentLevel.Glock17_C_2.PoseableMeshComponent_63
+[2024.01.07-18.32.26:236][403]LogUObjectGlobals: Warning: StaticFindFirstObject: Ambiguous object name /Script/Engine.PoseableMeshComponent'PoseableMeshComponent_64' while FindImportedObject, will return /Game/Maps/Debug/Test1.Test1:PersistentLevel.m249_C_2.PoseableMeshComponent_64 but could also be: /Game/Maps/Debug/Test1.Test1:PersistentLevel.Glock17_C_2.PoseableMeshComponent_64
+[2024.01.07-18.32.26:236][403]LogUObjectGlobals: Warning: StaticFindFirstObject: Ambiguous object name /Script/Engine.PoseableMeshComponent'PoseableMeshComponent_65' while FindImportedObject, will return /Game/Maps/Debug/Test1.Test1:PersistentLevel.m249_C_2.PoseableMeshComponent_65 but could also be: /Game/Maps/Debug/Test1.Test1:PersistentLevel.Glock17_C_2.PoseableMeshComponent_65
+[2024.01.07-18.32.26:243][403]LogClass: Warning: Short type name "Glock17_C_2" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2024.01.07-18.32.26:250][403]LogClass: Warning: Short type name "Glock17_C_2" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2024.01.07-18.32.36:232][989]Cmd: MODE GRID=0
+[2024.01.07-18.32.48:095][688]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2024.01.07-18.32.48:600][688]LogSlate: Window 'Save Content' being destroyed
+[2024.01.07-18.32.48:610][688]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.07-18.32.48:692][688]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Debug/Test1" FILE="../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Content/Maps/Debug/Test1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.01.07-18.32.48:716][688]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2024.01.07-18.32.48:765][688]LogSavePackage: Moving output files for package: /Game/Maps/Debug/Test1
+[2024.01.07-18.32.48:766][688]LogSavePackage: Moving '../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Saved/Test1ADCE9D024335B2940E2BEC8976C285E5.tmp' to '../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Content/Maps/Debug/Test1.umap'
+[2024.01.07-18.32.48:772][688]LogFileHelpers: All files are already saved.
+[2024.01.07-18.32.48:772][688]LogFileHelpers: Saving map 'Test1' took 0.081
+[2024.01.07-18.32.48:778][688]LogFileHelpers: InternalPromptForCheckoutAndSave took 168 ms (total: 1.77 sec)
+[2024.01.07-18.32.48:780][688]AssetCheck: New page: Asset Save: Test1
+[2024.01.07-18.32.48:780][688]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/Debug/Test1.Test1
+[2024.01.07-18.32.50:526][793]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2024.01.07-18.32.52:073][886]Cmd: MODE GRID=1
+[2024.01.07-18.32.53:261][957]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2024.01.07-18.33.01:266][432]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.07-18.33.01:280][432]LogShaderCompilers: Display: ================================================
+[2024.01.07-18.33.01:280][432]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.01.07-18.33.01:280][432]LogShaderCompilers: Display: Total job queries 239, among them cache hits 76 (31.80%)
+[2024.01.07-18.33.01:280][432]LogShaderCompilers: Display: Tracking 163 distinct input hashes that result in 119 distinct outputs (73.01%)
+[2024.01.07-18.33.01:280][432]LogShaderCompilers: Display: RAM used: 6,29 MiB of 716,80 MiB budget. Usage: 0.88%
+[2024.01.07-18.33.01:280][432]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.01.07-18.33.01:280][432]LogShaderCompilers: Display: Shaders Compiled: 11
+[2024.01.07-18.33.01:280][432]LogShaderCompilers: Display: Jobs assigned 11, completed 11 (100%)
+[2024.01.07-18.33.01:280][432]LogShaderCompilers: Display: Average time worker was idle: 48.60 s
+[2024.01.07-18.33.01:280][432]LogShaderCompilers: Display: Time job spent in pending queue: average 0.07 s, longest 0.10 s
+[2024.01.07-18.33.01:280][432]LogShaderCompilers: Display: Job execution time: average 1.44 s, max 2.14 s
+[2024.01.07-18.33.01:280][432]LogShaderCompilers: Display: Job life time (pending + execution): average 1.51 s, max 2.22
+[2024.01.07-18.33.01:280][432]LogShaderCompilers: Display: Shader code size: average 76,088 KiB, min 20,184 KiB, max 89,133 KiB
+[2024.01.07-18.33.01:280][432]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 14.20 s
+[2024.01.07-18.33.01:280][432]LogShaderCompilers: Display: Jobs were issued in 11 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.01.07-18.33.01:280][432]LogShaderCompilers: Display: Average processing rate: 0.77 jobs/sec
+[2024.01.07-18.33.01:280][432]LogShaderCompilers: Display: Total thread time: 13,747 s
+[2024.01.07-18.33.01:280][432]LogShaderCompilers: Display: Total thread preprocess time: 0,35 s
+[2024.01.07-18.33.01:280][432]LogShaderCompilers: Display: Percentage time preprocessing: 2.54%
+[2024.01.07-18.33.01:280][432]LogShaderCompilers: Display: Effective parallelization: 0.97 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.01.07-18.33.01:280][432]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.01.07-18.33.01:280][432]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    1 times, average 1.82 sec, max 1.82 sec, min 1.82 sec)
+[2024.01.07-18.33.01:281][432]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy (compiled    1 times, average 1.82 sec, max 1.82 sec, min 1.82 sec)
+[2024.01.07-18.33.01:281][432]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    2 times, average 1.75 sec, max 1.80 sec, min 1.70 sec)
+[2024.01.07-18.33.01:281][432]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    3 times, average 1.73 sec, max 1.82 sec, min 1.66 sec)
+[2024.01.07-18.33.01:281][432]LogShaderCompilers: Display:      TBasePassVSFPrecomputedVolumetricLightmapLightingPolicy (compiled    2 times, average 0.36 sec, max 0.41 sec, min 0.31 sec)
+[2024.01.07-18.33.01:281][432]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.01.07-18.33.01:281][432]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight - 37.78% of total time (compiled    3 times, average 1.73 sec, max 1.82 sec, min 1.66 sec)
+[2024.01.07-18.33.01:281][432]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 25.48% of total time (compiled    2 times, average 1.75 sec, max 1.80 sec, min 1.70 sec)
+[2024.01.07-18.33.01:281][432]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 13.27% of total time (compiled    1 times, average 1.82 sec, max 1.82 sec, min 1.82 sec)
+[2024.01.07-18.33.01:281][432]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy - 13.24% of total time (compiled    1 times, average 1.82 sec, max 1.82 sec, min 1.82 sec)
+[2024.01.07-18.33.01:281][432]LogShaderCompilers: Display:      TBasePassVSFPrecomputedVolumetricLightmapLightingPolicy - 5.23% of total time (compiled    2 times, average 0.36 sec, max 0.41 sec, min 0.31 sec)
+[2024.01.07-18.33.01:281][432]LogShaderCompilers: Display: ================================================
+[2024.01.07-18.33.04:326][610]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Code/Other/Teleport/Teleport.Teleport_C
+[2024.01.07-18.33.04:326][610]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Code/Other/Teleport/Teleport.Teleport_C
+[2024.01.07-18.33.04:329][610]LogActorFactory: Actor Factory spawned Blueprint /Game/Code/Other/Teleport/Teleport.Teleport as actor: Teleport_C /Game/Maps/Debug/Test1.Test1:PersistentLevel.Teleport_C_0
+[2024.01.07-18.33.04:331][610]LogActorFactory: Actor Factory spawned Blueprint /Game/Code/Other/Teleport/Teleport.Teleport as actor: Teleport_C /Game/Maps/Debug/Test1.Test1:PersistentLevel.Teleport_C_0
+[2024.01.07-18.33.05:163][658]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Code/Other/Teleport/Teleport.Teleport_C
+[2024.01.07-18.33.05:163][658]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Code/Other/Teleport/Teleport.Teleport_C
+[2024.01.07-18.33.05:167][658]LogActorFactory: Actor Factory spawned Blueprint /Game/Code/Other/Teleport/Teleport.Teleport as actor: Teleport_C /Game/Maps/Debug/Test1.Test1:PersistentLevel.Teleport_C_1
+[2024.01.07-18.33.05:169][658]LogActorFactory: Actor Factory spawned Blueprint /Game/Code/Other/Teleport/Teleport.Teleport as actor: Teleport_C /Game/Maps/Debug/Test1.Test1:PersistentLevel.Teleport_C_1
+[2024.01.07-18.33.13:211][132]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.01.07-18.33.13:812][132]LogSlate: Window 'Save Content' being destroyed
+[2024.01.07-18.33.13:822][132]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.07-18.33.13:910][132]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Debug/Test1" FILE="../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Content/Maps/Debug/Test1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.01.07-18.33.13:934][132]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2024.01.07-18.33.13:984][132]LogSavePackage: Moving output files for package: /Game/Maps/Debug/Test1
+[2024.01.07-18.33.13:985][132]LogSavePackage: Moving '../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Saved/Test112C6C3D54AF81DC6EC85F7A1CC43A75C.tmp' to '../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Content/Maps/Debug/Test1.umap'
+[2024.01.07-18.33.13:990][132]LogFileHelpers: All files are already saved.
+[2024.01.07-18.33.13:990][132]LogFileHelpers: Saving map 'Test1' took 0.081
+[2024.01.07-18.33.13:997][132]LogFileHelpers: InternalPromptForCheckoutAndSave took 175 ms (total: 1.95 sec)
+[2024.01.07-18.33.13:999][132]AssetCheck: New page: Asset Save: Test1
+[2024.01.07-18.33.13:999][132]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/Debug/Test1.Test1
+[2024.01.07-18.33.42:944][861]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Code/Other/Teleport/Teleport.Teleport
+[2024.01.07-18.33.42:946][861]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.07-18.33.42:946][861]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.07-18.33.42:958][861]LogSlate: Warning: The command 'BlueprintEditorSpawnNodes.AddActorRefAction->CommandInfo' has the same default chord as 'BlueprintEditorSpawnNodes.(Class=/Script/BlueprintGraph.K2Node_Knot Key=R Shift=false Ctrl=false Alt=false)' [R]
+[2024.01.07-18.33.43:942][861]LogSlate: Took 0.000489 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2024.01.07-18.33.44:455][884]LogViewport: Scene viewport resized to 943x685, mode Windowed.
+[2024.01.07-18.33.54:039][431]BlueprintLog: New page: Compile Teleport
+[2024.01.07-18.33.54:078][431]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2024.01.07-18.33.54:427][441]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.07-18.33.54:507][441]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Code/Other/Teleport/Teleport" FILE="../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Content/Code/Other/Teleport/Teleport.uasset" SILENT=true
+[2024.01.07-18.33.54:523][441]LogSavePackage: Moving output files for package: /Game/Code/Other/Teleport/Teleport
+[2024.01.07-18.33.54:523][441]LogSavePackage: Moving '../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Saved/Teleport1AE144CC43A3076A61FD72B4A4C378DA.tmp' to '../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Content/Code/Other/Teleport/Teleport.uasset'
+[2024.01.07-18.33.54:531][441]LogFileHelpers: InternalPromptForCheckoutAndSave took 104 ms (total: 2.05 sec)
+[2024.01.07-18.33.54:531][441]AssetCheck: New page: Asset Save: Teleport
+[2024.01.07-18.33.54:531][441]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Code/Other/Teleport/Teleport.Teleport
+[2024.01.07-18.33.55:224][482]LogSlate: Window 'Teleport' being destroyed
+[2024.01.07-18.33.55:228][482]LogSlate: Window 'Teleport' being destroyed
+[2024.01.07-18.33.55:235][482]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2024.01.07-18.33.55:235][482]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.07-18.34.06:561][157]Cmd: MODE GRID=0
+[2024.01.07-18.34.12:216][496]Cmd: MODE GRID=1
+[2024.01.07-18.34.21:854][ 68]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Code/Other/Teleport/Teleport.Teleport
+[2024.01.07-18.34.21:854][ 68]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.07-18.34.21:854][ 68]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.07-18.34.26:870][320]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.07-18.34.26:940][320]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Code/Other/Teleport/Teleport" FILE="../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Content/Code/Other/Teleport/Teleport.uasset" SILENT=true
+[2024.01.07-18.34.26:951][320]LogSavePackage: Moving output files for package: /Game/Code/Other/Teleport/Teleport
+[2024.01.07-18.34.26:951][320]LogSavePackage: Moving '../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Saved/TeleportAB2C60094F992225060EAAA40526FC06.tmp' to '../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Content/Code/Other/Teleport/Teleport.uasset'
+[2024.01.07-18.34.26:957][320]LogFileHelpers: InternalPromptForCheckoutAndSave took 86 ms (total: 2.14 sec)
+[2024.01.07-18.34.26:960][320]AssetCheck: New page: Asset Save: Teleport
+[2024.01.07-18.34.26:960][320]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Code/Other/Teleport/Teleport.Teleport
+[2024.01.07-18.34.27:399][346]LogSlate: Window 'Teleport' being destroyed
+[2024.01.07-18.34.27:403][346]LogSlate: Window 'Teleport' being destroyed
+[2024.01.07-18.34.27:409][346]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2024.01.07-18.34.27:409][346]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.07-18.34.30:442][523]Cmd: DELETE
+[2024.01.07-18.34.30:442][523]Cmd: ACTOR DELETE
+[2024.01.07-18.34.30:445][523]LogEditorActor: Deleted Actor: Teleport_C
+[2024.01.07-18.34.30:474][523]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2024.01.07-18.34.30:477][523]LogEditorActor: Deleted 1 Actors (0.034 secs)
+[2024.01.07-18.34.34:062][733]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Code/Other/Teleport/Teleport.Teleport_C
+[2024.01.07-18.34.34:062][733]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Code/Other/Teleport/Teleport.Teleport_C
+[2024.01.07-18.34.34:065][733]LogActorFactory: Actor Factory spawned Blueprint /Game/Code/Other/Teleport/Teleport.Teleport as actor: Teleport_C /Game/Maps/Debug/Test1.Test1:PersistentLevel.Teleport_C_2
+[2024.01.07-18.34.34:067][733]LogActorFactory: Actor Factory spawned Blueprint /Game/Code/Other/Teleport/Teleport.Teleport as actor: Teleport_C /Game/Maps/Debug/Test1.Test1:PersistentLevel.Teleport_C_2
+[2024.01.07-18.34.34:931][784]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Code/Other/Teleport/Teleport.Teleport_C
+[2024.01.07-18.34.34:931][784]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Code/Other/Teleport/Teleport.Teleport_C
+[2024.01.07-18.34.34:934][784]LogActorFactory: Actor Factory spawned Blueprint /Game/Code/Other/Teleport/Teleport.Teleport as actor: Teleport_C /Game/Maps/Debug/Test1.Test1:PersistentLevel.Teleport_C_3
+[2024.01.07-18.34.34:936][784]LogActorFactory: Actor Factory spawned Blueprint /Game/Code/Other/Teleport/Teleport.Teleport as actor: Teleport_C /Game/Maps/Debug/Test1.Test1:PersistentLevel.Teleport_C_3
+[2024.01.07-18.35.06:709][657]Cmd: EDIT COPY
+[2024.01.07-18.35.06:977][673]Cmd: EDIT PASTE
+[2024.01.07-18.35.28:400][948]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2024.01.07-18.35.29:013][948]LogSlate: Window 'Save Content' being destroyed
+[2024.01.07-18.35.29:023][948]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.07-18.35.29:107][948]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Debug/Test1" FILE="../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Content/Maps/Debug/Test1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.01.07-18.35.29:143][948]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2024.01.07-18.35.29:194][948]LogSavePackage: Moving output files for package: /Game/Maps/Debug/Test1
+[2024.01.07-18.35.29:194][948]LogSavePackage: Moving '../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Saved/Test1E1FB3B5F45B0AC013B7B9DAB0C67F240.tmp' to '../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Content/Maps/Debug/Test1.umap'
+[2024.01.07-18.35.29:200][948]LogFileHelpers: All files are already saved.
+[2024.01.07-18.35.29:200][948]LogFileHelpers: Saving map 'Test1' took 0.094
+[2024.01.07-18.35.29:207][948]LogFileHelpers: InternalPromptForCheckoutAndSave took 184 ms (total: 2.32 sec)
+[2024.01.07-18.35.29:210][948]AssetCheck: New page: Asset Save: Test1
+[2024.01.07-18.35.29:210][948]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/Debug/Test1.Test1
+[2024.01.07-18.35.35:288][311]LogStaticMesh: Warning: [AssetLog] C:\Users\nikit\OneDrive\Documents\AtomVR\AtomVR\Content\Maps\Debug\Test1.umap: Cached component instance data transform did not match!  Discarding cached lighting data which will cause lighting to be unbuilt.
+/Game/Maps/Debug/Test1.Test1:PersistentLevel.Blockout_Box_C_7.NODE_AddStaticMeshComponent-0
+Current: 145.000000,-50.000000,-100.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,3.500000 Cached: 145.000000,-50.000000,-100.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,3.450000
+[2024.01.07-18.35.40:982][650]LogStaticMesh: Warning: [AssetLog] C:\Users\nikit\OneDrive\Documents\AtomVR\AtomVR\Content\Maps\Debug\Test1.umap: Cached component instance data transform did not match!  Discarding cached lighting data which will cause lighting to be unbuilt.
+/Game/Maps/Debug/Test1.Test1:PersistentLevel.Blockout_Box_C_8.NODE_AddStaticMeshComponent-0
+Current: -235.000000,-50.000000,-100.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,3.600000 Cached: -235.000000,-50.000000,-100.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,3.450000
+[2024.01.07-18.35.43:751][814]LogStaticMesh: Warning: [AssetLog] C:\Users\nikit\OneDrive\Documents\AtomVR\AtomVR\Content\Maps\Debug\Test1.umap: Cached component instance data transform did not match!  Discarding cached lighting data which will cause lighting to be unbuilt.
+/Game/Maps/Debug/Test1.Test1:PersistentLevel.Blockout_Box_C_9.NODE_AddStaticMeshComponent-0
+Current: -565.000000,-50.000000,-100.000000|0.000000,0.000000,-0.000000|1.700000,1.000000,3.500000 Cached: -565.000000,-50.000000,-100.000000|0.000000,0.000000,-0.000000|1.700000,1.000000,3.450000
+[2024.01.07-18.35.50:566][218]MapCheck: New page: Map Check
+[2024.01.07-18.35.50:622][218]LightingResults: New page: Lighting Build - 8 янв. 2024 г., 04:35:50
+[2024.01.07-18.35.50:784][218]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2024.01.07-18.35.51:321][218]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2024.01.07-18.35.51:334][218]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2024.01.07-18.35.52:365][218]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2024.01.07-18.35.52:365][218]LogSwarmInterface: [TryOpenConnection] Local Process ID is 25576
+[2024.01.07-18.35.59:781][218]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2024.01.07-18.35.59:782][218]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2024.01.07-18.35.59:782][218]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2024.01.07-18.35.59:782][218]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2024.01.07-18.35.59:782][218]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2024.01.07-18.35.59:782][218]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2024.01.07-18.36.00:052][218]LogEditorBuildUtils: Build time 0:09
+[2024.01.07-18.36.02:061][221]LogShaderCompilers: Display: ================================================
+[2024.01.07-18.36.02:061][221]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.01.07-18.36.02:061][221]LogShaderCompilers: Display: Total job queries 256, among them cache hits 81 (31.64%)
+[2024.01.07-18.36.02:061][221]LogShaderCompilers: Display: Tracking 175 distinct input hashes that result in 124 distinct outputs (70.86%)
+[2024.01.07-18.36.02:061][221]LogShaderCompilers: Display: RAM used: 6,73 MiB of 716,80 MiB budget. Usage: 0.94%
+[2024.01.07-18.36.02:061][221]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.01.07-18.36.02:061][221]LogShaderCompilers: Display: Shaders Compiled: 23
+[2024.01.07-18.36.02:061][221]LogShaderCompilers: Display: Jobs assigned 23, completed 23 (100%)
+[2024.01.07-18.36.02:061][221]LogShaderCompilers: Display: Average time worker was idle: 117.07 s
+[2024.01.07-18.36.02:061][221]LogShaderCompilers: Display: Time job spent in pending queue: average 0.08 s, longest 0.17 s
+[2024.01.07-18.36.02:061][221]LogShaderCompilers: Display: Job execution time: average 1.52 s, max 2.14 s
+[2024.01.07-18.36.02:061][221]LogShaderCompilers: Display: Job life time (pending + execution): average 1.60 s, max 2.22
+[2024.01.07-18.36.02:061][221]LogShaderCompilers: Display: Shader code size: average 74,228 KiB, min 20,184 KiB, max 89,133 KiB
+[2024.01.07-18.36.02:061][221]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 16.16 s
+[2024.01.07-18.36.02:061][221]LogShaderCompilers: Display: Jobs were issued in 19 batches (only local compilation was used), average 1.21 jobs/batch
+[2024.01.07-18.36.02:061][221]LogShaderCompilers: Display: Average processing rate: 1.42 jobs/sec
+[2024.01.07-18.36.02:061][221]LogShaderCompilers: Display: Total thread time: 22,25 s
+[2024.01.07-18.36.02:061][221]LogShaderCompilers: Display: Total thread preprocess time: 1,119 s
+[2024.01.07-18.36.02:061][221]LogShaderCompilers: Display: Percentage time preprocessing: 5.03%
+[2024.01.07-18.36.02:061][221]LogShaderCompilers: Display: Effective parallelization: 1.38 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.01.07-18.36.02:061][221]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.01.07-18.36.02:061][221]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    1 times, average 1.82 sec, max 1.82 sec, min 1.82 sec)
+[2024.01.07-18.36.02:061][221]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy (compiled    1 times, average 1.82 sec, max 1.82 sec, min 1.82 sec)
+[2024.01.07-18.36.02:061][221]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    3 times, average 1.73 sec, max 1.82 sec, min 1.66 sec)
+[2024.01.07-18.36.02:061][221]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    8 times, average 0.89 sec, max 1.80 sec, min 0.39 sec)
+[2024.01.07-18.36.02:061][221]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    7 times, average 0.75 sec, max 0.97 sec, min 0.31 sec)
+[2024.01.07-18.36.02:061][221]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.01.07-18.36.02:061][221]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 31.86% of total time (compiled    8 times, average 0.89 sec, max 1.80 sec, min 0.39 sec)
+[2024.01.07-18.36.02:061][221]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 23.49% of total time (compiled    7 times, average 0.75 sec, max 0.97 sec, min 0.31 sec)
+[2024.01.07-18.36.02:062][221]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight - 23.34% of total time (compiled    3 times, average 1.73 sec, max 1.82 sec, min 1.66 sec)
+[2024.01.07-18.36.02:062][221]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 8.20% of total time (compiled    1 times, average 1.82 sec, max 1.82 sec, min 1.82 sec)
+[2024.01.07-18.36.02:062][221]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy - 8.18% of total time (compiled    1 times, average 1.82 sec, max 1.82 sec, min 1.82 sec)
+[2024.01.07-18.36.02:062][221]LogShaderCompilers: Display: ================================================
+[2024.01.07-18.36.03:331][251]LogUObjectHash: Compacting FUObjectHashTables data took   3.02ms
+[2024.01.07-18.36.09:544][263]Job is a success!
+[2024.01.07-18.36.10:409][264]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.095s
+[2024.01.07-18.36.10:409][264]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2024.01.07-18.36.10:410][264]LogVolumetricLightmapImport:      BrickData (all levels) 0.0Mb (trimmed 0.2Mb due to 0.010000 MinBrickError)
+[2024.01.07-18.36.10:410][264]LogVolumetricLightmapImport:      Bricks at depth
+[2024.01.07-18.36.10:410][264]LogVolumetricLightmapImport:          0: 33.3% covering 100.0% of volume
+[2024.01.07-18.36.10:410][264]LogVolumetricLightmapImport:          1: 66.7% covering 3.1% of volume
+[2024.01.07-18.36.10:410][264]LogVolumetricLightmapImport:          2: 0.0% covering 0.0% of volume
+[2024.01.07-18.36.10:410][264]LogVolumetricLightmapImport:      Bricks in each level
+[2024.01.07-18.36.10:410][264]LogVolumetricLightmapImport:          Test1 			 3 bricks 	 100.0% (Persistent Level)
+[2024.01.07-18.36.10:579][264]LogTexture: Display: Building textures: /Game/Maps/Debug/Test1_BuiltData.Test1_BuiltData:HQ_Lightmap0_1 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 102.979156 MB), EncodeSpeed: Fast
+[2024.01.07-18.36.10:594][264]LogTexture: Display: Building textures: /Game/Maps/Debug/Test1_BuiltData.Test1_BuiltData:LQ_Lightmap_0_1 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 115.979155 MB), EncodeSpeed: Fast
+[2024.01.07-18.36.10:606][264]LogTexture: Display: Building textures: /Game/Maps/Debug/Test1_BuiltData.Test1_BuiltData:HQ_Lightmap0_2 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 102.979156 MB), EncodeSpeed: Fast
+[2024.01.07-18.36.10:620][264]LogTexture: Display: Building textures: /Game/Maps/Debug/Test1_BuiltData.Test1_BuiltData:LQ_Lightmap_0_2 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 115.979155 MB), EncodeSpeed: Fast
+[2024.01.07-18.36.10:634][264]LogTexture: Display: Building textures: /Game/Maps/Debug/Test1_BuiltData.Test1_BuiltData:HQ_Lightmap0_3 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 102.979156 MB), EncodeSpeed: Fast
+[2024.01.07-18.36.10:650][264]LogTexture: Display: Building textures: /Game/Maps/Debug/Test1_BuiltData.Test1_BuiltData:LQ_Lightmap_0_3 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 115.979155 MB), EncodeSpeed: Fast
+[2024.01.07-18.36.10:679][264]Lightmass on NIC1: 3.89 sec total, 169 ms importing, 2 ms setup, 439 ms photons, 3.28 sec processing, 0 us extra exporting [25/25 mappings]. Threads: 35.8 sec total, 13.8 sec processing.
+[2024.01.07-18.36.10:704][264]LogStaticLightingSystem: Test1_BuiltData storing lightmap data for 25 meshes in 3 LightmapResourceClusters (8.3 Meshes per cluster).
+[2024.01.07-18.36.10:764][264]LogUObjectHash: Compacting FUObjectHashTables data took   4.31ms
+[2024.01.07-18.36.10:789][264]LogStaticLightingSystem: Illumination: 19.7 sec (181 ms encoding lightmaps, 427 us encoding shadowmaps)
+[2024.01.07-18.36.10:789][264]LogStaticLightingSystem: Lightmap texture memory:  6.2 MB (6.2 MB streaming, 0.0 MB non-streaming), 6 textures
+[2024.01.07-18.36.10:789][264]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 0 textures
+[2024.01.07-18.36.11:745][264]DumpUnbuiltLightIteractions
+[2024.01.07-18.36.11:745][264]Lights with unbuilt interactions: 0
+[2024.01.07-18.36.11:745][264]
+[2024.01.07-18.36.11:745][264]Primitives with unbuilt interactions: 0
+[2024.01.07-18.36.14:588][264]LogStall: Stall detector 'FShaderCompilingManager::BlockOnAllShaderMapCompletion' exceeded budget of 2.000000s, reporting...
+[2024.01.07-18.36.14:785][264]LogStall: Stall detector 'FShaderCompilingManager::BlockOnAllShaderMapCompletion' report submitted, and took 0.196864s
+[2024.01.07-18.36.25:017][264]LogWindowsTextInputMethodSystem: Activated input method: Русский (Россия) - (Keyboard).
+[2024.01.07-18.36.25:017][264]LogWindowsTextInputMethodSystem: Activated input method: Русский (Россия) - (Keyboard).
+[2024.01.07-18.37.47:141][264]LogStall: Stall detector 'FShaderCompilingManager::BlockOnAllShaderMapCompletion' complete in 94.554178s (92.554178s overbudget)
+[2024.01.07-18.37.47:365][265]Cmd: MAP CHECK NOTIFYRESULTS
+[2024.01.07-18.37.47:365][265]MapCheck: New page: Test1 - 8 янв. 2024 г., 04:37:47
+[2024.01.07-18.37.47:369][265]MapCheck: Warning: StaticMeshActor_1 Large actor receives a pre-shadow and will cause an extreme performance hit unless bCastDynamicShadow is set to false. 
+[2024.01.07-18.37.47:372][265]MapCheck: Warning: M4_C_3 1 element(s) with zero triangles in static mesh 'M4' 
+[2024.01.07-18.37.47:372][265]MapCheck: Warning: M4_C_3 1 element(s) with zero triangles in static mesh 'M4Slider' 
+[2024.01.07-18.37.47:372][265]MapCheck: Map check complete: 0 Error(s), 3 Warning(s), took 6,953ms to complete.
+[2024.01.07-18.40.11:965][487]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2024.01.07-18.40.13:366][487]LogSlate: Window 'Save Content' being destroyed
+[2024.01.07-18.40.13:378][487]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.07-18.40.13:460][487]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Debug/Test1" FILE="../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Content/Maps/Debug/Test1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.01.07-18.40.13:496][487]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2024.01.07-18.40.13:547][487]LogSavePackage: Moving output files for package: /Game/Maps/Debug/Test1
+[2024.01.07-18.40.13:548][487]LogSavePackage: Moving '../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Saved/Test10F6684954ED1722E05C5BFAF3C3DA891.tmp' to '../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Content/Maps/Debug/Test1.umap'
+[2024.01.07-18.40.13:554][487]Message dialog closed, result: Ok, title: Unable to Check Out From Revision Control!, text: The following assets could not be successfully checked out from revision control:
+/Game/Maps/Debug/Test1_BuiltData
+[2024.01.07-18.40.13:554][487]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.07-18.40.13:554][487]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Debug/Test1_BuiltData" FILE="../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Content/Maps/Debug/Test1_BuiltData.uasset" SILENT=true
+[2024.01.07-18.40.13:577][487]LogSavePackage: Moving output files for package: /Game/Maps/Debug/Test1_BuiltData
+[2024.01.07-18.40.13:577][487]LogSavePackage: Moving '../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Saved/Test1_BuiltDataEEF65B3F4E25537712B33797917C1870.tmp' to '../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Content/Maps/Debug/Test1_BuiltData.uasset'
+[2024.01.07-18.40.13:578][487]LogFileHelpers: InternalPromptForCheckoutAndSave took 24 ms (total: 2.35 sec)
+[2024.01.07-18.40.13:578][487]Message dialog closed, result: Ok, title: Unable to Check Out From Revision Control!, text: The following assets could not be successfully checked out from revision control:
+/Game/Maps/Debug/Test1_BuiltData
+[2024.01.07-18.40.13:578][487]LogFileHelpers: Saving map 'Test1' took 0.119
+[2024.01.07-18.40.13:578][487]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Debug/Test1_BuiltData" FILE="../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Content/Maps/Debug/Test1_BuiltData.uasset" SILENT=true
+[2024.01.07-18.40.13:601][487]LogSavePackage: Moving output files for package: /Game/Maps/Debug/Test1_BuiltData
+[2024.01.07-18.40.13:601][487]LogSavePackage: Moving '../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Saved/Test1_BuiltData6839B7D84C7C5DD41BA1FDA4C99BE9A3.tmp' to '../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Content/Maps/Debug/Test1_BuiltData.uasset'
+[2024.01.07-18.40.13:601][487]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Debug/Test1_BuiltData" FILE="../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Content/Maps/Debug/Test1_BuiltData.uasset" SILENT=true
+[2024.01.07-18.40.13:624][487]LogSavePackage: Moving output files for package: /Game/Maps/Debug/Test1_BuiltData
+[2024.01.07-18.40.13:624][487]LogSavePackage: Moving '../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Saved/Test1_BuiltData017B03AA463B2D696A3AC89A82D9D5DB.tmp' to '../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Content/Maps/Debug/Test1_BuiltData.uasset'
+[2024.01.07-18.40.13:631][487]LogFileHelpers: InternalPromptForCheckoutAndSave took 254 ms (total: 2.60 sec)
+[2024.01.07-18.40.13:634][487]AssetCheck: New page: Asset Save: multiple assets
+[2024.01.07-18.40.13:634][487]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/Debug/Test1.Test1
+[2024.01.07-18.40.13:634][487]LogContentValidation: Display: Validating /Script/Engine.MapBuildDataRegistry /Game/Maps/Debug/Test1_BuiltData.Test1_BuiltData
+[2024.01.07-18.40.17:659][719]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2024.01.07-18.40.23:154][ 48]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2024.01.07-18.40.27:510][309]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2024.01.07-18.40.34:560][482]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2024.01.07-18.40.47:701][270]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2024.01.07-18.40.49:781][395]LogWindowsTextInputMethodSystem: Activated input method: Английский (США) - (Keyboard).
+[2024.01.07-18.40.49:781][395]LogWindowsTextInputMethodSystem: Activated input method: Английский (США) - (Keyboard).
+[2024.01.07-18.41.18:065][588]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.07-18.41.19:731][670]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MyRoomDebug/TargetPawn.TargetPawn_C
+[2024.01.07-18.41.19:731][670]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MyRoomDebug/TargetPawn.TargetPawn_C
+[2024.01.07-18.41.19:733][670]LogActorFactory: Actor Factory spawned Blueprint /Game/MyRoomDebug/TargetPawn.TargetPawn as actor: TargetPawn_C /Game/Maps/Debug/Test1.Test1:PersistentLevel.TargetPawn_C_0
+[2024.01.07-18.41.19:734][670]LogActorFactory: Actor Factory spawned Blueprint /Game/MyRoomDebug/TargetPawn.TargetPawn as actor: TargetPawn_C /Game/Maps/Debug/Test1.Test1:PersistentLevel.TargetPawn_C_0
+[2024.01.07-18.41.20:657][703]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MyRoomDebug/TargetPawn.TargetPawn_C
+[2024.01.07-18.41.20:659][703]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MyRoomDebug/TargetPawn.TargetPawn_C
+[2024.01.07-18.41.20:661][703]LogActorFactory: Actor Factory spawned Blueprint /Game/MyRoomDebug/TargetPawn.TargetPawn as actor: TargetPawn_C /Game/Maps/Debug/Test1.Test1:PersistentLevel.TargetPawn_C_1
+[2024.01.07-18.41.20:662][703]LogActorFactory: Actor Factory spawned Blueprint /Game/MyRoomDebug/TargetPawn.TargetPawn as actor: TargetPawn_C /Game/Maps/Debug/Test1.Test1:PersistentLevel.TargetPawn_C_1
+[2024.01.07-18.41.23:018][831]Cmd: EDIT COPY
+[2024.01.07-18.41.23:264][844]Cmd: EDIT PASTE
+[2024.01.07-18.41.28:761][141]Cmd: TRANSACTION UNDO
+[2024.01.07-18.41.28:761][141]LogEditorTransaction: Undo Move Elements
+[2024.01.07-18.41.30:253][203]Cmd: EDIT COPY
+[2024.01.07-18.41.30:560][219]Cmd: EDIT PASTE
+[2024.01.07-18.41.32:235][303]Cmd: EDIT COPY
+[2024.01.07-18.41.32:486][318]Cmd: EDIT PASTE
+[2024.01.07-18.41.35:136][458]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2024.01.07-18.41.35:834][458]LogSlate: Window 'Save Content' being destroyed
+[2024.01.07-18.41.35:857][458]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.07-18.41.35:982][458]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Debug/Test1" FILE="../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Content/Maps/Debug/Test1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.01.07-18.41.36:052][458]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2024.01.07-18.41.36:115][458]LogSavePackage: Moving output files for package: /Game/Maps/Debug/Test1
+[2024.01.07-18.41.36:115][458]LogSavePackage: Moving '../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Saved/Test1B5792D924CD34BE893DBD3A90392BB63.tmp' to '../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Content/Maps/Debug/Test1.umap'
+[2024.01.07-18.41.36:124][458]LogFileHelpers: All files are already saved.
+[2024.01.07-18.41.36:124][458]LogFileHelpers: Saving map 'Test1' took 0.143
+[2024.01.07-18.41.36:136][458]LogFileHelpers: InternalPromptForCheckoutAndSave took 280 ms (total: 2.88 sec)
+[2024.01.07-18.41.36:141][458]AssetCheck: New page: Asset Save: Test1
+[2024.01.07-18.41.36:141][458]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/Debug/Test1.Test1
+[2024.01.07-18.41.39:996][666]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2024.01.07-18.41.51:024][259]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2024.01.07-18.41.56:706][556]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Polygon_BattleRoyale/Meshes/Generic/SM_Gerneric_Grass_Patch_01.SM_Gerneric_Grass_Patch_01
+[2024.01.07-18.41.56:706][556]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Polygon_BattleRoyale/Meshes/Generic/SM_Gerneric_Grass_Patch_01.SM_Gerneric_Grass_Patch_01
+[2024.01.07-18.41.56:707][556]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Polygon_BattleRoyale/Meshes/Generic/SM_Gerneric_Grass_Patch_01.SM_Gerneric_Grass_Patch_01 as actor: StaticMeshActor /Game/Maps/Debug/Test1.Test1:PersistentLevel.StaticMeshActor_4
+[2024.01.07-18.41.57:838][614]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Polygon_BattleRoyale/Meshes/Generic/SM_Gerneric_Grass_Patch_01.SM_Gerneric_Grass_Patch_01
+[2024.01.07-18.41.57:839][614]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Polygon_BattleRoyale/Meshes/Generic/SM_Gerneric_Grass_Patch_01.SM_Gerneric_Grass_Patch_01
+[2024.01.07-18.41.57:840][614]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Polygon_BattleRoyale/Meshes/Generic/SM_Gerneric_Grass_Patch_01.SM_Gerneric_Grass_Patch_01 as actor: StaticMeshActor /Game/Maps/Debug/Test1.Test1:PersistentLevel.StaticMeshActor_6
+[2024.01.07-18.42.00:660][757]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Assets/Polygon_BattleRoyale/Meshes/Generic/SM_Gerneric_Grass_Patch_01.SM_Gerneric_Grass_Patch_01
+[2024.01.07-18.42.00:765][757]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.07-18.42.00:765][757]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.07-18.42.01:428][757]LogViewport: Scene viewport resized to 1405x894, mode Windowed.
+[2024.01.07-18.42.01:500][758]LogShaderCompilers: Display: ================================================
+[2024.01.07-18.42.01:500][758]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.01.07-18.42.01:500][758]LogShaderCompilers: Display: Total job queries 710, among them cache hits 111 (15.63%)
+[2024.01.07-18.42.01:500][758]LogShaderCompilers: Display: Tracking 542 distinct input hashes that result in 279 distinct outputs (51.48%)
+[2024.01.07-18.42.01:500][758]LogShaderCompilers: Display: RAM used: 19,80 MiB of 716,80 MiB budget. Usage: 2.76%
+[2024.01.07-18.42.01:500][758]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.01.07-18.42.01:500][758]LogShaderCompilers: Display: Shaders Compiled: 363
+[2024.01.07-18.42.01:500][758]LogShaderCompilers: Display: Jobs assigned 363, completed 363 (100%)
+[2024.01.07-18.42.01:502][758]LogShaderCompilers: Display: Average time worker was idle: 3.90 s
+[2024.01.07-18.42.01:502][758]LogShaderCompilers: Display: Time job spent in pending queue: average 57.77 s, longest 93.88 s
+[2024.01.07-18.42.01:502][758]LogShaderCompilers: Display: Job execution time: average 2.19 s, max 9.42 s
+[2024.01.07-18.42.01:502][758]LogShaderCompilers: Display: Job life time (pending + execution): average 59.96 s, max 94.43
+[2024.01.07-18.42.01:502][758]LogShaderCompilers: Display: Shader code size: average 65,346 KiB, min 3,758 KiB, max 98,762 KiB
+[2024.01.07-18.42.01:502][758]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 111.39 s
+[2024.01.07-18.42.01:502][758]LogShaderCompilers: Display: Jobs were issued in 359 batches (only local compilation was used), average 1.01 jobs/batch
+[2024.01.07-18.42.01:502][758]LogShaderCompilers: Display: Average processing rate: 3.26 jobs/sec
+[2024.01.07-18.42.01:502][758]LogShaderCompilers: Display: Total thread time: 754,722 s
+[2024.01.07-18.42.01:502][758]LogShaderCompilers: Display: Total thread preprocess time: 19,532 s
+[2024.01.07-18.42.01:502][758]LogShaderCompilers: Display: Percentage time preprocessing: 2.59%
+[2024.01.07-18.42.01:502][758]LogShaderCompilers: Display: Effective parallelization: 6.78 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.01.07-18.42.01:502][758]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.01.07-18.42.01:502][758]LogShaderCompilers: Display:          TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQ (compiled    6 times, average 5.93 sec, max 9.15 sec, min 1.78 sec)
+[2024.01.07-18.42.01:502][758]LogShaderCompilers: Display:                                 TBasePassPSTLightMapPolicyHQ (compiled    5 times, average 5.69 sec, max 9.17 sec, min 1.70 sec)
+[2024.01.07-18.42.01:502][758]LogShaderCompilers: Display:                         TBasePassPSTLightMapPolicyLQSkylight (compiled    7 times, average 5.66 sec, max 9.30 sec, min 1.83 sec)
+[2024.01.07-18.42.01:502][758]LogShaderCompilers: Display:  TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylight (compiled    7 times, average 5.44 sec, max 9.19 sec, min 1.80 sec)
+[2024.01.07-18.42.01:502][758]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled   11 times, average 5.38 sec, max 7.80 sec, min 2.89 sec)
+[2024.01.07-18.42.01:502][758]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.01.07-18.42.01:502][758]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 8.82% of total time (compiled   15 times, average 4.44 sec, max 8.35 sec, min 1.59 sec)
+[2024.01.07-18.42.01:502][758]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy - 8.67% of total time (compiled   15 times, average 4.36 sec, max 7.91 sec, min 1.55 sec)
+[2024.01.07-18.42.01:502][758]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight - 7.84% of total time (compiled   11 times, average 5.38 sec, max 7.80 sec, min 2.89 sec)
+[2024.01.07-18.42.01:502][758]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy - 7.78% of total time (compiled   11 times, average 5.34 sec, max 7.86 sec, min 2.89 sec)
+[2024.01.07-18.42.01:502][758]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight - 5.97% of total time (compiled   11 times, average 4.10 sec, max 8.97 sec, min 1.66 sec)
+[2024.01.07-18.42.01:502][758]LogShaderCompilers: Display: ================================================
+[2024.01.07-18.42.05:689][909]LogSlate: Window 'SM_Gerneric_Grass_Patch_01' being destroyed
+[2024.01.07-18.42.05:695][909]LogSlate: Window 'SM_Gerneric_Grass_Patch_01' being destroyed
+[2024.01.07-18.42.05:747][909]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2024.01.07-18.42.05:747][909]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.07-18.42.08:785][ 68]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Polygon_BattleRoyale/Meshes/Generic/SM_Gerneric_Grass_Patch_02.SM_Gerneric_Grass_Patch_02
+[2024.01.07-18.42.08:785][ 68]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Polygon_BattleRoyale/Meshes/Generic/SM_Gerneric_Grass_Patch_02.SM_Gerneric_Grass_Patch_02
+[2024.01.07-18.42.08:786][ 68]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Polygon_BattleRoyale/Meshes/Generic/SM_Gerneric_Grass_Patch_02.SM_Gerneric_Grass_Patch_02 as actor: StaticMeshActor /Game/Maps/Debug/Test1.Test1:PersistentLevel.StaticMeshActor_7
+[2024.01.07-18.42.10:976][189]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Polygon_BattleRoyale/Meshes/Generic/SM_Gerneric_Grass_Patch_02.SM_Gerneric_Grass_Patch_02
+[2024.01.07-18.42.10:976][189]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Polygon_BattleRoyale/Meshes/Generic/SM_Gerneric_Grass_Patch_02.SM_Gerneric_Grass_Patch_02
+[2024.01.07-18.42.10:977][189]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Polygon_BattleRoyale/Meshes/Generic/SM_Gerneric_Grass_Patch_02.SM_Gerneric_Grass_Patch_02 as actor: StaticMeshActor /Game/Maps/Debug/Test1.Test1:PersistentLevel.StaticMeshActor_8
+[2024.01.07-18.42.12:262][242]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Polygon_BattleRoyale/Meshes/Generic/SM_Generic_Tree_04.SM_Generic_Tree_04
+[2024.01.07-18.42.12:262][242]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Polygon_BattleRoyale/Meshes/Generic/SM_Generic_Tree_04.SM_Generic_Tree_04
+[2024.01.07-18.42.12:263][242]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Polygon_BattleRoyale/Meshes/Generic/SM_Generic_Tree_04.SM_Generic_Tree_04 as actor: StaticMeshActor /Game/Maps/Debug/Test1.Test1:PersistentLevel.StaticMeshActor_9
+[2024.01.07-18.42.16:140][448]Cmd: DELETE
+[2024.01.07-18.42.16:140][448]Cmd: ACTOR DELETE
+[2024.01.07-18.42.16:146][448]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.01.07-18.42.16:181][448]LogUObjectHash: Compacting FUObjectHashTables data took   3.54ms
+[2024.01.07-18.42.16:186][448]LogEditorActor: Deleted 1 Actors (0.046 secs)
+[2024.01.07-18.42.17:610][520]Cmd: DELETE
+[2024.01.07-18.42.17:611][520]Cmd: ACTOR DELETE
+[2024.01.07-18.42.17:615][520]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.01.07-18.42.17:646][520]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2024.01.07-18.42.17:654][520]LogEditorActor: Deleted 1 Actors (0.043 secs)
+[2024.01.07-18.42.22:867][636]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2024.01.07-18.42.23:848][636]LogSlate: Window 'Save Content' being destroyed
+[2024.01.07-18.42.23:864][636]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.07-18.42.23:978][636]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Debug/Test1" FILE="../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Content/Maps/Debug/Test1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.01.07-18.42.24:035][636]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2024.01.07-18.42.24:099][636]LogSavePackage: Moving output files for package: /Game/Maps/Debug/Test1
+[2024.01.07-18.42.24:100][636]LogSavePackage: Moving '../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Saved/Test146953DF742190189CDE2F6ADA41E6379.tmp' to '../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Content/Maps/Debug/Test1.umap'
+[2024.01.07-18.42.24:108][636]LogFileHelpers: All files are already saved.
+[2024.01.07-18.42.24:108][636]LogFileHelpers: Saving map 'Test1' took 0.131
+[2024.01.07-18.42.24:124][636]LogSavePackage: Moving output files for package: /Game/Assets/Polygon_BattleRoyale/Meshes/Generic/SM_Gerneric_Grass_Patch_01
+[2024.01.07-18.42.24:124][636]LogSavePackage: Moving '../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Saved/SM_Gerneric_Grass_Patch_01751B469D4D53A55288D15191972185FD.tmp' to '../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Content/Assets/Polygon_BattleRoyale/Meshes/Generic/SM_Gerneric_Grass_Patch_01.uasset'
+[2024.01.07-18.42.24:144][636]LogFileHelpers: InternalPromptForCheckoutAndSave took 281 ms (total: 3.16 sec)
+[2024.01.07-18.42.24:149][636]AssetCheck: New page: Asset Save: multiple assets
+[2024.01.07-18.42.24:149][636]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/Debug/Test1.Test1
+[2024.01.07-18.42.24:149][636]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Assets/Polygon_BattleRoyale/Meshes/Generic/SM_Gerneric_Grass_Patch_01.SM_Gerneric_Grass_Patch_01
+[2024.01.07-18.42.45:343][747]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2024.01.07-18.42.45:915][747]LogSlate: Window 'Save Content' being destroyed
+[2024.01.07-18.42.45:930][747]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.07-18.42.46:064][747]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Debug/Test1" FILE="../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Content/Maps/Debug/Test1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.01.07-18.42.46:122][747]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2024.01.07-18.42.46:185][747]LogSavePackage: Moving output files for package: /Game/Maps/Debug/Test1
+[2024.01.07-18.42.46:186][747]LogSavePackage: Moving '../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Saved/Test10F13575F4B8A1A574F1005B1347C16AD.tmp' to '../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Content/Maps/Debug/Test1.umap'
+[2024.01.07-18.42.46:195][747]LogFileHelpers: All files are already saved.
+[2024.01.07-18.42.46:195][747]LogFileHelpers: Saving map 'Test1' took 0.132
+[2024.01.07-18.42.46:206][747]LogFileHelpers: InternalPromptForCheckoutAndSave took 276 ms (total: 3.44 sec)
+[2024.01.07-18.42.46:210][747]AssetCheck: New page: Asset Save: Test1
+[2024.01.07-18.42.46:210][747]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/Debug/Test1.Test1
+[2024.01.07-18.42.50:091][962]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
