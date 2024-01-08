@@ -205,6 +205,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "B220685F44A0E3E8DAD46F86484895C01B92C987",
+			"Assets": [
+				"/Game/Assets/BulletTrace/M_Tracer"
+			]
+		},
+		{
 			"ShaderMapHash": "7379C060BEA35D31F2BFC0784B04F0FB92E58C1A",
 			"Assets": [
 				"/Engine/EngineMaterials/Widget3DPassThrough_Opaque"
