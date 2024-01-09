@@ -8,6 +8,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "DAD274004E9DCB2FD6136CC0891F22782231311D",
+			"Assets": [
+				"/Game/Assets/AssetsvilleTown/Materials/MasterMaterials/M_BaseColorPalette"
+			]
+		},
+		{
 			"ShaderMapHash": "7CD6F80336CDCEE200F67AC7352D8CC0BCA731B2",
 			"Assets": [
 				"/Game/Assets/HandSocketMat"
