@@ -304,27 +304,21 @@
 			]
 		},
 		{
-			"ShaderMapHash": "36D6418FB8361EE03FC08B79300B18B0273173A0",
-			"Assets": [
-				"/Game/Assets/Polygon_BattleRoyale/ParticleFX/Mat_FX"
-			]
-		},
-		{
 			"ShaderMapHash": "EDAD3792E974321BA4E38BA06BE88EAE46FCE967",
 			"Assets": [
 				"/Game/Assets/DeadMaterial"
 			]
 		},
 		{
-			"ShaderMapHash": "13C3299E9E6E1BA0F9973EEFE0427AC096847C40",
+			"ShaderMapHash": "63896C98A558F0C33E84F06FEB588FC469D5D896",
 			"Assets": [
-				"/Game/Assets/PolygonMilitary/Materials/Mat_PolygonMilitary_01_A"
+				"/Game/Assets/InfimaGames/LowPolyShooterPack/Materials/M_HeatDistortion"
 			]
 		},
 		{
-			"ShaderMapHash": "EA26A29EB3AB927320C638A5B9A8D516585ED330",
+			"ShaderMapHash": "13C3299E9E6E1BA0F9973EEFE0427AC096847C40",
 			"Assets": [
-				"/Engine/EngineMaterials/EmissiveTexturedMaterial"
+				"/Game/Assets/PolygonMilitary/Materials/Mat_PolygonMilitary_01_A"
 			]
 		},
 		{
