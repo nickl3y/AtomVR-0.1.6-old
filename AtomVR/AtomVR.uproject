@@ -99,6 +99,14 @@
 		{
 			"Name": "OculusAudio",
 			"Enabled": true
+		},
+		{
+			"Name": "ReMoCapp",
+			"Enabled": false,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/fa02402072ab4d928728daf6ce565ec7",
+			"SupportedTargetPlatforms": [
+				"Win64"
+			]
 		}
 	]
 }
