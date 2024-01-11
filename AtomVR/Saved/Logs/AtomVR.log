@@ -1828,3 +1828,812 @@ The following settings have been applied:
 [2024.01.11-06.08.08:915][766]LogFileHelpers: InternalPromptForCheckoutAndSave took 92 ms (total: 4.66 sec)
 [2024.01.11-06.08.08:917][766]AssetCheck: New page: Asset Save: DatatableWidget
 [2024.01.11-06.08.08:917][766]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Code/Other/DatatableWidget.DatatableWidget
+[2024.01.11-06.08.39:839][ 59]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.11-06.08.39:920][ 59]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Code/Other/DatatableWidget" FILE="../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Content/Code/Other/DatatableWidget.uasset" SILENT=true
+[2024.01.11-06.08.39:928][ 59]LogSavePackage: Moving output files for package: /Game/Code/Other/DatatableWidget
+[2024.01.11-06.08.39:928][ 59]LogSavePackage: Moving '../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Saved/DatatableWidget48199DC94BFD9021F3FA5B9121068407.tmp' to '../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Content/Code/Other/DatatableWidget.uasset'
+[2024.01.11-06.08.39:935][ 59]LogFileHelpers: InternalPromptForCheckoutAndSave took 96 ms (total: 4.76 sec)
+[2024.01.11-06.08.39:936][ 59]AssetCheck: New page: Asset Save: DatatableWidget
+[2024.01.11-06.08.39:936][ 59]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Code/Other/DatatableWidget.DatatableWidget
+[2024.01.11-06.08.44:580][328]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.11-06.08.44:679][328]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Code/Other/DatatableWidget" FILE="../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Content/Code/Other/DatatableWidget.uasset" SILENT=true
+[2024.01.11-06.08.44:689][328]LogSavePackage: Moving output files for package: /Game/Code/Other/DatatableWidget
+[2024.01.11-06.08.44:689][328]LogSavePackage: Moving '../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Saved/DatatableWidgetE8996DC847964ABD2F4B079488678352.tmp' to '../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Content/Code/Other/DatatableWidget.uasset'
+[2024.01.11-06.08.44:700][328]LogFileHelpers: InternalPromptForCheckoutAndSave took 120 ms (total: 4.88 sec)
+[2024.01.11-06.08.44:702][328]AssetCheck: New page: Asset Save: DatatableWidget
+[2024.01.11-06.08.44:702][328]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Code/Other/DatatableWidget.DatatableWidget
+[2024.01.11-06.08.46:874][410]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.11-06.08.46:989][410]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Code/Other/DatatableWidget" FILE="../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Content/Code/Other/DatatableWidget.uasset" SILENT=true
+[2024.01.11-06.08.47:000][410]LogSavePackage: Moving output files for package: /Game/Code/Other/DatatableWidget
+[2024.01.11-06.08.47:000][410]LogSavePackage: Moving '../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Saved/DatatableWidgetAB636C21484503774B9398AA6E87C70F.tmp' to '../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Content/Code/Other/DatatableWidget.uasset'
+[2024.01.11-06.08.47:014][410]LogFileHelpers: InternalPromptForCheckoutAndSave took 139 ms (total: 5.02 sec)
+[2024.01.11-06.08.47:016][410]AssetCheck: New page: Asset Save: DatatableWidget
+[2024.01.11-06.08.47:016][410]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Code/Other/DatatableWidget.DatatableWidget
+[2024.01.11-06.08.50:869][621]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2024.01.11-06.08.56:061][ 29]LogSlate: Warning: Unable to rasterize '../../../Engine/Content/Editor/Slate/Starship/AssetIcons/SpecularProfile_64.svg'. File could not be found
+[2024.01.11-06.08.58:395][136]LogContentBrowser: Deferred new asset file creation: NewUserDefinedStruct
+[2024.01.11-06.08.58:416][136]LogContentBrowser: Creating deferred item: NewUserDefinedStruct
+[2024.01.11-06.08.58:443][137]LogContentBrowser: Renaming the item being created (Deferred Item: NewUserDefinedStruct).
+[2024.01.11-06.09.02:660][515]LogContentBrowser: Attempting asset rename: NewUserDefinedStruct -> PKDS
+[2024.01.11-06.09.02:727][515]LogContentBrowser: End creating deferred item NewUserDefinedStruct
+[2024.01.11-06.09.03:332][572]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedStruct /Game/Structures/PKDS.PKDS
+[2024.01.11-06.09.04:955][667]LogSlate: Took 0.001878 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2024.01.11-06.09.05:874][712]LogAssetRegistry: Warning: ScanPathsSynchronous: Package /Engine/Transient does not exist, will not scan.
+[2024.01.11-06.09.32:995][350]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.11-06.09.33:072][350]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Structures/PKDS" FILE="../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Content/Structures/PKDS.uasset" SILENT=true
+[2024.01.11-06.09.33:075][350]LogSavePackage: Moving output files for package: /Game/Structures/PKDS
+[2024.01.11-06.09.33:075][350]LogSavePackage: Moving '../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Saved/PKDS8BFAB48346DC057810B79BABED9F101A.tmp' to '../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Content/Structures/PKDS.uasset'
+[2024.01.11-06.09.33:094][350]LogFileHelpers: InternalPromptForCheckoutAndSave took 99 ms (total: 5.12 sec)
+[2024.01.11-06.09.33:095][350]AssetCheck: New page: Asset Save: PKDS
+[2024.01.11-06.09.33:095][350]LogContentValidation: Display: Validating /Script/Engine.UserDefinedStruct /Game/Structures/PKDS.PKDS
+[2024.01.11-06.09.43:671][844]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.11-06.09.43:752][844]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Code/Other/DatatableWidget" FILE="../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Content/Code/Other/DatatableWidget.uasset" SILENT=true
+[2024.01.11-06.09.43:759][844]LogSavePackage: Moving output files for package: /Game/Code/Other/DatatableWidget
+[2024.01.11-06.09.43:760][844]LogSavePackage: Moving '../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Saved/DatatableWidgetBD28F14F4F384F7844E7089BA4DBCE25.tmp' to '../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Content/Code/Other/DatatableWidget.uasset'
+[2024.01.11-06.09.43:767][844]LogFileHelpers: InternalPromptForCheckoutAndSave took 95 ms (total: 5.21 sec)
+[2024.01.11-06.09.43:768][844]AssetCheck: New page: Asset Save: DatatableWidget
+[2024.01.11-06.09.43:768][844]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Code/Other/DatatableWidget.DatatableWidget
+[2024.01.11-06.09.59:946][761]BlueprintLog: New page: Compile DatatableWidget
+[2024.01.11-06.09.59:992][761]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2024.01.11-06.10.00:331][784]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.11-06.10.00:407][784]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Code/Other/DatatableWidget" FILE="../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Content/Code/Other/DatatableWidget.uasset" SILENT=true
+[2024.01.11-06.10.00:414][784]LogSavePackage: Moving output files for package: /Game/Code/Other/DatatableWidget
+[2024.01.11-06.10.00:414][784]LogSavePackage: Moving '../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Saved/DatatableWidget7A4EA52F4F7538ABED6181A21011D68E.tmp' to '../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Content/Code/Other/DatatableWidget.uasset'
+[2024.01.11-06.10.00:421][784]LogFileHelpers: InternalPromptForCheckoutAndSave took 90 ms (total: 5.30 sec)
+[2024.01.11-06.10.00:422][784]AssetCheck: New page: Asset Save: DatatableWidget
+[2024.01.11-06.10.00:422][784]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Code/Other/DatatableWidget.DatatableWidget
+[2024.01.11-06.10.25:157][707]BlueprintLog: New page: Compile DatatableWidget
+[2024.01.11-06.10.25:204][707]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2024.01.11-06.10.25:592][733]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.11-06.10.25:667][733]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Code/Other/DatatableWidget" FILE="../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Content/Code/Other/DatatableWidget.uasset" SILENT=true
+[2024.01.11-06.10.25:673][733]LogSavePackage: Moving output files for package: /Game/Code/Other/DatatableWidget
+[2024.01.11-06.10.25:673][733]LogSavePackage: Moving '../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Saved/DatatableWidget4176099148D460F3D9330F86848E8A57.tmp' to '../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Content/Code/Other/DatatableWidget.uasset'
+[2024.01.11-06.10.25:680][733]LogFileHelpers: InternalPromptForCheckoutAndSave took 87 ms (total: 5.39 sec)
+[2024.01.11-06.10.25:681][733]AssetCheck: New page: Asset Save: DatatableWidget
+[2024.01.11-06.10.25:681][733]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Code/Other/DatatableWidget.DatatableWidget
+[2024.01.11-06.10.29:645][ 60]BlueprintLog: New page: Compile DatatableWidget
+[2024.01.11-06.10.29:689][ 60]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2024.01.11-06.10.30:041][ 84]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.11-06.10.30:112][ 84]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Code/Other/DatatableWidget" FILE="../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Content/Code/Other/DatatableWidget.uasset" SILENT=true
+[2024.01.11-06.10.30:119][ 84]LogSavePackage: Moving output files for package: /Game/Code/Other/DatatableWidget
+[2024.01.11-06.10.30:119][ 84]LogSavePackage: Moving '../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Saved/DatatableWidget307A4B584A0304ACF752C7BC911FE1ED.tmp' to '../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Content/Code/Other/DatatableWidget.uasset'
+[2024.01.11-06.10.30:126][ 84]LogFileHelpers: InternalPromptForCheckoutAndSave took 84 ms (total: 5.47 sec)
+[2024.01.11-06.10.30:127][ 84]AssetCheck: New page: Asset Save: DatatableWidget
+[2024.01.11-06.10.30:127][ 84]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Code/Other/DatatableWidget.DatatableWidget
+[2024.01.11-06.10.42:113][965]BlueprintLog: New page: Compile DatatableBase
+[2024.01.11-06.10.42:166][965]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2024.01.11-06.10.42:524][989]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.11-06.10.42:596][989]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Code/Other/DatatableBase" FILE="../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Content/Code/Other/DatatableBase.uasset" SILENT=true
+[2024.01.11-06.10.42:602][989]LogSavePackage: Moving output files for package: /Game/Code/Other/DatatableBase
+[2024.01.11-06.10.42:603][989]LogSavePackage: Moving '../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Saved/DatatableBase9742D4D842ABEE71AB3AD7A859AA1299.tmp' to '../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Content/Code/Other/DatatableBase.uasset'
+[2024.01.11-06.10.42:610][989]LogFileHelpers: InternalPromptForCheckoutAndSave took 85 ms (total: 5.56 sec)
+[2024.01.11-06.10.42:612][989]AssetCheck: New page: Asset Save: DatatableBase
+[2024.01.11-06.10.42:612][989]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Code/Other/DatatableBase.DatatableBase
+[2024.01.11-06.10.45:933][229]BlueprintLog: New page: Compile DatatableBase
+[2024.01.11-06.10.45:972][229]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2024.01.11-06.10.46:360][253]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.11-06.10.46:432][253]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Code/Other/DatatableBase" FILE="../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Content/Code/Other/DatatableBase.uasset" SILENT=true
+[2024.01.11-06.10.46:438][253]LogSavePackage: Moving output files for package: /Game/Code/Other/DatatableBase
+[2024.01.11-06.10.46:438][253]LogSavePackage: Moving '../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Saved/DatatableBase8C2BA9DC496A013EBDAEF29179798A45.tmp' to '../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Content/Code/Other/DatatableBase.uasset'
+[2024.01.11-06.10.46:446][253]LogFileHelpers: InternalPromptForCheckoutAndSave took 85 ms (total: 5.64 sec)
+[2024.01.11-06.10.46:447][253]AssetCheck: New page: Asset Save: DatatableBase
+[2024.01.11-06.10.46:447][253]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Code/Other/DatatableBase.DatatableBase
+[2024.01.11-06.11.35:805][470]BlueprintLog: New page: Compile DatatableBase
+[2024.01.11-06.11.35:849][470]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2024.01.11-06.11.36:247][493]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.11-06.11.36:321][493]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Code/Other/DatatableBase" FILE="../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Content/Code/Other/DatatableBase.uasset" SILENT=true
+[2024.01.11-06.11.36:330][493]LogSavePackage: Moving output files for package: /Game/Code/Other/DatatableBase
+[2024.01.11-06.11.36:330][493]LogSavePackage: Moving '../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Saved/DatatableBase87C8B4C14D5FA241BEE517AFD690168B.tmp' to '../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Content/Code/Other/DatatableBase.uasset'
+[2024.01.11-06.11.36:336][493]LogFileHelpers: InternalPromptForCheckoutAndSave took 89 ms (total: 5.73 sec)
+[2024.01.11-06.11.36:337][493]AssetCheck: New page: Asset Save: DatatableBase
+[2024.01.11-06.11.36:337][493]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Code/Other/DatatableBase.DatatableBase
+[2024.01.11-06.12.23:126][ 21]BlueprintLog: New page: Compile DatatableWidget
+[2024.01.11-06.12.23:177][ 21]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2024.01.11-06.12.23:551][ 44]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.11-06.12.23:627][ 44]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Code/Other/DatatableWidget" FILE="../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Content/Code/Other/DatatableWidget.uasset" SILENT=true
+[2024.01.11-06.12.23:635][ 44]LogSavePackage: Moving output files for package: /Game/Code/Other/DatatableWidget
+[2024.01.11-06.12.23:635][ 44]LogSavePackage: Moving '../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Saved/DatatableWidget0FA1FB804D0E69649293148DBA7DF654.tmp' to '../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Content/Code/Other/DatatableWidget.uasset'
+[2024.01.11-06.12.23:641][ 44]LogFileHelpers: InternalPromptForCheckoutAndSave took 91 ms (total: 5.83 sec)
+[2024.01.11-06.12.23:643][ 44]AssetCheck: New page: Asset Save: DatatableWidget
+[2024.01.11-06.12.23:643][ 44]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Code/Other/DatatableWidget.DatatableWidget
+[2024.01.11-06.12.26:860][234]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.11-06.12.26:933][234]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Code/Other/DatatableWidget" FILE="../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Content/Code/Other/DatatableWidget.uasset" SILENT=true
+[2024.01.11-06.12.26:941][234]LogSavePackage: Moving output files for package: /Game/Code/Other/DatatableWidget
+[2024.01.11-06.12.26:941][234]LogSavePackage: Moving '../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Saved/DatatableWidget4B053C464E0CB865A99D90A54B464403.tmp' to '../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Content/Code/Other/DatatableWidget.uasset'
+[2024.01.11-06.12.26:948][234]LogFileHelpers: InternalPromptForCheckoutAndSave took 88 ms (total: 5.91 sec)
+[2024.01.11-06.12.26:949][234]AssetCheck: New page: Asset Save: DatatableWidget
+[2024.01.11-06.12.26:949][234]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Code/Other/DatatableWidget.DatatableWidget
+[2024.01.11-06.12.33:229][588]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.11-06.12.33:303][588]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Code/Other/DatatableWidget" FILE="../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Content/Code/Other/DatatableWidget.uasset" SILENT=true
+[2024.01.11-06.12.33:311][588]LogSavePackage: Moving output files for package: /Game/Code/Other/DatatableWidget
+[2024.01.11-06.12.33:312][588]LogSavePackage: Moving '../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Saved/DatatableWidget31E1FBD147A8706948BAD09E1540391E.tmp' to '../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Content/Code/Other/DatatableWidget.uasset'
+[2024.01.11-06.12.33:319][588]LogFileHelpers: InternalPromptForCheckoutAndSave took 89 ms (total: 6.00 sec)
+[2024.01.11-06.12.33:320][588]AssetCheck: New page: Asset Save: DatatableWidget
+[2024.01.11-06.12.33:320][588]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Code/Other/DatatableWidget.DatatableWidget
+[2024.01.11-06.12.36:377][816]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.11-06.12.36:447][816]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Code/Other/DatatableBase" FILE="../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Content/Code/Other/DatatableBase.uasset" SILENT=true
+[2024.01.11-06.12.36:455][816]LogSavePackage: Moving output files for package: /Game/Code/Other/DatatableBase
+[2024.01.11-06.12.36:456][816]LogSavePackage: Moving '../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Saved/DatatableBase370E60FA4FB82BF6E15232BA4C3A1C74.tmp' to '../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Content/Code/Other/DatatableBase.uasset'
+[2024.01.11-06.12.36:463][816]LogFileHelpers: InternalPromptForCheckoutAndSave took 85 ms (total: 6.09 sec)
+[2024.01.11-06.12.36:464][816]AssetCheck: New page: Asset Save: DatatableBase
+[2024.01.11-06.12.36:464][816]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Code/Other/DatatableBase.DatatableBase
+[2024.01.11-06.12.39:180][976]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.11-06.12.39:252][976]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Code/Other/DatatableWidget" FILE="../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Content/Code/Other/DatatableWidget.uasset" SILENT=true
+[2024.01.11-06.12.39:260][976]LogSavePackage: Moving output files for package: /Game/Code/Other/DatatableWidget
+[2024.01.11-06.12.39:260][976]LogSavePackage: Moving '../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Saved/DatatableWidgetCC40961E4F8B1684FCDAAC97D43273B3.tmp' to '../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Content/Code/Other/DatatableWidget.uasset'
+[2024.01.11-06.12.39:267][976]LogFileHelpers: InternalPromptForCheckoutAndSave took 86 ms (total: 6.18 sec)
+[2024.01.11-06.12.39:268][976]AssetCheck: New page: Asset Save: DatatableWidget
+[2024.01.11-06.12.39:268][976]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Code/Other/DatatableWidget.DatatableWidget
+[2024.01.11-06.13.16:889][670]BlueprintLog: New page: Compile DataTable
+[2024.01.11-06.13.16:937][670]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2024.01.11-06.13.17:270][688]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.11-06.13.17:343][688]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Code/Other/DataTable" FILE="../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Content/Code/Other/DataTable.uasset" SILENT=true
+[2024.01.11-06.13.17:346][688]LogSavePackage: Moving output files for package: /Game/Code/Other/DataTable
+[2024.01.11-06.13.17:347][688]LogSavePackage: Moving '../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Saved/DataTable411065EC4B330C64ACB8688FC1A6D7F2.tmp' to '../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Content/Code/Other/DataTable.uasset'
+[2024.01.11-06.13.17:354][688]LogFileHelpers: InternalPromptForCheckoutAndSave took 83 ms (total: 6.26 sec)
+[2024.01.11-06.13.17:355][688]AssetCheck: New page: Asset Save: DataTable
+[2024.01.11-06.13.17:355][688]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Code/Other/DataTable.DataTable
+[2024.01.11-06.13.32:107][644]BlueprintLog: New page: Compile DataTable
+[2024.01.11-06.13.32:158][644]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2024.01.11-06.13.32:617][671]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.11-06.13.32:687][671]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Code/Other/DataTable" FILE="../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Content/Code/Other/DataTable.uasset" SILENT=true
+[2024.01.11-06.13.32:692][671]LogSavePackage: Moving output files for package: /Game/Code/Other/DataTable
+[2024.01.11-06.13.32:692][671]LogSavePackage: Moving '../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Saved/DataTable72469B3D4BCB73822FDB4D8FE0C31DE3.tmp' to '../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Content/Code/Other/DataTable.uasset'
+[2024.01.11-06.13.32:700][671]LogFileHelpers: InternalPromptForCheckoutAndSave took 82 ms (total: 6.34 sec)
+[2024.01.11-06.13.32:702][671]AssetCheck: New page: Asset Save: DataTable
+[2024.01.11-06.13.32:702][671]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Code/Other/DataTable.DataTable
+[2024.01.11-06.13.55:553][336]BlueprintLog: New page: Compile DataTable
+[2024.01.11-06.13.55:599][336]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2024.01.11-06.13.55:908][351]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.11-06.13.55:982][351]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Code/Other/DataTable" FILE="../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Content/Code/Other/DataTable.uasset" SILENT=true
+[2024.01.11-06.13.55:988][351]LogSavePackage: Moving output files for package: /Game/Code/Other/DataTable
+[2024.01.11-06.13.55:989][351]LogSavePackage: Moving '../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Saved/DataTable31FA91FC4C0467BC212817B81D85854E.tmp' to '../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Content/Code/Other/DataTable.uasset'
+[2024.01.11-06.13.55:995][351]LogFileHelpers: InternalPromptForCheckoutAndSave took 85 ms (total: 6.43 sec)
+[2024.01.11-06.13.55:996][351]AssetCheck: New page: Asset Save: DataTable
+[2024.01.11-06.13.55:996][351]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Code/Other/DataTable.DataTable
+[2024.01.11-06.14.01:504][754]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.11-06.14.01:577][754]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Code/Other/DatatableWidget" FILE="../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Content/Code/Other/DatatableWidget.uasset" SILENT=true
+[2024.01.11-06.14.01:584][754]LogSavePackage: Moving output files for package: /Game/Code/Other/DatatableWidget
+[2024.01.11-06.14.01:585][754]LogSavePackage: Moving '../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Saved/DatatableWidgetFE36B32F4043B81EA423EEBE60C1BC88.tmp' to '../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Content/Code/Other/DatatableWidget.uasset'
+[2024.01.11-06.14.01:592][754]LogFileHelpers: InternalPromptForCheckoutAndSave took 87 ms (total: 6.51 sec)
+[2024.01.11-06.14.01:593][754]AssetCheck: New page: Asset Save: DatatableWidget
+[2024.01.11-06.14.01:593][754]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Code/Other/DatatableWidget.DatatableWidget
+[2024.01.11-06.14.02:769][836]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.11-06.14.02:843][836]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Code/Other/DatatableWidget" FILE="../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Content/Code/Other/DatatableWidget.uasset" SILENT=true
+[2024.01.11-06.14.02:851][836]LogSavePackage: Moving output files for package: /Game/Code/Other/DatatableWidget
+[2024.01.11-06.14.02:853][836]LogSavePackage: Moving '../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Saved/DatatableWidget4F12D3AD4AAFCE9E90AC2594F65D5CC0.tmp' to '../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Content/Code/Other/DatatableWidget.uasset'
+[2024.01.11-06.14.02:860][836]LogFileHelpers: InternalPromptForCheckoutAndSave took 90 ms (total: 6.60 sec)
+[2024.01.11-06.14.02:860][836]AssetCheck: New page: Asset Save: DatatableWidget
+[2024.01.11-06.14.02:860][836]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Code/Other/DatatableWidget.DatatableWidget
+[2024.01.11-06.14.29:776][572]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2024.01.11-06.14.40:046][542]LogContentBrowser: Attempting asset rename: DatatableBase -> DatabaseSlot
+[2024.01.11-06.14.40:111][542]LogMetaData: Removing '/Game/Code/Other/DatabaseSlot.SKEL_DatabaseSlot_C' ref from Metadata '/Game/Code/Other/DatatableBase.PackageMetaData'
+[2024.01.11-06.14.40:111][542]LogMetaData: Removing '/Game/Code/Other/DatabaseSlot.DatabaseSlot_C' ref from Metadata '/Game/Code/Other/DatatableBase.PackageMetaData'
+[2024.01.11-06.14.40:111][542]LogMetaData: Removing '/Game/Code/Other/DatabaseSlot.DatabaseSlot:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Code/Other/DatatableBase.PackageMetaData'
+[2024.01.11-06.14.40:111][542]LogMetaData: Removing '/Game/Code/Other/DatabaseSlot.DatabaseSlot:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Code/Other/DatatableBase.PackageMetaData'
+[2024.01.11-06.14.40:111][542]LogMetaData: Removing '/Game/Code/Other/DatabaseSlot.DatabaseSlot:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Code/Other/DatatableBase.PackageMetaData'
+[2024.01.11-06.14.40:111][542]LogMetaData: Removing '/Game/Code/Other/DatabaseSlot.SKEL_DatabaseSlot_C:Tick' ref from Metadata '/Game/Code/Other/DatatableBase.PackageMetaData'
+[2024.01.11-06.14.40:111][542]LogMetaData: Removing '/Game/Code/Other/DatabaseSlot.SKEL_DatabaseSlot_C:Construct' ref from Metadata '/Game/Code/Other/DatatableBase.PackageMetaData'
+[2024.01.11-06.14.40:111][542]LogMetaData: Removing '/Game/Code/Other/DatabaseSlot.SKEL_DatabaseSlot_C:PreConstruct' ref from Metadata '/Game/Code/Other/DatatableBase.PackageMetaData'
+[2024.01.11-06.14.40:111][542]LogMetaData: Removing '/Game/Code/Other/DatabaseSlot.DatabaseSlot_C:Construct' ref from Metadata '/Game/Code/Other/DatatableBase.PackageMetaData'
+[2024.01.11-06.14.40:127][542]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.11-06.14.40:202][542]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Code/Other/DatatableWidget" FILE="../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Content/Code/Other/DatatableWidget.uasset" SILENT=true
+[2024.01.11-06.14.40:211][542]LogSavePackage: Moving output files for package: /Game/Code/Other/DatatableWidget
+[2024.01.11-06.14.40:211][542]LogSavePackage: Moving '../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Saved/DatatableWidgetD0546B5049F21950EE7B64B94B2BDA39.tmp' to '../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Content/Code/Other/DatatableWidget.uasset'
+[2024.01.11-06.14.40:212][542]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Code/Other/DatabaseSlot" FILE="../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Content/Code/Other/DatabaseSlot.uasset" SILENT=true
+[2024.01.11-06.14.40:221][542]LogSavePackage: Moving output files for package: /Game/Code/Other/DatabaseSlot
+[2024.01.11-06.14.40:221][542]LogSavePackage: Moving '../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Saved/DatabaseSlot57349E5A4FCE18BD71DF1F8B3DED8532.tmp' to '../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Content/Code/Other/DatabaseSlot.uasset'
+[2024.01.11-06.14.40:231][542]LogFileHelpers: InternalPromptForCheckoutAndSave took 104 ms (total: 6.71 sec)
+[2024.01.11-06.14.40:272][542]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2024.01.11-06.14.40:291][542]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2024.01.11-06.14.40:309][542]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2024.01.11-06.14.40:312][542]AssetCheck: New page: Asset Save: multiple assets
+[2024.01.11-06.14.40:312][542]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Code/Other/DatatableWidget.DatatableWidget
+[2024.01.11-06.14.40:314][542]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Code/Other/DatabaseSlot.DatabaseSlot
+[2024.01.11-06.14.47:044][214]LogContentBrowser: Attempting asset rename: DatatableWidget -> DatabaseWidget
+[2024.01.11-06.14.47:071][214]LogMetaData: Removing '/Game/Code/Other/DatabaseWidget.SKEL_DatabaseWidget_C' ref from Metadata '/Game/Code/Other/DatatableWidget.PackageMetaData'
+[2024.01.11-06.14.47:072][214]LogMetaData: Removing '/Game/Code/Other/DatabaseWidget.DatabaseWidget_C' ref from Metadata '/Game/Code/Other/DatatableWidget.PackageMetaData'
+[2024.01.11-06.14.47:072][214]LogMetaData: Removing '/Game/Code/Other/DatabaseWidget.DatabaseWidget:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Code/Other/DatatableWidget.PackageMetaData'
+[2024.01.11-06.14.47:072][214]LogMetaData: Removing '/Game/Code/Other/DatabaseWidget.DatabaseWidget:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Code/Other/DatatableWidget.PackageMetaData'
+[2024.01.11-06.14.47:072][214]LogMetaData: Removing '/Game/Code/Other/DatabaseWidget.DatabaseWidget:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Code/Other/DatatableWidget.PackageMetaData'
+[2024.01.11-06.14.47:072][214]LogMetaData: Removing '/Game/Code/Other/DatabaseWidget.DatabaseWidget_C:UpdateWidget' ref from Metadata '/Game/Code/Other/DatatableWidget.PackageMetaData'
+[2024.01.11-06.14.47:072][214]LogMetaData: Removing '/Game/Code/Other/DatabaseWidget.SKEL_DatabaseWidget_C:UpdateWidget' ref from Metadata '/Game/Code/Other/DatatableWidget.PackageMetaData'
+[2024.01.11-06.14.47:072][214]LogMetaData: Removing '/Game/Code/Other/DatabaseWidget.SKEL_DatabaseWidget_C:Tick' ref from Metadata '/Game/Code/Other/DatatableWidget.PackageMetaData'
+[2024.01.11-06.14.47:072][214]LogMetaData: Removing '/Game/Code/Other/DatabaseWidget.SKEL_DatabaseWidget_C:Construct' ref from Metadata '/Game/Code/Other/DatatableWidget.PackageMetaData'
+[2024.01.11-06.14.47:072][214]LogMetaData: Removing '/Game/Code/Other/DatabaseWidget.SKEL_DatabaseWidget_C:PreConstruct' ref from Metadata '/Game/Code/Other/DatatableWidget.PackageMetaData'
+[2024.01.11-06.14.47:083][214]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.11-06.14.47:155][214]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Code/Other/DataTable" FILE="../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Content/Code/Other/DataTable.uasset" SILENT=true
+[2024.01.11-06.14.47:161][214]LogSavePackage: Moving output files for package: /Game/Code/Other/DataTable
+[2024.01.11-06.14.47:161][214]LogSavePackage: Moving '../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Saved/DataTableC9E3B5EB481600342625ED8B2999B53B.tmp' to '../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Content/Code/Other/DataTable.uasset'
+[2024.01.11-06.14.47:162][214]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Code/Other/DatabaseWidget" FILE="../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Content/Code/Other/DatabaseWidget.uasset" SILENT=true
+[2024.01.11-06.14.47:169][214]LogSavePackage: Moving output files for package: /Game/Code/Other/DatabaseWidget
+[2024.01.11-06.14.47:169][214]LogSavePackage: Moving '../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Saved/DatabaseWidgetF991B3354F1C9681BAC6D786856B4F33.tmp' to '../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Content/Code/Other/DatabaseWidget.uasset'
+[2024.01.11-06.14.47:179][214]LogFileHelpers: InternalPromptForCheckoutAndSave took 96 ms (total: 6.81 sec)
+[2024.01.11-06.14.47:208][214]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2024.01.11-06.14.47:228][214]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2024.01.11-06.14.47:242][214]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2024.01.11-06.14.47:245][214]AssetCheck: New page: Asset Save: multiple assets
+[2024.01.11-06.14.47:245][214]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Code/Other/DataTable.DataTable
+[2024.01.11-06.14.47:245][214]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Code/Other/DatabaseWidget.DatabaseWidget
+[2024.01.11-06.14.48:220][316]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2024.01.11-06.14.50:724][511]BlueprintLog: New page: Compile DatabaseWidget
+[2024.01.11-06.14.50:771][511]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2024.01.11-06.14.51:537][556]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.11-06.14.51:622][556]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Code/Other/DatabaseWidget" FILE="../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Content/Code/Other/DatabaseWidget.uasset" SILENT=true
+[2024.01.11-06.14.51:631][556]LogSavePackage: Moving output files for package: /Game/Code/Other/DatabaseWidget
+[2024.01.11-06.14.51:632][556]LogSavePackage: Moving '../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Saved/DatabaseWidget5815079A4D9309FFFA34F7ADEB1F1A27.tmp' to '../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Content/Code/Other/DatabaseWidget.uasset'
+[2024.01.11-06.14.51:638][556]LogFileHelpers: InternalPromptForCheckoutAndSave took 101 ms (total: 6.91 sec)
+[2024.01.11-06.14.51:640][556]AssetCheck: New page: Asset Save: DatabaseWidget
+[2024.01.11-06.14.51:640][556]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Code/Other/DatabaseWidget.DatabaseWidget
+[2024.01.11-06.14.54:486][780]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2024.01.11-06.14.59:366][250]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2024.01.11-06.15.01:872][485]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2024.01.11-06.15.04:409][730]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Code/Other/BaseVRGameGamemode.BaseVRGameGamemode
+[2024.01.11-06.15.04:409][730]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.11-06.15.04:409][730]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.11-06.15.06:551][838]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.11-06.15.06:615][838]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Code/Other/BaseVRGameGamemode" FILE="../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Content/Code/Other/BaseVRGameGamemode.uasset" SILENT=true
+[2024.01.11-06.15.06:637][838]LogSavePackage: Moving output files for package: /Game/Code/Other/BaseVRGameGamemode
+[2024.01.11-06.15.06:639][838]LogSavePackage: Moving '../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Saved/BaseVRGameGamemode3A94DD7D407FCDD231F2C0B4474A7464.tmp' to '../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Content/Code/Other/BaseVRGameGamemode.uasset'
+[2024.01.11-06.15.06:646][838]LogFileHelpers: InternalPromptForCheckoutAndSave took 94 ms (total: 7.00 sec)
+[2024.01.11-06.15.06:647][838]AssetCheck: New page: Asset Save: BaseVRGameGamemode
+[2024.01.11-06.15.06:647][838]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Code/Other/BaseVRGameGamemode.BaseVRGameGamemode
+[2024.01.11-06.15.10:340][ 52]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.11-06.15.10:409][ 52]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Code/Other/BaseVRGameGamemode" FILE="../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Content/Code/Other/BaseVRGameGamemode.uasset" SILENT=true
+[2024.01.11-06.15.10:431][ 52]LogSavePackage: Moving output files for package: /Game/Code/Other/BaseVRGameGamemode
+[2024.01.11-06.15.10:431][ 52]LogSavePackage: Moving '../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Saved/BaseVRGameGamemodeF6F43D5F4A301AA1E6CAB2AB3D2042AE.tmp' to '../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Content/Code/Other/BaseVRGameGamemode.uasset'
+[2024.01.11-06.15.10:439][ 52]LogFileHelpers: InternalPromptForCheckoutAndSave took 99 ms (total: 7.10 sec)
+[2024.01.11-06.15.10:440][ 52]AssetCheck: New page: Asset Save: BaseVRGameGamemode
+[2024.01.11-06.15.10:440][ 52]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Code/Other/BaseVRGameGamemode.BaseVRGameGamemode
+[2024.01.11-06.15.27:641][919]BlueprintLog: New page: Compile BaseVRGameGamemode
+[2024.01.11-06.15.27:703][919]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2024.01.11-06.15.28:158][938]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.11-06.15.28:221][938]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Code/Other/BaseVRGameGamemode" FILE="../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Content/Code/Other/BaseVRGameGamemode.uasset" SILENT=true
+[2024.01.11-06.15.28:244][938]LogSavePackage: Moving output files for package: /Game/Code/Other/BaseVRGameGamemode
+[2024.01.11-06.15.28:245][938]LogSavePackage: Moving '../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Saved/BaseVRGameGamemodeBE3740BC429EBC72780B7898AD1088D9.tmp' to '../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Content/Code/Other/BaseVRGameGamemode.uasset'
+[2024.01.11-06.15.28:252][938]LogFileHelpers: InternalPromptForCheckoutAndSave took 94 ms (total: 7.20 sec)
+[2024.01.11-06.15.28:254][938]AssetCheck: New page: Asset Save: BaseVRGameGamemode
+[2024.01.11-06.15.28:254][938]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Code/Other/BaseVRGameGamemode.BaseVRGameGamemode
+[2024.01.11-06.15.47:747][100]BlueprintLog: New page: Compile BaseVRGameGamemode
+[2024.01.11-06.15.47:812][100]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2024.01.11-06.16.00:128][856]BlueprintLog: New page: Compile BaseVRGameGamemode
+[2024.01.11-06.16.00:188][856]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2024.01.11-06.16.00:519][866]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.11-06.16.00:593][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Code/Other/BaseVRGameGamemode" FILE="../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Content/Code/Other/BaseVRGameGamemode.uasset" SILENT=true
+[2024.01.11-06.16.00:617][866]LogSavePackage: Moving output files for package: /Game/Code/Other/BaseVRGameGamemode
+[2024.01.11-06.16.00:617][866]LogSavePackage: Moving '../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Saved/BaseVRGameGamemode0B5D413D47E42408D215339235067624.tmp' to '../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Content/Code/Other/BaseVRGameGamemode.uasset'
+[2024.01.11-06.16.00:625][866]LogFileHelpers: InternalPromptForCheckoutAndSave took 104 ms (total: 7.30 sec)
+[2024.01.11-06.16.00:626][866]AssetCheck: New page: Asset Save: BaseVRGameGamemode
+[2024.01.11-06.16.00:626][866]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Code/Other/BaseVRGameGamemode.BaseVRGameGamemode
+[2024.01.11-06.16.58:540][524]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.11-06.16.58:652][524]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Code/Other/BaseVRGameGamemode" FILE="../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Content/Code/Other/BaseVRGameGamemode.uasset" SILENT=true
+[2024.01.11-06.16.58:682][524]LogSavePackage: Moving output files for package: /Game/Code/Other/BaseVRGameGamemode
+[2024.01.11-06.16.58:682][524]LogSavePackage: Moving '../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Saved/BaseVRGameGamemode96ECDAE540D3BD52FD3B68AD43D359D3.tmp' to '../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Content/Code/Other/BaseVRGameGamemode.uasset'
+[2024.01.11-06.16.58:694][524]LogFileHelpers: InternalPromptForCheckoutAndSave took 153 ms (total: 7.45 sec)
+[2024.01.11-06.16.58:697][524]AssetCheck: New page: Asset Save: BaseVRGameGamemode
+[2024.01.11-06.16.58:697][524]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Code/Other/BaseVRGameGamemode.BaseVRGameGamemode
+[2024.01.11-06.16.59:971][563]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.11-06.17.00:056][563]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Code/Other/BaseVRGameGamemode" FILE="../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Content/Code/Other/BaseVRGameGamemode.uasset" SILENT=true
+[2024.01.11-06.17.00:082][563]LogSavePackage: Moving output files for package: /Game/Code/Other/BaseVRGameGamemode
+[2024.01.11-06.17.00:083][563]LogSavePackage: Moving '../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Saved/BaseVRGameGamemode304F69DC46A71137AACA298D6983D080.tmp' to '../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Content/Code/Other/BaseVRGameGamemode.uasset'
+[2024.01.11-06.17.00:091][563]LogFileHelpers: InternalPromptForCheckoutAndSave took 120 ms (total: 7.57 sec)
+[2024.01.11-06.17.00:093][563]AssetCheck: New page: Asset Save: BaseVRGameGamemode
+[2024.01.11-06.17.00:093][563]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Code/Other/BaseVRGameGamemode.BaseVRGameGamemode
+[2024.01.11-06.17.39:781][ 82]BlueprintLog: New page: Compile BaseVRGameGamemode
+[2024.01.11-06.17.39:907][ 82]LogUObjectHash: Compacting FUObjectHashTables data took   5.59ms
+[2024.01.11-06.18.05:565][538]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2024.01.11-06.18.05:569][538]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Game/Level6' took 0.028
+[2024.01.11-06.18.05:571][538]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Code/Other/BaseVRGameGamemode] ([2] browsable assets)...
+[2024.01.11-06.18.05:571][538]OBJ SavePackage: Finished generating thumbnails for package [/Game/Code/Other/BaseVRGameGamemode]
+[2024.01.11-06.18.05:600][538]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Code/Other/BaseVRGameGamemode_Auto1
+[2024.01.11-06.18.05:600][538]LogSavePackage: Moving '../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Saved/BaseVRGameGamemode_Auto178FB900E4E67A646E176DDA69F6A54A1.tmp' to '../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Saved/Autosaves/Game/Code/Other/BaseVRGameGamemode_Auto1.uasset'
+[2024.01.11-06.18.05:600][538]LogFileHelpers: Auto-saving content packages took 0.031
+[2024.01.11-06.18.10:746][781]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.11-06.18.10:825][781]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Code/Other/BaseVRGameGamemode" FILE="../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Content/Code/Other/BaseVRGameGamemode.uasset" SILENT=true
+[2024.01.11-06.18.10:850][781]LogSavePackage: Moving output files for package: /Game/Code/Other/BaseVRGameGamemode
+[2024.01.11-06.18.10:851][781]LogSavePackage: Moving '../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Saved/BaseVRGameGamemode5735C07B44DC1D14D834FD942007AD71.tmp' to '../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Content/Code/Other/BaseVRGameGamemode.uasset'
+[2024.01.11-06.18.10:857][781]LogFileHelpers: InternalPromptForCheckoutAndSave took 111 ms (total: 7.69 sec)
+[2024.01.11-06.18.10:859][781]AssetCheck: New page: Asset Save: BaseVRGameGamemode
+[2024.01.11-06.18.10:859][781]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Code/Other/BaseVRGameGamemode.BaseVRGameGamemode
+[2024.01.11-06.18.32:414][149]BlueprintLog: New page: Compile BaseVRGameGamemode
+[2024.01.11-06.18.32:475][149]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2024.01.11-06.18.32:827][158]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.11-06.18.32:901][158]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Code/Other/BaseVRGameGamemode" FILE="../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Content/Code/Other/BaseVRGameGamemode.uasset" SILENT=true
+[2024.01.11-06.18.32:926][158]LogSavePackage: Moving output files for package: /Game/Code/Other/BaseVRGameGamemode
+[2024.01.11-06.18.32:926][158]LogSavePackage: Moving '../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Saved/BaseVRGameGamemode38B6113B4E7495069D98468607697C04.tmp' to '../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Content/Code/Other/BaseVRGameGamemode.uasset'
+[2024.01.11-06.18.32:934][158]LogFileHelpers: InternalPromptForCheckoutAndSave took 106 ms (total: 7.79 sec)
+[2024.01.11-06.18.32:935][158]AssetCheck: New page: Asset Save: BaseVRGameGamemode
+[2024.01.11-06.18.32:935][158]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Code/Other/BaseVRGameGamemode.BaseVRGameGamemode
+[2024.01.11-06.19.15:089][617]BlueprintLog: New page: Compile BaseVRGameGamemode
+[2024.01.11-06.19.15:151][617]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2024.01.11-06.19.15:579][631]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.11-06.19.15:650][631]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Code/Other/BaseVRGameGamemode" FILE="../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Content/Code/Other/BaseVRGameGamemode.uasset" SILENT=true
+[2024.01.11-06.19.15:676][631]LogSavePackage: Moving output files for package: /Game/Code/Other/BaseVRGameGamemode
+[2024.01.11-06.19.15:677][631]LogSavePackage: Moving '../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Saved/BaseVRGameGamemode77829FAB4FDF66D115CAEEA0F74E5452.tmp' to '../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Content/Code/Other/BaseVRGameGamemode.uasset'
+[2024.01.11-06.19.15:684][631]LogFileHelpers: InternalPromptForCheckoutAndSave took 104 ms (total: 7.90 sec)
+[2024.01.11-06.19.15:685][631]AssetCheck: New page: Asset Save: BaseVRGameGamemode
+[2024.01.11-06.19.15:685][631]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Code/Other/BaseVRGameGamemode.BaseVRGameGamemode
+[2024.01.11-06.19.52:257][822]BlueprintLog: New page: Compile DatabaseWidget
+[2024.01.11-06.19.52:307][822]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2024.01.11-06.19.52:629][839]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.11-06.19.52:705][839]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Code/Other/DatabaseWidget" FILE="../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Content/Code/Other/DatabaseWidget.uasset" SILENT=true
+[2024.01.11-06.19.52:713][839]LogSavePackage: Moving output files for package: /Game/Code/Other/DatabaseWidget
+[2024.01.11-06.19.52:713][839]LogSavePackage: Moving '../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Saved/DatabaseWidgetCC3CADA343B66A9FAB5BF3A831F04155.tmp' to '../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Content/Code/Other/DatabaseWidget.uasset'
+[2024.01.11-06.19.52:721][839]LogFileHelpers: InternalPromptForCheckoutAndSave took 91 ms (total: 7.99 sec)
+[2024.01.11-06.19.52:722][839]AssetCheck: New page: Asset Save: DatabaseWidget
+[2024.01.11-06.19.52:722][839]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Code/Other/DatabaseWidget.DatabaseWidget
+[2024.01.11-06.19.55:662][ 40]BlueprintLog: New page: Compile DataTable
+[2024.01.11-06.19.55:703][ 40]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2024.01.11-06.19.56:103][ 60]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.11-06.19.56:175][ 60]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Code/Other/DataTable" FILE="../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Content/Code/Other/DataTable.uasset" SILENT=true
+[2024.01.11-06.19.56:181][ 60]LogSavePackage: Moving output files for package: /Game/Code/Other/DataTable
+[2024.01.11-06.19.56:181][ 60]LogSavePackage: Moving '../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Saved/DataTableC45BC438455A07A128BB09B06F4BF4B7.tmp' to '../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Content/Code/Other/DataTable.uasset'
+[2024.01.11-06.19.56:189][ 60]LogFileHelpers: InternalPromptForCheckoutAndSave took 85 ms (total: 8.07 sec)
+[2024.01.11-06.19.56:190][ 60]AssetCheck: New page: Asset Save: DataTable
+[2024.01.11-06.19.56:190][ 60]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Code/Other/DataTable.DataTable
+[2024.01.11-06.19.57:598][147]BlueprintLog: New page: Compile BaseVRGameGamemode
+[2024.01.11-06.19.57:666][147]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2024.01.11-06.19.58:212][168]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.11-06.19.58:282][168]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Code/Other/BaseVRGameGamemode" FILE="../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Content/Code/Other/BaseVRGameGamemode.uasset" SILENT=true
+[2024.01.11-06.19.58:309][168]LogSavePackage: Moving output files for package: /Game/Code/Other/BaseVRGameGamemode
+[2024.01.11-06.19.58:309][168]LogSavePackage: Moving '../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Saved/BaseVRGameGamemodeFC63304C464D6B000636FC9F35161AFC.tmp' to '../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Content/Code/Other/BaseVRGameGamemode.uasset'
+[2024.01.11-06.19.58:318][168]LogFileHelpers: InternalPromptForCheckoutAndSave took 105 ms (total: 8.18 sec)
+[2024.01.11-06.19.58:319][168]AssetCheck: New page: Asset Save: BaseVRGameGamemode
+[2024.01.11-06.19.58:319][168]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Code/Other/BaseVRGameGamemode.BaseVRGameGamemode
+[2024.01.11-06.19.58:910][206]LogSlate: Window 'BaseVRGameGamemode' being destroyed
+[2024.01.11-06.19.58:914][206]LogSlate: Window 'BaseVRGameGamemode' being destroyed
+[2024.01.11-06.19.58:921][206]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2024.01.11-06.19.58:921][206]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.11-06.19.58:989][206]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2024.01.11-06.19.58:989][206]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.11-06.19.58:999][206]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2024.01.11-06.19.58:999][206]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.11-06.19.59:037][206]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2024.01.11-06.19.59:037][206]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.11-06.19.59:046][206]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2024.01.11-06.19.59:046][206]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.11-06.19.59:086][206]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.01.11-06.19.59:086][206]LogWorld: UWorld::CleanupWorld for World_55, bSessionEnded=true, bCleanupResources=true
+[2024.01.11-06.19.59:086][206]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.11-06.20.00:192][311]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2024.01.11-06.20.02:706][564]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2024.01.11-06.20.09:449][276]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2024.01.11-06.20.09:840][276]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.11-06.20.09:864][276]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Game/Level1.Level1
+[2024.01.11-06.20.09:864][276]Cmd: MAP LOAD FILE="../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Content/Maps/Game/Level1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.01.11-06.20.09:864][276]LightingResults: New page: Lighting Build
+[2024.01.11-06.20.09:864][276]LoadErrors: New page: Loading map: Level1.umap
+[2024.01.11-06.20.09:921][276]LogWorld: UWorld::CleanupWorld for Level6, bSessionEnded=true, bCleanupResources=true
+[2024.01.11-06.20.09:921][276]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.11-06.20.09:921][276]MapCheck: New page: Map Check
+[2024.01.11-06.20.09:921][276]LightingResults: New page: Lighting Build
+[2024.01.11-06.20.09:936][276]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.11-06.20.09:941][276]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2024.01.11-06.20.09:954][276]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2024.01.11-06.20.09:955][276]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.11-06.20.09:975][276]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2024.01.11-06.20.09:996][276]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2024.01.11-06.20.10:012][276]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level1'.
+[2024.01.11-06.20.10:012][276]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.11-06.20.10:012][276]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.11-06.20.10:012][276]LogAIModule: Creating AISystem for world Level1
+[2024.01.11-06.20.10:251][276]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.01.11-06.20.10:251][276]LogNavigation: Warning: Recreating dtNavMesh instance RecastNavMesh-Default due to saved navmesh origin (X=135.000 Y=0.000 Z=0.000, usually the RecastNavMesh location) not being aligned with tile size (988 uu) 
+[2024.01.11-06.20.10:274][276]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2024.01.11-06.20.10:281][276]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.01.11-06.20.10:283][276]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,127ms to complete.
+[2024.01.11-06.20.10:382][277]LogShaderCompilers: Display: ================================================
+[2024.01.11-06.20.10:382][277]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.01.11-06.20.10:382][277]LogShaderCompilers: Display: Total job queries 134, among them cache hits 47 (35.07%)
+[2024.01.11-06.20.10:382][277]LogShaderCompilers: Display: Tracking 87 distinct input hashes that result in 70 distinct outputs (80.46%)
+[2024.01.11-06.20.10:382][277]LogShaderCompilers: Display: RAM used: 3,05 MiB of 716,80 MiB budget. Usage: 0.43%
+[2024.01.11-06.20.10:382][277]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.01.11-06.20.10:382][277]LogShaderCompilers: Display: Shaders Compiled: 0
+[2024.01.11-06.20.10:382][277]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0%)
+[2024.01.11-06.20.10:382][277]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2024.01.11-06.20.10:382][277]LogShaderCompilers: Display: ================================================
+[2024.01.11-06.20.21:216][534]LogViewport: Scene viewport resized to 1167x462, mode Windowed.
+[2024.01.11-06.20.21:229][535]LogViewport: Scene viewport resized to 1168x462, mode Windowed.
+[2024.01.11-06.20.21:241][536]LogViewport: Scene viewport resized to 1171x462, mode Windowed.
+[2024.01.11-06.20.21:255][537]LogViewport: Scene viewport resized to 1173x462, mode Windowed.
+[2024.01.11-06.20.21:267][538]LogViewport: Scene viewport resized to 1178x462, mode Windowed.
+[2024.01.11-06.20.21:280][539]LogViewport: Scene viewport resized to 1183x462, mode Windowed.
+[2024.01.11-06.20.21:293][540]LogViewport: Scene viewport resized to 1191x462, mode Windowed.
+[2024.01.11-06.20.21:306][541]LogViewport: Scene viewport resized to 1199x462, mode Windowed.
+[2024.01.11-06.20.21:320][542]LogViewport: Scene viewport resized to 1209x462, mode Windowed.
+[2024.01.11-06.20.21:333][543]LogViewport: Scene viewport resized to 1219x462, mode Windowed.
+[2024.01.11-06.20.21:349][544]LogViewport: Scene viewport resized to 1230x462, mode Windowed.
+[2024.01.11-06.20.21:363][545]LogViewport: Scene viewport resized to 1238x462, mode Windowed.
+[2024.01.11-06.20.21:376][546]LogViewport: Scene viewport resized to 1245x462, mode Windowed.
+[2024.01.11-06.20.21:390][547]LogViewport: Scene viewport resized to 1249x462, mode Windowed.
+[2024.01.11-06.20.21:403][548]LogViewport: Scene viewport resized to 1251x462, mode Windowed.
+[2024.01.11-06.20.21:847][601]LogViewport: Scene viewport resized to 1250x462, mode Windowed.
+[2024.01.11-06.20.21:861][602]LogViewport: Scene viewport resized to 1248x462, mode Windowed.
+[2024.01.11-06.20.21:939][611]LogViewport: Scene viewport resized to 1247x462, mode Windowed.
+[2024.01.11-06.20.21:958][613]LogViewport: Scene viewport resized to 1246x462, mode Windowed.
+[2024.01.11-06.20.21:972][614]LogViewport: Scene viewport resized to 1245x462, mode Windowed.
+[2024.01.11-06.20.32:653][848]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.11-06.20.32:728][851]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.11-06.20.32:796][855]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.11-06.20.32:817][856]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.11-06.20.37:517][363]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2024.01.11-06.20.44:411][137]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Code/Other/DataTable.DataTable_C
+[2024.01.11-06.20.44:411][137]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Code/Other/DataTable.DataTable_C
+[2024.01.11-06.20.44:413][137]LogActorFactory: Actor Factory spawned Blueprint /Game/Code/Other/DataTable.DataTable as actor: DataTable_C /Game/Maps/Game/Level1.Level1:PersistentLevel.DataTable_C_0
+[2024.01.11-06.20.44:414][137]LogActorFactory: Actor Factory spawned Blueprint /Game/Code/Other/DataTable.DataTable as actor: DataTable_C /Game/Maps/Game/Level1.Level1:PersistentLevel.DataTable_C_0
+[2024.01.11-06.20.45:239][209]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Code/Other/DataTable.DataTable_C
+[2024.01.11-06.20.45:239][209]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Code/Other/DataTable.DataTable_C
+[2024.01.11-06.20.45:246][209]LogActorFactory: Actor Factory spawned Blueprint /Game/Code/Other/DataTable.DataTable as actor: DataTable_C /Game/Maps/Game/Level1.Level1:PersistentLevel.DataTable_C_1
+[2024.01.11-06.20.45:250][209]LogActorFactory: Actor Factory spawned Blueprint /Game/Code/Other/DataTable.DataTable as actor: DataTable_C /Game/Maps/Game/Level1.Level1:PersistentLevel.DataTable_C_1
+[2024.01.11-06.21.21:343][207]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Code/Other/DatabaseWidget.DatabaseWidget
+[2024.01.11-06.21.21:344][207]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.11-06.21.21:344][207]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.11-06.21.21:353][207]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.11-06.21.21:353][207]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.11-06.21.38:681][ 52]LogEditorTransaction: Undo Drag and Drop Widget
+[2024.01.11-06.21.45:952][534]BlueprintLog: New page: Compile DatabaseWidget
+[2024.01.11-06.21.46:143][534]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2024.01.11-06.21.46:551][557]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.11-06.21.46:621][557]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Code/Other/DatabaseWidget" FILE="../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Content/Code/Other/DatabaseWidget.uasset" SILENT=true
+[2024.01.11-06.21.46:631][557]LogSavePackage: Moving output files for package: /Game/Code/Other/DatabaseWidget
+[2024.01.11-06.21.46:631][557]LogSavePackage: Moving '../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Saved/DatabaseWidget4F6491734A423EDB6CF10EA6A5020A7C.tmp' to '../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Content/Code/Other/DatabaseWidget.uasset'
+[2024.01.11-06.21.46:639][557]LogFileHelpers: InternalPromptForCheckoutAndSave took 87 ms (total: 8.27 sec)
+[2024.01.11-06.21.46:640][557]AssetCheck: New page: Asset Save: DatabaseWidget
+[2024.01.11-06.21.46:640][557]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Code/Other/DatabaseWidget.DatabaseWidget
+[2024.01.11-06.22.23:954][562]BlueprintLog: New page: Compile DatabaseWidget
+[2024.01.11-06.22.24:000][562]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2024.01.11-06.22.25:979][708]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Code/Other/DataTable.DataTable
+[2024.01.11-06.22.25:979][708]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.11-06.22.25:979][708]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.11-06.22.32:893][ 75]LogViewport: Scene viewport resized to 1058x609, mode Windowed.
+[2024.01.11-06.22.33:374][103]BlueprintLog: New page: Compile DataTable
+[2024.01.11-06.22.33:425][103]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2024.01.11-06.22.35:150][184]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.11-06.22.35:230][184]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Code/Other/DataTable" FILE="../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Content/Code/Other/DataTable.uasset" SILENT=true
+[2024.01.11-06.22.35:236][184]LogSavePackage: Moving output files for package: /Game/Code/Other/DataTable
+[2024.01.11-06.22.35:236][184]LogSavePackage: Moving '../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Saved/DataTableF5A6FB664DCA86FB65089A963B21BE69.tmp' to '../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Content/Code/Other/DataTable.uasset'
+[2024.01.11-06.22.35:243][184]LogFileHelpers: InternalPromptForCheckoutAndSave took 93 ms (total: 8.36 sec)
+[2024.01.11-06.22.35:245][184]AssetCheck: New page: Asset Save: DataTable
+[2024.01.11-06.22.35:245][184]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Code/Other/DataTable.DataTable
+[2024.01.11-06.22.47:014][165]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2024.01.11-06.22.47:682][165]LogSlate: Window 'Save Content' being destroyed
+[2024.01.11-06.22.47:694][165]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.11-06.22.47:779][165]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Game/Level1" FILE="../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Content/Maps/Game/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.01.11-06.22.47:821][165]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.01.11-06.22.47:868][165]LogSavePackage: Moving output files for package: /Game/Maps/Game/Level1
+[2024.01.11-06.22.47:869][165]LogSavePackage: Moving '../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Saved/Level1109DC4D64265B18ACCBC80BB9250F9C0.tmp' to '../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Content/Maps/Game/Level1.umap'
+[2024.01.11-06.22.47:877][165]LogFileHelpers: All files are already saved.
+[2024.01.11-06.22.47:877][165]LogFileHelpers: Saving map 'Level1' took 0.099
+[2024.01.11-06.22.47:884][165]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Code/Other/DatabaseWidget" FILE="../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Content/Code/Other/DatabaseWidget.uasset" SILENT=true
+[2024.01.11-06.22.47:893][165]LogSavePackage: Moving output files for package: /Game/Code/Other/DatabaseWidget
+[2024.01.11-06.22.47:893][165]LogSavePackage: Moving '../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Saved/DatabaseWidgetA8E61A2F47FB3566C2738984C421AC35.tmp' to '../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Content/Code/Other/DatabaseWidget.uasset'
+[2024.01.11-06.22.47:901][165]LogFileHelpers: InternalPromptForCheckoutAndSave took 207 ms (total: 8.57 sec)
+[2024.01.11-06.22.47:904][165]AssetCheck: New page: Asset Save: multiple assets
+[2024.01.11-06.22.47:904][165]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/Game/Level1.Level1
+[2024.01.11-06.22.47:904][165]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Code/Other/DatabaseWidget.DatabaseWidget
+[2024.01.11-06.22.48:550][220]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2024.01.11-06.22.48:737][220]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.11-06.22.48:757][220]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Game/Level2.Level2
+[2024.01.11-06.22.48:757][220]Cmd: MAP LOAD FILE="../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Content/Maps/Game/Level2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.01.11-06.22.48:757][220]LightingResults: New page: Lighting Build
+[2024.01.11-06.22.48:758][220]LoadErrors: New page: Loading map: Level2.umap
+[2024.01.11-06.22.48:811][220]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2024.01.11-06.22.48:811][220]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.11-06.22.48:811][220]MapCheck: New page: Map Check
+[2024.01.11-06.22.48:811][220]LightingResults: New page: Lighting Build
+[2024.01.11-06.22.48:829][220]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.11-06.22.48:837][220]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2024.01.11-06.22.48:852][220]LogWorld: UWorld::CleanupWorld for Level2, bSessionEnded=true, bCleanupResources=true
+[2024.01.11-06.22.48:852][220]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.11-06.22.48:869][220]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2024.01.11-06.22.48:885][220]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2024.01.11-06.22.48:899][220]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level2'.
+[2024.01.11-06.22.48:899][220]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.11-06.22.48:899][220]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.11-06.22.48:899][220]LogAIModule: Creating AISystem for world Level2
+[2024.01.11-06.22.49:156][220]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.01.11-06.22.49:157][220]LogNavigation: Warning: Recreating dtNavMesh instance RecastNavMesh-Default due to saved navmesh origin (X=150.000 Y=0.000 Z=0.000, usually the RecastNavMesh location) not being aligned with tile size (988 uu) 
+[2024.01.11-06.22.49:180][220]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2024.01.11-06.22.49:187][220]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.01.11-06.22.49:187][220]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,109ms to complete.
+[2024.01.11-06.22.51:023][386]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2024.01.11-06.22.51:170][386]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.11-06.22.51:198][386]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Game/Level3.Level3
+[2024.01.11-06.22.51:198][386]Cmd: MAP LOAD FILE="../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Content/Maps/Game/Level3.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.01.11-06.22.51:198][386]LightingResults: New page: Lighting Build
+[2024.01.11-06.22.51:198][386]LoadErrors: New page: Loading map: Level3.umap
+[2024.01.11-06.22.51:224][386]LogWorld: UWorld::CleanupWorld for Level2, bSessionEnded=true, bCleanupResources=true
+[2024.01.11-06.22.51:224][386]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.11-06.22.51:224][386]MapCheck: New page: Map Check
+[2024.01.11-06.22.51:224][386]LightingResults: New page: Lighting Build
+[2024.01.11-06.22.51:242][386]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.11-06.22.51:245][386]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2024.01.11-06.22.51:251][386]LogWorld: UWorld::CleanupWorld for Level3, bSessionEnded=true, bCleanupResources=true
+[2024.01.11-06.22.51:253][386]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.11-06.22.51:274][386]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2024.01.11-06.22.51:294][386]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2024.01.11-06.22.51:313][386]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level3'.
+[2024.01.11-06.22.51:313][386]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.11-06.22.51:313][386]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.11-06.22.51:314][386]LogAIModule: Creating AISystem for world Level3
+[2024.01.11-06.22.51:375][386]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.01.11-06.22.51:402][386]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2024.01.11-06.22.51:409][386]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.01.11-06.22.51:409][386]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,118ms to complete.
+[2024.01.11-06.22.54:732][727]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.01.11-06.22.54:872][727]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.11-06.22.54:892][727]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Game/Level4.Level4
+[2024.01.11-06.22.54:892][727]Cmd: MAP LOAD FILE="../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Content/Maps/Game/Level4.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.01.11-06.22.54:892][727]LightingResults: New page: Lighting Build
+[2024.01.11-06.22.54:892][727]LoadErrors: New page: Loading map: Level4.umap
+[2024.01.11-06.22.54:919][727]LogWorld: UWorld::CleanupWorld for Level3, bSessionEnded=true, bCleanupResources=true
+[2024.01.11-06.22.54:920][727]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.11-06.22.54:920][727]MapCheck: New page: Map Check
+[2024.01.11-06.22.54:920][727]LightingResults: New page: Lighting Build
+[2024.01.11-06.22.54:937][727]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.11-06.22.54:944][727]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2024.01.11-06.22.54:950][727]LogWorld: UWorld::CleanupWorld for Level4, bSessionEnded=true, bCleanupResources=true
+[2024.01.11-06.22.54:951][727]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.11-06.22.54:970][727]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2024.01.11-06.22.54:988][727]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2024.01.11-06.22.55:000][727]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level4'.
+[2024.01.11-06.22.55:000][727]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.11-06.22.55:001][727]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.11-06.22.55:001][727]LogAIModule: Creating AISystem for world Level4
+[2024.01.11-06.22.55:207][727]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.01.11-06.22.55:229][727]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2024.01.11-06.22.55:238][727]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.01.11-06.22.55:238][727]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,108ms to complete.
+[2024.01.11-06.22.58:707][ 86]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Code/Other/DataTable.DataTable_C
+[2024.01.11-06.22.58:707][ 86]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Code/Other/DataTable.DataTable_C
+[2024.01.11-06.22.58:710][ 86]LogActorFactory: Actor Factory spawned Blueprint /Game/Code/Other/DataTable.DataTable as actor: DataTable_C /Game/Maps/Game/Level4.Level4:PersistentLevel.DataTable_C_0
+[2024.01.11-06.22.58:713][ 86]LogActorFactory: Actor Factory spawned Blueprint /Game/Code/Other/DataTable.DataTable as actor: DataTable_C /Game/Maps/Game/Level4.Level4:PersistentLevel.DataTable_C_0
+[2024.01.11-06.22.59:715][164]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Code/Other/DataTable.DataTable_C
+[2024.01.11-06.22.59:715][164]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Code/Other/DataTable.DataTable_C
+[2024.01.11-06.22.59:736][164]LogActorFactory: Actor Factory spawned Blueprint /Game/Code/Other/DataTable.DataTable as actor: DataTable_C /Game/Maps/Game/Level4.Level4:PersistentLevel.DataTable_C_1
+[2024.01.11-06.22.59:747][164]LogActorFactory: Actor Factory spawned Blueprint /Game/Code/Other/DataTable.DataTable as actor: DataTable_C /Game/Maps/Game/Level4.Level4:PersistentLevel.DataTable_C_1
+[2024.01.11-06.23.21:563][ 35]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2024.01.11-06.23.22:347][ 35]LogSlate: Window 'Save Content' being destroyed
+[2024.01.11-06.23.22:359][ 35]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.11-06.23.22:445][ 35]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Game/Level4" FILE="../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Content/Maps/Game/Level4.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.01.11-06.23.22:485][ 35]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.01.11-06.23.22:519][ 35]LogSavePackage: Moving output files for package: /Game/Maps/Game/Level4
+[2024.01.11-06.23.22:519][ 35]LogSavePackage: Moving '../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Saved/Level490BC1093408026B754DC0C9C2CEE8944.tmp' to '../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Content/Maps/Game/Level4.umap'
+[2024.01.11-06.23.22:527][ 35]LogFileHelpers: All files are already saved.
+[2024.01.11-06.23.22:527][ 35]LogFileHelpers: Saving map 'Level4' took 0.084
+[2024.01.11-06.23.22:535][ 35]LogFileHelpers: InternalPromptForCheckoutAndSave took 176 ms (total: 8.74 sec)
+[2024.01.11-06.23.22:709][ 35]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.11-06.23.22:715][ 35]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Game/Level5.Level5
+[2024.01.11-06.23.22:715][ 35]Cmd: MAP LOAD FILE="../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Content/Maps/Game/Level5.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.01.11-06.23.22:715][ 35]LightingResults: New page: Lighting Build
+[2024.01.11-06.23.22:716][ 35]LoadErrors: New page: Loading map: Level5.umap
+[2024.01.11-06.23.22:744][ 35]LogWorld: UWorld::CleanupWorld for Level4, bSessionEnded=true, bCleanupResources=true
+[2024.01.11-06.23.22:744][ 35]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.11-06.23.22:744][ 35]MapCheck: New page: Map Check
+[2024.01.11-06.23.22:744][ 35]LightingResults: New page: Lighting Build
+[2024.01.11-06.23.22:762][ 35]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.11-06.23.22:769][ 35]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2024.01.11-06.23.22:775][ 35]LogWorld: UWorld::CleanupWorld for Level5, bSessionEnded=true, bCleanupResources=true
+[2024.01.11-06.23.22:775][ 35]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.11-06.23.22:791][ 35]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2024.01.11-06.23.22:810][ 35]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2024.01.11-06.23.22:823][ 35]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level5'.
+[2024.01.11-06.23.22:823][ 35]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.11-06.23.22:823][ 35]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.11-06.23.22:824][ 35]LogAIModule: Creating AISystem for world Level5
+[2024.01.11-06.23.22:954][ 35]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.01.11-06.23.22:972][ 35]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2024.01.11-06.23.22:981][ 35]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.01.11-06.23.22:981][ 35]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,118ms to complete.
+[2024.01.11-06.23.22:998][ 35]AssetCheck: New page: Asset Save: Level4
+[2024.01.11-06.23.30:279][681]Cmd: DELETE
+[2024.01.11-06.23.30:280][681]Cmd: ACTOR DELETE
+[2024.01.11-06.23.30:282][681]LogEditorActor: Deleted Actor: DefaultScenePreview_C
+[2024.01.11-06.23.30:309][681]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2024.01.11-06.23.30:316][681]LogEditorActor: Deleted 1 Actors (0.036 secs)
+[2024.01.11-06.23.31:239][783]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2024.01.11-06.23.31:843][783]LogSlate: Window 'Save Content' being destroyed
+[2024.01.11-06.23.31:851][783]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.11-06.23.31:933][783]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Game/Level5" FILE="../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Content/Maps/Game/Level5.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.01.11-06.23.31:978][783]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2024.01.11-06.23.31:998][783]LogSavePackage: Moving output files for package: /Game/Maps/Game/Level5
+[2024.01.11-06.23.31:998][783]LogSavePackage: Moving '../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Saved/Level54DCF06304C529FAB5B22D592A188CA4A.tmp' to '../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Content/Maps/Game/Level5.umap'
+[2024.01.11-06.23.32:006][783]LogFileHelpers: All files are already saved.
+[2024.01.11-06.23.32:006][783]LogFileHelpers: Saving map 'Level5' took 0.073
+[2024.01.11-06.23.32:013][783]LogFileHelpers: InternalPromptForCheckoutAndSave took 162 ms (total: 8.91 sec)
+[2024.01.11-06.23.32:014][783]AssetCheck: New page: Asset Save: Level5
+[2024.01.11-06.23.32:014][783]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/Game/Level5.Level5
+[2024.01.11-06.23.36:511][276]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Code/Other/DataTable.DataTable_C
+[2024.01.11-06.23.36:511][276]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Code/Other/DataTable.DataTable_C
+[2024.01.11-06.23.36:515][276]LogActorFactory: Actor Factory spawned Blueprint /Game/Code/Other/DataTable.DataTable as actor: DataTable_C /Game/Maps/Game/Level5.Level5:PersistentLevel.DataTable_C_0
+[2024.01.11-06.23.36:518][276]LogActorFactory: Actor Factory spawned Blueprint /Game/Code/Other/DataTable.DataTable as actor: DataTable_C /Game/Maps/Game/Level5.Level5:PersistentLevel.DataTable_C_0
+[2024.01.11-06.23.37:512][348]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Code/Other/DataTable.DataTable_C
+[2024.01.11-06.23.37:512][348]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Code/Other/DataTable.DataTable_C
+[2024.01.11-06.23.37:530][348]LogActorFactory: Actor Factory spawned Blueprint /Game/Code/Other/DataTable.DataTable as actor: DataTable_C /Game/Maps/Game/Level5.Level5:PersistentLevel.DataTable_C_1
+[2024.01.11-06.23.37:542][348]LogActorFactory: Actor Factory spawned Blueprint /Game/Code/Other/DataTable.DataTable as actor: DataTable_C /Game/Maps/Game/Level5.Level5:PersistentLevel.DataTable_C_1
+[2024.01.11-06.23.49:664][414]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2024.01.11-06.23.50:464][414]LogSlate: Window 'Save Content' being destroyed
+[2024.01.11-06.23.50:475][414]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.11-06.23.50:555][414]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Game/Level5" FILE="../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Content/Maps/Game/Level5.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.01.11-06.23.50:597][414]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2024.01.11-06.23.50:617][414]LogSavePackage: Moving output files for package: /Game/Maps/Game/Level5
+[2024.01.11-06.23.50:617][414]LogSavePackage: Moving '../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Saved/Level54784E92243B2AEF91685FC93E33DAF53.tmp' to '../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Content/Maps/Game/Level5.umap'
+[2024.01.11-06.23.50:624][414]LogFileHelpers: All files are already saved.
+[2024.01.11-06.23.50:624][414]LogFileHelpers: Saving map 'Level5' took 0.070
+[2024.01.11-06.23.50:632][414]LogFileHelpers: InternalPromptForCheckoutAndSave took 156 ms (total: 9.06 sec)
+[2024.01.11-06.23.50:727][414]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.11-06.23.50:733][414]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Game/Level6.Level6
+[2024.01.11-06.23.50:733][414]Cmd: MAP LOAD FILE="../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Content/Maps/Game/Level6.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.01.11-06.23.50:733][414]LightingResults: New page: Lighting Build
+[2024.01.11-06.23.50:733][414]LoadErrors: New page: Loading map: Level6.umap
+[2024.01.11-06.23.50:811][414]LogWorld: UWorld::CleanupWorld for Level5, bSessionEnded=true, bCleanupResources=true
+[2024.01.11-06.23.50:811][414]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.11-06.23.50:811][414]MapCheck: New page: Map Check
+[2024.01.11-06.23.50:811][414]LightingResults: New page: Lighting Build
+[2024.01.11-06.23.50:829][414]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.11-06.23.50:833][414]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2024.01.11-06.23.50:837][414]LogWorld: UWorld::CleanupWorld for Level6, bSessionEnded=true, bCleanupResources=true
+[2024.01.11-06.23.50:837][414]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.11-06.23.50:854][414]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2024.01.11-06.23.50:872][414]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2024.01.11-06.23.50:879][414]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level6'.
+[2024.01.11-06.23.50:881][414]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.11-06.23.50:881][414]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.11-06.23.50:881][414]LogAIModule: Creating AISystem for world Level6
+[2024.01.11-06.23.50:944][414]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.01.11-06.23.50:966][414]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2024.01.11-06.23.50:973][414]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.01.11-06.23.50:973][414]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,108ms to complete.
+[2024.01.11-06.23.50:987][414]AssetCheck: New page: Asset Save: Level5
+[2024.01.11-06.23.56:528][993]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2024.01.11-06.23.58:099][164]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2024.01.11-06.24.00:107][393]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2024.01.11-06.24.05:634][ 31]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2024.01.11-06.24.08:247][334]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2024.01.11-06.24.10:364][572]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2024.01.11-06.24.15:961][831]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2024.01.11-06.24.16:063][831]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.11-06.24.16:065][831]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/SelectServer.SelectServer
+[2024.01.11-06.24.16:065][831]Cmd: MAP LOAD FILE="../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Content/Maps/SelectServer.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.01.11-06.24.16:065][831]LightingResults: New page: Lighting Build
+[2024.01.11-06.24.16:065][831]LoadErrors: New page: Loading map: SelectServer.umap
+[2024.01.11-06.24.16:131][831]LogWorld: UWorld::CleanupWorld for Level6, bSessionEnded=true, bCleanupResources=true
+[2024.01.11-06.24.16:131][831]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.11-06.24.16:131][831]MapCheck: New page: Map Check
+[2024.01.11-06.24.16:131][831]LightingResults: New page: Lighting Build
+[2024.01.11-06.24.16:151][831]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.11-06.24.16:156][831]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2024.01.11-06.24.16:159][831]LogWorld: UWorld::CleanupWorld for SelectServer, bSessionEnded=true, bCleanupResources=true
+[2024.01.11-06.24.16:160][831]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.11-06.24.16:182][831]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2024.01.11-06.24.16:203][831]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2024.01.11-06.24.16:219][831]LogAudio: Display: Audio Device (ID: 1) registered with world 'SelectServer'.
+[2024.01.11-06.24.16:219][831]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.11-06.24.16:219][831]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.11-06.24.16:219][831]LogAIModule: Creating AISystem for world SelectServer
+[2024.01.11-06.24.16:252][831]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.01.11-06.24.16:273][831]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2024.01.11-06.24.16:281][831]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.01.11-06.24.16:281][831]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,099ms to complete.
+[2024.01.11-06.24.18:391][ 45]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2024.01.11-06.24.18:486][ 45]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.11-06.24.18:491][ 45]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Lobby/lobby1.lobby1
+[2024.01.11-06.24.18:491][ 45]Cmd: MAP LOAD FILE="../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Content/Maps/Lobby/lobby1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.01.11-06.24.18:491][ 45]LightingResults: New page: Lighting Build
+[2024.01.11-06.24.18:491][ 45]LoadErrors: New page: Loading map: lobby1.umap
+[2024.01.11-06.24.18:542][ 45]LogWorld: UWorld::CleanupWorld for SelectServer, bSessionEnded=true, bCleanupResources=true
+[2024.01.11-06.24.18:542][ 45]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.11-06.24.18:542][ 45]MapCheck: New page: Map Check
+[2024.01.11-06.24.18:542][ 45]LightingResults: New page: Lighting Build
+[2024.01.11-06.24.18:559][ 45]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.11-06.24.18:562][ 45]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2024.01.11-06.24.18:565][ 45]LogWorld: UWorld::CleanupWorld for lobby1, bSessionEnded=true, bCleanupResources=true
+[2024.01.11-06.24.18:565][ 45]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.11-06.24.18:588][ 45]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2024.01.11-06.24.18:608][ 45]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2024.01.11-06.24.18:619][ 45]LogAudio: Display: Audio Device (ID: 1) registered with world 'lobby1'.
+[2024.01.11-06.24.18:619][ 45]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.11-06.24.18:619][ 45]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.11-06.24.18:619][ 45]LogAIModule: Creating AISystem for world lobby1
+[2024.01.11-06.24.18:792][ 45]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.01.11-06.24.18:814][ 45]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2024.01.11-06.24.18:821][ 45]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.01.11-06.24.18:822][ 45]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,126ms to complete.
+[2024.01.11-06.24.18:878][ 46]LogShaderCompilers: Display: ================================================
+[2024.01.11-06.24.18:879][ 46]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.01.11-06.24.18:879][ 46]LogShaderCompilers: Display: Total job queries 223, among them cache hits 85 (38.12%)
+[2024.01.11-06.24.18:879][ 46]LogShaderCompilers: Display: Tracking 138 distinct input hashes that result in 101 distinct outputs (73.19%)
+[2024.01.11-06.24.18:879][ 46]LogShaderCompilers: Display: RAM used: 4,95 MiB of 716,80 MiB budget. Usage: 0.69%
+[2024.01.11-06.24.18:879][ 46]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.01.11-06.24.18:879][ 46]LogShaderCompilers: Display: Shaders Compiled: 0
+[2024.01.11-06.24.18:879][ 46]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0%)
+[2024.01.11-06.24.18:879][ 46]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2024.01.11-06.24.18:879][ 46]LogShaderCompilers: Display: ================================================
+[2024.01.11-06.24.23:269][518]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Code/Other/DataTable.DataTable_C
+[2024.01.11-06.24.23:269][518]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Code/Other/DataTable.DataTable_C
+[2024.01.11-06.24.23:274][518]LogActorFactory: Actor Factory spawned Blueprint /Game/Code/Other/DataTable.DataTable as actor: DataTable_C /Game/Maps/Lobby/lobby1.lobby1:PersistentLevel.DataTable_C_0
+[2024.01.11-06.24.23:277][518]LogActorFactory: Actor Factory spawned Blueprint /Game/Code/Other/DataTable.DataTable as actor: DataTable_C /Game/Maps/Lobby/lobby1.lobby1:PersistentLevel.DataTable_C_0
+[2024.01.11-06.24.24:198][573]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Code/Other/DataTable.DataTable_C
+[2024.01.11-06.24.24:198][573]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Code/Other/DataTable.DataTable_C
+[2024.01.11-06.24.24:217][573]LogActorFactory: Actor Factory spawned Blueprint /Game/Code/Other/DataTable.DataTable as actor: DataTable_C /Game/Maps/Lobby/lobby1.lobby1:PersistentLevel.DataTable_C_1
+[2024.01.11-06.24.24:229][573]LogActorFactory: Actor Factory spawned Blueprint /Game/Code/Other/DataTable.DataTable as actor: DataTable_C /Game/Maps/Lobby/lobby1.lobby1:PersistentLevel.DataTable_C_1
+[2024.01.11-06.24.31:825][220]Cmd: MODE GRID=0
+[2024.01.11-06.24.36:682][630]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2024.01.11-06.24.37:883][630]LogSlate: Window 'Save Content' being destroyed
+[2024.01.11-06.24.37:895][630]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.11-06.24.37:978][630]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Lobby/lobby1" FILE="../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Content/Maps/Lobby/lobby1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.01.11-06.24.38:022][630]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2024.01.11-06.24.38:047][630]LogSavePackage: Moving output files for package: /Game/Maps/Lobby/lobby1
+[2024.01.11-06.24.38:047][630]LogSavePackage: Moving '../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Saved/lobby14688F65E4A2BBD4E2FAB6BB87581303B.tmp' to '../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Content/Maps/Lobby/lobby1.umap'
+[2024.01.11-06.24.38:054][630]LogFileHelpers: All files are already saved.
+[2024.01.11-06.24.38:054][630]LogFileHelpers: Saving map 'lobby1' took 0.077
+[2024.01.11-06.24.38:061][630]LogFileHelpers: InternalPromptForCheckoutAndSave took 165 ms (total: 9.23 sec)
+[2024.01.11-06.24.38:063][630]AssetCheck: New page: Asset Save: lobby1
+[2024.01.11-06.24.38:063][630]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/Lobby/lobby1.lobby1
+[2024.01.11-06.24.42:542][ 35]LogViewport: Scene viewport resized to 1243x462, mode Windowed.
+[2024.01.11-06.24.42:558][ 36]LogViewport: Scene viewport resized to 1241x462, mode Windowed.
+[2024.01.11-06.24.42:575][ 37]LogViewport: Scene viewport resized to 1237x462, mode Windowed.
+[2024.01.11-06.24.42:594][ 38]LogViewport: Scene viewport resized to 1230x462, mode Windowed.
+[2024.01.11-06.24.42:610][ 39]LogViewport: Scene viewport resized to 1225x462, mode Windowed.
+[2024.01.11-06.24.42:627][ 40]LogViewport: Scene viewport resized to 1219x462, mode Windowed.
+[2024.01.11-06.24.42:645][ 41]LogViewport: Scene viewport resized to 1217x462, mode Windowed.
+[2024.01.11-06.24.42:662][ 42]LogViewport: Scene viewport resized to 1215x462, mode Windowed.
+[2024.01.11-06.24.44:227][187]LogViewport: Scene viewport resized to 1214x462, mode Windowed.
+[2024.01.11-06.24.44:243][188]LogViewport: Scene viewport resized to 1209x462, mode Windowed.
+[2024.01.11-06.24.44:260][189]LogViewport: Scene viewport resized to 1203x462, mode Windowed.
+[2024.01.11-06.24.44:277][190]LogViewport: Scene viewport resized to 1194x462, mode Windowed.
+[2024.01.11-06.24.44:297][191]LogViewport: Scene viewport resized to 1184x462, mode Windowed.
+[2024.01.11-06.24.44:314][192]LogViewport: Scene viewport resized to 1178x462, mode Windowed.
+[2024.01.11-06.24.44:332][193]LogViewport: Scene viewport resized to 1176x462, mode Windowed.
+[2024.01.11-06.24.44:349][194]LogViewport: Scene viewport resized to 1175x462, mode Windowed.
+[2024.01.11-06.24.45:957][334]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Code/Other/BaseVRGameGamemode_Lobby.BaseVRGameGamemode_Lobby
+[2024.01.11-06.24.45:957][334]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.11-06.24.45:958][334]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.11-06.24.47:402][416]LogWorld: UWorld::CleanupWorld for World_66, bSessionEnded=true, bCleanupResources=true
+[2024.01.11-06.24.47:402][416]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.11-06.24.49:976][581]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Code/Other/BaseVRGameGamemode.BaseVRGameGamemode
+[2024.01.11-06.24.49:976][581]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.11-06.24.49:976][581]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.11-06.24.56:422][877]LogSlate: Window 'BaseVRGameGamemode' being destroyed
+[2024.01.11-06.24.56:426][877]LogSlate: Window 'BaseVRGameGamemode' being destroyed
+[2024.01.11-06.24.56:441][877]LogWorld: UWorld::CleanupWorld for World_62, bSessionEnded=true, bCleanupResources=true
+[2024.01.11-06.24.56:441][877]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.11-06.24.56:451][877]LogWorld: UWorld::CleanupWorld for World_61, bSessionEnded=true, bCleanupResources=true
+[2024.01.11-06.24.56:451][877]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.11-06.24.56:491][877]LogWorld: UWorld::CleanupWorld for World_64, bSessionEnded=true, bCleanupResources=true
+[2024.01.11-06.24.56:491][877]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.11-06.24.56:539][877]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.01.11-06.24.56:539][877]LogWorld: UWorld::CleanupWorld for World_67, bSessionEnded=true, bCleanupResources=true
+[2024.01.11-06.24.56:539][877]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.11-06.24.57:607][966]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2024.01.11-06.25.16:379][142]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2024.01.11-06.25.19:900][339]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2024.01.11-06.25.21:737][501]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2024.01.11-06.25.28:041][ 41]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2024.01.11-06.25.30:634][275]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2024.01.11-06.25.31:776][374]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2024.01.11-06.25.31:856][374]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.11-06.25.31:863][374]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Game/Level6.Level6
+[2024.01.11-06.25.31:863][374]Cmd: MAP LOAD FILE="../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Content/Maps/Game/Level6.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.01.11-06.25.31:863][374]LightingResults: New page: Lighting Build
+[2024.01.11-06.25.31:864][374]LoadErrors: New page: Loading map: Level6.umap
+[2024.01.11-06.25.31:932][374]LogWorld: UWorld::CleanupWorld for lobby1, bSessionEnded=true, bCleanupResources=true
+[2024.01.11-06.25.31:932][374]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.11-06.25.31:932][374]MapCheck: New page: Map Check
+[2024.01.11-06.25.31:932][374]LightingResults: New page: Lighting Build
+[2024.01.11-06.25.31:952][374]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.11-06.25.31:955][374]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2024.01.11-06.25.31:960][374]LogWorld: UWorld::CleanupWorld for Level6, bSessionEnded=true, bCleanupResources=true
+[2024.01.11-06.25.31:960][374]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.11-06.25.31:980][374]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2024.01.11-06.25.32:000][374]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2024.01.11-06.25.32:009][374]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level6'.
+[2024.01.11-06.25.32:009][374]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.11-06.25.32:009][374]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.11-06.25.32:009][374]LogAIModule: Creating AISystem for world Level6
+[2024.01.11-06.25.32:071][374]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.01.11-06.25.32:093][374]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2024.01.11-06.25.32:100][374]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.01.11-06.25.32:101][374]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,115ms to complete.
+[2024.01.11-06.25.32:620][417]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2024.01.11-06.25.34:228][566]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
