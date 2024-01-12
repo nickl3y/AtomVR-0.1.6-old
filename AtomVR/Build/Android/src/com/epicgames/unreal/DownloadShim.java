@@ -1,10 +1,10 @@
 package com.epicgames.unreal;
 
-import com.epicgames.AtomVR.OBBDownloaderService;
-import com.epicgames.AtomVR.DownloaderActivity;
+import com.CWE.AtomVR.OBBDownloaderService;
+import com.CWE.AtomVR.DownloaderActivity;
 import android.app.Activity;
 import com.google.android.vending.expansion.downloader.Helpers;
-import com.epicgames.AtomVR.OBBData;
+import com.CWE.AtomVR.OBBData;
 
 
 public class DownloadShim

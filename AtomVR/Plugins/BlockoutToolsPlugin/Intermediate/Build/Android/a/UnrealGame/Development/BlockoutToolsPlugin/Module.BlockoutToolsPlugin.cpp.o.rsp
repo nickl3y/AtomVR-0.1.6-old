@@ -1,7 +1,7 @@
 -c
 -pipe
 -I"."
--I"C:/Users/nick1/Documents/GitHub/AtomVR/AtomVR/Plugins/BlockoutToolsPlugin/Source/BlockoutToolsPlugin/Private"
+-I"C:/Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Plugins/BlockoutToolsPlugin/Source/BlockoutToolsPlugin/Private"
 -I"../Intermediate/Build/Android/UnrealGame/Inc/CoreUObject/UHT"
 -I"Runtime/CoreUObject/Public"
 -I"Runtime/CoreUObject/Internal"
@@ -110,11 +110,11 @@
 -I"../Intermediate/Build/Android/UnrealGame/Inc/TypedElementRuntime/UHT"
 -I"Runtime/TypedElementRuntime/Public"
 -I"Developer/Settings/Public"
--I"C:/Users/nick1/Documents/GitHub/AtomVR/AtomVR/Plugins/BlockoutToolsPlugin/Intermediate/Build/Android/UnrealGame/Inc/BlockoutToolsPlugin/UHT"
--I"C:/Users/nick1/Documents/GitHub/AtomVR/AtomVR/Plugins/BlockoutToolsPlugin/Source"
--I"C:/Users/nick1/Documents/GitHub/AtomVR/AtomVR/Plugins/BlockoutToolsPlugin/Source/BlockoutToolsPlugin/Public"
--isystem"C:/Users/nick1/AppData/Local/Android/Sdk/ndk/25.1.8937393/sources/android/native_app_glue"
--isystem"C:/Users/nick1/AppData/Local/Android/Sdk/ndk/25.1.8937393/sources/android/cpufeatures"
+-I"C:/Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Plugins/BlockoutToolsPlugin/Intermediate/Build/Android/UnrealGame/Inc/BlockoutToolsPlugin/UHT"
+-I"C:/Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Plugins/BlockoutToolsPlugin/Source"
+-I"C:/Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Plugins/BlockoutToolsPlugin/Source/BlockoutToolsPlugin/Public"
+-isystem"C:/Users/nikit/AppData/Local/Android/Sdk/ndk/25.1.8937393/sources/android/native_app_glue"
+-isystem"C:/Users/nikit/AppData/Local/Android/Sdk/ndk/25.1.8937393/sources/android/cpufeatures"
 -Wall
 -Werror
 -Wdelete-non-virtual-dtor
@@ -172,16 +172,16 @@
 -D_FORTIFY_SOURCE=2
 -DPLATFORM_USED_NDK_VERSION_INTEGER=26
 -DPLATFORM_64BITS=1
- --target=aarch64-none-linux-android26 --gcc-toolchain="C:\Users\nick1\AppData\Local\Android\Sdk\ndk\25.1.8937393\toolchains/llvm\prebuilt/windows-x86_64" --sysroot="C:/Users/nick1/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot" -DANDROID=1
+ --target=aarch64-none-linux-android26 --gcc-toolchain="C:\Users\nikit\AppData\Local\Android\Sdk\ndk\25.1.8937393\toolchains/llvm\prebuilt/windows-x86_64" --sysroot="C:/Users/nikit/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot" -DANDROID=1
 -D__arm64__
 -DPLATFORM_ANDROID_ARM64=1
 -march=armv8-a
 -fsigned-char
--include-pch "C:/Users/nick1/Documents/GitHub/AtomVR/AtomVR/Intermediate/Build/Android/a/AtomVR/Development/Engine/SharedPCH.Engine.Cpp17.h.gch"
--include "C:/Users/nick1/Documents/GitHub/AtomVR/AtomVR/Plugins/BlockoutToolsPlugin/Intermediate/Build/Android/a/UnrealGame/Development/BlockoutToolsPlugin/Definitions.BlockoutToolsPlugin.h"
+-include-pch "C:/Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Intermediate/Build/Android/a/AtomVR/Development/Engine/SharedPCH.Engine.Cpp17.h.gch"
+-include "C:/Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Plugins/BlockoutToolsPlugin/Intermediate/Build/Android/a/UnrealGame/Development/BlockoutToolsPlugin/Definitions.BlockoutToolsPlugin.h"
 -x c++
 -std=c++17
 -fpch-validate-input-files-content
-"C:/Users/nick1/Documents/GitHub/AtomVR/AtomVR/Plugins/BlockoutToolsPlugin/Intermediate/Build/Android/a/UnrealGame/Development/BlockoutToolsPlugin/Module.BlockoutToolsPlugin.cpp"
--MD -MF"C:/Users/nick1/Documents/GitHub/AtomVR/AtomVR/Plugins/BlockoutToolsPlugin/Intermediate/Build/Android/a/UnrealGame/Development/BlockoutToolsPlugin/Module.BlockoutToolsPlugin.cpp.d"
--o "C:/Users/nick1/Documents/GitHub/AtomVR/AtomVR/Plugins/BlockoutToolsPlugin/Intermediate/Build/Android/a/UnrealGame/Development/BlockoutToolsPlugin/Module.BlockoutToolsPlugin.cpp.o"
+"C:/Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Plugins/BlockoutToolsPlugin/Intermediate/Build/Android/a/UnrealGame/Development/BlockoutToolsPlugin/Module.BlockoutToolsPlugin.cpp"
+-MD -MF"C:/Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Plugins/BlockoutToolsPlugin/Intermediate/Build/Android/a/UnrealGame/Development/BlockoutToolsPlugin/Module.BlockoutToolsPlugin.cpp.d"
+-o "C:/Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Plugins/BlockoutToolsPlugin/Intermediate/Build/Android/a/UnrealGame/Development/BlockoutToolsPlugin/Module.BlockoutToolsPlugin.cpp.o"
