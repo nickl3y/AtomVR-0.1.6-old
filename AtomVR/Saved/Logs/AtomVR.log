@@ -2650,3 +2650,605 @@ Context 1/2
 [2024.01.13-12.40.36:086][594]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/Game/Level7.Level7
 [2024.01.13-12.40.42:962][273]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
 [2024.01.13-12.40.45:514][517]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2024.01.13-12.40.54:116][711]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2024.01.13-12.41.00:024][279]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2024.01.13-12.41.04:439][720]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2024.01.13-12.41.08:827][174]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2024.01.13-12.41.17:479][ 49]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2024.01.13-12.41.57:789][345]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2024.01.13-12.42.01:241][695]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2024.01.13-12.42.06:186][189]LogTexture: Display: Building textures: /Game/Assets/Polygon_BattleRoyale/Textures/T_PolygonBattleRoyale_Plane_01_Damaged.T_PolygonBattleRoyale_Plane_01_Damaged (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2024.01.13-12.42.06:225][189]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Polygon_BattleRoyale/Meshes/Vehicles/SM_Veh_Plane_Destroyed_01.SM_Veh_Plane_Destroyed_01
+[2024.01.13-12.42.06:225][189]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Polygon_BattleRoyale/Meshes/Vehicles/SM_Veh_Plane_Destroyed_01.SM_Veh_Plane_Destroyed_01
+[2024.01.13-12.42.06:225][189]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Polygon_BattleRoyale/Meshes/Vehicles/SM_Veh_Plane_Destroyed_01.SM_Veh_Plane_Destroyed_01 as actor: StaticMeshActor /Game/Maps/Game/Level7.Level7:PersistentLevel.StaticMeshActor_79
+[2024.01.13-12.42.06:250][190]LogShaderCompilers: Display: ================================================
+[2024.01.13-12.42.06:250][190]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.01.13-12.42.06:250][190]LogShaderCompilers: Display: Total job queries 119, among them cache hits 45 (37.82%)
+[2024.01.13-12.42.06:251][190]LogShaderCompilers: Display: Tracking 74 distinct input hashes that result in 62 distinct outputs (83.78%)
+[2024.01.13-12.42.06:251][190]LogShaderCompilers: Display: RAM used: 2,66 MiB of 716,80 MiB budget. Usage: 0.37%
+[2024.01.13-12.42.06:251][190]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.01.13-12.42.06:251][190]LogShaderCompilers: Display: Shaders Compiled: 5
+[2024.01.13-12.42.06:251][190]LogShaderCompilers: Display: Jobs assigned 5, completed 5 (100%)
+[2024.01.13-12.42.06:251][190]LogShaderCompilers: Display: Average time worker was idle: 314.88 s
+[2024.01.13-12.42.06:251][190]LogShaderCompilers: Display: Time job spent in pending queue: average 0.02 s, longest 0.07 s
+[2024.01.13-12.42.06:251][190]LogShaderCompilers: Display: Job execution time: average 1.80 s, max 2.96 s
+[2024.01.13-12.42.06:251][190]LogShaderCompilers: Display: Job life time (pending + execution): average 1.82 s, max 2.98
+[2024.01.13-12.42.06:251][190]LogShaderCompilers: Display: Shader code size: average 79,253 KiB, min 75,781 KiB, max 85,727 KiB
+[2024.01.13-12.42.06:251][190]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 7.62 s
+[2024.01.13-12.42.06:251][190]LogShaderCompilers: Display: Jobs were issued in 5 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.01.13-12.42.06:251][190]LogShaderCompilers: Display: Average processing rate: 0.66 jobs/sec
+[2024.01.13-12.42.06:251][190]LogShaderCompilers: Display: Total thread time: 7,456 s
+[2024.01.13-12.42.06:251][190]LogShaderCompilers: Display: Total thread preprocess time: 0,198 s
+[2024.01.13-12.42.06:251][190]LogShaderCompilers: Display: Percentage time preprocessing: 2.65%
+[2024.01.13-12.42.06:251][190]LogShaderCompilers: Display: Effective parallelization: 0.98 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.01.13-12.42.06:251][190]LogShaderCompilers: Display: Top 3 most expensive shader types by average time:
+[2024.01.13-12.42.06:251][190]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    2 times, average 2.36 sec, max 2.60 sec, min 2.11 sec)
+[2024.01.13-12.42.06:251][190]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    1 times, average 1.89 sec, max 1.89 sec, min 1.89 sec)
+[2024.01.13-12.42.06:251][190]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    2 times, average 0.43 sec, max 0.46 sec, min 0.40 sec)
+[2024.01.13-12.42.06:251][190]LogShaderCompilers: Display: Top 3 shader types by total compile time:
+[2024.01.13-12.42.06:251][190]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 63.18% of total time (compiled    2 times, average 2.36 sec, max 2.60 sec, min 2.11 sec)
+[2024.01.13-12.42.06:251][190]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 25.32% of total time (compiled    1 times, average 1.89 sec, max 1.89 sec, min 1.89 sec)
+[2024.01.13-12.42.06:251][190]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 11.50% of total time (compiled    2 times, average 0.43 sec, max 0.46 sec, min 0.40 sec)
+[2024.01.13-12.42.06:251][190]LogShaderCompilers: Display: ================================================
+[2024.01.13-12.42.07:324][286]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Polygon_BattleRoyale/Meshes/Vehicles/SM_Veh_Plane_Destroyed_01.SM_Veh_Plane_Destroyed_01
+[2024.01.13-12.42.07:324][286]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Polygon_BattleRoyale/Meshes/Vehicles/SM_Veh_Plane_Destroyed_01.SM_Veh_Plane_Destroyed_01
+[2024.01.13-12.42.07:325][286]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Polygon_BattleRoyale/Meshes/Vehicles/SM_Veh_Plane_Destroyed_01.SM_Veh_Plane_Destroyed_01 as actor: StaticMeshActor /Game/Maps/Game/Level7.Level7:PersistentLevel.StaticMeshActor_80
+[2024.01.13-12.42.21:014][584]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Code/Other/DataTable.DataTable_C
+[2024.01.13-12.42.21:015][584]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Code/Other/DataTable.DataTable_C
+[2024.01.13-12.42.21:019][584]LogActorFactory: Actor Factory spawned Blueprint /Game/Code/Other/DataTable.DataTable as actor: DataTable_C /Game/Maps/Game/Level7.Level7:PersistentLevel.DataTable_C_0
+[2024.01.13-12.42.21:022][584]LogActorFactory: Actor Factory spawned Blueprint /Game/Code/Other/DataTable.DataTable as actor: DataTable_C /Game/Maps/Game/Level7.Level7:PersistentLevel.DataTable_C_0
+[2024.01.13-12.42.21:861][631]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Code/Other/DataTable.DataTable_C
+[2024.01.13-12.42.21:861][631]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Code/Other/DataTable.DataTable_C
+[2024.01.13-12.42.21:881][631]LogActorFactory: Actor Factory spawned Blueprint /Game/Code/Other/DataTable.DataTable as actor: DataTable_C /Game/Maps/Game/Level7.Level7:PersistentLevel.DataTable_C_1
+[2024.01.13-12.42.21:891][631]LogActorFactory: Actor Factory spawned Blueprint /Game/Code/Other/DataTable.DataTable as actor: DataTable_C /Game/Maps/Game/Level7.Level7:PersistentLevel.DataTable_C_1
+[2024.01.13-12.42.32:529][624]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2024.01.13-12.42.33:360][624]LogSlate: Window 'Save Content' being destroyed
+[2024.01.13-12.42.33:371][624]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.13-12.42.33:454][624]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Game/Level7" FILE="../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Content/Maps/Game/Level7.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.01.13-12.42.33:488][624]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2024.01.13-12.42.33:505][624]LogSavePackage: Moving output files for package: /Game/Maps/Game/Level7
+[2024.01.13-12.42.33:505][624]LogSavePackage: Moving '../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Saved/Level7807CE529410237CBE1690A81ED18DC9E.tmp' to '../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Content/Maps/Game/Level7.umap'
+[2024.01.13-12.42.33:513][624]LogFileHelpers: Saving map 'Level7' took 0.060
+[2024.01.13-12.42.33:519][624]LogFileHelpers: InternalPromptForCheckoutAndSave took 148 ms (total: 12.3 sec)
+[2024.01.13-12.42.33:520][624]AssetCheck: New page: Asset Save: Level7
+[2024.01.13-12.42.33:520][624]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/Game/Level7.Level7
+[2024.01.13-12.42.42:934][495]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2024.01.13-12.42.43:431][495]LogSlate: Window 'Save Content' being destroyed
+[2024.01.13-12.42.43:443][495]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.13-12.42.43:525][495]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Game/Level7" FILE="../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Content/Maps/Game/Level7.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.01.13-12.42.43:559][495]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2024.01.13-12.42.43:575][495]LogSavePackage: Moving output files for package: /Game/Maps/Game/Level7
+[2024.01.13-12.42.43:575][495]LogSavePackage: Moving '../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Saved/Level7AAE3BFA1405BCA0949947DBBB499CC39.tmp' to '../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Content/Maps/Game/Level7.umap'
+[2024.01.13-12.42.43:583][495]LogFileHelpers: Saving map 'Level7' took 0.058
+[2024.01.13-12.42.43:589][495]LogFileHelpers: InternalPromptForCheckoutAndSave took 145 ms (total: 12.4 sec)
+[2024.01.13-12.42.43:591][495]AssetCheck: New page: Asset Save: Level7
+[2024.01.13-12.42.43:591][495]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/Game/Level7.Level7
+[2024.01.13-12.42.44:399][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2024.01.13-12.42.46:933][814]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2024.01.13-12.42.53:635][463]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2024.01.13-12.42.54:842][583]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2024.01.13-12.42.58:445][929]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Polygon_BattleRoyale/Meshes/Vehicles/SM_Veh_Car_Destroyed_01.SM_Veh_Car_Destroyed_01
+[2024.01.13-12.42.58:445][929]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Polygon_BattleRoyale/Meshes/Vehicles/SM_Veh_Car_Destroyed_01.SM_Veh_Car_Destroyed_01
+[2024.01.13-12.42.58:445][929]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Polygon_BattleRoyale/Meshes/Vehicles/SM_Veh_Car_Destroyed_01.SM_Veh_Car_Destroyed_01 as actor: StaticMeshActor /Game/Maps/Game/Level7.Level7:PersistentLevel.StaticMeshActor_81
+[2024.01.13-12.42.59:490][ 26]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Polygon_BattleRoyale/Meshes/Vehicles/SM_Veh_Car_Destroyed_01.SM_Veh_Car_Destroyed_01
+[2024.01.13-12.42.59:490][ 26]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Polygon_BattleRoyale/Meshes/Vehicles/SM_Veh_Car_Destroyed_01.SM_Veh_Car_Destroyed_01
+[2024.01.13-12.42.59:492][ 26]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Polygon_BattleRoyale/Meshes/Vehicles/SM_Veh_Car_Destroyed_01.SM_Veh_Car_Destroyed_01 as actor: StaticMeshActor /Game/Maps/Game/Level7.Level7:PersistentLevel.StaticMeshActor_82
+[2024.01.13-12.43.03:624][417]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2024.01.13-12.43.04:502][417]LogSlate: Window 'Save Content' being destroyed
+[2024.01.13-12.43.04:514][417]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.13-12.43.04:599][417]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Game/Level7" FILE="../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Content/Maps/Game/Level7.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.01.13-12.43.04:634][417]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2024.01.13-12.43.04:650][417]LogSavePackage: Moving output files for package: /Game/Maps/Game/Level7
+[2024.01.13-12.43.04:651][417]LogSavePackage: Moving '../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Saved/Level741C0D9C042C82E816264CF9D26B6C61D.tmp' to '../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Content/Maps/Game/Level7.umap'
+[2024.01.13-12.43.04:659][417]LogFileHelpers: Saving map 'Level7' took 0.060
+[2024.01.13-12.43.04:665][417]LogFileHelpers: InternalPromptForCheckoutAndSave took 150 ms (total: 12.6 sec)
+[2024.01.13-12.43.04:667][417]AssetCheck: New page: Asset Save: Level7
+[2024.01.13-12.43.04:667][417]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/Game/Level7.Level7
+[2024.01.13-12.43.05:770][503]LogActorFactory: Actor Factory attempting to spawn ParticleSystem /Game/Assets/Polygon_BattleRoyale/ParticleFX/FX_Fire.FX_Fire
+[2024.01.13-12.43.05:770][503]LogActorFactory: Actor Factory attempting to spawn ParticleSystem /Game/Assets/Polygon_BattleRoyale/ParticleFX/FX_Fire.FX_Fire
+[2024.01.13-12.43.05:771][503]LogActorFactory: Actor Factory spawned ParticleSystem /Game/Assets/Polygon_BattleRoyale/ParticleFX/FX_Fire.FX_Fire as actor: Emitter /Game/Maps/Game/Level7.Level7:PersistentLevel.Emitter_0
+[2024.01.13-12.43.05:771][503]LogActorFactory: Actor Factory spawned ParticleSystem /Game/Assets/Polygon_BattleRoyale/ParticleFX/FX_Fire.FX_Fire as actor: Emitter /Game/Maps/Game/Level7.Level7:PersistentLevel.Emitter_0
+[2024.01.13-12.43.06:405][560]LogActorFactory: Actor Factory attempting to spawn ParticleSystem /Game/Assets/Polygon_BattleRoyale/ParticleFX/FX_Fire.FX_Fire
+[2024.01.13-12.43.06:405][560]LogActorFactory: Actor Factory attempting to spawn ParticleSystem /Game/Assets/Polygon_BattleRoyale/ParticleFX/FX_Fire.FX_Fire
+[2024.01.13-12.43.06:406][560]LogActorFactory: Actor Factory spawned ParticleSystem /Game/Assets/Polygon_BattleRoyale/ParticleFX/FX_Fire.FX_Fire as actor: Emitter /Game/Maps/Game/Level7.Level7:PersistentLevel.Emitter_1
+[2024.01.13-12.43.06:407][560]LogActorFactory: Actor Factory spawned ParticleSystem /Game/Assets/Polygon_BattleRoyale/ParticleFX/FX_Fire.FX_Fire as actor: Emitter /Game/Maps/Game/Level7.Level7:PersistentLevel.Emitter_1
+[2024.01.13-12.43.22:226][ 25]LogActorFactory: Actor Factory attempting to spawn ParticleSystem /Game/Assets/Polygon_BattleRoyale/ParticleFX/FX_Explosion.FX_Explosion
+[2024.01.13-12.43.22:226][ 25]LogActorFactory: Actor Factory attempting to spawn ParticleSystem /Game/Assets/Polygon_BattleRoyale/ParticleFX/FX_Explosion.FX_Explosion
+[2024.01.13-12.43.22:227][ 25]LogActorFactory: Actor Factory spawned ParticleSystem /Game/Assets/Polygon_BattleRoyale/ParticleFX/FX_Explosion.FX_Explosion as actor: Emitter /Game/Maps/Game/Level7.Level7:PersistentLevel.Emitter_2
+[2024.01.13-12.43.22:227][ 25]LogActorFactory: Actor Factory spawned ParticleSystem /Game/Assets/Polygon_BattleRoyale/ParticleFX/FX_Explosion.FX_Explosion as actor: Emitter /Game/Maps/Game/Level7.Level7:PersistentLevel.Emitter_2
+[2024.01.13-12.43.22:600][ 57]LogActorFactory: Actor Factory attempting to spawn ParticleSystem /Game/Assets/Polygon_BattleRoyale/ParticleFX/FX_Explosion.FX_Explosion
+[2024.01.13-12.43.22:600][ 57]LogActorFactory: Actor Factory attempting to spawn ParticleSystem /Game/Assets/Polygon_BattleRoyale/ParticleFX/FX_Explosion.FX_Explosion
+[2024.01.13-12.43.22:601][ 57]LogActorFactory: Actor Factory spawned ParticleSystem /Game/Assets/Polygon_BattleRoyale/ParticleFX/FX_Explosion.FX_Explosion as actor: Emitter /Game/Maps/Game/Level7.Level7:PersistentLevel.Emitter_3
+[2024.01.13-12.43.22:601][ 57]LogActorFactory: Actor Factory spawned ParticleSystem /Game/Assets/Polygon_BattleRoyale/ParticleFX/FX_Explosion.FX_Explosion as actor: Emitter /Game/Maps/Game/Level7.Level7:PersistentLevel.Emitter_3
+[2024.01.13-12.43.26:633][438]Cmd: DELETE
+[2024.01.13-12.43.26:633][438]Cmd: ACTOR DELETE
+[2024.01.13-12.43.26:641][438]LogEditorActor: Deleted Actor: Emitter
+[2024.01.13-12.43.26:647][438]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2024.01.13-12.43.26:650][438]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2024.01.13-12.43.29:694][761]LogActorFactory: Actor Factory attempting to spawn ParticleSystem /Game/Assets/Polygon_BattleRoyale/ParticleFX/FX_Smoke.FX_Smoke
+[2024.01.13-12.43.29:694][761]LogActorFactory: Actor Factory attempting to spawn ParticleSystem /Game/Assets/Polygon_BattleRoyale/ParticleFX/FX_Smoke.FX_Smoke
+[2024.01.13-12.43.29:695][761]LogActorFactory: Actor Factory spawned ParticleSystem /Game/Assets/Polygon_BattleRoyale/ParticleFX/FX_Smoke.FX_Smoke as actor: Emitter /Game/Maps/Game/Level7.Level7:PersistentLevel.Emitter_4
+[2024.01.13-12.43.29:695][761]LogActorFactory: Actor Factory spawned ParticleSystem /Game/Assets/Polygon_BattleRoyale/ParticleFX/FX_Smoke.FX_Smoke as actor: Emitter /Game/Maps/Game/Level7.Level7:PersistentLevel.Emitter_4
+[2024.01.13-12.43.32:254][ 14]LogActorFactory: Actor Factory attempting to spawn ParticleSystem /Game/Assets/Polygon_BattleRoyale/ParticleFX/FX_Sparks.FX_Sparks
+[2024.01.13-12.43.32:254][ 14]LogActorFactory: Actor Factory attempting to spawn ParticleSystem /Game/Assets/Polygon_BattleRoyale/ParticleFX/FX_Sparks.FX_Sparks
+[2024.01.13-12.43.32:255][ 14]LogActorFactory: Actor Factory spawned ParticleSystem /Game/Assets/Polygon_BattleRoyale/ParticleFX/FX_Sparks.FX_Sparks as actor: Emitter /Game/Maps/Game/Level7.Level7:PersistentLevel.Emitter_5
+[2024.01.13-12.43.32:255][ 14]LogActorFactory: Actor Factory spawned ParticleSystem /Game/Assets/Polygon_BattleRoyale/ParticleFX/FX_Sparks.FX_Sparks as actor: Emitter /Game/Maps/Game/Level7.Level7:PersistentLevel.Emitter_5
+[2024.01.13-12.43.32:609][ 50]LogActorFactory: Actor Factory attempting to spawn ParticleSystem /Game/Assets/Polygon_BattleRoyale/ParticleFX/FX_Sparks.FX_Sparks
+[2024.01.13-12.43.32:609][ 50]LogActorFactory: Actor Factory attempting to spawn ParticleSystem /Game/Assets/Polygon_BattleRoyale/ParticleFX/FX_Sparks.FX_Sparks
+[2024.01.13-12.43.32:610][ 50]LogActorFactory: Actor Factory spawned ParticleSystem /Game/Assets/Polygon_BattleRoyale/ParticleFX/FX_Sparks.FX_Sparks as actor: Emitter /Game/Maps/Game/Level7.Level7:PersistentLevel.Emitter_6
+[2024.01.13-12.43.32:611][ 50]LogActorFactory: Actor Factory spawned ParticleSystem /Game/Assets/Polygon_BattleRoyale/ParticleFX/FX_Sparks.FX_Sparks as actor: Emitter /Game/Maps/Game/Level7.Level7:PersistentLevel.Emitter_6
+[2024.01.13-12.43.36:316][386]Cmd: DELETE
+[2024.01.13-12.43.36:316][386]Cmd: ACTOR DELETE
+[2024.01.13-12.43.36:322][386]LogEditorActor: Deleted Actor: Emitter
+[2024.01.13-12.43.36:329][386]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2024.01.13-12.43.36:331][386]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2024.01.13-12.43.36:914][450]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2024.01.13-12.43.37:478][450]LogSlate: Window 'Save Content' being destroyed
+[2024.01.13-12.43.37:490][450]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.13-12.43.37:572][450]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Game/Level7" FILE="../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Content/Maps/Game/Level7.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.01.13-12.43.37:605][450]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2024.01.13-12.43.37:621][450]LogSavePackage: Moving output files for package: /Game/Maps/Game/Level7
+[2024.01.13-12.43.37:621][450]LogSavePackage: Moving '../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Saved/Level7D541A7B948A5B6784AA29DA4982A5095.tmp' to '../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Content/Maps/Game/Level7.umap'
+[2024.01.13-12.43.37:629][450]LogFileHelpers: Saving map 'Level7' took 0.058
+[2024.01.13-12.43.37:635][450]LogFileHelpers: InternalPromptForCheckoutAndSave took 146 ms (total: 12.7 sec)
+[2024.01.13-12.43.37:637][450]AssetCheck: New page: Asset Save: Level7
+[2024.01.13-12.43.37:637][450]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/Game/Level7.Level7
+[2024.01.13-12.43.42:145][899]Cmd: EDIT COPY
+[2024.01.13-12.43.42:429][918]Cmd: EDIT PASTE
+[2024.01.13-12.43.45:945][251]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2024.01.13-12.43.46:455][251]LogSlate: Window 'Save Content' being destroyed
+[2024.01.13-12.43.46:467][251]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.13-12.43.46:553][251]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Game/Level7" FILE="../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Content/Maps/Game/Level7.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.01.13-12.43.46:586][251]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2024.01.13-12.43.46:603][251]LogSavePackage: Moving output files for package: /Game/Maps/Game/Level7
+[2024.01.13-12.43.46:605][251]LogSavePackage: Moving '../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Saved/Level7D8984A57401D52E274683F974508AEDF.tmp' to '../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Content/Maps/Game/Level7.umap'
+[2024.01.13-12.43.46:612][251]LogFileHelpers: Saving map 'Level7' took 0.059
+[2024.01.13-12.43.46:625][251]LogFileHelpers: InternalPromptForCheckoutAndSave took 159 ms (total: 12.9 sec)
+[2024.01.13-12.43.46:627][251]AssetCheck: New page: Asset Save: Level7
+[2024.01.13-12.43.46:627][251]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/Game/Level7.Level7
+[2024.01.13-12.43.49:845][554]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2024.01.13-12.43.51:797][722]LogActorFactory: Actor Factory attempting to spawn ParticleSystem /Game/Assets/Polygon_BattleRoyale/ParticleFX/FX_Smoke.FX_Smoke
+[2024.01.13-12.43.51:797][722]LogActorFactory: Actor Factory attempting to spawn ParticleSystem /Game/Assets/Polygon_BattleRoyale/ParticleFX/FX_Smoke.FX_Smoke
+[2024.01.13-12.43.51:797][722]LogActorFactory: Actor Factory spawned ParticleSystem /Game/Assets/Polygon_BattleRoyale/ParticleFX/FX_Smoke.FX_Smoke as actor: Emitter /Game/Maps/Game/Level7.Level7:PersistentLevel.Emitter_8
+[2024.01.13-12.43.51:797][722]LogActorFactory: Actor Factory spawned ParticleSystem /Game/Assets/Polygon_BattleRoyale/ParticleFX/FX_Smoke.FX_Smoke as actor: Emitter /Game/Maps/Game/Level7.Level7:PersistentLevel.Emitter_8
+[2024.01.13-12.43.52:401][776]LogActorFactory: Actor Factory attempting to spawn ParticleSystem /Game/Assets/Polygon_BattleRoyale/ParticleFX/FX_Smoke.FX_Smoke
+[2024.01.13-12.43.52:401][776]LogActorFactory: Actor Factory attempting to spawn ParticleSystem /Game/Assets/Polygon_BattleRoyale/ParticleFX/FX_Smoke.FX_Smoke
+[2024.01.13-12.43.52:403][776]LogActorFactory: Actor Factory spawned ParticleSystem /Game/Assets/Polygon_BattleRoyale/ParticleFX/FX_Smoke.FX_Smoke as actor: Emitter /Game/Maps/Game/Level7.Level7:PersistentLevel.Emitter_9
+[2024.01.13-12.43.52:403][776]LogActorFactory: Actor Factory spawned ParticleSystem /Game/Assets/Polygon_BattleRoyale/ParticleFX/FX_Smoke.FX_Smoke as actor: Emitter /Game/Maps/Game/Level7.Level7:PersistentLevel.Emitter_9
+[2024.01.13-12.43.54:139][914]Cmd: DELETE
+[2024.01.13-12.43.54:139][914]Cmd: ACTOR DELETE
+[2024.01.13-12.43.54:145][914]LogEditorActor: Deleted Actor: Emitter
+[2024.01.13-12.43.54:152][914]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2024.01.13-12.43.54:154][914]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2024.01.13-12.43.54:681][965]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2024.01.13-12.43.55:221][965]LogSlate: Window 'Save Content' being destroyed
+[2024.01.13-12.43.55:232][965]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.13-12.43.55:316][965]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Game/Level7" FILE="../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Content/Maps/Game/Level7.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.01.13-12.43.55:348][965]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2024.01.13-12.43.55:365][965]LogSavePackage: Moving output files for package: /Game/Maps/Game/Level7
+[2024.01.13-12.43.55:365][965]LogSavePackage: Moving '../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Saved/Level7FC2636DA4832582B37A2ECA5EC32470B.tmp' to '../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Content/Maps/Game/Level7.umap'
+[2024.01.13-12.43.55:373][965]LogFileHelpers: Saving map 'Level7' took 0.058
+[2024.01.13-12.43.55:380][965]LogFileHelpers: InternalPromptForCheckoutAndSave took 147 ms (total: 13.0 sec)
+[2024.01.13-12.43.55:381][965]AssetCheck: New page: Asset Save: Level7
+[2024.01.13-12.43.55:382][965]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/Game/Level7.Level7
+[2024.01.13-12.43.57:293][159]LogActorFactory: Actor Factory attempting to spawn ParticleSystem /Game/Assets/Polygon_BattleRoyale/ParticleFX/FX_Smoke.FX_Smoke
+[2024.01.13-12.43.57:293][159]LogActorFactory: Actor Factory attempting to spawn ParticleSystem /Game/Assets/Polygon_BattleRoyale/ParticleFX/FX_Smoke.FX_Smoke
+[2024.01.13-12.43.57:294][159]LogActorFactory: Actor Factory spawned ParticleSystem /Game/Assets/Polygon_BattleRoyale/ParticleFX/FX_Smoke.FX_Smoke as actor: Emitter /Game/Maps/Game/Level7.Level7:PersistentLevel.Emitter_10
+[2024.01.13-12.43.57:294][159]LogActorFactory: Actor Factory spawned ParticleSystem /Game/Assets/Polygon_BattleRoyale/ParticleFX/FX_Smoke.FX_Smoke as actor: Emitter /Game/Maps/Game/Level7.Level7:PersistentLevel.Emitter_10
+[2024.01.13-12.43.57:723][200]LogActorFactory: Actor Factory attempting to spawn ParticleSystem /Game/Assets/Polygon_BattleRoyale/ParticleFX/FX_Smoke.FX_Smoke
+[2024.01.13-12.43.57:723][200]LogActorFactory: Actor Factory attempting to spawn ParticleSystem /Game/Assets/Polygon_BattleRoyale/ParticleFX/FX_Smoke.FX_Smoke
+[2024.01.13-12.43.57:725][200]LogActorFactory: Actor Factory spawned ParticleSystem /Game/Assets/Polygon_BattleRoyale/ParticleFX/FX_Smoke.FX_Smoke as actor: Emitter /Game/Maps/Game/Level7.Level7:PersistentLevel.Emitter_11
+[2024.01.13-12.43.57:725][200]LogActorFactory: Actor Factory spawned ParticleSystem /Game/Assets/Polygon_BattleRoyale/ParticleFX/FX_Smoke.FX_Smoke as actor: Emitter /Game/Maps/Game/Level7.Level7:PersistentLevel.Emitter_11
+[2024.01.13-12.43.59:441][333]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2024.01.13-12.44.00:222][333]LogSlate: Window 'Save Content' being destroyed
+[2024.01.13-12.44.00:234][333]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.13-12.44.00:323][333]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Game/Level7" FILE="../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Content/Maps/Game/Level7.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.01.13-12.44.00:357][333]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2024.01.13-12.44.00:375][333]LogSavePackage: Moving output files for package: /Game/Maps/Game/Level7
+[2024.01.13-12.44.00:375][333]LogSavePackage: Moving '../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Saved/Level73EF856284A7A8E3613A7C486E82A3950.tmp' to '../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Content/Maps/Game/Level7.umap'
+[2024.01.13-12.44.00:383][333]LogFileHelpers: Saving map 'Level7' took 0.060
+[2024.01.13-12.44.00:390][333]LogFileHelpers: InternalPromptForCheckoutAndSave took 156 ms (total: 13.2 sec)
+[2024.01.13-12.44.00:391][333]AssetCheck: New page: Asset Save: Level7
+[2024.01.13-12.44.00:392][333]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/Game/Level7.Level7
+[2024.01.13-12.44.07:636][ 21]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2024.01.13-12.44.08:679][115]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2024.01.13-12.44.09:505][190]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Code/Other/BaseVRGameGamemode.BaseVRGameGamemode
+[2024.01.13-12.44.09:507][190]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.13-12.44.09:507][190]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.13-12.44.09:518][190]LogSlate: Warning: The command 'BlueprintEditorSpawnNodes.AddActorRefAction->CommandInfo' has the same default chord as 'BlueprintEditorSpawnNodes.(Class=/Script/BlueprintGraph.K2Node_Knot Key=R Shift=false Ctrl=false Alt=false)' [R]
+[2024.01.13-12.44.10:536][190]LogSlate: Took 0.000607 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2024.01.13-12.44.23:256][778]LogEditorTransaction: Undo Break Pin Links
+[2024.01.13-12.44.29:504][139]BlueprintLog: New page: Compile BaseVRGameGamemode
+[2024.01.13-12.44.29:580][139]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2024.01.13-12.44.35:431][480]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.13-12.44.35:519][480]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Code/Other/BaseVRGameGamemode" FILE="../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Content/Code/Other/BaseVRGameGamemode.uasset" SILENT=true
+[2024.01.13-12.44.35:549][480]LogSavePackage: Moving output files for package: /Game/Code/Other/BaseVRGameGamemode
+[2024.01.13-12.44.35:551][480]LogSavePackage: Moving '../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Saved/BaseVRGameGamemodeFDA5EC36478869A16CAD1EAC433300FD.tmp' to '../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Content/Code/Other/BaseVRGameGamemode.uasset'
+[2024.01.13-12.44.35:559][480]LogFileHelpers: InternalPromptForCheckoutAndSave took 127 ms (total: 13.3 sec)
+[2024.01.13-12.44.35:561][480]AssetCheck: New page: Asset Save: BaseVRGameGamemode
+[2024.01.13-12.44.35:561][480]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Code/Other/BaseVRGameGamemode.BaseVRGameGamemode
+[2024.01.13-12.44.36:303][527]LogSlate: Window 'BaseVRGameGamemode' being destroyed
+[2024.01.13-12.44.36:307][527]LogSlate: Window 'BaseVRGameGamemode' being destroyed
+[2024.01.13-12.44.36:316][527]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2024.01.13-12.44.36:316][527]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.13-12.44.36:924][577]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2024.01.13-12.44.39:067][765]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2024.01.13-12.44.39:525][806]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Code/Other/BaseVRGameGamemode.BaseVRGameGamemode
+[2024.01.13-12.44.39:525][806]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.13-12.44.39:525][806]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.13-12.44.45:634][118]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.13-12.44.45:715][118]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Code/Other/BaseVRGameGamemode" FILE="../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Content/Code/Other/BaseVRGameGamemode.uasset" SILENT=true
+[2024.01.13-12.44.45:743][118]LogSavePackage: Moving output files for package: /Game/Code/Other/BaseVRGameGamemode
+[2024.01.13-12.44.45:743][118]LogSavePackage: Moving '../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Saved/BaseVRGameGamemodeF13073794CAD7875AECB7EB7115D66BA.tmp' to '../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Content/Code/Other/BaseVRGameGamemode.uasset'
+[2024.01.13-12.44.45:750][118]LogFileHelpers: InternalPromptForCheckoutAndSave took 115 ms (total: 13.4 sec)
+[2024.01.13-12.44.45:752][118]AssetCheck: New page: Asset Save: BaseVRGameGamemode
+[2024.01.13-12.44.45:752][118]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Code/Other/BaseVRGameGamemode.BaseVRGameGamemode
+[2024.01.13-12.44.47:071][192]LogSlate: Window 'BaseVRGameGamemode' being destroyed
+[2024.01.13-12.44.47:076][192]LogSlate: Window 'BaseVRGameGamemode' being destroyed
+[2024.01.13-12.44.47:082][192]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2024.01.13-12.44.47:082][192]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.13-12.44.47:855][252]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2024.01.13-12.44.49:792][423]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2024.01.13-12.44.53:363][745]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Code/Other/BaseVRGameGamemode.BaseVRGameGamemode
+[2024.01.13-12.44.53:363][745]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.13-12.44.53:363][745]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.13-12.44.57:779][947]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.13-12.44.57:862][947]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Code/Other/BaseVRGameGamemode" FILE="../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Content/Code/Other/BaseVRGameGamemode.uasset" SILENT=true
+[2024.01.13-12.44.57:889][947]LogSavePackage: Moving output files for package: /Game/Code/Other/BaseVRGameGamemode
+[2024.01.13-12.44.57:890][947]LogSavePackage: Moving '../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Saved/BaseVRGameGamemodeA4E6DD9E408E44792E161AA8E662F263.tmp' to '../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Content/Code/Other/BaseVRGameGamemode.uasset'
+[2024.01.13-12.44.57:896][947]LogFileHelpers: InternalPromptForCheckoutAndSave took 117 ms (total: 13.6 sec)
+[2024.01.13-12.44.57:899][947]AssetCheck: New page: Asset Save: BaseVRGameGamemode
+[2024.01.13-12.44.57:899][947]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Code/Other/BaseVRGameGamemode.BaseVRGameGamemode
+[2024.01.13-12.45.03:174][249]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.13-12.45.03:247][249]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Code/Other/BaseVRGameGamemode" FILE="../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Content/Code/Other/BaseVRGameGamemode.uasset" SILENT=true
+[2024.01.13-12.45.03:274][249]LogSavePackage: Moving output files for package: /Game/Code/Other/BaseVRGameGamemode
+[2024.01.13-12.45.03:274][249]LogSavePackage: Moving '../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Saved/BaseVRGameGamemode2DB6A2644D345C60AB7A2F987E222054.tmp' to '../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Content/Code/Other/BaseVRGameGamemode.uasset'
+[2024.01.13-12.45.03:282][249]LogFileHelpers: InternalPromptForCheckoutAndSave took 108 ms (total: 13.7 sec)
+[2024.01.13-12.45.03:284][249]AssetCheck: New page: Asset Save: BaseVRGameGamemode
+[2024.01.13-12.45.03:284][249]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Code/Other/BaseVRGameGamemode.BaseVRGameGamemode
+[2024.01.13-12.45.03:927][285]LogSlate: Window 'BaseVRGameGamemode' being destroyed
+[2024.01.13-12.45.03:932][285]LogSlate: Window 'BaseVRGameGamemode' being destroyed
+[2024.01.13-12.45.03:939][285]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2024.01.13-12.45.03:939][285]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.13-12.45.04:752][354]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2024.01.13-12.45.07:214][581]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2024.01.13-12.45.12:880][135]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.01.13-12.45.15:182][360]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2024.01.13-12.45.25:321][312]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Polygon_BattleRoyale/Meshes/Generic/SM_Generic_Mountains_Grass_01.SM_Generic_Mountains_Grass_01
+[2024.01.13-12.45.25:321][312]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Polygon_BattleRoyale/Meshes/Generic/SM_Generic_Mountains_Grass_01.SM_Generic_Mountains_Grass_01
+[2024.01.13-12.45.25:321][312]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Polygon_BattleRoyale/Meshes/Generic/SM_Generic_Mountains_Grass_01.SM_Generic_Mountains_Grass_01 as actor: StaticMeshActor /Game/Maps/Game/Level7.Level7:PersistentLevel.StaticMeshActor_83
+[2024.01.13-12.45.25:588][338]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Polygon_BattleRoyale/Meshes/Generic/SM_Generic_Mountains_Grass_01.SM_Generic_Mountains_Grass_01
+[2024.01.13-12.45.25:588][338]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Polygon_BattleRoyale/Meshes/Generic/SM_Generic_Mountains_Grass_01.SM_Generic_Mountains_Grass_01
+[2024.01.13-12.45.25:589][338]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Polygon_BattleRoyale/Meshes/Generic/SM_Generic_Mountains_Grass_01.SM_Generic_Mountains_Grass_01 as actor: StaticMeshActor /Game/Maps/Game/Level7.Level7:PersistentLevel.StaticMeshActor_84
+[2024.01.13-12.45.33:125][997]Cmd: EDIT COPY
+[2024.01.13-12.45.33:332][ 16]Cmd: EDIT PASTE
+[2024.01.13-12.45.58:117][291]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2024.01.13-12.45.58:679][291]LogSlate: Window 'Save Content' being destroyed
+[2024.01.13-12.45.58:687][291]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.13-12.45.58:777][291]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Game/Level7" FILE="../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Content/Maps/Game/Level7.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.01.13-12.45.58:821][291]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2024.01.13-12.45.58:840][291]LogSavePackage: Moving output files for package: /Game/Maps/Game/Level7
+[2024.01.13-12.45.58:840][291]LogSavePackage: Moving '../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Saved/Level73F7D62A146432C23C272DE83A54548FF.tmp' to '../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Content/Maps/Game/Level7.umap'
+[2024.01.13-12.45.58:849][291]LogFileHelpers: Saving map 'Level7' took 0.072
+[2024.01.13-12.45.58:854][291]LogFileHelpers: InternalPromptForCheckoutAndSave took 167 ms (total: 13.8 sec)
+[2024.01.13-12.45.58:856][291]AssetCheck: New page: Asset Save: Level7
+[2024.01.13-12.45.58:856][291]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/Game/Level7.Level7
+[2024.01.13-12.46.09:639][297]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2024.01.13-12.46.10:198][297]LogSlate: Window 'Save Content' being destroyed
+[2024.01.13-12.46.10:216][297]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.13-12.46.10:303][297]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Game/Level7" FILE="../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Content/Maps/Game/Level7.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.01.13-12.46.10:349][297]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2024.01.13-12.46.10:367][297]LogSavePackage: Moving output files for package: /Game/Maps/Game/Level7
+[2024.01.13-12.46.10:368][297]LogSavePackage: Moving '../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Saved/Level75509D85C4A54D36A7F95C19A7FEBF4A4.tmp' to '../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Content/Maps/Game/Level7.umap'
+[2024.01.13-12.46.10:375][297]LogFileHelpers: Saving map 'Level7' took 0.073
+[2024.01.13-12.46.10:383][297]LogFileHelpers: InternalPromptForCheckoutAndSave took 167 ms (total: 14.0 sec)
+[2024.01.13-12.46.10:385][297]AssetCheck: New page: Asset Save: Level7
+[2024.01.13-12.46.10:385][297]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/Game/Level7.Level7
+[2024.01.13-12.46.15:945][783]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Polygon_BattleRoyale/Meshes/Generic/SM_Gerneric_Grass_Patch_01.SM_Gerneric_Grass_Patch_01
+[2024.01.13-12.46.15:945][783]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Polygon_BattleRoyale/Meshes/Generic/SM_Gerneric_Grass_Patch_01.SM_Gerneric_Grass_Patch_01
+[2024.01.13-12.46.15:945][783]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Polygon_BattleRoyale/Meshes/Generic/SM_Gerneric_Grass_Patch_01.SM_Gerneric_Grass_Patch_01 as actor: StaticMeshActor /Game/Maps/Game/Level7.Level7:PersistentLevel.StaticMeshActor_86
+[2024.01.13-12.46.18:273][ 12]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Polygon_BattleRoyale/Meshes/Generic/SM_Gerneric_Grass_Patch_01.SM_Gerneric_Grass_Patch_01
+[2024.01.13-12.46.18:273][ 12]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Polygon_BattleRoyale/Meshes/Generic/SM_Gerneric_Grass_Patch_01.SM_Gerneric_Grass_Patch_01
+[2024.01.13-12.46.18:274][ 12]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Polygon_BattleRoyale/Meshes/Generic/SM_Gerneric_Grass_Patch_01.SM_Gerneric_Grass_Patch_01 as actor: StaticMeshActor /Game/Maps/Game/Level7.Level7:PersistentLevel.StaticMeshActor_87
+[2024.01.13-12.46.21:139][249]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Polygon_BattleRoyale/Meshes/Generic/SM_Gerneric_Grass_Patch_01.SM_Gerneric_Grass_Patch_01
+[2024.01.13-12.46.21:139][249]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Polygon_BattleRoyale/Meshes/Generic/SM_Gerneric_Grass_Patch_01.SM_Gerneric_Grass_Patch_01
+[2024.01.13-12.46.21:140][249]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Polygon_BattleRoyale/Meshes/Generic/SM_Gerneric_Grass_Patch_01.SM_Gerneric_Grass_Patch_01 as actor: StaticMeshActor /Game/Maps/Game/Level7.Level7:PersistentLevel.StaticMeshActor_88
+[2024.01.13-12.46.21:481][280]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Polygon_BattleRoyale/Meshes/Generic/SM_Gerneric_Grass_Patch_01.SM_Gerneric_Grass_Patch_01
+[2024.01.13-12.46.21:481][280]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Polygon_BattleRoyale/Meshes/Generic/SM_Gerneric_Grass_Patch_01.SM_Gerneric_Grass_Patch_01
+[2024.01.13-12.46.21:483][280]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Polygon_BattleRoyale/Meshes/Generic/SM_Gerneric_Grass_Patch_01.SM_Gerneric_Grass_Patch_01 as actor: StaticMeshActor /Game/Maps/Game/Level7.Level7:PersistentLevel.StaticMeshActor_89
+[2024.01.13-12.46.22:921][393]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Polygon_BattleRoyale/Meshes/Generic/SM_Gerneric_Grass_Patch_02.SM_Gerneric_Grass_Patch_02
+[2024.01.13-12.46.22:921][393]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Polygon_BattleRoyale/Meshes/Generic/SM_Gerneric_Grass_Patch_02.SM_Gerneric_Grass_Patch_02
+[2024.01.13-12.46.22:922][393]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Polygon_BattleRoyale/Meshes/Generic/SM_Gerneric_Grass_Patch_02.SM_Gerneric_Grass_Patch_02 as actor: StaticMeshActor /Game/Maps/Game/Level7.Level7:PersistentLevel.StaticMeshActor_90
+[2024.01.13-12.46.23:740][469]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Polygon_BattleRoyale/Meshes/Generic/SM_Gerneric_Grass_Patch_02.SM_Gerneric_Grass_Patch_02
+[2024.01.13-12.46.23:740][469]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Polygon_BattleRoyale/Meshes/Generic/SM_Gerneric_Grass_Patch_02.SM_Gerneric_Grass_Patch_02
+[2024.01.13-12.46.23:741][469]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Polygon_BattleRoyale/Meshes/Generic/SM_Gerneric_Grass_Patch_02.SM_Gerneric_Grass_Patch_02 as actor: StaticMeshActor /Game/Maps/Game/Level7.Level7:PersistentLevel.StaticMeshActor_91
+[2024.01.13-12.46.24:564][533]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Polygon_BattleRoyale/Meshes/Generic/SM_Gerneric_Grass_Patch_01.SM_Gerneric_Grass_Patch_01
+[2024.01.13-12.46.24:564][533]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Polygon_BattleRoyale/Meshes/Generic/SM_Gerneric_Grass_Patch_01.SM_Gerneric_Grass_Patch_01
+[2024.01.13-12.46.24:564][533]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Polygon_BattleRoyale/Meshes/Generic/SM_Gerneric_Grass_Patch_01.SM_Gerneric_Grass_Patch_01 as actor: StaticMeshActor /Game/Maps/Game/Level7.Level7:PersistentLevel.StaticMeshActor_92
+[2024.01.13-12.46.25:051][575]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Polygon_BattleRoyale/Meshes/Generic/SM_Gerneric_Grass_Patch_01.SM_Gerneric_Grass_Patch_01
+[2024.01.13-12.46.25:051][575]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Polygon_BattleRoyale/Meshes/Generic/SM_Gerneric_Grass_Patch_01.SM_Gerneric_Grass_Patch_01
+[2024.01.13-12.46.25:052][575]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Polygon_BattleRoyale/Meshes/Generic/SM_Gerneric_Grass_Patch_01.SM_Gerneric_Grass_Patch_01 as actor: StaticMeshActor /Game/Maps/Game/Level7.Level7:PersistentLevel.StaticMeshActor_93
+[2024.01.13-12.46.29:701][999]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Polygon_BattleRoyale/Meshes/Generic/SM_Generic_Tree_01.SM_Generic_Tree_01
+[2024.01.13-12.46.29:701][999]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Polygon_BattleRoyale/Meshes/Generic/SM_Generic_Tree_01.SM_Generic_Tree_01
+[2024.01.13-12.46.29:701][999]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Polygon_BattleRoyale/Meshes/Generic/SM_Generic_Tree_01.SM_Generic_Tree_01 as actor: StaticMeshActor /Game/Maps/Game/Level7.Level7:PersistentLevel.StaticMeshActor_94
+[2024.01.13-12.46.33:327][358]LogViewport: Scene viewport resized to 917x531, mode Windowed.
+[2024.01.13-12.46.37:886][813]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.13-12.46.38:500][877]LogShaderCompilers: Display: ================================================
+[2024.01.13-12.46.38:500][877]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.01.13-12.46.38:500][877]LogShaderCompilers: Display: Total job queries 141, among them cache hits 53 (37.59%)
+[2024.01.13-12.46.38:500][877]LogShaderCompilers: Display: Tracking 88 distinct input hashes that result in 74 distinct outputs (84.09%)
+[2024.01.13-12.46.38:500][877]LogShaderCompilers: Display: RAM used: 3,19 MiB of 716,80 MiB budget. Usage: 0.44%
+[2024.01.13-12.46.38:500][877]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.01.13-12.46.38:500][877]LogShaderCompilers: Display: Shaders Compiled: 5
+[2024.01.13-12.46.38:500][877]LogShaderCompilers: Display: Jobs assigned 5, completed 5 (100%)
+[2024.01.13-12.46.38:500][877]LogShaderCompilers: Display: Average time worker was idle: 314.88 s
+[2024.01.13-12.46.38:500][877]LogShaderCompilers: Display: Time job spent in pending queue: average 0.02 s, longest 0.07 s
+[2024.01.13-12.46.38:500][877]LogShaderCompilers: Display: Job execution time: average 1.80 s, max 2.96 s
+[2024.01.13-12.46.38:500][877]LogShaderCompilers: Display: Job life time (pending + execution): average 1.82 s, max 2.98
+[2024.01.13-12.46.38:500][877]LogShaderCompilers: Display: Shader code size: average 79,253 KiB, min 75,781 KiB, max 85,727 KiB
+[2024.01.13-12.46.38:500][877]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 7.62 s
+[2024.01.13-12.46.38:500][877]LogShaderCompilers: Display: Jobs were issued in 5 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.01.13-12.46.38:500][877]LogShaderCompilers: Display: Average processing rate: 0.66 jobs/sec
+[2024.01.13-12.46.38:500][877]LogShaderCompilers: Display: Total thread time: 7,456 s
+[2024.01.13-12.46.38:500][877]LogShaderCompilers: Display: Total thread preprocess time: 0,198 s
+[2024.01.13-12.46.38:500][877]LogShaderCompilers: Display: Percentage time preprocessing: 2.65%
+[2024.01.13-12.46.38:500][877]LogShaderCompilers: Display: Effective parallelization: 0.98 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.01.13-12.46.38:500][877]LogShaderCompilers: Display: Top 3 most expensive shader types by average time:
+[2024.01.13-12.46.38:500][877]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    2 times, average 2.36 sec, max 2.60 sec, min 2.11 sec)
+[2024.01.13-12.46.38:500][877]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    1 times, average 1.89 sec, max 1.89 sec, min 1.89 sec)
+[2024.01.13-12.46.38:500][877]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    2 times, average 0.43 sec, max 0.46 sec, min 0.40 sec)
+[2024.01.13-12.46.38:500][877]LogShaderCompilers: Display: Top 3 shader types by total compile time:
+[2024.01.13-12.46.38:500][877]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 63.18% of total time (compiled    2 times, average 2.36 sec, max 2.60 sec, min 2.11 sec)
+[2024.01.13-12.46.38:500][877]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 25.32% of total time (compiled    1 times, average 1.89 sec, max 1.89 sec, min 1.89 sec)
+[2024.01.13-12.46.38:500][877]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 11.50% of total time (compiled    2 times, average 0.43 sec, max 0.46 sec, min 0.40 sec)
+[2024.01.13-12.46.38:500][877]LogShaderCompilers: Display: ================================================
+[2024.01.13-12.47.08:955][977]LogViewport: Scene viewport resized to 1204x531, mode Windowed.
+[2024.01.13-12.47.09:925][ 88]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2024.01.13-12.47.10:661][ 88]LogSlate: Window 'Save Content' being destroyed
+[2024.01.13-12.47.10:674][ 88]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.13-12.47.10:766][ 88]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Game/Level7" FILE="../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Content/Maps/Game/Level7.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.01.13-12.47.10:810][ 88]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2024.01.13-12.47.10:833][ 88]LogSavePackage: Moving output files for package: /Game/Maps/Game/Level7
+[2024.01.13-12.47.10:833][ 88]LogSavePackage: Moving '../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Saved/Level7055B985E4765664D65FF72AC074B77CB.tmp' to '../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Content/Maps/Game/Level7.umap'
+[2024.01.13-12.47.10:841][ 88]LogFileHelpers: Saving map 'Level7' took 0.076
+[2024.01.13-12.47.10:849][ 88]LogFileHelpers: InternalPromptForCheckoutAndSave took 174 ms (total: 14.2 sec)
+[2024.01.13-12.47.10:850][ 88]AssetCheck: New page: Asset Save: Level7
+[2024.01.13-12.47.10:850][ 88]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/Game/Level7.Level7
+[2024.01.13-12.47.12:159][222]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Polygon_BattleRoyale/Meshes/Generic/SM_Unreal_Water.SM_Unreal_Water
+[2024.01.13-12.47.12:159][222]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Polygon_BattleRoyale/Meshes/Generic/SM_Unreal_Water.SM_Unreal_Water
+[2024.01.13-12.47.12:159][222]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Polygon_BattleRoyale/Meshes/Generic/SM_Unreal_Water.SM_Unreal_Water as actor: StaticMeshActor /Game/Maps/Game/Level7.Level7:PersistentLevel.StaticMeshActor_95
+[2024.01.13-12.47.13:712][363]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2024.01.13-12.47.22:964][344]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Polygon_BattleRoyale/Meshes/Generic/SM_Generic_Mountains_Snow_01.SM_Generic_Mountains_Snow_01
+[2024.01.13-12.47.22:964][344]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Polygon_BattleRoyale/Meshes/Generic/SM_Generic_Mountains_Snow_01.SM_Generic_Mountains_Snow_01
+[2024.01.13-12.47.22:965][344]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Polygon_BattleRoyale/Meshes/Generic/SM_Generic_Mountains_Snow_01.SM_Generic_Mountains_Snow_01 as actor: StaticMeshActor /Game/Maps/Game/Level7.Level7:PersistentLevel.StaticMeshActor_96
+[2024.01.13-12.47.25:296][572]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Polygon_BattleRoyale/Meshes/Generic/SM_Generic_Mountains_Grass_02.SM_Generic_Mountains_Grass_02
+[2024.01.13-12.47.25:296][572]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Polygon_BattleRoyale/Meshes/Generic/SM_Generic_Mountains_Grass_02.SM_Generic_Mountains_Grass_02
+[2024.01.13-12.47.25:296][572]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Polygon_BattleRoyale/Meshes/Generic/SM_Generic_Mountains_Grass_02.SM_Generic_Mountains_Grass_02 as actor: StaticMeshActor /Game/Maps/Game/Level7.Level7:PersistentLevel.StaticMeshActor_97
+[2024.01.13-12.47.32:477][832]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2024.01.13-12.47.41:625][703]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.01.13-12.47.59:581][329]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PointLight
+[2024.01.13-12.47.59:581][329]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PointLight
+[2024.01.13-12.48.00:866][447]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PointLight
+[2024.01.13-12.48.00:866][447]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PointLight
+[2024.01.13-12.48.12:136][465]LogSlate: Window 'Color Picker' being destroyed
+[2024.01.13-12.48.12:630][509]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2024.01.13-12.48.13:160][509]LogSlate: Window 'Save Content' being destroyed
+[2024.01.13-12.48.13:172][509]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.13-12.48.13:257][509]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Game/Level7" FILE="../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Content/Maps/Game/Level7.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.01.13-12.48.13:302][509]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.01.13-12.48.13:323][509]LogSavePackage: Moving output files for package: /Game/Maps/Game/Level7
+[2024.01.13-12.48.13:323][509]LogSavePackage: Moving '../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Saved/Level78ECDA2F146CF6D6CCA6076BBA217A9AD.tmp' to '../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Content/Maps/Game/Level7.umap'
+[2024.01.13-12.48.13:331][509]LogFileHelpers: Saving map 'Level7' took 0.074
+[2024.01.13-12.48.13:338][509]LogFileHelpers: InternalPromptForCheckoutAndSave took 166 ms (total: 14.3 sec)
+[2024.01.13-12.48.13:340][509]AssetCheck: New page: Asset Save: Level7
+[2024.01.13-12.48.13:340][509]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/Game/Level7.Level7
+[2024.01.13-12.48.30:089][  8]Cmd: EDIT COPY
+[2024.01.13-12.48.30:391][ 29]Cmd: EDIT PASTE
+[2024.01.13-12.48.40:715][760]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2024.01.13-12.48.41:315][760]LogSlate: Window 'Save Content' being destroyed
+[2024.01.13-12.48.41:326][760]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.13-12.48.41:439][760]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Game/Level7" FILE="../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Content/Maps/Game/Level7.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.01.13-12.48.41:485][760]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2024.01.13-12.48.41:511][760]LogSavePackage: Moving output files for package: /Game/Maps/Game/Level7
+[2024.01.13-12.48.41:512][760]LogSavePackage: Moving '../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Saved/Level7257681304026925489B7B8B095571CD7.tmp' to '../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Content/Maps/Game/Level7.umap'
+[2024.01.13-12.48.41:523][760]LogFileHelpers: Saving map 'Level7' took 0.086
+[2024.01.13-12.48.41:533][760]LogFileHelpers: InternalPromptForCheckoutAndSave took 207 ms (total: 14.5 sec)
+[2024.01.13-12.48.41:535][760]AssetCheck: New page: Asset Save: Level7
+[2024.01.13-12.48.41:535][760]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/Game/Level7.Level7
+[2024.01.13-12.48.44:703][  7]MapCheck: New page: Map Check
+[2024.01.13-12.48.44:761][  7]LightingResults: New page: Lighting Build - 13 янв. 2024 г., 22:48:44
+[2024.01.13-12.48.44:822][  7]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2024.01.13-12.48.44:939][  7]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2024.01.13-12.48.44:967][  7]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2024.01.13-12.48.45:491][  7]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2024.01.13-12.48.45:491][  7]LogSwarmInterface: [TryOpenConnection] Local Process ID is 2252
+[2024.01.13-12.48.53:013][  7]LightingResults: Warning: No importance volume found and the scene is so large that the automatically synthesized volume will not yield good results.  Please add a tightly bounding lightmass importance volume to optimize your scene's quality and lighting build times.
+[2024.01.13-12.48.53:015][  7]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2024.01.13-12.48.53:015][  7]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2024.01.13-12.48.53:015][  7]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2024.01.13-12.48.53:015][  7]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2024.01.13-12.48.53:015][  7]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2024.01.13-12.48.53:840][  7]LogEditorBuildUtils: Build time 0:09
+[2024.01.13-12.48.53:917][  7]LogAutomationController: Ignoring very large delta of 9.23 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.01.13-12.48.54:683][ 13]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2024.01.13-12.49.00:293][ 28]LightingResults: Warning: SM_Veh_Tank_USA_Destroyed_01 Object has wrapping UVs.
+[2024.01.13-12.49.00:293][ 28]LightingResults: Warning: SM_Veh_Tank_USA_Destroyed_01 Object has overlapping UVs.
+[2024.01.13-12.49.00:293][ 28]LightingResults: SM_Veh_Tank_USA_Destroyed_01 Lightmap UV are overlapping by 79.5%. Please adjust content - Enable Error Coloring to visualize.
+[2024.01.13-12.49.00:621][ 29]Job is a success!
+[2024.01.13-12.49.01:362][ 30]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.182s
+[2024.01.13-12.49.01:362][ 30]LogVolumetricLightmapImport:      Indirection Texture 32x32x32 = 0.1Mb
+[2024.01.13-12.49.01:362][ 30]LogVolumetricLightmapImport:      BrickData (all levels) 0.2Mb (trimmed 1.2Mb due to 0.010000 MinBrickError)
+[2024.01.13-12.49.01:362][ 30]LogVolumetricLightmapImport:      Bricks at depth
+[2024.01.13-12.49.01:362][ 30]LogVolumetricLightmapImport:          0: 14.5% covering 100.0% of volume
+[2024.01.13-12.49.01:362][ 30]LogVolumetricLightmapImport:          1: 81.8% covering 8.8% of volume
+[2024.01.13-12.49.01:362][ 30]LogVolumetricLightmapImport:          2: 3.6% covering 0.0% of volume
+[2024.01.13-12.49.01:362][ 30]LogVolumetricLightmapImport:      Bricks in each level
+[2024.01.13-12.49.01:362][ 30]LogVolumetricLightmapImport:          Level7 			 55 bricks 	 100.0% (Persistent Level)
+[2024.01.13-12.49.01:482][ 30]LogTexture: Display: Building textures: /Game/Maps/Game/Level7_BuiltData.Level7_BuiltData:SkyOcclusion0_1 (TFO_AutoDXT, 1024x512 x1x1x1) (Required Memory Estimate: 79.645815 MB), EncodeSpeed: Fast
+[2024.01.13-12.49.01:496][ 30]LogTexture: Display: Building textures: /Game/Maps/Game/Level7_BuiltData.Level7_BuiltData:HQ_Lightmap0_1 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 102.979156 MB), EncodeSpeed: Fast
+[2024.01.13-12.49.01:511][ 30]LogTexture: Display: Building textures: /Game/Maps/Game/Level7_BuiltData.Level7_BuiltData:LQ_Lightmap_0_1 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 115.979155 MB), EncodeSpeed: Fast
+[2024.01.13-12.49.01:524][ 30]LogTexture: Display: Building textures: /Game/Maps/Game/Level7_BuiltData.Level7_BuiltData:SkyOcclusion0_2 (TFO_AutoDXT, 128x64 x1x1x1) (Required Memory Estimate: 1.364508 MB), EncodeSpeed: Fast
+[2024.01.13-12.49.01:526][ 30]LogTexture: Display: Building textures: /Game/Maps/Game/Level7_BuiltData.Level7_BuiltData:HQ_Lightmap0_2 (TFO_AutoDXT, 128x128 x1x1x1) (Required Memory Estimate: 2.666627 MB), EncodeSpeed: Fast
+[2024.01.13-12.49.01:526][ 30]LogTexture: Display: Building textures: /Game/Maps/Game/Level7_BuiltData.Level7_BuiltData:LQ_Lightmap_0_2 (TFO_DXT1, 128x128 x1x1x1) (Required Memory Estimate: 1.947886 MB), EncodeSpeed: Fast
+[2024.01.13-12.49.01:527][ 30]LogTexture: Display: Building textures: /Game/Maps/Game/Level7_BuiltData.Level7_BuiltData:SkyOcclusion0_3 (TFO_AutoDXT, 128x64 x1x1x1) (Required Memory Estimate: 1.364508 MB), EncodeSpeed: Fast
+[2024.01.13-12.49.01:528][ 30]LogTexture: Display: Building textures: /Game/Maps/Game/Level7_BuiltData.Level7_BuiltData:HQ_Lightmap0_3 (TFO_AutoDXT, 128x128 x1x1x1) (Required Memory Estimate: 2.666627 MB), EncodeSpeed: Fast
+[2024.01.13-12.49.01:529][ 30]LogTexture: Display: Building textures: /Game/Maps/Game/Level7_BuiltData.Level7_BuiltData:LQ_Lightmap_0_3 (TFO_DXT1, 128x128 x1x1x1) (Required Memory Estimate: 1.947886 MB), EncodeSpeed: Fast
+[2024.01.13-12.49.01:530][ 30]LogTexture: Display: Building textures: /Game/Maps/Game/Level7_BuiltData.Level7_BuiltData:SkyOcclusion0_4 (TFO_AutoDXT, 128x64 x1x1x1) (Required Memory Estimate: 1.364508 MB), EncodeSpeed: Fast
+[2024.01.13-12.49.01:531][ 30]LogTexture: Display: Building textures: /Game/Maps/Game/Level7_BuiltData.Level7_BuiltData:HQ_Lightmap0_4 (TFO_AutoDXT, 128x128 x1x1x1) (Required Memory Estimate: 2.666627 MB), EncodeSpeed: Fast
+[2024.01.13-12.49.01:532][ 30]LogTexture: Display: Building textures: /Game/Maps/Game/Level7_BuiltData.Level7_BuiltData:LQ_Lightmap_0_4 (TFO_DXT1, 128x128 x1x1x1) (Required Memory Estimate: 1.947886 MB), EncodeSpeed: Fast
+[2024.01.13-12.49.01:533][ 30]LogTexture: Display: Building textures: /Game/Maps/Game/Level7_BuiltData.Level7_BuiltData:SkyOcclusion0_5 (TFO_AutoDXT, 128x64 x1x1x1) (Required Memory Estimate: 1.364508 MB), EncodeSpeed: Fast
+[2024.01.13-12.49.01:534][ 30]LogTexture: Display: Building textures: /Game/Maps/Game/Level7_BuiltData.Level7_BuiltData:HQ_Lightmap0_5 (TFO_AutoDXT, 128x128 x1x1x1) (Required Memory Estimate: 2.666627 MB), EncodeSpeed: Fast
+[2024.01.13-12.49.01:535][ 30]LogTexture: Display: Building textures: /Game/Maps/Game/Level7_BuiltData.Level7_BuiltData:LQ_Lightmap_0_5 (TFO_DXT1, 128x128 x1x1x1) (Required Memory Estimate: 1.947886 MB), EncodeSpeed: Fast
+[2024.01.13-12.49.01:536][ 30]LogTexture: Display: Building textures: /Game/Maps/Game/Level7_BuiltData.Level7_BuiltData:SkyOcclusion0_6 (TFO_AutoDXT, 128x64 x1x1x1) (Required Memory Estimate: 1.364508 MB), EncodeSpeed: Fast
+[2024.01.13-12.49.01:537][ 30]LogTexture: Display: Building textures: /Game/Maps/Game/Level7_BuiltData.Level7_BuiltData:HQ_Lightmap0_6 (TFO_AutoDXT, 128x128 x1x1x1) (Required Memory Estimate: 2.666627 MB), EncodeSpeed: Fast
+[2024.01.13-12.49.01:537][ 30]LogTexture: Display: Building textures: /Game/Maps/Game/Level7_BuiltData.Level7_BuiltData:LQ_Lightmap_0_6 (TFO_DXT1, 128x128 x1x1x1) (Required Memory Estimate: 1.947886 MB), EncodeSpeed: Fast
+[2024.01.13-12.49.01:539][ 30]LogTexture: Display: Building textures: /Game/Maps/Game/Level7_BuiltData.Level7_BuiltData:SkyOcclusion0_7 (TFO_AutoDXT, 128x64 x1x1x1) (Required Memory Estimate: 1.364508 MB), EncodeSpeed: Fast
+[2024.01.13-12.49.01:540][ 30]LogTexture: Display: Building textures: /Game/Maps/Game/Level7_BuiltData.Level7_BuiltData:HQ_Lightmap0_7 (TFO_AutoDXT, 128x128 x1x1x1) (Required Memory Estimate: 2.666627 MB), EncodeSpeed: Fast
+[2024.01.13-12.49.01:541][ 30]LogTexture: Display: Building textures: /Game/Maps/Game/Level7_BuiltData.Level7_BuiltData:LQ_Lightmap_0_7 (TFO_DXT1, 128x128 x1x1x1) (Required Memory Estimate: 1.947886 MB), EncodeSpeed: Fast
+[2024.01.13-12.49.01:541][ 30]LogTexture: Display: Building textures: /Game/Maps/Game/Level7_BuiltData.Level7_BuiltData:SkyOcclusion0_8 (TFO_AutoDXT, 128x64 x1x1x1) (Required Memory Estimate: 1.364508 MB), EncodeSpeed: Fast
+[2024.01.13-12.49.01:542][ 30]LogTexture: Display: Building textures: /Game/Maps/Game/Level7_BuiltData.Level7_BuiltData:HQ_Lightmap0_8 (TFO_AutoDXT, 128x128 x1x1x1) (Required Memory Estimate: 2.666627 MB), EncodeSpeed: Fast
+[2024.01.13-12.49.01:544][ 30]LogTexture: Display: Building textures: /Game/Maps/Game/Level7_BuiltData.Level7_BuiltData:LQ_Lightmap_0_8 (TFO_DXT1, 128x128 x1x1x1) (Required Memory Estimate: 1.947886 MB), EncodeSpeed: Fast
+[2024.01.13-12.49.01:544][ 30]LogTexture: Display: Building textures: /Game/Maps/Game/Level7_BuiltData.Level7_BuiltData:SkyOcclusion0_9 (TFO_AutoDXT, 128x64 x1x1x1) (Required Memory Estimate: 1.364508 MB), EncodeSpeed: Fast
+[2024.01.13-12.49.01:545][ 30]LogTexture: Display: Building textures: /Game/Maps/Game/Level7_BuiltData.Level7_BuiltData:HQ_Lightmap0_9 (TFO_AutoDXT, 128x128 x1x1x1) (Required Memory Estimate: 2.666627 MB), EncodeSpeed: Fast
+[2024.01.13-12.49.01:546][ 30]LogTexture: Display: Building textures: /Game/Maps/Game/Level7_BuiltData.Level7_BuiltData:LQ_Lightmap_0_9 (TFO_DXT1, 128x128 x1x1x1) (Required Memory Estimate: 1.947886 MB), EncodeSpeed: Fast
+[2024.01.13-12.49.01:547][ 30]LogTexture: Display: Building textures: /Game/Maps/Game/Level7_BuiltData.Level7_BuiltData:SkyOcclusion0_10 (TFO_AutoDXT, 128x64 x1x1x1) (Required Memory Estimate: 1.364508 MB), EncodeSpeed: Fast
+[2024.01.13-12.49.01:547][ 30]LogTexture: Display: Building textures: /Game/Maps/Game/Level7_BuiltData.Level7_BuiltData:HQ_Lightmap0_10 (TFO_AutoDXT, 128x128 x1x1x1) (Required Memory Estimate: 2.666627 MB), EncodeSpeed: Fast
+[2024.01.13-12.49.01:549][ 30]LogTexture: Display: Building textures: /Game/Maps/Game/Level7_BuiltData.Level7_BuiltData:LQ_Lightmap_0_10 (TFO_DXT1, 128x128 x1x1x1) (Required Memory Estimate: 1.947886 MB), EncodeSpeed: Fast
+[2024.01.13-12.49.01:550][ 30]LogTexture: Display: Building textures: /Game/Maps/Game/Level7_BuiltData.Level7_BuiltData:SkyOcclusion0_11 (TFO_AutoDXT, 128x64 x1x1x1) (Required Memory Estimate: 1.364508 MB), EncodeSpeed: Fast
+[2024.01.13-12.49.01:551][ 30]LogTexture: Display: Building textures: /Game/Maps/Game/Level7_BuiltData.Level7_BuiltData:HQ_Lightmap0_11 (TFO_AutoDXT, 128x128 x1x1x1) (Required Memory Estimate: 2.666627 MB), EncodeSpeed: Fast
+[2024.01.13-12.49.01:551][ 30]LogTexture: Display: Building textures: /Game/Maps/Game/Level7_BuiltData.Level7_BuiltData:LQ_Lightmap_0_11 (TFO_DXT1, 128x128 x1x1x1) (Required Memory Estimate: 1.947886 MB), EncodeSpeed: Fast
+[2024.01.13-12.49.01:597][ 30]LogTexture: Display: Building textures: /Game/Maps/Game/Level7_BuiltData.Level7_BuiltData:ShadowMapTexture2D_0 (BGRA8, 1024x256 x1x1x1) (Required Memory Estimate: 8.0625 MB), EncodeSpeed: Fast
+[2024.01.13-12.49.01:601][ 30]LogTexture: Display: Building textures: /Game/Maps/Game/Level7_BuiltData.Level7_BuiltData:ShadowMapTexture2D_1 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.01.13-12.49.01:626][ 30]Lightmass on NIC1: 5.02 sec total, 407 ms importing, 73 ms setup, 1.10 sec photons, 3.42 sec processing, 0 us extra exporting [71/71 mappings]. Threads: 37.6 sec total, 16.9 sec processing.
+[2024.01.13-12.49.01:716][ 30]LogStaticLightingSystem: Level7_BuiltData storing lightmap data for 58 meshes in 14 LightmapResourceClusters (4.1 Meshes per cluster).
+[2024.01.13-12.49.01:767][ 30]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2024.01.13-12.49.01:781][ 30]LogStaticLightingSystem: Illumination: 16.6 sec (130 ms encoding lightmaps, 48 ms encoding shadowmaps)
+[2024.01.13-12.49.01:781][ 30]LogStaticLightingSystem: Lightmap texture memory:  3.3 MB (3.3 MB streaming, 0.0 MB non-streaming), 22 textures
+[2024.01.13-12.49.01:781][ 30]LogStaticLightingSystem: Shadowmap texture memory: 1.4 MB (1.4 MB streaming, 0.0 MB non-streaming), 2 textures
+[2024.01.13-12.49.08:036][ 30]DumpUnbuiltLightIteractions
+[2024.01.13-12.49.08:037][ 30]Lights with unbuilt interactions: 0
+[2024.01.13-12.49.08:037][ 30]
+[2024.01.13-12.49.08:037][ 30]Primitives with unbuilt interactions: 0
+[2024.01.13-12.49.10:140][ 30]LogStall: Stall detector 'FShaderCompilingManager::BlockOnAllShaderMapCompletion' exceeded budget of 2.000000s, reporting...
+[2024.01.13-12.49.10:297][ 30]LogStall: Stall detector 'FShaderCompilingManager::BlockOnAllShaderMapCompletion' report submitted, and took 0.157281s
+[2024.01.13-12.49.19:094][ 30]LogStall: Stall detector 'FShaderCompilingManager::BlockOnAllShaderMapCompletion' complete in 10.957217s (8.957217s overbudget)
+[2024.01.13-12.49.19:194][ 30]LogAutomationController: Ignoring very large delta of 18.56 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.01.13-12.49.19:196][ 31]Cmd: MAP CHECK NOTIFYRESULTS
+[2024.01.13-12.49.19:196][ 31]MapCheck: New page: Level7 - 13 янв. 2024 г., 22:49:19
+[2024.01.13-12.49.19:197][ 31]MapCheck: Warning: StaticMeshActor_1 Large actor receives a pre-shadow and will cause an extreme performance hit unless bCastDynamicShadow is set to false. 
+[2024.01.13-12.49.19:200][ 31]MapCheck: Map check complete: 0 Error(s), 1 Warning(s), took 3,514ms to complete.
+[2024.01.13-12.49.19:375][ 32]LogD3D12RHI: Warning: Waited for PSO creation for 100.000000ms
+[2024.01.13-12.49.21:857][ 84]LogSlate: Window 'Message Log' being destroyed
+[2024.01.13-12.49.21:865][ 84]LogSlate: Window 'Message Log' being destroyed
+[2024.01.13-12.49.24:812][262]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2024.01.13-12.49.25:473][262]LogSlate: Window 'Save Content' being destroyed
+[2024.01.13-12.49.25:497][262]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.13-12.49.25:668][262]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Game/Level7" FILE="../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Content/Maps/Game/Level7.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.01.13-12.49.25:755][262]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2024.01.13-12.49.25:790][262]LogSavePackage: Moving output files for package: /Game/Maps/Game/Level7
+[2024.01.13-12.49.25:792][262]LogSavePackage: Moving '../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Saved/Level736BBB27B4770357766600FA1DFB8E84B.tmp' to '../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Content/Maps/Game/Level7.umap'
+[2024.01.13-12.49.25:807][262]Message dialog closed, result: Ok, title: Unable to Check Out From Revision Control!, text: The following assets could not be successfully checked out from revision control:
+/Game/Maps/Game/Level7_BuiltData
+[2024.01.13-12.49.25:807][262]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.13-12.49.25:808][262]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Game/Level7_BuiltData" FILE="../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Content/Maps/Game/Level7_BuiltData.uasset" SILENT=true
+[2024.01.13-12.49.25:897][262]LogSavePackage: Moving output files for package: /Game/Maps/Game/Level7_BuiltData
+[2024.01.13-12.49.25:897][262]LogSavePackage: Moving '../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Saved/Level7_BuiltData6A72E4A348DF02F6BB4CAC98060F9F4A.tmp' to '../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Content/Maps/Game/Level7_BuiltData.uasset'
+[2024.01.13-12.49.25:906][262]LogFileHelpers: InternalPromptForCheckoutAndSave took 98 ms (total: 14.6 sec)
+[2024.01.13-12.49.25:906][262]Message dialog closed, result: Ok, title: Unable to Check Out From Revision Control!, text: The following assets could not be successfully checked out from revision control:
+/Game/Maps/Game/Level7_BuiltData
+[2024.01.13-12.49.25:906][262]LogFileHelpers: Saving map 'Level7' took 0.239
+[2024.01.13-12.49.25:906][262]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Game/Level7_BuiltData" FILE="../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Content/Maps/Game/Level7_BuiltData.uasset" SILENT=true
+[2024.01.13-12.49.25:979][262]LogSavePackage: Moving output files for package: /Game/Maps/Game/Level7_BuiltData
+[2024.01.13-12.49.25:980][262]LogSavePackage: Moving '../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Saved/Level7_BuiltData6703C43548C4AB8C2B4E829D0556360C.tmp' to '../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Content/Maps/Game/Level7_BuiltData.uasset'
+[2024.01.13-12.49.26:003][262]LogFileHelpers: InternalPromptForCheckoutAndSave took 504 ms (total: 15.2 sec)
+[2024.01.13-12.49.26:007][262]AssetCheck: New page: Asset Save: multiple assets
+[2024.01.13-12.49.26:007][262]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/Game/Level7.Level7
+[2024.01.13-12.49.26:007][262]LogContentValidation: Display: Validating /Script/Engine.MapBuildDataRegistry /Game/Maps/Game/Level7_BuiltData.Level7_BuiltData
+[2024.01.13-12.49.39:499][905]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Polygon_BattleRoyale/Meshes/Props/SM_Prop_Cinderblock_Wall_01.SM_Prop_Cinderblock_Wall_01
+[2024.01.13-12.49.39:499][905]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Polygon_BattleRoyale/Meshes/Props/SM_Prop_Cinderblock_Wall_01.SM_Prop_Cinderblock_Wall_01
+[2024.01.13-12.49.39:500][905]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Polygon_BattleRoyale/Meshes/Props/SM_Prop_Cinderblock_Wall_01.SM_Prop_Cinderblock_Wall_01 as actor: StaticMeshActor /Game/Maps/Game/Level7.Level7:PersistentLevel.StaticMeshActor_98
+[2024.01.13-12.49.41:469][ 71]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Polygon_BattleRoyale/Meshes/Props/SM_Prop_Cinderblock_Wall_01.SM_Prop_Cinderblock_Wall_01
+[2024.01.13-12.49.41:469][ 71]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Polygon_BattleRoyale/Meshes/Props/SM_Prop_Cinderblock_Wall_01.SM_Prop_Cinderblock_Wall_01
+[2024.01.13-12.49.41:471][ 71]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Polygon_BattleRoyale/Meshes/Props/SM_Prop_Cinderblock_Wall_01.SM_Prop_Cinderblock_Wall_01 as actor: StaticMeshActor /Game/Maps/Game/Level7.Level7:PersistentLevel.StaticMeshActor_99
+[2024.01.13-12.49.41:829][ 95]Cmd: EDIT COPY
+[2024.01.13-12.49.42:074][113]Cmd: EDIT PASTE
+[2024.01.13-12.49.53:088][738]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2024.01.13-12.49.54:039][738]LogSlate: Window 'Save Content' being destroyed
+[2024.01.13-12.49.54:051][738]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.13-12.49.54:140][738]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Game/Level7" FILE="../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Content/Maps/Game/Level7.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.01.13-12.49.54:191][738]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2024.01.13-12.49.54:214][738]LogSavePackage: Moving output files for package: /Game/Maps/Game/Level7
+[2024.01.13-12.49.54:215][738]LogSavePackage: Moving '../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Saved/Level7EA6620CE41ADFA31D63DDB9F58375D07.tmp' to '../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Content/Maps/Game/Level7.umap'
+[2024.01.13-12.49.54:223][738]LogFileHelpers: All files are already saved.
+[2024.01.13-12.49.54:223][738]LogFileHelpers: Saving map 'Level7' took 0.084
+[2024.01.13-12.49.54:231][738]LogFileHelpers: InternalPromptForCheckoutAndSave took 179 ms (total: 15.3 sec)
+[2024.01.13-12.49.54:232][738]AssetCheck: New page: Asset Save: Level7
+[2024.01.13-12.49.54:232][738]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/Game/Level7.Level7
+[2024.01.13-12.50.01:257][ 45]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2024.01.13-12.50.01:846][ 45]LogSlate: Window 'Save Content' being destroyed
+[2024.01.13-12.50.01:860][ 45]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.13-12.50.01:947][ 45]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Game/Level7" FILE="../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Content/Maps/Game/Level7.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.01.13-12.50.01:998][ 45]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2024.01.13-12.50.02:023][ 45]LogSavePackage: Moving output files for package: /Game/Maps/Game/Level7
+[2024.01.13-12.50.02:023][ 45]LogSavePackage: Moving '../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Saved/Level70BAF59F448AF2EAF0D35548A5570C7E6.tmp' to '../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Content/Maps/Game/Level7.umap'
+[2024.01.13-12.50.02:032][ 45]LogFileHelpers: All files are already saved.
+[2024.01.13-12.50.02:032][ 45]LogFileHelpers: Saving map 'Level7' took 0.085
+[2024.01.13-12.50.02:041][ 45]LogFileHelpers: InternalPromptForCheckoutAndSave took 182 ms (total: 15.5 sec)
+[2024.01.13-12.50.02:044][ 45]AssetCheck: New page: Asset Save: Level7
+[2024.01.13-12.50.02:044][ 45]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/Game/Level7.Level7
+[2024.01.13-12.50.22:288][394]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Polygon_BattleRoyale/Meshes/Props/SM_Prop_PalletStack_01.SM_Prop_PalletStack_01
+[2024.01.13-12.50.22:288][394]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Polygon_BattleRoyale/Meshes/Props/SM_Prop_PalletStack_01.SM_Prop_PalletStack_01
+[2024.01.13-12.50.22:290][394]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Polygon_BattleRoyale/Meshes/Props/SM_Prop_PalletStack_01.SM_Prop_PalletStack_01 as actor: StaticMeshActor /Game/Maps/Game/Level7.Level7:PersistentLevel.StaticMeshActor_101
+[2024.01.13-12.50.24:315][572]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Polygon_BattleRoyale/Meshes/Props/SM_Prop_PalletStack_01.SM_Prop_PalletStack_01
+[2024.01.13-12.50.24:315][572]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Polygon_BattleRoyale/Meshes/Props/SM_Prop_PalletStack_01.SM_Prop_PalletStack_01
+[2024.01.13-12.50.24:317][572]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Polygon_BattleRoyale/Meshes/Props/SM_Prop_PalletStack_01.SM_Prop_PalletStack_01 as actor: StaticMeshActor /Game/Maps/Game/Level7.Level7:PersistentLevel.StaticMeshActor_102
+[2024.01.13-12.50.30:907][154]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Polygon_BattleRoyale/Meshes/Props/SM_Prop_Propane_01.SM_Prop_Propane_01
+[2024.01.13-12.50.30:909][154]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Polygon_BattleRoyale/Meshes/Props/SM_Prop_Propane_01.SM_Prop_Propane_01
+[2024.01.13-12.50.30:909][154]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Polygon_BattleRoyale/Meshes/Props/SM_Prop_Propane_01.SM_Prop_Propane_01 as actor: StaticMeshActor /Game/Maps/Game/Level7.Level7:PersistentLevel.StaticMeshActor_103
+[2024.01.13-12.50.33:117][355]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2024.01.13-12.50.33:729][355]LogSlate: Window 'Save Content' being destroyed
+[2024.01.13-12.50.33:741][355]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.13-12.50.33:825][355]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Game/Level7" FILE="../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Content/Maps/Game/Level7.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.01.13-12.50.33:870][355]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2024.01.13-12.50.33:892][355]LogSavePackage: Moving output files for package: /Game/Maps/Game/Level7
+[2024.01.13-12.50.33:893][355]LogSavePackage: Moving '../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Saved/Level7A5DD6B404AD37B3290D729955C2B4ECC.tmp' to '../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Content/Maps/Game/Level7.umap'
+[2024.01.13-12.50.33:900][355]LogFileHelpers: All files are already saved.
+[2024.01.13-12.50.33:900][355]LogFileHelpers: Saving map 'Level7' took 0.074
+[2024.01.13-12.50.33:913][355]LogFileHelpers: InternalPromptForCheckoutAndSave took 171 ms (total: 15.7 sec)
+[2024.01.13-12.50.33:915][355]AssetCheck: New page: Asset Save: Level7
+[2024.01.13-12.50.33:915][355]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/Game/Level7.Level7
+[2024.01.13-12.50.42:642][130]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Polygon_BattleRoyale/Meshes/Props/SM_Prop_Barrier_01.SM_Prop_Barrier_01
+[2024.01.13-12.50.42:642][130]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Polygon_BattleRoyale/Meshes/Props/SM_Prop_Barrier_01.SM_Prop_Barrier_01
+[2024.01.13-12.50.42:644][130]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Polygon_BattleRoyale/Meshes/Props/SM_Prop_Barrier_01.SM_Prop_Barrier_01 as actor: StaticMeshActor /Game/Maps/Game/Level7.Level7:PersistentLevel.StaticMeshActor_104
+[2024.01.13-12.50.43:893][240]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Polygon_BattleRoyale/Meshes/Props/SM_Prop_Barrier_01.SM_Prop_Barrier_01
+[2024.01.13-12.50.43:893][240]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Polygon_BattleRoyale/Meshes/Props/SM_Prop_Barrier_01.SM_Prop_Barrier_01
+[2024.01.13-12.50.43:894][240]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Polygon_BattleRoyale/Meshes/Props/SM_Prop_Barrier_01.SM_Prop_Barrier_01 as actor: StaticMeshActor /Game/Maps/Game/Level7.Level7:PersistentLevel.StaticMeshActor_105
+[2024.01.13-12.50.47:273][546]Cmd: DELETE
+[2024.01.13-12.50.47:273][546]Cmd: ACTOR DELETE
+[2024.01.13-12.50.47:277][546]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.01.13-12.50.47:296][546]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2024.01.13-12.50.47:300][546]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2024.01.13-12.50.52:581][116]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Polygon_BattleRoyale/Meshes/Props/SM_Prop_Barricade_01.SM_Prop_Barricade_01
+[2024.01.13-12.50.52:581][116]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Polygon_BattleRoyale/Meshes/Props/SM_Prop_Barricade_01.SM_Prop_Barricade_01
+[2024.01.13-12.50.52:581][116]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Polygon_BattleRoyale/Meshes/Props/SM_Prop_Barricade_01.SM_Prop_Barricade_01 as actor: StaticMeshActor /Game/Maps/Game/Level7.Level7:PersistentLevel.StaticMeshActor_106
+[2024.01.13-12.50.53:349][197]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Polygon_BattleRoyale/Meshes/Props/SM_Prop_Barricade_01.SM_Prop_Barricade_01
+[2024.01.13-12.50.53:350][197]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Polygon_BattleRoyale/Meshes/Props/SM_Prop_Barricade_01.SM_Prop_Barricade_01
+[2024.01.13-12.50.53:351][197]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Polygon_BattleRoyale/Meshes/Props/SM_Prop_Barricade_01.SM_Prop_Barricade_01 as actor: StaticMeshActor /Game/Maps/Game/Level7.Level7:PersistentLevel.StaticMeshActor_107
+[2024.01.13-12.50.55:860][407]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Polygon_BattleRoyale/Meshes/Props/SM_Prop_Barricade_01.SM_Prop_Barricade_01
+[2024.01.13-12.50.55:860][407]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Polygon_BattleRoyale/Meshes/Props/SM_Prop_Barricade_01.SM_Prop_Barricade_01
+[2024.01.13-12.50.55:860][407]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Polygon_BattleRoyale/Meshes/Props/SM_Prop_Barricade_01.SM_Prop_Barricade_01 as actor: StaticMeshActor /Game/Maps/Game/Level7.Level7:PersistentLevel.StaticMeshActor_108
+[2024.01.13-12.50.56:951][508]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Polygon_BattleRoyale/Meshes/Props/SM_Prop_Barricade_01.SM_Prop_Barricade_01
+[2024.01.13-12.50.56:951][508]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Polygon_BattleRoyale/Meshes/Props/SM_Prop_Barricade_01.SM_Prop_Barricade_01
+[2024.01.13-12.50.56:952][508]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Polygon_BattleRoyale/Meshes/Props/SM_Prop_Barricade_01.SM_Prop_Barricade_01 as actor: StaticMeshActor /Game/Maps/Game/Level7.Level7:PersistentLevel.StaticMeshActor_109
+[2024.01.13-12.50.58:167][608]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2024.01.13-12.50.58:698][608]LogSlate: Window 'Save Content' being destroyed
+[2024.01.13-12.50.58:716][608]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.13-12.50.58:801][608]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Game/Level7" FILE="../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Content/Maps/Game/Level7.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.01.13-12.50.58:846][608]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2024.01.13-12.50.58:868][608]LogSavePackage: Moving output files for package: /Game/Maps/Game/Level7
+[2024.01.13-12.50.58:869][608]LogSavePackage: Moving '../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Saved/Level7EF3D26D840FC587CF5762282739204C9.tmp' to '../../../../../../Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Content/Maps/Game/Level7.umap'
+[2024.01.13-12.50.58:876][608]LogFileHelpers: All files are already saved.
+[2024.01.13-12.50.58:877][608]LogFileHelpers: Saving map 'Level7' took 0.076
+[2024.01.13-12.50.58:884][608]LogFileHelpers: InternalPromptForCheckoutAndSave took 167 ms (total: 15.9 sec)
+[2024.01.13-12.50.58:886][608]AssetCheck: New page: Asset Save: Level7
+[2024.01.13-12.50.58:886][608]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/Game/Level7.Level7
