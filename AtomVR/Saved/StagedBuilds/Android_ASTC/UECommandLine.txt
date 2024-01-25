@@ -1,1 +1,1 @@
--project="../../../AtomVR/AtomVR.uproject" /Game/Maps/Debug/TestLevel -Messaging
+-project="../../../AtomVR/AtomVR.uproject"
