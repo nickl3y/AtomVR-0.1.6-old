@@ -1,4 +1,4 @@
-#include "C:/Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Intermediate/Build/Win64/x64/UnrealEditor/Development/UnrealEd/SharedDefinitions.UnrealEd.Cpp20.h"
+#include "C:/Users/nikit/OneDrive/Documents/AtomVR/AtomVR/Intermediate/Build/Win64/x64/AtomVREditor/Development/UnrealEd/SharedDefinitions.UnrealEd.Cpp17.h"
 #undef UE_IS_ENGINE_MODULE
 #undef DEPRECATED_FORGAME
 #define DEPRECATED_FORGAME DEPRECATED
@@ -14,7 +14,7 @@
 #define UE_ENABLE_INCLUDE_ORDER_DEPRECATED_IN_5_2 0
 #define UE_ENABLE_INCLUDE_ORDER_DEPRECATED_IN_5_3 0
 #define UE_PROJECT_NAME AtomVR
-#define UE_TARGET_NAME UnrealEditor
+#define UE_TARGET_NAME AtomVREditor
 #define UE_MODULE_NAME "AssetsCleaner"
 #define UE_PLUGIN_NAME "AssetsCleaner"
 #define IMPLEMENT_ENCRYPTION_KEY_REGISTRATION() 

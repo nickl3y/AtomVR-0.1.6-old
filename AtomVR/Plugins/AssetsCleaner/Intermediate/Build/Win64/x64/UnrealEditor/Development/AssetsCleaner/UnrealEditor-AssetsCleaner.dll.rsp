@@ -34,7 +34,7 @@
 /NODEFAULTLIB:"LIBCD"
 /NODEFAULTLIB:"LIBCPD"
 /FUNCTIONPADMIN:6
-"C:\Users\nikit\OneDrive\Documents\AtomVR\AtomVR\Intermediate\Build\Win64\x64\UnrealEditor\Development\UnrealEd\SharedPCH.UnrealEd.Cpp20.h.obj"
+"C:\Users\nikit\OneDrive\Documents\AtomVR\AtomVR\Intermediate\Build\Win64\x64\AtomVREditor\Development\UnrealEd\SharedPCH.UnrealEd.Cpp17.h.obj"
 "C:\Users\nikit\OneDrive\Documents\AtomVR\AtomVR\Plugins\AssetsCleaner\Intermediate\Build\Win64\x64\UnrealEditor\Development\AssetsCleaner\Module.AssetsCleaner.cpp.obj"
 "C:\Users\nikit\OneDrive\Documents\AtomVR\AtomVR\Plugins\AssetsCleaner\Intermediate\Build\Win64\x64\UnrealEditor\Development\AssetsCleaner\Default.rc2.res"
 "..\Intermediate\Build\Win64\x64\UnrealEditor\Development\Projects\UnrealEditor-Projects.lib"

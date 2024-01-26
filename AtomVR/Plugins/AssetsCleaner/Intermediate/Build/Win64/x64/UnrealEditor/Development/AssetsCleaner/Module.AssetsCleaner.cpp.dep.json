@@ -3,7 +3,7 @@
     "Data": {
         "Source": "c:\\users\\nikit\\onedrive\\documents\\atomvr\\atomvr\\plugins\\assetscleaner\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\assetscleaner\\module.assetscleaner.cpp",
         "ProvidedModule": "",
-        "PCH": "c:\\users\\nikit\\onedrive\\documents\\atomvr\\atomvr\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\unrealed\\sharedpch.unrealed.cpp20.h.pch",
+        "PCH": "c:\\users\\nikit\\onedrive\\documents\\atomvr\\atomvr\\intermediate\\build\\win64\\x64\\atomvreditor\\development\\unrealed\\sharedpch.unrealed.cpp17.h.pch",
         "Includes": [
             "c:\\users\\nikit\\onedrive\\documents\\atomvr\\atomvr\\plugins\\assetscleaner\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\assetscleaner\\definitions.assetscleaner.h",
             "c:\\users\\nikit\\onedrive\\documents\\atomvr\\atomvr\\plugins\\assetscleaner\\intermediate\\build\\win64\\unrealeditor\\inc\\assetscleaner\\uht\\assetscleaner.init.gen.cpp",

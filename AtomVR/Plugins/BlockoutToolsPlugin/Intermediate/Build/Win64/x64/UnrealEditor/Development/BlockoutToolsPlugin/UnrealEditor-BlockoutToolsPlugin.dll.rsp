@@ -34,7 +34,7 @@
 /NODEFAULTLIB:"LIBCD"
 /NODEFAULTLIB:"LIBCPD"
 /FUNCTIONPADMIN:6
-"C:\Users\nikit\OneDrive\Documents\AtomVR\AtomVR\Intermediate\Build\Win64\x64\UnrealEditor\Development\Engine\SharedPCH.Engine.Cpp20.h.obj"
+"C:\Users\nikit\OneDrive\Documents\AtomVR\AtomVR\Intermediate\Build\Win64\x64\AtomVREditor\Development\Engine\SharedPCH.Engine.Cpp17.h.obj"
 "C:\Users\nikit\OneDrive\Documents\AtomVR\AtomVR\Plugins\BlockoutToolsPlugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\BlockoutToolsPlugin\Module.BlockoutToolsPlugin.cpp.obj"
 "C:\Users\nikit\OneDrive\Documents\AtomVR\AtomVR\Plugins\BlockoutToolsPlugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\BlockoutToolsPlugin\Default.rc2.res"
 "..\Intermediate\Build\Win64\x64\UnrealEditor\Development\CoreUObject\UnrealEditor-CoreUObject.lib"
