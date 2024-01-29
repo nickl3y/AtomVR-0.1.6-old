@@ -74,6 +74,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "CE5DB91E86CE5B903AB36953113F45993D9308E1",
+			"Assets": [
+				"/Game/Assets/PolygonScifi/Materials/Mat_PolygonScifi_01_A"
+			]
+		},
+		{
 			"ShaderMapHash": "3571B020D8FE821F56ED689B5D02BDB43309DA06",
 			"Assets": [
 				"/BlockoutToolsPlugin/Materials/M_BlockoutTools_Custom"
@@ -107,6 +113,12 @@
 			"ShaderMapHash": "71B0C62E34E351420AE7FC0DFA531C2CFF541F8E",
 			"Assets": [
 				"/Engine/EngineMaterials/EmissiveMeshMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "3492252F679325628DC368D4017C6717225026E2",
+			"Assets": [
+				"/Engine/OpenWorldTemplate/LandscapeMaterial/M_ProcGrid"
 			]
 		},
 		{
@@ -283,6 +295,12 @@
 			"ShaderMapHash": "FB087C7BF2C5514E02123C0C74BFD20094C5E094",
 			"Assets": [
 				"/SpeedTreeImporter/SpeedTree9/SpeedTreeMaster"
+			]
+		},
+		{
+			"ShaderMapHash": "061D997BDC0FE55395F2FDF9D3A5B66CD5F6F4A2",
+			"Assets": [
+				"/Engine/OpenWorldTemplate/LandscapeMaterial/MI_ProcGrid"
 			]
 		},
 		{
