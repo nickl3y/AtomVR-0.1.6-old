@@ -2,6 +2,12 @@
 	"AssetInfoVersion": 2,
 	"ShaderCodeToAssets": [
 		{
+			"ShaderMapHash": "1B6B09006DACFBD44D20D5245285A2F310D14768",
+			"Assets": [
+				"/Niagara/DefaultAssets/DefaultSpriteMaterial"
+			]
+		},
+		{
 			"ShaderMapHash": "B72E6400E928E2CC5296CEB9135FA6AB7E376670",
 			"Assets": [
 				"/MeshModelingToolset/Materials/M_DynamicMeshComponentVtxColor"
@@ -283,6 +289,12 @@
 			"ShaderMapHash": "232485819A135CF91BBB8382A9C20B047789BA04",
 			"Assets": [
 				"/Engine/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud"
+			]
+		},
+		{
+			"ShaderMapHash": "994D1C844C720DE311E1630DB97B1B81A28450BF",
+			"Assets": [
+				"/Game/Assets/InfimaGames/LowPolyShooterPack/Materials/M_Casing"
 			]
 		},
 		{
