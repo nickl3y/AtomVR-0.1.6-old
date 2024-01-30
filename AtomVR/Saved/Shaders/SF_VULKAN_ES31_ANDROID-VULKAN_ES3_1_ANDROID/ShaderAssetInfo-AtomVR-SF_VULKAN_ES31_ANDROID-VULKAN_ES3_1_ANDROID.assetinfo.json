@@ -74,12 +74,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "CE5DB91E86CE5B903AB36953113F45993D9308E1",
-			"Assets": [
-				"/Game/Assets/PolygonScifi/Materials/Mat_PolygonScifi_01_A"
-			]
-		},
-		{
 			"ShaderMapHash": "3571B020D8FE821F56ED689B5D02BDB43309DA06",
 			"Assets": [
 				"/BlockoutToolsPlugin/Materials/M_BlockoutTools_Custom"
@@ -156,6 +150,18 @@
 			"ShaderMapHash": "1FE1EC41DCE2C5ACB78E5C98D918239A1AAD2BB8",
 			"Assets": [
 				"/Game/Assets/Characters/MannequinsXR/Materials/Instances/Manny/MI_Manny_02"
+			]
+		},
+		{
+			"ShaderMapHash": "B354AA4227DD64EA388AC3671D23794034932405",
+			"Assets": [
+				"/Game/Assets/InfimaGames/LowPolyShooterPack/Materials/M_Character"
+			]
+		},
+		{
+			"ShaderMapHash": "BE715843251A3345EF662E8D75B14913ECB7F1A0",
+			"Assets": [
+				"/Game/Assets/PolygonScifi/Materials/Mat_PolygonScifi_01_A"
 			]
 		},
 		{
@@ -417,12 +423,6 @@
 			"Assets": [
 				"/Game/Assets/Characters/MannequinsXR/Materials/Instances/Manny/MI_Manny_01",
 				"/Game/Assets/Characters/MannequinsXR/Materials/M_Mannequin"
-			]
-		},
-		{
-			"ShaderMapHash": "2E4790CC7846EC19549D64CFEF2D1A6CADDE95EA",
-			"Assets": [
-				"/Game/Assets/InfimaGames/LowPolyShooterPack/Materials/M_Character"
 			]
 		},
 		{
