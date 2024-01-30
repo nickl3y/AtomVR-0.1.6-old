@@ -68,6 +68,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "19564D1CF3F6163D9CCFB72AF0B71BEC30B0F9A3",
+			"Assets": [
+				"/Game/Assets/InfimaGames/AnimatedLowPolyWeapons/Materials/M_Weapon"
+			]
+		},
+		{
 			"ShaderMapHash": "2A12A81D9552012489E67AC0F09A49C86A4BC354",
 			"Assets": [
 				"/Engine/EngineDebugMaterials/DebugEditorMaterial"
@@ -80,6 +86,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "E272F3201C071A55CC58651AFB277B4717AE9D56",
+			"Assets": [
+				"/Game/Assets/InfimaGames/LowPolyShooterPack/Materials/M_Scope_Fade"
+			]
+		},
+		{
 			"ShaderMapHash": "F488462297B193BCA74272FF38D2F7778731E01A",
 			"Assets": [
 				"/Engine/EditorMaterials/PhAT_UnselectedMaterial"
@@ -89,6 +101,12 @@
 			"ShaderMapHash": "6A48C8222A55B89AFE4814571DDB89EDA14544D6",
 			"Assets": [
 				"/Engine/EngineMaterials/RemoveSurfaceMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "F8B41F282E10E306E0DC740C7B7A0671F677DCA3",
+			"Assets": [
+				"/Game/Assets/InfimaGames/LowPolyShooterPack/Materials/M_Invisible"
 			]
 		},
 		{
@@ -483,6 +501,12 @@
 			"ShaderMapHash": "44B7F4E713A05EED8B17EDF325819DC2858D5F7D",
 			"Assets": [
 				"/Engine/EngineSky/M_Sky_Panning_Clouds2"
+			]
+		},
+		{
+			"ShaderMapHash": "61397AE8F57DE0EE82150B34EEC863DCB17B4228",
+			"Assets": [
+				"/Game/Assets/InfimaGames/LowPolyShooterPack/Materials/M_Scope_Base_Additive"
 			]
 		},
 		{
