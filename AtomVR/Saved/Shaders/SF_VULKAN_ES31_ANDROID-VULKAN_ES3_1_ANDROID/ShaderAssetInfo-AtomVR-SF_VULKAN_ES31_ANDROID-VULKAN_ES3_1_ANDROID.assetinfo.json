@@ -451,7 +451,8 @@
 			"ShaderMapHash": "806CFB7AC371B96DA4A603451BBE3D6291FBF018",
 			"Assets": [
 				"/Engine/EngineDebugMaterials/DebugMeshMaterial",
-				"/Engine/EngineDebugMaterials/M_SimpleUnlitTranslucent"
+				"/Engine/EngineDebugMaterials/M_SimpleUnlitTranslucent",
+				"/Game/Assets/ScreenFade"
 			]
 		},
 		{
