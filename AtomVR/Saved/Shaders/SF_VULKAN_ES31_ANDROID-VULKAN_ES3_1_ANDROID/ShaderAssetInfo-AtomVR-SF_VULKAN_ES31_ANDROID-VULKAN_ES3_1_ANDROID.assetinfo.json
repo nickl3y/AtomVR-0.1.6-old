@@ -301,8 +301,7 @@
 		{
 			"ShaderMapHash": "4C51196678A4F5B444AB2BDBAC137DC52093989C",
 			"Assets": [
-				"/Engine/EngineMaterials/Widget3DPassThrough",
-				"/Engine/EngineMaterials/Widget3DPassThrough_Translucent_OneSided"
+				"/Engine/EngineMaterials/Widget3DPassThrough"
 			]
 		},
 		{
@@ -400,7 +399,6 @@
 		{
 			"ShaderMapHash": "23AC7275422C3E483E2EC94CDA3B09BD2698D91F",
 			"Assets": [
-				"/Game/Assets/Characters/MannequinsXR/Materials/Instances/Manny/MI_Manny_01",
 				"/Game/Assets/Characters/MannequinsXR/Materials/M_Mannequin"
 			]
 		},
@@ -480,8 +478,7 @@
 		{
 			"ShaderMapHash": "089DED8A86916C2E5959F3B156887712E991ADAF",
 			"Assets": [
-				"/Engine/EngineMaterials/Widget3DPassThrough",
-				"/Engine/EngineMaterials/Widget3DPassThrough_Translucent_OneSided"
+				"/Engine/EngineMaterials/Widget3DPassThrough"
 			]
 		},
 		{
@@ -493,7 +490,6 @@
 		{
 			"ShaderMapHash": "8F2E588E47F1EE2F4CA05DA867BF77728C974BC7",
 			"Assets": [
-				"/Game/Assets/Characters/MannequinsXR/Materials/Instances/Manny/MI_Manny_01",
 				"/Game/Assets/Characters/MannequinsXR/Materials/M_Mannequin"
 			]
 		},
@@ -603,11 +599,7 @@
 		{
 			"ShaderMapHash": "2CB954B3F907B90DB9CEDC7A8AE5CB87B57379F7",
 			"Assets": [
-				"/OpenXR/Devices/MicrosoftMixedReality/MI_MicrosoftMixedReality",
-				"/OpenXR/Devices/OculusTouch/MI_OculusTouch",
-				"/OpenXR/Devices/OculusTouch_v2/MI_OculusTouch_v2",
-				"/OpenXR/Devices/OculusTouch_v3/MI_OculusTouch_v3",
-				"/OpenXR/Devices/ValveIndex/Left/MI_left_ValveIndex"
+				"/OpenXR/Devices/OculusTouch_v3/MI_OculusTouch_v3"
 			]
 		},
 		{
@@ -851,11 +843,7 @@
 		{
 			"ShaderMapHash": "63B052F6BA4D79A2545A52AB3EBA081F7B9869B5",
 			"Assets": [
-				"/OpenXR/Devices/MicrosoftMixedReality/MI_MicrosoftMixedReality",
-				"/OpenXR/Devices/OculusTouch/MI_OculusTouch",
-				"/OpenXR/Devices/OculusTouch_v2/MI_OculusTouch_v2",
-				"/OpenXR/Devices/OculusTouch_v3/MI_OculusTouch_v3",
-				"/OpenXR/Devices/ValveIndex/Left/MI_left_ValveIndex"
+				"/OpenXR/Devices/OculusTouch_v3/MI_OculusTouch_v3"
 			]
 		},
 		{
