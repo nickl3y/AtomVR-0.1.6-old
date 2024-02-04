@@ -2,12 +2,6 @@
 	"AssetInfoVersion": 2,
 	"ShaderCodeToAssets": [
 		{
-			"ShaderMapHash": "1B6B09006DACFBD44D20D5245285A2F310D14768",
-			"Assets": [
-				"/Niagara/DefaultAssets/DefaultSpriteMaterial"
-			]
-		},
-		{
 			"ShaderMapHash": "B72E6400E928E2CC5296CEB9135FA6AB7E376670",
 			"Assets": [
 				"/MeshModelingToolset/Materials/M_DynamicMeshComponentVtxColor"
@@ -26,7 +20,7 @@
 			]
 		},
 		{
-			"ShaderMapHash": "7CD6F80336CDCEE200F67AC7352D8CC0BCA731B2",
+			"ShaderMapHash": "83AF360360D2D4428AB477EA3B22C6D76160AC0D",
 			"Assets": [
 				"/Game/Assets/HandSocketMat"
 			]
@@ -39,9 +33,9 @@
 			]
 		},
 		{
-			"ShaderMapHash": "E6AB36078695A020D926D09F17FA07242F9D2E8C",
+			"ShaderMapHash": "F79CE705BC559E3536DE5234B95F2C397EEBE4AF",
 			"Assets": [
-				"/Engine/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial"
+				"/Game/Assets/InfimaGames/LowPolyShooterPack/Materials/M_HeatDistortion"
 			]
 		},
 		{
@@ -51,15 +45,9 @@
 			]
 		},
 		{
-			"ShaderMapHash": "FAA1630B0C99813CF96443A0A07E5D156496958B",
+			"ShaderMapHash": "D231630ED2FC5FEEE1ADB3F7FB1E9257C9987029",
 			"Assets": [
-				"/Engine/EngineMaterials/DefaultDeferredDecalMaterial"
-			]
-		},
-		{
-			"ShaderMapHash": "09E4B70ECA2AAF724CA1C29A792474288D9CE486",
-			"Assets": [
-				"/Engine/VREditor/SnapGrid/SnapGridMaterial"
+				"/Engine/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud"
 			]
 		},
 		{
@@ -69,15 +57,9 @@
 			]
 		},
 		{
-			"ShaderMapHash": "CA45EB14EEF706BF4E50AFB3362E03EB46F1709C",
+			"ShaderMapHash": "21EA4715EF8DBF2D8D19E5ECFE44B6A263B4A686",
 			"Assets": [
-				"/Engine/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud"
-			]
-		},
-		{
-			"ShaderMapHash": "017D2E16EC7892E1697B24BC220E08E88FEFC685",
-			"Assets": [
-				"/Game/Assets/InfimaGames/LowPolyShooterPack/Materials/M_Particle"
+				"/ControlRig/Controls/ControlRigXRayMaterial"
 			]
 		},
 		{
@@ -111,9 +93,9 @@
 			]
 		},
 		{
-			"ShaderMapHash": "F488462297B193BCA74272FF38D2F7778731E01A",
+			"ShaderMapHash": "23360322466C8008B919F25AC340310B06BAE8A6",
 			"Assets": [
-				"/Engine/EditorMaterials/PhAT_UnselectedMaterial"
+				"/Game/Assets/PolygonMilitary/FX/Misc/Mat_FX_Default"
 			]
 		},
 		{
@@ -129,21 +111,27 @@
 			]
 		},
 		{
+			"ShaderMapHash": "F0B7652AFA8E86AB26876E9EDAA177B868E63980",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Translucent"
+			]
+		},
+		{
 			"ShaderMapHash": "BD19C72BEE21B46A232E4F6659D44B744835DE68",
 			"Assets": [
 				"/Engine/EngineMaterials/Widget3DPassThrough_Masked_OneSided"
 			]
 		},
 		{
-			"ShaderMapHash": "121D142DD47780DBA7DEBAED4D2AB908901D7ADA",
+			"ShaderMapHash": "D90A4A2C5D7438D1BB325796D66C545D8E41263D",
 			"Assets": [
-				"/Engine/EngineMaterials/DefaultPostProcessMaterial"
+				"/Engine/EngineMaterials/PhAT_JointLimitMaterial"
 			]
 		},
 		{
-			"ShaderMapHash": "71B0C62E34E351420AE7FC0DFA531C2CFF541F8E",
+			"ShaderMapHash": "121D142DD47780DBA7DEBAED4D2AB908901D7ADA",
 			"Assets": [
-				"/Engine/EngineMaterials/EmissiveMeshMaterial"
+				"/Engine/EngineMaterials/DefaultPostProcessMaterial"
 			]
 		},
 		{
@@ -171,9 +159,9 @@
 			]
 		},
 		{
-			"ShaderMapHash": "B0D8F73C0CED3266679572B7BBCAB8A51E3E300F",
+			"ShaderMapHash": "EB2F7B3C7DFCD93967B3ECC5E3B8C1CED075D652",
 			"Assets": [
-				"/Niagara/DefaultAssets/DefaultSpriteMaterial"
+				"/Game/Assets/InfimaGames/LowPolyShooterPack/Materials/M_Particle"
 			]
 		},
 		{
@@ -190,9 +178,21 @@
 			]
 		},
 		{
+			"ShaderMapHash": "D30A023E2157BC5BAC2D8E6353F28DAF3F554C90",
+			"Assets": [
+				"/Engine/VREditor/TransformGizmo/Main"
+			]
+		},
+		{
 			"ShaderMapHash": "65D8B03E524A9378F3318B8BAC1157391083C249",
 			"Assets": [
 				"/Engine/EngineMaterials/Widget3DPassThrough_Masked"
+			]
+		},
+		{
+			"ShaderMapHash": "6FDF1541803F7AB8FC73579AEFECA441B9683257",
+			"Assets": [
+				"/Game/Assets/HandSocketMat"
 			]
 		},
 		{
@@ -226,15 +226,9 @@
 			]
 		},
 		{
-			"ShaderMapHash": "C1155145502F53EEBF8803053001A1DBE9E5FB6A",
+			"ShaderMapHash": "D8597143893E142EF23C5AA259C7E4CE82CA9420",
 			"Assets": [
-				"/Engine/VREditor/TransformGizmo/Main"
-			]
-		},
-		{
-			"ShaderMapHash": "020FFB4620CAAA589ACC64320B23B9425736FC34",
-			"Assets": [
-				"/Game/Assets/PolygonMilitary/Materials/Misc/Mat_PolygonMilitary_Glass_01"
+				"/Engine/VREditor/SnapGrid/SnapGridMaterial"
 			]
 		},
 		{
@@ -250,21 +244,15 @@
 			]
 		},
 		{
+			"ShaderMapHash": "4B439E4C0A3F180BFE3E0127EF1A61B6B7A315F1",
+			"Assets": [
+				"/Engine/EngineMaterials/PhAT_JointLimitMaterial"
+			]
+		},
+		{
 			"ShaderMapHash": "8D40604EBA063CAD8F8C601EFA24A06FC265FCDB",
 			"Assets": [
 				"/Game/Assets/PolygonScifi/Materials/Mat_PolygonScifi_01_A"
-			]
-		},
-		{
-			"ShaderMapHash": "E1598B4F6A6DCA16295001DA30391B182288E401",
-			"Assets": [
-				"/Game/Assets/InfimaGames/LowPolyShooterPack/Materials/M_Additive"
-			]
-		},
-		{
-			"ShaderMapHash": "88A6BA4FBEDCEF55B799AA34978A438BC37DCA2A",
-			"Assets": [
-				"/Engine/EngineMaterials/PhAT_JointLimitMaterial"
 			]
 		},
 		{
@@ -296,21 +284,9 @@
 			]
 		},
 		{
-			"ShaderMapHash": "0581AC59715A3336E4839430C18680E21581914B",
-			"Assets": [
-				"/Engine/VREditor/SnapGrid/SnapGridMaterial"
-			]
-		},
-		{
 			"ShaderMapHash": "D8DD0A5A45AB46C91EBE6204E43ABF0E97E61602",
 			"Assets": [
 				"/Engine/EngineMaterials/DefaultTextMaterialOpaque"
-			]
-		},
-		{
-			"ShaderMapHash": "DAD51C5AEF5FD3CE4188F758532C7B6C892581F0",
-			"Assets": [
-				"/Game/Assets/PolygonMilitary/FX/Misc/Mat_FX_Dark"
 			]
 		},
 		{
@@ -326,15 +302,9 @@
 			]
 		},
 		{
-			"ShaderMapHash": "6DA2505D5F04518614FB58D293AAEA10EF1A24D0",
+			"ShaderMapHash": "7B6F5E608FD2E113CEEA0EE6C7EEBAD0D1360176",
 			"Assets": [
-				"/Engine/EngineMaterials/Widget3DPassThrough_Translucent"
-			]
-		},
-		{
-			"ShaderMapHash": "B220685F44A0E3E8DAD46F86484895C01B92C987",
-			"Assets": [
-				"/Game/Assets/BulletTrace/M_Tracer"
+				"/ControlRig/Controls/ControlRigXRayMaterial"
 			]
 		},
 		{
@@ -356,9 +326,16 @@
 			]
 		},
 		{
-			"ShaderMapHash": "161115679FE3539CC64FA39ABFE765F3862FE3C1",
+			"ShaderMapHash": "4C51196678A4F5B444AB2BDBAC137DC52093989C",
 			"Assets": [
-				"/Engine/VREditor/TransformGizmo/Main"
+				"/Engine/EngineMaterials/Widget3DPassThrough",
+				"/Engine/EngineMaterials/Widget3DPassThrough_Translucent_OneSided"
+			]
+		},
+		{
+			"ShaderMapHash": "1F4205681061C9DBEC8E950878012B3FD3DF7D4C",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Translucent"
 			]
 		},
 		{
@@ -370,17 +347,9 @@
 			]
 		},
 		{
-			"ShaderMapHash": "4B15376C318FB62E1BDDD3242C79679B22EF5F87",
+			"ShaderMapHash": "EBAC3D719824F449FEE358D0AB2BAE1D86869868",
 			"Assets": [
-				"/Engine/EngineDebugMaterials/DebugMeshMaterial",
-				"/Engine/EngineDebugMaterials/M_SimpleUnlitTranslucent",
-				"/Game/Assets/ScreenFade"
-			]
-		},
-		{
-			"ShaderMapHash": "59C35C6E4BDFB30F940D710F452BC1C223806BC8",
-			"Assets": [
-				"/ControlRig/Controls/ControlRigXRayMaterial"
+				"/Game/Assets/BulletTrace/M_Tracer"
 			]
 		},
 		{
@@ -402,6 +371,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "181AA674212A9C4899F9DEF7FFD692C14F317220",
+			"Assets": [
+				"/Engine/VREditor/SnapGrid/SnapGridMaterial"
+			]
+		},
+		{
 			"ShaderMapHash": "9DCD9D75BA95C19D7D05A37FEDBA6C20CA535A32",
 			"Assets": [
 				"/Engine/EngineMaterials/NaniteHiddenSectionMaterial"
@@ -415,30 +390,15 @@
 			]
 		},
 		{
-			"ShaderMapHash": "AB521E77E22107050D43F4576DFAE6DFE933CB32",
-			"Assets": [
-				"/Engine/EngineMaterials/Widget3DPassThrough_Translucent"
-			]
-		},
-		{
 			"ShaderMapHash": "2907767768FC212B2A74E84568A9AFC7668A7D60",
 			"Assets": [
 				"/Game/Assets/Polygon_BattleRoyale/Materials/Mat_PolygonBattleRoyale_Weapons_01"
 			]
 		},
 		{
-			"ShaderMapHash": "AB27ED7789E8BE32F8C571981B04B06F786907C2",
+			"ShaderMapHash": "9D6BA97AEEEAB7BAA8A715F120319547D7BAA7C3",
 			"Assets": [
-				"/Engine/EngineMaterials/Widget3DPassThrough",
-				"/Engine/EngineMaterials/Widget3DPassThrough_Translucent_OneSided"
-			]
-		},
-		{
-			"ShaderMapHash": "806CFB7AC371B96DA4A603451BBE3D6291FBF018",
-			"Assets": [
-				"/Engine/EngineDebugMaterials/DebugMeshMaterial",
-				"/Engine/EngineDebugMaterials/M_SimpleUnlitTranslucent",
-				"/Game/Assets/ScreenFade"
+				"/Engine/EngineMaterials/DefaultDeferredDecalMaterial"
 			]
 		},
 		{
@@ -448,9 +408,9 @@
 			]
 		},
 		{
-			"ShaderMapHash": "232485819A135CF91BBB8382A9C20B047789BA04",
+			"ShaderMapHash": "CB22957DB826F926F725EE800353BD75FEBA1758",
 			"Assets": [
-				"/Engine/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud"
+				"/Game/Assets/InfimaGames/LowPolyShooterPack/Materials/M_Additive"
 			]
 		},
 		{
@@ -466,9 +426,22 @@
 			]
 		},
 		{
+			"ShaderMapHash": "A5DB48870276D509F95F3CD9271B8E1FF6B14D8C",
+			"Assets": [
+				"/Niagara/DefaultAssets/DefaultSpriteMaterial"
+			]
+		},
+		{
 			"ShaderMapHash": "80DB02887E4A2E6130256C04BE07F3C29FFB343C",
 			"Assets": [
 				"/Engine/EditorMaterials/Camera/CineMat"
+			]
+		},
+		{
+			"ShaderMapHash": "089DED8A86916C2E5959F3B156887712E991ADAF",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough",
+				"/Engine/EngineMaterials/Widget3DPassThrough_Translucent_OneSided"
 			]
 		},
 		{
@@ -508,12 +481,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "36D6418FB8361EE03FC08B79300B18B0273173A0",
-			"Assets": [
-				"/Game/Assets/PolygonMilitary/FX/Misc/Mat_FX_Default"
-			]
-		},
-		{
 			"ShaderMapHash": "830FCE8FDFF571DDA23928C97CF1860809118297",
 			"Assets": [
 				"/OpenXR/Devices/MicrosoftMixedReality/MI_MicrosoftMixedReality",
@@ -524,10 +491,15 @@
 			]
 		},
 		{
-			"ShaderMapHash": "245A289074D636977277ECA7DFD6BE1C40E592F0",
+			"ShaderMapHash": "28C02891E516B236AD4833C2974624B54AE9C4F1",
 			"Assets": [
-				"/Engine/EngineMaterials/Widget3DPassThrough",
-				"/Engine/EngineMaterials/Widget3DPassThrough_Translucent_OneSided"
+				"/Game/Assets/BulletTrace/M_Tracer"
+			]
+		},
+		{
+			"ShaderMapHash": "EA3C5091AA2AE78CE3AA1BA27E624D6F32655DC6",
+			"Assets": [
+				"/Engine/VREditor/TransformGizmo/Main"
 			]
 		},
 		{
@@ -543,15 +515,21 @@
 			]
 		},
 		{
+			"ShaderMapHash": "6FEF8E9417167BB5ECC8D0EEF9FD1749EDB4789E",
+			"Assets": [
+				"/Engine/EditorMaterials/PhAT_UnselectedMaterial"
+			]
+		},
+		{
 			"ShaderMapHash": "A1361495A38E740A3C6E4ED0237C762128819395",
 			"Assets": [
 				"/Game/Assets/Polygon_BattleRoyale/Materials/Mat_PolygonBattleRoyale_Fence_01"
 			]
 		},
 		{
-			"ShaderMapHash": "63896C98A558F0C33E84F06FEB588FC469D5D896",
+			"ShaderMapHash": "64B7AE9833BE1F71B31300CBCA0030FF4CC760A7",
 			"Assets": [
-				"/Game/Assets/InfimaGames/LowPolyShooterPack/Materials/M_HeatDistortion"
+				"/Game/Assets/PolygonMilitary/FX/Misc/Mat_FX_Dark"
 			]
 		},
 		{
@@ -580,7 +558,7 @@
 			]
 		},
 		{
-			"ShaderMapHash": "5DE8ACA049853F7045C96F29BC2BC2AECF043C40",
+			"ShaderMapHash": "F5622AA1B79D5A4513989F477ECE7BA00851FAD1",
 			"Assets": [
 				"/Engine/EngineMaterials/DefaultDeferredDecalMaterial"
 			]
@@ -601,12 +579,6 @@
 			"ShaderMapHash": "08AC35AA97B8C951962877E39A7AA7358E608491",
 			"Assets": [
 				"/Engine/EngineMaterials/DefaultTextMaterialOpaque"
-			]
-		},
-		{
-			"ShaderMapHash": "F500C5AAB09802A9C645B97BFD6771358666B786",
-			"Assets": [
-				"/Engine/EngineMaterials/PhAT_JointLimitMaterial"
 			]
 		},
 		{
@@ -634,9 +606,15 @@
 			]
 		},
 		{
-			"ShaderMapHash": "C6D9ACB10480A83D28AED3BE8DBECBAFEFC8B3C2",
+			"ShaderMapHash": "1AA39CB275C629C2E96CF9D8C9CC980144728DC6",
 			"Assets": [
 				"/Engine/EditorMaterials/PhAT_NoCollisionMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "CA3C77B5F999E70153EE9A57187BDD71C4F55517",
+			"Assets": [
+				"/Engine/EditorMaterials/PhAT_UnselectedMaterial"
 			]
 		},
 		{
@@ -646,21 +624,21 @@
 			]
 		},
 		{
-			"ShaderMapHash": "4A0515B9BB032BA4F914106BA85D8A62B1888BF9",
+			"ShaderMapHash": "85A242B8D17B83646C6EB13C9C1B5E2D5A1B052B",
 			"Assets": [
-				"/Game/Assets/BulletTrace/M_Tracer"
+				"/Engine/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud"
+			]
+		},
+		{
+			"ShaderMapHash": "D35F7BBAE4E37E375482BDE35DBEFC1D3B06569E",
+			"Assets": [
+				"/Niagara/DefaultAssets/DefaultSpriteMaterial"
 			]
 		},
 		{
 			"ShaderMapHash": "EE8BE9BA7C06148E5D04E1242A983B4A52ADC65C",
 			"Assets": [
 				"/Game/Assets/Characters/MannequinsXR/Materials/Instances/Manny/MI_Manny_02"
-			]
-		},
-		{
-			"ShaderMapHash": "1EC807BBFF84CEDEB2E0FAC4478F446E377EE61C",
-			"Assets": [
-				"/ControlRig/Controls/ControlRigXRayMaterial"
 			]
 		},
 		{
@@ -682,15 +660,11 @@
 			]
 		},
 		{
-			"ShaderMapHash": "3C4EEDBEACB496F968705A1D3A1F07C2BC7269CE",
+			"ShaderMapHash": "A89463C02FBCCAB2DDCEA7463109450211C92155",
 			"Assets": [
-				"/Engine/EditorMaterials/PhAT_UnselectedMaterial"
-			]
-		},
-		{
-			"ShaderMapHash": "FE6287C0A98EA24A59954F0B7DA202DD5002581C",
-			"Assets": [
-				"/Game/Assets/PolygonMilitary/Materials/Misc/Mat_PolygonMilitary_Glass_01"
+				"/Engine/EngineDebugMaterials/DebugMeshMaterial",
+				"/Engine/EngineDebugMaterials/M_SimpleUnlitTranslucent",
+				"/Game/Assets/ScreenFade"
 			]
 		},
 		{
@@ -706,10 +680,22 @@
 			]
 		},
 		{
+			"ShaderMapHash": "A5B0CCC5E93CFEF38640962F4ACC47AD535148DD",
+			"Assets": [
+				"/Engine/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial"
+			]
+		},
+		{
 			"ShaderMapHash": "FB3925C7BC73D5C7A81802B10AFD61C103F09007",
 			"Assets": [
 				"/Game/Assets/Characters/MannequinsXR/Materials/Instances/Manny/MI_Manny_01",
 				"/Game/Assets/Characters/MannequinsXR/Materials/M_Mannequin"
+			]
+		},
+		{
+			"ShaderMapHash": "2B5E8CC7B6EE8A8E58F7363DF05C48D468AE9AEF",
+			"Assets": [
+				"/Game/Assets/InfimaGames/LowPolyShooterPack/Materials/M_Particle"
 			]
 		},
 		{
@@ -756,18 +742,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "0A3469D88F5D77659448E1E0C820685E1BAC9260",
-			"Assets": [
-				"/Game/Assets/HandSocketMat"
-			]
-		},
-		{
-			"ShaderMapHash": "19A5FDDA6AE33313F46F85117C8F63DD33CA77DD",
-			"Assets": [
-				"/Game/Assets/InfimaGames/LowPolyShooterPack/Materials/M_Particle"
-			]
-		},
-		{
 			"ShaderMapHash": "958B0DDCFDF6F5C59CDA76835E5E0B6D2D4AD436",
 			"Assets": [
 				"/Game/Assets/Polygon_BattleRoyale/Materials/Mat_PolygonBattleRoyale_Weapons_01"
@@ -786,7 +760,7 @@
 			]
 		},
 		{
-			"ShaderMapHash": "3997ABDD09A4C0F4BBBB0C366E5B8FC635B2284D",
+			"ShaderMapHash": "A2CF74DDB56C542D2D84C0CF142495035DD7BB83",
 			"Assets": [
 				"/Engine/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial"
 			]
@@ -798,15 +772,15 @@
 			]
 		},
 		{
-			"ShaderMapHash": "FE62D2DFFF0FD37E78D80773B20082A6D8B8B151",
+			"ShaderMapHash": "BDD550DF011F59557E9C865740EA9DC39D8035E0",
 			"Assets": [
-				"/BlockoutToolsPlugin/Materials/M_BlockoutTools_Custom"
+				"/Game/Assets/PolygonMilitary/Materials/Misc/Mat_PolygonMilitary_Glass_01"
 			]
 		},
 		{
-			"ShaderMapHash": "6FF7D3DF84D12FE4138ADB27439514EC7C824CCF",
+			"ShaderMapHash": "FE62D2DFFF0FD37E78D80773B20082A6D8B8B151",
 			"Assets": [
-				"/Engine/EditorMaterials/PhAT_NoCollisionMaterial"
+				"/BlockoutToolsPlugin/Materials/M_BlockoutTools_Custom"
 			]
 		},
 		{
@@ -840,6 +814,20 @@
 			]
 		},
 		{
+			"ShaderMapHash": "D77B1DECFC8EF043C9CB99623212AC55BEBCACCA",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/DebugMeshMaterial",
+				"/Engine/EngineDebugMaterials/M_SimpleUnlitTranslucent",
+				"/Game/Assets/ScreenFade"
+			]
+		},
+		{
+			"ShaderMapHash": "773775ED18500810233991F75992C286A52C5A95",
+			"Assets": [
+				"/Engine/EditorMaterials/PhAT_NoCollisionMaterial"
+			]
+		},
+		{
 			"ShaderMapHash": "CB61DDEE1772DDA532CACE37E645061283796BE9",
 			"Assets": [
 				"/Game/Assets/PolygonMilitary/Materials/Misc/Mat_PolygonMilitary_Netting_01"
@@ -864,6 +852,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "A06963F9DB27CF7BF468E425091157D400FA8F37",
+			"Assets": [
+				"/Game/Assets/PolygonMilitary/Materials/Misc/Mat_PolygonMilitary_Glass_01"
+			]
+		},
+		{
 			"ShaderMapHash": "FB3095FA796E0A396B15BCEFF52BDFD18EA6E8F5",
 			"Assets": [
 				"/Engine/EngineMaterials/Widget3DPassThrough_Opaque"
@@ -880,6 +874,12 @@
 			"ShaderMapHash": "04CB25FEE914CF822E5ADD9ED5FE29FD061EBF51",
 			"Assets": [
 				"/Game/Assets/InfimaGames/LowPolyShooterPack/Materials/M_ColorLit"
+			]
+		},
+		{
+			"ShaderMapHash": "8FE345FE0C7FC4C9B0778571FA891925FF2CD3C7",
+			"Assets": [
+				"/Engine/EngineMaterials/EmissiveMeshMaterial"
 			]
 		}
 	]
