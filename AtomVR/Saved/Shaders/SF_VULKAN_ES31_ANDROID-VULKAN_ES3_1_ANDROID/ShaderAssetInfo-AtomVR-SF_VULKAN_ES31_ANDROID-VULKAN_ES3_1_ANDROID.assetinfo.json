@@ -293,12 +293,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "3B84EE5DAED9663FBF951EB05588D9F5EE81BEF8",
-			"Assets": [
-				"/Game/Assets/PolygonScifi/Materials/Mat_PolygonScifi_01_Chars"
-			]
-		},
-		{
 			"ShaderMapHash": "7B6F5E608FD2E113CEEA0EE6C7EEBAD0D1360176",
 			"Assets": [
 				"/ControlRig/Controls/ControlRigXRayMaterial"
@@ -435,6 +429,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "796FF67A433287D879A5A7CEEFF66F9F3D75558B",
+			"Assets": [
+				"/Game/Assets/PolygonScifi/Materials/Mat_PolygonScifi_01_Chars"
+			]
+		},
+		{
 			"ShaderMapHash": "CB22957DB826F926F725EE800353BD75FEBA1758",
 			"Assets": [
 				"/Game/Assets/InfimaGames/LowPolyShooterPack/Materials/M_Additive"
@@ -549,6 +549,12 @@
 			"ShaderMapHash": "6FEF8E9417167BB5ECC8D0EEF9FD1749EDB4789E",
 			"Assets": [
 				"/Engine/EditorMaterials/PhAT_UnselectedMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "7C06B596F93FE7F91A52F676083EDA0D39495374",
+			"Assets": [
+				"/Game/Assets/PolygonScifi/Materials/Mat_PolygonScifi_01_Chars"
 			]
 		},
 		{
@@ -796,12 +802,6 @@
 			"ShaderMapHash": "128556DEC4684AFD2CA142F5A53F2781CDD2916F",
 			"Assets": [
 				"/Engine/EngineDebugMaterials/DebugEditorMaterial"
-			]
-		},
-		{
-			"ShaderMapHash": "4E671ADFC18A316690A5E51C7BA62A0F2678B82D",
-			"Assets": [
-				"/Game/Assets/PolygonScifi/Materials/Mat_PolygonScifi_01_Chars"
 			]
 		},
 		{
