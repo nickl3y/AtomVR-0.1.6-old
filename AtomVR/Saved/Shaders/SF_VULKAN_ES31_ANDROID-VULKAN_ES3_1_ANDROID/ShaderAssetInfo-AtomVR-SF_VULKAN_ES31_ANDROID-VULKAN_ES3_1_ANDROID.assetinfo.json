@@ -2,6 +2,12 @@
 	"AssetInfoVersion": 2,
 	"ShaderCodeToAssets": [
 		{
+			"ShaderMapHash": "F0E9C600C944425E9B2EEAE914C7CC7D3732D9AA",
+			"Assets": [
+				"/Game/Assets/PolygonScifi/Materials/Misc/Mat_PolygonScifi_Signs"
+			]
+		},
+		{
 			"ShaderMapHash": "F79CE705BC559E3536DE5234B95F2C397EEBE4AF",
 			"Assets": [
 				"/Game/Assets/InfimaGames/LowPolyShooterPack/Materials/M_HeatDistortion"
@@ -59,6 +65,12 @@
 			"ShaderMapHash": "21EA4715EF8DBF2D8D19E5ECFE44B6A263B4A686",
 			"Assets": [
 				"/ControlRig/Controls/ControlRigXRayMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "0391B115466C3E573EF3AFA0AEF0747933CA53ED",
+			"Assets": [
+				"/Game/Assets/PolygonScifi/Materials/Mat_PolygonScifi_01_A"
 			]
 		},
 		{
@@ -221,12 +233,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "CA64B84A461D1A01F88B0364D6F6376B5E5D8536",
-			"Assets": [
-				"/Game/Assets/PolygonScifi/Materials/Mat_PolygonScifi_01_A"
-			]
-		},
-		{
 			"ShaderMapHash": "32F2BA4AB786B79934B39D182BAD6BBF2E70BFD7",
 			"Assets": [
 				"/Game/Assets/Polygon_BattleRoyale/Materials/Mat_PolygonBattleRoyale_Fence_01"
@@ -269,6 +275,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "FE54D259D6EA77C40B0C416388FF01A88A9C8370",
+			"Assets": [
+				"/Game/Assets/PolygonScifi/Materials/Mat_PolygonScifi_01_A"
+			]
+		},
+		{
 			"ShaderMapHash": "FCD1685A739ED97FA2A2E0A03C54B662F7E8E4D6",
 			"Assets": [
 				"/Game/Assets/Characters/MannequinsXR/Materials/Instances/Manny/MI_Manny_02"
@@ -278,6 +290,12 @@
 			"ShaderMapHash": "18FDB95A6199B58988C632FBD8379CC9AE1B3127",
 			"Assets": [
 				"/Engine/VREditor/Devices/Vive/M_ViveControllerTrim"
+			]
+		},
+		{
+			"ShaderMapHash": "3B84EE5DAED9663FBF951EB05588D9F5EE81BEF8",
+			"Assets": [
+				"/Game/Assets/PolygonScifi/Materials/Mat_PolygonScifi_01_Chars"
 			]
 		},
 		{
@@ -565,6 +583,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "20118FA895DBEA2ED502A1911F2D7F31382F0849",
+			"Assets": [
+				"/Game/Assets/PolygonScifi/Materials/Misc/Mat_PolygonScifi_Signs"
+			]
+		},
+		{
 			"ShaderMapHash": "416624ABAC1608FFAC66A0D3683F1FA1FEAEA7EB",
 			"Assets": [
 				"/Engine/EngineMaterials/GizmoMaterial"
@@ -775,6 +799,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "4E671ADFC18A316690A5E51C7BA62A0F2678B82D",
+			"Assets": [
+				"/Game/Assets/PolygonScifi/Materials/Mat_PolygonScifi_01_Chars"
+			]
+		},
+		{
 			"ShaderMapHash": "0FE96FE04080D46CD96E92AD4A6A22758201760D",
 			"Assets": [
 				"/Game/Assets/AssetsvilleTown/Materials/MasterMaterials/M_BaseColorPalette"
@@ -840,12 +870,6 @@
 			"ShaderMapHash": "2866F6F4A9DCA3F595F23C2A5E7E834737BD5FA1",
 			"Assets": [
 				"/Game/Assets/DeadMaterial"
-			]
-		},
-		{
-			"ShaderMapHash": "C1503BF57154D30B0A0234962FDDD29B81D52E92",
-			"Assets": [
-				"/Game/Assets/PolygonScifi/Materials/Mat_PolygonScifi_01_A"
 			]
 		},
 		{
