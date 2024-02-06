@@ -38,12 +38,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "EF524E0D7A58E144836A813ECA98EAA350FE595C",
-			"Assets": [
-				"/Game/Assets/InfimaGames/LowPolyShooterPack/Materials/M_ColorUnlit"
-			]
-		},
-		{
 			"ShaderMapHash": "59F351117F8BECC246C98CAE47F77621DF430267",
 			"Assets": [
 				"/Engine/EngineMaterials/DefaultLightFunctionMaterial"
@@ -86,12 +80,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "B899B7174AF9FCC4F41C24F0BC1217FB56C322DB",
-			"Assets": [
-				"/Game/Assets/InfimaGames/LowPolyShooterPack/Materials/M_Scope_Base_Translucent"
-			]
-		},
-		{
 			"ShaderMapHash": "4D23031908B25AB46839955CAA67D6D0E92EC0E9",
 			"Assets": [
 				"/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale"
@@ -119,12 +107,6 @@
 			"ShaderMapHash": "22A4EF1EF7FC001409ACB28E7BF1851A74D0F98D",
 			"Assets": [
 				"/Engine/EngineSky/M_Sky_Panning_Clouds2"
-			]
-		},
-		{
-			"ShaderMapHash": "E272F3201C071A55CC58651AFB277B4717AE9D56",
-			"Assets": [
-				"/Game/Assets/InfimaGames/LowPolyShooterPack/Materials/M_Scope_Fade"
 			]
 		},
 		{
@@ -187,12 +169,6 @@
 				"/Engine/EngineMaterials/FlattenMaterial",
 				"/Engine/EngineMaterials/FlattenMaterial_VT",
 				"/Engine/EngineMaterials/FlattenMaterial_WS_Normal_VT"
-			]
-		},
-		{
-			"ShaderMapHash": "45E4633380D6B9018BD5355672A3EA9E729BD181",
-			"Assets": [
-				"/Game/Assets/InfimaGames/AnimatedLowPolyWeapons/Materials/M_Weapon"
 			]
 		},
 		{
@@ -345,12 +321,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "E956E7630C602320FB0ED5765EC3B7C14F0DDC81",
-			"Assets": [
-				"/Game/Assets/InfimaGames/LowPolyShooterPack/Materials/M_Scope_Fade"
-			]
-		},
-		{
 			"ShaderMapHash": "4C51196678A4F5B444AB2BDBAC137DC52093989C",
 			"Assets": [
 				"/Engine/EngineMaterials/Widget3DPassThrough",
@@ -463,12 +433,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "34AF667A6AE3E5810D92151C7C07E40491C10614",
-			"Assets": [
-				"/Game/Assets/InfimaGames/LowPolyShooterPack/Materials/M_Scope_Render"
-			]
-		},
-		{
 			"ShaderMapHash": "9D6BA97AEEEAB7BAA8A715F120319547D7BAA7C3",
 			"Assets": [
 				"/Engine/EngineMaterials/DefaultDeferredDecalMaterial"
@@ -542,12 +506,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "F5DA658AC20742DA1D57BAB03252BCF6E06CF1E8",
-			"Assets": [
-				"/Game/Assets/InfimaGames/LowPolyShooterPack/Materials/M_Scope_Base_Translucent"
-			]
-		},
-		{
 			"ShaderMapHash": "089DED8A86916C2E5959F3B156887712E991ADAF",
 			"Assets": [
 				"/Engine/EngineMaterials/Widget3DPassThrough",
@@ -583,12 +541,6 @@
 			"ShaderMapHash": "EA3C5091AA2AE78CE3AA1BA27E624D6F32655DC6",
 			"Assets": [
 				"/Engine/VREditor/TransformGizmo/Main"
-			]
-		},
-		{
-			"ShaderMapHash": "8A896291123267FB72D36EE8AFF80A0C7E7798E9",
-			"Assets": [
-				"/Game/Assets/InfimaGames/AnimatedLowPolyWeapons/Materials/M_Weapon"
 			]
 		},
 		{
