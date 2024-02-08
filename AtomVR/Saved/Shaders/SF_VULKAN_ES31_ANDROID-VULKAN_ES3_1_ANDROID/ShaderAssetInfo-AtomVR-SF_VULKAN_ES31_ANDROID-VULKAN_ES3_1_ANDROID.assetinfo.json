@@ -133,6 +133,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "AA85F724F7CD62C4091B8222A254182A7C075880",
+			"Assets": [
+				"/Game/Assets/AssetsvilleTown/Materials/MasterMaterials/M_BaseColor"
+			]
+		},
+		{
 			"ShaderMapHash": "72255526DC53A0B186FC4A864DB5FF63240F6542",
 			"Assets": [
 				"/Game/Assets/Polygon_BattleRoyale/Materials/Mat_PolygonBattleRoyale_Fence_01"
@@ -671,12 +677,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "2D11EAA991E816569761BE7DCD2DB72C25194155",
-			"Assets": [
-				"/Engine/MapTemplates/Sky/M_Procedural_Sky_Night"
-			]
-		},
-		{
 			"ShaderMapHash": "416624ABAC1608FFAC66A0D3683F1FA1FEAEA7EB",
 			"Assets": [
 				"/Engine/EngineMaterials/GizmoMaterial"
@@ -704,12 +704,6 @@
 			"ShaderMapHash": "5720E4B04C4FF5F72A3D0990C601C9D3F455AC14",
 			"Assets": [
 				"/OpenXR/Devices/ValveIndex/Right/MI_right_ValveIndex"
-			]
-		},
-		{
-			"ShaderMapHash": "5F0AEAB170CD6DDA27392DCE52446B100D3FDC30",
-			"Assets": [
-				"/Engine/MapTemplates/Sky/M_Procedural_Sky_Night"
 			]
 		},
 		{
@@ -1029,6 +1023,12 @@
 			"ShaderMapHash": "8FE345FE0C7FC4C9B0778571FA891925FF2CD3C7",
 			"Assets": [
 				"/Engine/EngineMaterials/EmissiveMeshMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "1BE9CDFEED58B523EB39BA319CCC2E99E1399798",
+			"Assets": [
+				"/Game/Assets/AssetsvilleTown/Materials/MasterMaterials/M_BaseColor"
 			]
 		}
 	]
