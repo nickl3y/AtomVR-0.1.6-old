@@ -4,10 +4,6 @@
 		{
 			"ShaderMapHash": "F0E9C600C944425E9B2EEAE914C7CC7D3732D9AA",
 			"Assets": [
-				"/Game/Assets/Polygon_BattleRoyale/Materials/Mat_PolygonBattleRoyale_CarDestroyed_01",
-				"/Game/Assets/Polygon_BattleRoyale/Materials/Mat_PolygonBattleRoyale_PlaneDestroyed_01",
-				"/Game/Assets/PolygonMilitary/Materials/Misc/Mat_PolygonMilitary_Veh_TankTracks_Burnt_01",
-				"/Game/Assets/PolygonMilitary/Materials/Vehicles/Mat_PolygonMilitary_VehBurnt_01",
 				"/Game/Assets/PolygonScifi/Materials/Misc/Mat_PolygonScifi_Signs"
 			]
 		},
@@ -39,12 +35,6 @@
 			"ShaderMapHash": "3C539A0872BE983F6330C0BE9045A9E3436B16B0",
 			"Assets": [
 				"/MeshModelingToolset/Materials/M_DynamicMeshComponentVtxColor"
-			]
-		},
-		{
-			"ShaderMapHash": "D481D210DB20F3F3451794502BE7E9342CCF8A92",
-			"Assets": [
-				"/Game/Assets/PolygonMilitary/Materials/Misc/Mat_PolygonMilitary_Fence_01"
 			]
 		},
 		{
@@ -120,13 +110,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "23360322466C8008B919F25AC340310B06BAE8A6",
-			"Assets": [
-				"/Game/Assets/Polygon_BattleRoyale/ParticleFX/Mat_FX",
-				"/Game/Assets/PolygonMilitary/FX/Misc/Mat_FX_Default"
-			]
-		},
-		{
 			"ShaderMapHash": "6A48C8222A55B89AFE4814571DDB89EDA14544D6",
 			"Assets": [
 				"/Engine/EngineMaterials/RemoveSurfaceMaterial"
@@ -136,12 +119,6 @@
 			"ShaderMapHash": "AA85F724F7CD62C4091B8222A254182A7C075880",
 			"Assets": [
 				"/Game/Assets/AssetsvilleTown/Materials/MasterMaterials/M_BaseColor"
-			]
-		},
-		{
-			"ShaderMapHash": "72255526DC53A0B186FC4A864DB5FF63240F6542",
-			"Assets": [
-				"/Game/Assets/Polygon_BattleRoyale/Materials/Mat_PolygonBattleRoyale_Fence_01"
 			]
 		},
 		{
@@ -201,12 +178,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "5A00953A9B57AA28CE0D60C718370E85060FD872",
-			"Assets": [
-				"/Game/Assets/PolygonMilitary/Materials/Misc/Mat_PolygonMilitary_Netting_01"
-			]
-		},
-		{
 			"ShaderMapHash": "C07EB13CBD28F5A985DCA772BACB69A2A98D8771",
 			"Assets": [
 				"/Engine/EngineMaterials/WorldGridMaterial"
@@ -250,18 +221,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "0F749048FA2841AC413587867BE84F13C1E876DF",
-			"Assets": [
-				"/Engine/OpenWorldTemplate/LandscapeMaterial/M_ProcGrid"
-			]
-		},
-		{
-			"ShaderMapHash": "32F2BA4AB786B79934B39D182BAD6BBF2E70BFD7",
-			"Assets": [
-				"/Game/Assets/Polygon_BattleRoyale/Materials/Mat_PolygonBattleRoyale_Fence_01"
-			]
-		},
-		{
 			"ShaderMapHash": "4B439E4C0A3F180BFE3E0127EF1A61B6B7A315F1",
 			"Assets": [
 				"/Engine/EngineMaterials/PhAT_JointLimitMaterial"
@@ -273,7 +232,6 @@
 				"/Game/Assets/PolygonMilitary/Materials/Weapons/Mat_PolygonMilitary_Weapons_10",
 				"/Game/Assets/PolygonMilitary/Materials/Weapons/Mat_PolygonMilitary_Weapons_03",
 				"/Game/Assets/PolygonMilitary/Materials/Weapons/Mat_PolygonMilitary_Weapons_04",
-				"/Game/Assets/PolygonMilitary/Materials/Weapons/Mat_PolygonMilitary_Weapons_07",
 				"/Game/Assets/PolygonMilitary/Materials/Weapons/Mat_PolygonMilitary_Weapons_08"
 			]
 		},
@@ -332,12 +290,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "26DE265E0D93A273994D5E7CC4741760DE65111B",
-			"Assets": [
-				"/Game/Assets/Polygon_BattleRoyale/Materials/Mat_PolygonBattleRoyale_Veh_Glass_01"
-			]
-		},
-		{
 			"ShaderMapHash": "7B6F5E608FD2E113CEEA0EE6C7EEBAD0D1360176",
 			"Assets": [
 				"/ControlRig/Controls/ControlRigXRayMaterial"
@@ -369,13 +321,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "F9EE8C66712D31D52511F6E56773EBAF78F48B18",
-			"Assets": [
-				"/Engine/MapTemplates/Sky/M_Procedural_Sky_MASTER02",
-				"/Engine/MapTemplates/Sky/M_Procedural_Sky_MASTER022"
-			]
-		},
-		{
 			"ShaderMapHash": "1F4205681061C9DBEC8E950878012B3FD3DF7D4C",
 			"Assets": [
 				"/Engine/EngineMaterials/Widget3DPassThrough_Translucent"
@@ -388,24 +333,9 @@
 			]
 		},
 		{
-			"ShaderMapHash": "61E99968D14845C03EE6C9AE0F074F4F4EBD99B1",
-			"Assets": [
-				"/Game/Assets/AssetsvilleTown/Materials/MasterMaterials/M_BaseColorPalette"
-			]
-		},
-		{
-			"ShaderMapHash": "2DD12569739C5FE9A6FE5166D0FB12F17D4F5E73",
-			"Assets": [
-				"/Game/Assets/Polygon_BattleRoyale/Materials/Mat_PolygonBattleRoyale_Veh_Glass_01"
-			]
-		},
-		{
 			"ShaderMapHash": "91510F6A8ED955196EC5B650460F8F81BECCE597",
 			"Assets": [
-				"/Game/Assets/Polygon_BattleRoyale/Materials/Mat_PolygonBattleRoyale_Vehicle_01",
-				"/Game/Assets/Polygon_BattleRoyale/Materials/Mat_PolygonBattleRoyale_Weapons_01",
-				"/Game/Assets/PolygonMilitary/Materials/Misc/Mat_PolygonMilitary_Veh_TankTracks_01",
-				"/Game/Assets/PolygonMilitary/Materials/Vehicles/Mat_PolygonMilitary_Helicopters_01"
+				"/Game/Assets/Polygon_BattleRoyale/Materials/Mat_PolygonBattleRoyale_Weapons_01"
 			]
 		},
 		{
@@ -430,12 +360,6 @@
 			"ShaderMapHash": "3319BC6F7DA36A98054B87FD8DB92B47CB36BEDD",
 			"Assets": [
 				"/Engine/VREditor/TransformGizmo/Xray"
-			]
-		},
-		{
-			"ShaderMapHash": "8B0EBE6FD128C7C4A4798499CC39CE5B6F9A0328",
-			"Assets": [
-				"/Game/Assets/PolygonMilitary/Materials/Misc/Mat_PolygonMilitary_Netting_01"
 			]
 		},
 		{
@@ -531,20 +455,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "23FBA5865585514462633BB8CCC12A187850739A",
-			"Assets": [
-				"/Engine/MapTemplates/Sky/M_Procedural_Sky_MASTER02",
-				"/Engine/MapTemplates/Sky/M_Procedural_Sky_MASTER022"
-			]
-		},
-		{
-			"ShaderMapHash": "F256DC8627105E85521481E24DB95785A0D3F67B",
-			"Assets": [
-				"/Game/Assets/Polygon_BattleRoyale/Materials/Mat_PolygonBattleRoyale_CarDestroyed_01",
-				"/Game/Assets/Polygon_BattleRoyale/Materials/Mat_PolygonBattleRoyale_PlaneDestroyed_01"
-			]
-		},
-		{
 			"ShaderMapHash": "A5DB48870276D509F95F3CD9271B8E1FF6B14D8C",
 			"Assets": [
 				"/Niagara/DefaultAssets/DefaultSpriteMaterial"
@@ -589,12 +499,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "E2996D8F80B7DF92CFD44AC3190A021A305700C8",
-			"Assets": [
-				"/Game/Assets/Polygon_BattleRoyale/Materials/Mat_PolygonBattleRoyale_01_A"
-			]
-		},
-		{
 			"ShaderMapHash": "EA3C5091AA2AE78CE3AA1BA27E624D6F32655DC6",
 			"Assets": [
 				"/Engine/VREditor/TransformGizmo/Main"
@@ -625,22 +529,9 @@
 			]
 		},
 		{
-			"ShaderMapHash": "64B7AE9833BE1F71B31300CBCA0030FF4CC760A7",
-			"Assets": [
-				"/Game/Assets/Polygon_BattleRoyale/ParticleFX/Mat_FX_2",
-				"/Game/Assets/PolygonMilitary/FX/Misc/Mat_FX_Dark"
-			]
-		},
-		{
 			"ShaderMapHash": "E82A159962D3F132AD98666A5F08339EC3F0B6C4",
 			"Assets": [
 				"/Game/Assets/PolygonMilitary/Materials/Misc/Mat_PolygonMilitary_Glass_01"
-			]
-		},
-		{
-			"ShaderMapHash": "EA26A29EB3AB927320C638A5B9A8D516585ED330",
-			"Assets": [
-				"/Engine/EngineMaterials/EmissiveTexturedMaterial"
 			]
 		},
 		{
@@ -663,16 +554,8 @@
 			]
 		},
 		{
-			"ShaderMapHash": "8E0F36A787B3FD7B79CFAD28876093845BC777E9",
-			"Assets": [
-				"/Game/Assets/PolygonMilitary/Materials/Misc/Mat_PolygonMilitary_Fence_01"
-			]
-		},
-		{
 			"ShaderMapHash": "20118FA895DBEA2ED502A1911F2D7F31382F0849",
 			"Assets": [
-				"/Game/Assets/PolygonMilitary/Materials/Misc/Mat_PolygonMilitary_Veh_TankTracks_Burnt_01",
-				"/Game/Assets/PolygonMilitary/Materials/Vehicles/Mat_PolygonMilitary_VehBurnt_01",
 				"/Game/Assets/PolygonScifi/Materials/Misc/Mat_PolygonScifi_Signs"
 			]
 		},
@@ -741,12 +624,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "74789EB9F93A05C4F42ABED4D1C30048CFBB3CAB",
-			"Assets": [
-				"/Engine/OpenWorldTemplate/LandscapeMaterial/M_ProcGrid"
-			]
-		},
-		{
 			"ShaderMapHash": "D35F7BBAE4E37E375482BDE35DBEFC1D3B06569E",
 			"Assets": [
 				"/Niagara/DefaultAssets/DefaultSpriteMaterial"
@@ -771,14 +648,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "D59F76BE1209F67C1A4450E03B17F73754988133",
-			"Assets": [
-				"/Game/Assets/Polygon_BattleRoyale/Materials/Mat_PolygonBattleRoyale_TankTracks_L",
-				"/Game/Assets/PolygonMilitary/Materials/Mat_PolygonMilitary_01_C",
-				"/Game/Assets/PolygonMilitary/Materials/Vehicles/Mat_PolygonMilitary_Vehicles_01"
-			]
-		},
-		{
 			"ShaderMapHash": "A89463C02FBCCAB2DDCEA7463109450211C92155",
 			"Assets": [
 				"/Engine/EngineDebugMaterials/DebugMeshMaterial",
@@ -787,21 +656,9 @@
 			]
 		},
 		{
-			"ShaderMapHash": "4287DDC0DBDBC3A8C1D67DB6739888F053A3B9B6",
-			"Assets": [
-				"/Game/Assets/Polygon_BattleRoyale/Materials/Mat_PolygonBattleRoyale_01_A"
-			]
-		},
-		{
 			"ShaderMapHash": "A9C0E6C220BDEE1E4F3C3DF848D4F4A5E0BA4BC8",
 			"Assets": [
 				"/SpeedTreeImporter/SpeedTree9/SpeedTreeMaster"
-			]
-		},
-		{
-			"ShaderMapHash": "C598CEC47719030CFD7A56FCB13DE323C5E8102B",
-			"Assets": [
-				"/Game/Assets/PolygonMilitary/Materials/Misc/Mat_PolygonMilitary_Posters_01_A"
 			]
 		},
 		{
@@ -825,10 +682,7 @@
 		{
 			"ShaderMapHash": "8A2B95CB31F404BD55B101D6990ACC942294332A",
 			"Assets": [
-				"/Game/Assets/Polygon_BattleRoyale/Materials/Mat_PolygonBattleRoyale_Vehicle_01",
-				"/Game/Assets/Polygon_BattleRoyale/Materials/Mat_PolygonBattleRoyale_Weapons_01",
-				"/Game/Assets/PolygonMilitary/Materials/Misc/Mat_PolygonMilitary_Veh_TankTracks_01",
-				"/Game/Assets/PolygonMilitary/Materials/Vehicles/Mat_PolygonMilitary_Helicopters_01"
+				"/Game/Assets/Polygon_BattleRoyale/Materials/Mat_PolygonBattleRoyale_Weapons_01"
 			]
 		},
 		{
@@ -885,7 +739,6 @@
 				"/Game/Assets/PolygonMilitary/Materials/Weapons/Mat_PolygonMilitary_Weapons_10",
 				"/Game/Assets/PolygonMilitary/Materials/Weapons/Mat_PolygonMilitary_Weapons_03",
 				"/Game/Assets/PolygonMilitary/Materials/Weapons/Mat_PolygonMilitary_Weapons_04",
-				"/Game/Assets/PolygonMilitary/Materials/Weapons/Mat_PolygonMilitary_Weapons_07",
 				"/Game/Assets/PolygonMilitary/Materials/Weapons/Mat_PolygonMilitary_Weapons_08"
 			]
 		},
@@ -917,12 +770,6 @@
 			"ShaderMapHash": "128556DEC4684AFD2CA142F5A53F2781CDD2916F",
 			"Assets": [
 				"/Engine/EngineDebugMaterials/DebugEditorMaterial"
-			]
-		},
-		{
-			"ShaderMapHash": "0FE96FE04080D46CD96E92AD4A6A22758201760D",
-			"Assets": [
-				"/Game/Assets/AssetsvilleTown/Materials/MasterMaterials/M_BaseColorPalette"
 			]
 		},
 		{
@@ -964,18 +811,8 @@
 			]
 		},
 		{
-			"ShaderMapHash": "118C22EE2553552B91204F695219D72191F9F6FC",
-			"Assets": [
-				"/Engine/OpenWorldTemplate/LandscapeMaterial/MI_ProcGrid"
-			]
-		},
-		{
 			"ShaderMapHash": "B5A37BEE9D58F997B3AE063CF647499B3172AE6C",
 			"Assets": [
-				"/Game/Assets/Polygon_BattleRoyale/Materials/Mat_PolygonBattleRoyale_TankTracks_L",
-				"/Game/Assets/PolygonMilitary/Materials/Mat_PolygonMilitary_01_C",
-				"/Game/Assets/PolygonMilitary/Materials/Misc/Mat_PolygonMilitary_Posters_01_A",
-				"/Game/Assets/PolygonMilitary/Materials/Vehicles/Mat_PolygonMilitary_Vehicles_01",
 				"/Game/Assets/PolygonMilitary/Materials/Weapons/Mat_PolygonMilitary_Weapons_01"
 			]
 		},
@@ -1005,12 +842,6 @@
 			"ShaderMapHash": "FB3095FA796E0A396B15BCEFF52BDFD18EA6E8F5",
 			"Assets": [
 				"/Engine/EngineMaterials/Widget3DPassThrough_Opaque"
-			]
-		},
-		{
-			"ShaderMapHash": "A9FB5CFB5D87600A87E81AE94B89843931F200ED",
-			"Assets": [
-				"/Engine/OpenWorldTemplate/LandscapeMaterial/MI_ProcGrid"
 			]
 		},
 		{
